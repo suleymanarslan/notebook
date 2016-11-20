@@ -6,7 +6,7 @@ Index of contens:
 * [My Backpack](#my-backpack)
 * [Hitchhiking](#hitchhiking)
 
-## How to save money?
+## How to travel with little money?
 
 ### General Rules
 * Own your time 100%
