@@ -10,7 +10,7 @@ Index of contens:
 
 ### General Rules
 * Own your time 100%
-* Get rid of all the bullshit fears
+* No fears
 * Be friendly and smile
 
 ### Specifics
@@ -22,6 +22,15 @@ Index of contens:
 * Find local, cheap spreads (like nutella), eat with bread
 * Eat onion, tomatoes, eggs and bread.
 * Don't have a simcard, use WIFI and WhatsApp.
+
+## Hitchhiking
+
+* Makes you meet a lot of good people, and good people introduces you more good people
+* Pushes you to smile and be more friendly and speak the local language
+* Let's you get out of the touristic zone and experience the local culture
+* Makes transportation exciting and joyful
+* Makes you stronger
+* Let's you travel for free!
 
 ## My Backpack
 
@@ -72,15 +81,6 @@ Index of contens:
 * Playing cards
 * Harmonica
 * Tylolhot (cold medicine)
-
-## Hitchhiking
-
-* Makes you meet a lot of good people, and good people introduces you more good people
-* Pushes you to smile and be more friendly and speak the local language
-* Let's you get out of the touristic zone and experience the local culture
-* Makes transportation exciting and joyful
-* Makes you stronger
-* Let's you travel for free!
 
 
 ## My Wishlist
