@@ -23,24 +23,6 @@ Index of contens:
 * Eat onion, tomatoes, eggs and bread.
 * Don't have a simcard, use WIFI and WhatsApp.
 
-## My Wishlist
-
-* Afghanistan
-* Cambodia
-* Ethiophia
-* Jordan
-* India
-* Iran
-* Madagascar
-* Mongolia
-* Nambia
-* Nepal
-* Palestine
-* Sri Lanka
-* Pakistan
-* Lebanon
-* Yemen
-
 ## My Backpack
 
 ### Clothing
@@ -99,3 +81,22 @@ Index of contens:
 * Makes transportation exciting and joyful
 * Makes you stronger
 * Let's you travel for free!
+
+
+## My Wishlist
+
+* Afghanistan
+* Cambodia
+* Ethiophia
+* Jordan
+* India
+* Iran
+* Madagascar
+* Mongolia
+* Nambia
+* Nepal
+* Palestine
+* Sri Lanka
+* Pakistan
+* Lebanon
+* Yemen
