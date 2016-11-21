@@ -3,6 +3,9 @@
 Index of Contents:
 
 * [English](#english)
+  * [ambulance](#ambulance)
+  * [your shoes](#your-shoes)
+  
 * [Turkish](#turkish)
   * [arılar uçar üzerinde](#arılar-uçar-üzerinde)
   * [yerçekimi](#yerçekimi)
