@@ -7,6 +7,25 @@
 * If you can do something in less than a minute, do it now without delaying
 * Smile and make it fun
 
+## Why do we see dreams?
+
+Noted from a [TED Video](https://www.youtube.com/watch?v=2W85Dwxx218)
+
+* Our brains clean up (forget) unncessary details when we see dreams, so next day we can think clearly.
+* Napping improves memory.
+* We practice some protective skills like running away from enemy in dreams because our protective insticts needs to stay sharp in case we need them
+* We dream to heal. As stress is not active when we sleep, we have better perspective on our traumatic experiences during dreaming.
+* As dreams are not limited with reality, we can solve problems better in our dreams.
+
+## Confidence Tips
+
+Noted from a [TED video](https://www.youtube.com/watch?v=l_NYrWqUR40)
+
+* Picture your success when you begin a difficult task
+* Believe in your ability to improve. Have growth mindset.
+* Practice failure. Those who fail are better equipped to face challenges.
+* Be kind to yourself when you make mistakes.
+
 ## Do when you feel stressed
 
 * Do push-ups

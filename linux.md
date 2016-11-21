@@ -105,3 +105,25 @@ while read col1 col2 ; do
   echo "$col1 $col2"
 done < input.txt
 ```
+
+## makefiles
+
+#### multiline strings
+
+It's possible as long as the variable is exported
+
+```make
+export COMPONENT_HTML
+create-component:
+  define COMPONENT_HTML
+import html from "choo/html"
+
+const view = (state, prev, send) => html`
+$(name)
+`
+
+export default view
+```
+  endef
+
+  @echo "$$COMPONENT_HTML" > ui/components/${name}.js
