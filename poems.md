@@ -95,7 +95,7 @@ alaaddin lambalı bali poşetleri
 
 ```
 gece vakti bankamatiğe giderken yolda
-kar biriken bacalara sarıldım
+kar biriken bacaları kundakladım
 gökyüzüne dokunan duman
 nepal'de uçuşan yumurta poşeti oldum
 ```
