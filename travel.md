@@ -27,6 +27,7 @@ Index of Contents:
 ### Avoiding getting over-charged
 Local businesses in touristic areas usually charge tourists and locals differently. Here are some tips for getting local price;
 * Learn numbers and how to ask price in local language
+* Go out with locals (Hitchhiking and CouchSurfing will help you socialize) to get idea of pricing
 * Eat from where local people eat, observe how much they pay
 * Try not to ask prices of simple stuff like bread, eggs. Learn the price and pay it like you already know the price.
 * If you have to ask the price, then ask it when a local person is paying for the same thing.
