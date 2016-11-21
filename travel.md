@@ -1,7 +1,7 @@
 # travel
 
 Index of Contents:
-* [How to save money?](#how-to-save-money)
+* [How to travel with little money?](#how-to-travel-with-little-money)
 * [My Wishlist](#my-wishlist)
 * [Hitchhiking](#hitchhiking)
 * [My Backpack](#my-backpack)
@@ -58,7 +58,8 @@ Advantages:
 * 1 sweater
 * 1 light-weight rain cover
 * 2 Jackets
-* 3 hats
+* 1 Hat
+* 1 Keffiyeh
 
 ### Hygiene
 * Empty spray bottles for keeping liquids
@@ -98,7 +99,6 @@ Advantages:
 * Playing cards
 * Harmonica
 * Tylolhot (cold medicine)
-
 
 ## My Wishlist
 
