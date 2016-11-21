@@ -19,6 +19,9 @@ usernameDialog () {
 }
 ```
 
+#### nl
+Adds line numbers to beginning of each line
+
 #### powertop
 Lists processes by their energy consume.
 
@@ -93,4 +96,12 @@ sed -i -e '/^#en_US/s/^#//' /etc/locale.
 ```bash
 lsblk | awk '{print $1,$4}'
 # sda 8GB
+```
+
+## iterating input by line and columns
+
+```bash
+while read col1 col2 ; do
+  echo "$col1 $col2"
+done < input.txt
 ```
