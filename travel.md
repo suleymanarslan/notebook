@@ -99,6 +99,7 @@ Advantages:
 * Playing cards
 * Harmonica
 * Tylolhot (cold medicine)
+* One extra, small backpack for carrying valuables
 
 ## My Wishlist
 
