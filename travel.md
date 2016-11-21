@@ -29,8 +29,7 @@ Index of contens:
 * Pushes you to smile and be more friendly and speak the local language
 * Let's you get out of the touristic zone and experience the local culture
 * Makes transportation exciting and joyful
-* Makes you stronger
-* Let's you travel for free!
+* And it's free!
 
 ## My Backpack
 
