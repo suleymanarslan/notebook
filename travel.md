@@ -35,8 +35,8 @@ Local businesses in touristic areas usually charge tourists and locals different
 
 ## Hitchhiking
 
-Community: [TrustRoots](http://trustroots.org)
-Wiki: [HitchWiki](http://hitchwiki.org)
+* Community: [TrustRoots](http://trustroots.org)
+* Wiki: [HitchWiki](http://hitchwiki.org)
 
 Advantages: 
 * Makes you meet a lot of good people, and good people introduces you more good people
