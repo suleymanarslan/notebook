@@ -1,17 +1,18 @@
 # travel
 
-Index of contens:
+Index of Contents:
 * [How to save money?](#how-to-save-money)
 * [My Wishlist](#my-wishlist)
-* [My Backpack](#my-backpack)
 * [Hitchhiking](#hitchhiking)
+* [My Backpack](#my-backpack)
 
 ## How to travel with little money?
 
 ### General Rules
 * Own your time 100%
-* No fears
 * Be friendly and smile
+* Don't be afraid of people
+* Don't be picky: eat whatever, sleep wherever
 
 ### Specifics
 * [Hitchike](#hitchhiking)
@@ -20,8 +21,9 @@ Index of contens:
 * Learn the local language and prices
 * Have a thermos, get free hot water and make your own coffee & tea
 * Find local, cheap spreads (like nutella), eat with bread
-* Eat onion, tomatoes, eggs and bread.
-* Don't have a simcard, use WIFI and WhatsApp.
+* Eat instant noodles, canned food, veggies last long like onion and carrots.
+* Don't have a simcard, use free WIFI and WhatsApp for communication.
+
 
 ## Hitchhiking
 
@@ -50,6 +52,7 @@ Index of contens:
 * Hand soap
 * Turkish cologne
 * Deodorant
+* Toilet paper
 
 ### Tools
 * Sunglasses
@@ -68,6 +71,8 @@ Index of contens:
 * Tent
 * Sleeping bag
 * Sleeping pad
+* [Mini stove](https://snowpeak.com/collections/stoves/products/gp-stove-auto-igniter-gp-004)
+* A bowl and spoon
 
 ### Food
 * Thermos
