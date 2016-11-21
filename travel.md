@@ -23,6 +23,7 @@ Index of Contents:
 * Find local, cheap spreads (like nutella), eat with bread
 * Eat instant noodles, canned food, veggies last long like onion and carrots.
 * Don't have a simcard, use free WIFI and WhatsApp for communication.
+* Learn about [Dumpster Diving](http://trashwiki.org/en/Main_Page)
 
 ### Avoiding getting over-charged
 Local businesses in touristic areas usually charge tourists and locals differently. Here are some tips for getting local price;
@@ -34,6 +35,10 @@ Local businesses in touristic areas usually charge tourists and locals different
 
 ## Hitchhiking
 
+Community: [TrustRoots](http://trustroots.org)
+Wiki: [HitchWiki](http://hitchwiki.org)
+
+Advantages: 
 * Makes you meet a lot of good people, and good people introduces you more good people
 * Pushes you to smile and be more friendly and speak the local language
 * Let's you get out of the touristic zone and experience the local culture
