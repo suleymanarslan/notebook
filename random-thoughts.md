@@ -23,3 +23,8 @@ I'm raised as Muslim and spent a lot of time thinking about it during my life. M
 Because it's more complex than we think. Take sunnah for example, one of the core concepts of islam. It says, we are required to follow Muhammad. When you tell this to people, they take it as "repeating". Whatever he did, we need to repeat. He did extra pray on evenings, ok we should also do that, he liked cats, ok we also like cats (true example, notice how street cats are treated in Islamic countries). 
 
 But there is one thing Muhammad did; he refused the heritage of his time's society and made a revolution. He didn't repeat anything. So should we also follow him on refusing the heritage completely ? If we little bit do, we could open room for a lot of changes on Islam.
+
+## cats vs dogs
+Relationship with a dog is very simple and annoying because the dog never see you as friend. It'll love you the whole time no matter if you're treating it good or bad. Unfortunately, dogs see humans superior than them, and they even let humans control their whole life.
+
+In contrast, cats won't love you unconditionally. It'll be a complicated relationship depending on both sides attitude and mood. They won't let you control their life because they don't see humans superior than them. 
