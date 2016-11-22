@@ -2,6 +2,13 @@
 
 thoughts come and go. here I keep some of them.
 
+## islam's sunnah paradox
+I'm raised as Muslim and spent a lot of time thinking about it during my life. My relationship with Islam has been an adventure, sometimes hated and abandoned it, sometimes loved it. Traveling in Asia and Africa, learning about other cultures which influenced Islamic culture, now I realized that I shouldn't rush to come to conclusions about it. Thinking is joyful when you don't rush for conclusions.
+
+Because it's more complex than we think. Take sunnah for example, one of the core concepts of islam. It says, we are required to follow Muhammad. When you tell this to people, they take it as "repeating". Whatever he did, we need to repeat. He did extra pray on evenings, ok we should also do that, he liked cats, ok we also like cats (true example, notice how street cats are treated in Islamic countries). 
+
+But there is one thing Muhammad did; he refused the heritage of his time's society and made a revolution. He didn't repeat anything. So should we also follow him on refusing the heritage completely ? If we little bit do, we could open room for a lot of changes on Islam.
+
 ## apples, birds and beauty
 Groceries nowadays have perfect looking apples because the farmers started using medicine to keep the birds away from biting their apples. No matter how much they bite, we don't want them to touch "our" apples. Why ? The nature has such a meaningful balance; birds take small bites, humans come and grab the rest. It's the same taste, except apples with bird bites look different. They don't fit the beauty standard set by popular movies. People want their ikea table to have plasic looking untouched apples. To me though, an apple with some bird bites on it look a lot more beautiful honestly. When we take it from the tree, we see the art of the nature on it. All those random patterns... That's the beauty of the nature.
 
