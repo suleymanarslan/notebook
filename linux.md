@@ -5,7 +5,7 @@
 #### chroot
 Opens a new TTY on given root directory.
 
-#### dialog
+#### [dialog](#dialogs)
 You can create UI dialogs with it on command-line easily. For example;
 
 ```bash
@@ -26,8 +26,28 @@ Adds line numbers to beginning of each line
 Lists processes by their energy consume.
 
 #### yes
+Approve all confirmations
 
-Essential for scripting commands that asks user verification.
+```
+yes | pacman -S yolo
+```
+
+#### command_exists
+
+Definition:
+```bash
+command_exists () {
+    type "$1" &> /dev/null ;
+}
+```
+
+Usage:
+
+```
+if command_exists foo ; then
+    echo "yo"
+fi
+```
 
 ```bash
 yes | pacman -S yolo
@@ -127,3 +147,58 @@ export default view
   endef
 
   @echo "$$COMPONENT_HTML" > ui/components/${name}.js
+
+## timezones
+
+#### list all regions:
+
+```bash
+find /usr/share/zoneinfo/. -maxdepth 1 -type d | cut -d "/" -f6 | sed '/^$/d'
+```
+
+## dialogs
+
+#### opening a menu with bunch of lines
+
+```bash
+regionsArray=()
+
+while read i name; do
+  regionsArray+=($i "$name")
+done <<< "$regions"
+
+selected=$(dialog --stdout \
+                  --title "Timezones" \
+                  --backtitle "Happy Hacking Linux" \
+                  --ok-label "Next" \
+                  --no-cancel \
+                  --menu "Select a continent or ocean from the menu:" \
+                  20 50 30 \
+                  "${regionsArray[@]}")
+```
+
+## Conditions
+
+#### Check if a variable is empty:
+
+```bash
+if [[ -z "${foobar// }" ]]; then
+fi
+```
+
+#### Check if a variable is not empty:
+
+```bash
+[[ -n "${foobar// }" ]]
+```
+
+#### Check if a file exists:
+
+```bash
+if [ -f $FILE ];
+then
+   echo "File $FILE exists."
+else
+   echo "File $FILE does not exist."
+fi
+```
