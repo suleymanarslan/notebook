@@ -19,6 +19,13 @@ usernameDialog () {
 }
 ```
 
+#### fc-list
+Lists all available fonts in the system. 
+
+```
+fc-list | grep Monaco
+```
+
 #### nl
 Adds line numbers to beginning of each line
 
