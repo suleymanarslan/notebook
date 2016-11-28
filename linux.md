@@ -209,3 +209,13 @@ else
    echo "File $FILE does not exist."
 fi
 ```
+
+## irssi
+
+* Auto-connect to a network: `/server ADD -auto -network NetworkName irc.host.com 6667`
+* Auto-join to channels: `/channel ADD -auto #channel NetworkName password`
+* Switch to a window: `M-[number]` use letters when for windows beyond 9: `M-[q|w|e|r|t|y]`
+* Close window: `/wc`
+* Save config: `/save`
+* Load a script: `/script load awm`
+* Set theme: `/set theme weed`
