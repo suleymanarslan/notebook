@@ -35,6 +35,24 @@ Lists processes by their energy consume.
 #### yes
 Approve all confirmations
 
+#### du
+Checks size of a folder.
+
+```bash
+du -sh /
+```
+
+#### ncdu
+Disk usage analyzer with CLI UI with ncurses.
+
+#### expac
+Data extraction tool for ALPM (Arch Linux Package Management).
+
+To list packages by their size;
+```bash
+expac "%n %m" -l'\n' -Q $(pacman -Qq) | sort -rhk 2 | less
+```
+
 ```
 yes | pacman -S yolo
 ```
