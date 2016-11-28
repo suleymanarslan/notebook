@@ -210,6 +210,14 @@ else
 fi
 ```
 
+## loops
+
+#### Iterate Files
+
+```bash
+for i in *; do echo $i; done
+```
+
 ## irssi
 
 * Auto-connect to a network: `/server ADD -auto -network NetworkName irc.host.com 6667`
