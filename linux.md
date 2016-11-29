@@ -3,82 +3,99 @@
 ## Useful Commands
 
 #### chroot
-Opens a new TTY on given root directory.
+  Opens a new TTY on given root directory.
 
 #### [dialog](#dialogs)
-You can create UI dialogs with it on command-line easily. For example;
+  You can create UI dialogs with it on command-line easily. For example;
 
-```bash
-usernameDialog () {
-    username=$(dialog --stdout \
-                      --title "Creating Users" \
-                      --backtitle "Happy Hacking Linux" \
-                      --ok-label "Done" \
-                      --nocancel \
-                      --inputbox "Choose your username" 8 50)
-}
-```
+  ```bash
+  usernameDialog () {
+      username=$(dialog --stdout \
+                        --title "Creating Users" \
+                        --backtitle "Happy Hacking Linux" \
+                        --ok-label "Done" \
+                        --nocancel \
+                        --inputbox "Choose your username" 8 50)
+  }
+  ```
 
 #### fc-list
+  Lists fonts available in the system.
 
-Lists fonts available in the system.
-
-```
-fc-list -v
-```
+  ```bash
+  fc-list | grep Monaco
+  ```
 
 #### nl
-Adds line numbers to beginning of each line
+  Adds line numbers to beginning of each line
 
 #### powertop
-Lists processes by their energy consume.
+  Lists processes by their energy consume.
 
 #### yes
-Approve all confirmations
+  Approve all confirmations
 
-```
-yes | pacman -S yolo
-```
+#### du
+  Checks size of a folder.
+
+  ```bash
+  du -sh /
+  ```
+
+#### ncdu
+  Disk usage analyzer with CLI UI with ncurses.
+
+#### expac
+  Data extraction tool for ALPM (Arch Linux Package Management).
+
+  To list packages by their size;
+  ```bash
+  expac "%n %m" -l'\n' -Q $(pacman -Qq) | sort -rhk 2 | less
+  ```
+
+  ```
+  yes | pacman -S yolo
+  ```
 
 #### command_exists
 
-Definition:
-```bash
-command_exists () {
-    type "$1" &> /dev/null ;
-}
-```
+  Definition:
+  ```bash
+  command_exists () {
+      type "$1" &> /dev/null ;
+  }
+  ```
 
-Usage:
+  Usage:
 
-```
-if command_exists foo ; then
-    echo "yo"
-fi
-```
+  ```
+  if command_exists foo ; then
+      echo "yo"
+  fi
+  ```
 
-```bash
-yes | pacman -S yolo
-```
+  ```bash
+  yes | pacman -S yolo
+  ```
 
 ## partitioning
 
-* Command-line tools: parted, fdisk, cfdisk (with UI)
-* List disks and partitions by `fdisk -l` or `lsblk`
-* The simple and popular layout is boot & root;
+  * Command-line tools: parted, fdisk, cfdisk (with UI)
+  * List disks and partitions by `fdisk -l` or `lsblk`
+  * The simple and popular layout is boot & root;
 
-```bash
-parted /dev/sda --script mklabel msdos \
-    mkpart primary ext4 1MiB 512MiB \
-    set 1 boot on \
-    mkpart primary ext4 512MiB 100%
-```
+  ```bash
+  parted /dev/sda --script mklabel msdos \
+      mkpart primary ext4 1MiB 512MiB \
+      set 1 boot on \
+      mkpart primary ext4 512MiB 100%
+  ```
 
-* Don't forget formatting them as ext4: `yes | mkfs.ext4 /dev/sda1`
+  * Don't forget formatting them as ext4: `yes | mkfs.ext4 /dev/sda1`
 
 ## creating users
 
-This bash function I wrote for happy-hacker-linux installer shows the steps of creating a user.
+  This bash function I wrote for happy-hacker-linux installer shows the steps of creating a user.
 
 ```bash
 createUser () {
@@ -140,81 +157,12 @@ while read col1 col2 ; do
 done < input.txt
 ```
 
-## makefiles
-
-#### multiline strings
-
-It's possible as long as the variable is exported
-
-```make
-export COMPONENT_HTML
-create-component:
-  define COMPONENT_HTML
-import html from "choo/html"
-
-const view = (state, prev, send) => html`
-$(name)
-`
-
-export default view
-```
-  endef
-
-  @echo "$$COMPONENT_HTML" > ui/components/${name}.js
-
 ## timezones
 
 #### list all regions:
 
 ```bash
 find /usr/share/zoneinfo/. -maxdepth 1 -type d | cut -d "/" -f6 | sed '/^$/d'
-```
-
-## dialogs
-
-#### opening a menu with bunch of lines
-
-```bash
-regionsArray=()
-
-while read i name; do
-  regionsArray+=($i "$name")
-done <<< "$regions"
-
-selected=$(dialog --stdout \
-                  --title "Timezones" \
-                  --backtitle "Happy Hacking Linux" \
-                  --ok-label "Next" \
-                  --no-cancel \
-                  --menu "Select a continent or ocean from the menu:" \
-                  20 50 30 \
-                  "${regionsArray[@]}")
-```
-
-## Conditions
-
-#### Check if a variable is empty:
-
-```bash
-if [[ -z "${foobar// }" ]]; then
-fi
-```
-
-#### Check if a variable is not empty:
-
-```bash
-[[ -n "${foobar// }" ]]
-```
-
-#### Check if a file exists:
-
-```bash
-if [ -f $FILE ];
-then
-   echo "File $FILE exists."
-else
-   echo "File $FILE does not exist."
-fi
 ```
 
 ## Managing Services
@@ -242,3 +190,12 @@ Restart `systemd` scanning for new or changed units;
 ```bash
 systemctl daemon-reload
 ```
+
+## Irssi
+* Auto-connect to a network: `/server ADD -auto -network NetworkName irc.host.com 6667`
+* Auto-join to channels: `/channel ADD -auto #channel NetworkName password`
+* Switch to a window: `M-[number]` use letters when for windows beyond 9: `M-[q|w|e|r|t|y]`
+* Close window: `/wc`
+* Save config: `/save`
+* Load a script: `/script load awm`
+* Set theme: `/set theme weed`
