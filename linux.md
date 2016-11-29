@@ -151,89 +151,12 @@ while read col1 col2 ; do
 done < input.txt
 ```
 
-## makefiles
-
-#### multiline strings
-
-It's possible as long as the variable is exported
-
-```make
-export COMPONENT_HTML
-create-component:
-  define COMPONENT_HTML
-import html from "choo/html"
-
-const view = (state, prev, send) => html`
-$(name)
-`
-
-export default view
-```
-  endef
-
-  @echo "$$COMPONENT_HTML" > ui/components/${name}.js
-
 ## timezones
 
 #### list all regions:
 
 ```bash
 find /usr/share/zoneinfo/. -maxdepth 1 -type d | cut -d "/" -f6 | sed '/^$/d'
-```
-
-## dialogs
-
-#### opening a menu with bunch of lines
-
-```bash
-regionsArray=()
-
-while read i name; do
-  regionsArray+=($i "$name")
-done <<< "$regions"
-
-selected=$(dialog --stdout \
-                  --title "Timezones" \
-                  --backtitle "Happy Hacking Linux" \
-                  --ok-label "Next" \
-                  --no-cancel \
-                  --menu "Select a continent or ocean from the menu:" \
-                  20 50 30 \
-                  "${regionsArray[@]}")
-```
-
-## Conditions
-
-#### Check if a variable is empty:
-
-```bash
-if [[ -z "${foobar// }" ]]; then
-fi
-```
-
-#### Check if a variable is not empty:
-
-```bash
-[[ -n "${foobar// }" ]]
-```
-
-#### Check if a file exists:
-
-```bash
-if [ -f $FILE ];
-then
-   echo "File $FILE exists."
-else
-   echo "File $FILE does not exist."
-fi
-```
-
-## loops
-
-#### Iterate Files
-
-```bash
-for i in *; do echo $i; done
 ```
 
 ## irssi
