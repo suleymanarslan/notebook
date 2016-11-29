@@ -3,7 +3,35 @@
 I find myself Googling same stuff every time I'm making something. This is for remembering programming tips/snippets that I learn and forget easily.
 
 * [Bash](#bash)
-* [Makefiles)(#makefiles)
+* [Makefiles](#makefiles)
+
+## CSS
+
+#### Masonry Layout
+
+```html
+<article>
+  <section>foo</section>
+  <section>bar</section>
+</article>
+```
+
+```css
+article {
+ -moz-column-width: 13em;
+ -webkit-column-width: 13em;
+ -moz-column-gap: 1em;
+ -webkit-column-gap: 1em; 
+}
+
+section {
+ display: inline-block;
+ margin:  0.25rem;
+ padding:  1rem;
+ width:  100%; 
+ background:  #efefef;
+}
+```
 
 ## Bash
 
