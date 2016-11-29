@@ -19,6 +19,14 @@ usernameDialog () {
 }
 ```
 
+#### fc-list
+
+Lists fonts available in the system.
+
+```
+fc-list -v
+```
+
 #### nl
 Adds line numbers to beginning of each line
 
@@ -107,6 +115,12 @@ createUser () {
 
 ```bash
 sed -i -e '/^#en_US/s/^#//' /etc/locale.
+```
+
+#### slugify a string
+
+```bash
+sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z
 ```
 
 ## awk
@@ -201,4 +215,30 @@ then
 else
    echo "File $FILE does not exist."
 fi
+```
+
+## Managing Services
+
+Use `systemctl` command to control the services. Example;
+
+```bash
+systemctl restart slim.service
+```
+
+List of `systemctl` commands:
+* start
+* stop
+* restart
+* reload
+* status
+* is-enabled
+* enable
+* disable
+* mask
+* unmask
+
+Restart `systemd` scanning for new or changed units;
+
+```bash
+systemctl daemon-reload
 ```
