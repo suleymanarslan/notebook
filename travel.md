@@ -145,7 +145,7 @@ Our route in Morocco has been;
 * **Aït Benhadou** An ancient ksar (a city built defensively against attacks). Must seen.
 * **Marrakech** A beautiful ancient Medina, similar to Fez but bigger and has hipster cafes run by western people. We spent 3 days here and definitely worthed. Local food in Medina is so good. Definitely recommended.
 * **Essaouira** Close to beaches, historical and quite beautiful medina. The chaotic port with all that birds and cats, lovely. We spent 3-4 days here.
-* **Imsouane** We got a ride from a Swedish couple going here so dropped by to see it, it's a calm little beautiful town with a beach perfect for surfing. It made me stay there for all my life but our budget was too tight for staying here, so we started hitchhiking to Agadir same night.
+* **Imsouane** We got a ride from a Swedish couple going here so dropped by to see it, it's a calm little beautiful town with a beach perfect for surfing. It made me wanna stay there for all my life but our budget was too tight for staying here, so we started hitchhiking to Agadir same night.
 * **Agadir** A modern town with nothing interesting. We had a friendly Couchsurfing host with quite similar interests though, ended up staying a week here.
 * **Tiznit** It has a nice beach good for surfing outside the city, and a historical medina, and not much interesting stuff. Locals think it's a quite boring town and this is where we settled down for 1.5 months.
 * **Legzira** Morocco's signature beaches are here. We met a young fisherman who built his home inside a cave, and stayed with him one night. One of the best experiences in Morocco.
