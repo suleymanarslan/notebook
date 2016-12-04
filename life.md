@@ -7,6 +7,20 @@
 * If you can do something in less than a minute, do it now without delaying
 * Smile and make it fun
 
+## Wisdom
+
+[Attributes of wise people;](https://www.youtube.com/watch?v=ox8XlcUppbo)
+
+* **Realism:** Knowing that something is difficult to accomplish doesn't rob the wise' ambitions. It makes them more steadfast, calmer and less prone to panic.
+* **Gratitude:** They can take pleasure from single sunny day, or some flowers growing by a brick wall. Because they've seen how hard things can be to get, they know how to draw the full value from peaceful and sweet whenever and wherever these arise.
+* **Folly:** The wise are unsurprised by the coexistence of deep immaturity and sexual perversity alongside quite adult qualities like intelligence and morality. They know that we are barely evolved apes, aware that at least half of life is irrational. They try wherever possible to budget for madness and a slow to panic when it reliably raised its head.
+* **Humour:** The wise take the business of laughing at themselves seriously.
+* **Politeness:** The wise are realistic about social relations. In particular, changing people's lifes, and have an affect on their lives. Therefore they're extremely reticent about telling people too frankly about what they think. They'll sit with someone of an opposite political persuation and not try to convert them. They'll be aware of how differently things can look through the eyes of others. They'll search for what people have in common than what separates them.
+* **Self-acceptance:** The wise have made their peace with yawning gap between how they ideally want to be, and what they're actually like. They've come to terms with their idiocy floors ugliness limitations and drawbacks. They are not ashamed of themselves, and yet they understand their craziness.
+* **Forgiveness:** The wise are realistic about other people. They recognize the extraordinary pressures everyone is under to pursue their own ambitions, defend their interests, seek their pleasures. The wise know that most hurt is not intentional, it's a by product of the constant collision of blind competing egos in a world of scarce resources. They're slow to anger and judge. The wise feel less persecuted by the agression and meanness of others because they have a sense of where it comes from; a place of hurt.
+* **Resilience:** The wise have a solid sense of what they can survive. They know how much can go wrong, and things will still be just about liveble. Unwise draws the bounderies of their contentment so that it encompasses and depends upon fame money personal relationships popularity health.
+* **Calm:** They nurture such a strong commitment to the idea of being calm. A quiet evening feels like an achievement, a day without anxiety is something to be celebrated. The wise are not afraid of boring time.
+
 ## Why do we see dreams?
 
 Noted from a [TED Video](https://www.youtube.com/watch?v=2W85Dwxx218)
