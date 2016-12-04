@@ -57,6 +57,10 @@
   yes | pacman -S yolo
   ```
 
+#### ip link show
+
+Lists network interfaces in the system.
+
 #### command_exists
 
   Definition:

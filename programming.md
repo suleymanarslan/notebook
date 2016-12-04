@@ -7,6 +7,13 @@ I find myself Googling same stuff every time I'm making something. This is for r
 
 ## CSS
 
+#### not()
+Apply rules to all except last one;
+
+```
+section:not(:last-child) { margin-bottom:1em; }
+```
+
 #### Masonry Layout
 
 ```html
@@ -21,14 +28,14 @@ article {
  -moz-column-width: 13em;
  -webkit-column-width: 13em;
  -moz-column-gap: 1em;
- -webkit-column-gap: 1em; 
+ -webkit-column-gap: 1em;
 }
 
 section {
  display: inline-block;
  margin:  0.25rem;
  padding:  1rem;
- width:  100%; 
+ width:  100%;
  background:  #efefef;
 }
 ```
