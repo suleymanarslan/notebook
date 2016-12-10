@@ -40,6 +40,48 @@ section {
 }
 ```
 
+### Rainbow Text Animation
+
+```css
+.rainbow {
+   /* Chrome, Safari, Opera */
+  -webkit-animation: rainbow 1s infinite; 
+  
+  /* Internet Explorer */
+  -ms-animation: rainbow 1s infinite;
+  
+  /* Standard Syntax */
+  animation: rainbow 1s infinite; 
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes rainbow{
+  20%{ color: rgb(225, 45, 0); }
+  40%{ color: rgb(255, 175, 0); }
+  60%{ color: rgb(0, 200, 100); }
+  80%{ color: rgb(0, 175, 200); }
+  100%{ color: rgb(200, 100, 150); }
+}
+
+/* Internet Explorer */
+@-ms-keyframes rainbow{
+  20%{ color: rgb(225, 45, 0); }
+  40%{ color: rgb(255, 175, 0); }
+  60%{ color: rgb(0, 200, 100); }
+  80%{ color: rgb(0, 175, 200); }
+  100%{ color: rgb(200, 100, 150); }
+}
+
+/* Standard Syntax */
+@keyframes rainbow{
+  20%{ color: rgb(225, 45, 0); }
+  40%{ color: rgb(255, 175, 0); }
+  60%{ color: rgb(0, 200, 100); }
+  80%{ color: rgb(0, 175, 200); }
+  100%{ color: rgb(200, 100, 150); }
+}
+```
+
 ## Bash
 
 ### Conditions
