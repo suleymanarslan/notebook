@@ -7,6 +7,13 @@
 * If you can do something in less than a minute, do it now without delaying
 * Smile and make it fun
 
+## Qualities we need in our every day lifes
+
+* Intelligence
+* Compassion
+* Generous
+* Respectful
+
 ## Wisdom
 
 [Attributes of wise people;](https://www.youtube.com/watch?v=ox8XlcUppbo)
