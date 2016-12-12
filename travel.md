@@ -152,4 +152,7 @@ Our route in Morocco has been;
 * **Tafrouate** a little town famous for leather products like shoes. it's nearby an area similar to joshau tree. it has some painted rocks, some people like them and they look cool in the photos, but I thought they'd look better without painting.
 * **Amtoudi** A nice little town with ancient castle looking thing called "Agadir" on top of a mountain.
 * **Dakhla/Western Sahara** It has white desert touching the ocean. We camped there one night and started hitchhiking back to Tiznit. 
-* **Back to Tiznit** We got back to Tiznit and now we're just hangin out and waiting our flight to Jordan.
+* **Tiznit Again** We got back to Tiznit and now we're just hangin out and waiting our flight to Jordan.
+* **Marrakech again** We got back to Marrakech again to spend our last 5 days here. The live music in Cafe Clock was pretty good but we missed the wednesday jam session. 
+* **Casablanca** We're taking train from Marrakech to the airport in Casablanca. Good bye Morocco!
+
