@@ -2,6 +2,11 @@
 
 thoughts come and go. here I keep some of them.
 
+## medina in marrakech
+
+have you watched morning routine of birds ? they get together every sunrise time and hunt together above beautiful rocks on a sea or ocean coast. I loved watching their life in Point Reyes and Big Sur. Economy is good for the fishes because the sea is rich, even a broken bridge becomes food for them. Earth is magical.
+
+
 ## survival
 The second highest mountain in Africa is called Toubkal, and is in Morocco. We went there last month and hiked to the summit in a bad stormy weather. It was my first time to see such a powerful wind that suddenly hits you and you find your body on the ground. As you get close, your foot gets quite close to the cliff sometimes, and all you can do is just wishing it's a lucky day.
 

@@ -203,3 +203,40 @@ systemctl daemon-reload
 * Save config: `/save`
 * Load a script: `/script load awm`
 * Set theme: `/set theme weed`
+
+## Building Custom Arch ISO
+
+#### Step 1: Create Chroot Base System
+
+```bash
+$ pacman -S devtools git make --needed
+$ mkarchroot /tmp/chroot base
+$ git clone git://projects.archlinux.org/archiso.git
+$ make -C archiso/archiso DESTDIR=/tmp/chroot install
+$ arch-chroot /tmp/chroot
+```
+
+#### Step 2: Customize
+
+```
+mknod /dev/loop0 b 7 0
+echo 'Server = http://ftp.osuosl.org/pub/archlinux/$repo/os/x86_64' >> /etc/pacman.d/mirrorlist
+pacman -S devtools libisoburn squashfs-tools
+```
+
+And install necessary packages.
+
+#### Step 3: Build The ISO
+
+```
+cp -r /usr/share/archiso/configs/baseline /tmp
+cd /tmp/baseline
+./build.sh
+exit
+```
+
+Now, you will be out of your chroot, with the built ISO at the file path of:
+
+```
+/tmp/chroot/tmp/baseline/out/<iso>
+```
