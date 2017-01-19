@@ -140,7 +140,7 @@ Local businesses in touristic areas usually charge tourists and locals different
 * Respect and adopt to other cultures.
 * Share mutually. Sharing is giving without expecting. Don't take advantage of others. Be ethical when you share and watch out for others if they are happy to share. .
 * Patriotic and religious bullshit is not welcomed. Don't argue with locals about their views or choices.
-* Everyone is equal. You are not superior than anyone else.
+* Everyone is equal. Noone is superior than others.
 
 ## Morocco Route
 
