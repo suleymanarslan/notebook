@@ -6,6 +6,7 @@ Index of Contents:
 * [My Wishlist](#my-wishlist)
 * [Hitchhiking](#hitchhiking)
 * [My Backpack](#my-backpack)
+* [My Principles](#my-principles)
 * [Morocco Route](#morocco-route)
 
 ## How to travel with little money?
@@ -128,6 +129,16 @@ Local businesses in touristic areas usually charge tourists and locals different
 * Pakistan
 * Lebanon
 * Yemen
+
+## My Principles
+
+* Don't travel for ego, desire, comfort or money.
+* Travel for learning and experiencing a different culture. Open your heart to learning from others. Everyone knows something you don't know.
+* Leave no trace. 
+* Respect and adopt to other cultures.
+* Share mutually. Sharing is giving without expecting. Don't take advantage of others. Be ethical when you share and watch out for others if they are happy to share. .
+* Patriotic and religious bullshit is not welcomed. Don't argue with locals about their views or choices.
+* Everyone is equal. You are not superior than anyone else.
 
 ## Morocco Route
 
