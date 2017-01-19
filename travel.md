@@ -3,9 +3,9 @@
 Index of Contents:
 * [How to travel with little money?](#how-to-travel-with-little-money)
 * [How to hitchhike to islands and overseas?](#how-to-hitchhike-to-islands-and-overseas)
-* [My Wishlist](#my-wishlist)
 * [Hitchhiking](#hitchhiking)
 * [My Backpack](#my-backpack)
+* [My Wishlist](#my-wishlist)
 * [My Principles](#my-principles)
 * [Morocco Route](#morocco-route)
 
@@ -16,6 +16,7 @@ Index of Contents:
 * Be friendly and smile
 * Don't be afraid of people
 * Don't be picky: eat whatever, sleep wherever
+* [Behave ethical](#my-principles)
 
 ### Specifics
 * [Hitchike](#hitchhiking)
