@@ -8,10 +8,7 @@ Index of Contents:
   
 * [Turkish](#turkish)
   * [arılar uçar üzerinde](#arılar-uçar-üzerinde)
-  * [yerçekimi](#yerçekimi)
-  * [nepal](#nepal)
-  * [sümela manastırı](#sümela-manastırı)
-  * [bianchi](#bianchi)
+  * [doğubeyazıt](#doğubeyazıt)
 
 ## english
 
