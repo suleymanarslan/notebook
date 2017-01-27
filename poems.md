@@ -78,45 +78,28 @@ gözüpek, fakat ağaçlara kıyamayan
 karaburun rüzgarıdır.
 ```
 
-#### yerçekimi
-
-```
-her yürüme mesafesinde bir kedi
-sahte maaş bordrosu
-gerçek tabanca
-ve hafifletilmiş yerçekimi
-
-ışıklı istanbulun gökyüzünde
-alaaddin lambalı bali poşetleri
-```
-
-
 #### nepal
 
 ```
-gece vakti bankamatiğe giderken yolda
-kar biriken bacaları kundakladım
-gökyüzüne dokunan duman
-nepal'de uçuşan yumurta poşeti oldum
+alaaddin ve lambalı bali poşetleri
+sahte maas bordrolari ve tabancayla
+bankamatiğe giderken yoldan geçen
+kundaklanmis bacalar gökyüzünde
+duman
+ates ve bali cekilen yumurta posetleri
+afedersiniz hanimefendi, silahiniz yoksa sayet
+alaaddin'in lambasi sihirli degil benzinli
+nepal'de kundaklanmis sumela manastirlarinin
+duvarlarina yazilmis hadislerde tasvir edilen
+otobusler de bile benzinli
+otobuslerin guzergahinda yumurta posetleri
+posetlerin icinde ates ve bali
+yani ruzgarda ucustugum kizin erbakana
+erbakanin ambulansa
+beldesanin bisan ihlasa
+bisan ihlasin milli goruse
+milli gorusun alaaddinin sihirli
+lambasina donusumuyle zamanda
+yoloculuk yapmamiz elele tutusup
+dogubeyazit otogarinda
 ```
-
-#### sümela manastırı
-
-```
-dünyanın bütün dolmuşlarını merak ederim, 
-halklarımız sevdiği hadisleri yazar koltuklara, 
-sümela manastırına da yaptıkları gibi
-```
-
-#### bianchi
-
-```
-doksanlarda çok samsun içilirdi,
-ve beldesan bisikletlere binenler
-genellikle Erbakan'a oy verirlerdi
-
-doksanlarda bisikletler de sağcıydı
-örneğin milli görüşçü bisan ihlas
-ya da anap'lı bianchi
-```
-
