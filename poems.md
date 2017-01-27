@@ -78,28 +78,23 @@ gözüpek, fakat ağaçlara kıyamayan
 karaburun rüzgarıdır.
 ```
 
-#### nepal
+#### doğubeyazıt
 
 ```
-alaaddin ve lambalı bali poşetleri
-sahte maas bordrolari ve tabancayla
+alaaddin lambalı bali poşetleri
+sahte maaş bordroları ve tabancayla
 bankamatiğe giderken yoldan geçen
-kundaklanmis bacalar gökyüzünde
-duman
-ates ve bali cekilen yumurta posetleri
-afedersiniz hanimefendi, silahiniz yoksa sayet
-alaaddin'in lambasi sihirli degil benzinli
-nepal'de kundaklanmis sumela manastirlarinin
-duvarlarina yazilmis hadislerde tasvir edilen
-otobusler de bile benzinli
-otobuslerin guzergahinda yumurta posetleri
-posetlerin icinde ates ve bali
-yani ruzgarda ucustugum kizin erbakana
-erbakanin ambulansa
-beldesanin bisan ihlasa
-bisan ihlasin milli goruse
-milli gorusun alaaddinin sihirli
-lambasina donusumuyle zamanda
-yoloculuk yapmamiz elele tutusup
-dogubeyazit otogarinda
+kundaklanmış bacalar gökyüzünde
+getirdiğim ateşlerin dumanları
+ateş çekilen bali poşetleri
+afedersiniz hanımefendi, silahınız yoksa şayet
+birbirimize bir alaaddin lambası mesafedeyiz
+yani sümela manastırı duvarlarında tasvir edilen
+otobüsler bile benzinliyken
+ve her otogara bir alaaddinin düştüğü şu günlerde
+uçuştuğumuz kızın erbakanla aynı ambulansa
+ambulansın bisan ihlasa
+milli görüşün beldesana dönüşümü zamanında
+silahsız tatlı su yoloculuğu yapmamız elele
+tutuştuğumuz doğubeyazıt otogarında
 ```
