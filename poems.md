@@ -80,9 +80,8 @@ karaburun rüzgarıdır.
 ```
 alaaddin lambalı bali poşetleri
 sahte maaş bordroları ve tabancayla
-bankaya giderken yoldan geçen
-kundaklanmış bacalar gökyüzünde
-getirdiğim ateşlerin dumanları
+bankaya giderken yoldan geçen kundaklanmış
+gökyüzünde getirdiğim dumanlar
 ateş çekilen bali poşetleri
 afedersiniz hanımefendi, silahınız yoksa şayet
 birbirimize bir alaaddin lambası mesafedeyiz
