@@ -45,13 +45,13 @@ section {
 ```css
 .rainbow {
    /* Chrome, Safari, Opera */
-  -webkit-animation: rainbow 1s infinite; 
-  
+  -webkit-animation: rainbow 1s infinite;
+
   /* Internet Explorer */
   -ms-animation: rainbow 1s infinite;
-  
+
   /* Standard Syntax */
-  animation: rainbow 1s infinite; 
+  animation: rainbow 1s infinite;
 }
 
 /* Chrome, Safari, Opera */
@@ -107,6 +107,15 @@ then
    echo "File $FILE exists."
 else
    echo "File $FILE does not exist."
+fi
+```
+
+#### Check if a string contains another string
+
+```bash
+string='My long string'
+if [[ $string == *"My long"* ]]; then
+  echo "It's there!"
 fi
 ```
 
