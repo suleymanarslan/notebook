@@ -94,3 +94,12 @@ milli görüşün beldesana dönüşümü zamanında
 silahsız tatlı su yoloculuğu yapmamız elele
 tutuştuğumuz doğubeyazıt otogarında
 ```
+
+#### otogardan hesap sorulmaz
+
+```
+dönerse molotof kokteyli
+dönmezse koltuk numarası bellidir
+otogarda arabesk rap yaptığım bir gece
+bıçaklanmazsam iyidir
+```
