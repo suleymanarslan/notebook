@@ -9,6 +9,7 @@ Index of Contents:
 * [Turkish](#turkish)
   * [arılar uçar üzerinde](#arılar-uçar-üzerinde)
   * [doğubeyazıt](#doğubeyazıt)
+  * [otogardan hesap sorulmaz](#otogardan-hesap-sorulmaz)
 
 ## english
 
@@ -81,18 +82,17 @@ karaburun rüzgarıdır.
 alaaddin lambalı bali poşetleri
 sahte maaş bordroları ve tabancayla
 bankaya giderken yoldan geçen kundaklanmış
-gökyüzünde getirdiğim dumanlar
-ateş çekilen bali poşetleri
-afedersiniz hanımefendi, silahınız yoksa şayet
+ateş üflenen peri bacaları
+afedersiniz hanımefendi, bıçağınız varsa şayet
 birbirimize bir alaaddin lambası mesafedeyiz
 yani sümela manastırı duvarlarında tasvir edilen
 otobüsler bile benzinliyken
-ve her otogara bir alaaddinin düştüğü şu günlerde
-uçuştuğumuz kızın erbakanla aynı ambulansa
+her otogara bir alaaddinin düştüğü
+erbakan'ın sabaha
 ambulansın bisan ihlasa
-milli görüşün beldesana dönüşümü zamanında
+milli görüşün beldesana dönüşümü ikliminde
 silahsız tatlı su yoloculuğu yapmamız elele
-tutuştuğumuz doğubeyazıt otogarında
+uçuştuğumuz doğubeyazıt otogarında
 ```
 
 #### otogardan hesap sorulmaz
