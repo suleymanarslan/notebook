@@ -2,15 +2,16 @@
 
 My mother tongue is Turkish, and I speak fluent English. In this section, I'm documenting the words that are new to my mind;
 
-Languages:
 * [English](#english)
 * [Arabic](#arabic)
 * [Zazaki](#zazaki)
 * [Kurdish](#kurdish)
+* [Batak](#batak)
+* [Bahasa](#bahasa)
 
 ## Zazaki
 
-#### Words:
+#### Basic Words:
 * **I:** Ez
 * **You:** Tu
 * **You (plural):** Sıma
@@ -31,12 +32,41 @@ Languages:
 * **Traveler:** Lövles
 
 #### Useful Phrases:
+* **What is your name?** Navetiçiye?
 * **God Bless You:** Heq Rajibo
 * **Hello:** Mabı xer
-* **How are you?** Turında
+* **How are you?** Turında?
 * **Good Bye** Xatire sıma
 * **Where are you coming from?:** Koytında yena?
 
+
+## Arabic
+
+#### Basic Words
+
+* **I:** Ena
+* **We:** Ehna
+* **Thanks** Şükran
+* **Bye** Meesselam
+* **Sorry** Asif
+* **Soup** Harira
+* **Half** Nuıs
+* **Beans** Lubya
+* **Liver** Kibde
+* **Cactus** Sabbar
+* **Of course** Bittaba
+
+#### Useful Phrases
+
+* **We're walking** Ehna amşi
+* **God bless your hands** Yıslamo hedık
+* **Thanks (in a fancier way)** Yetiik alofiya
+* **Good Morning** Sabah Helhır
+* **How much?** Gadeş
+* **How are you?** Keyfe haluk?
+* **Hot water** Lime shun
+* **Nice to meet you** Met şerefin
+* **How are you?** Jordan: keyfe haluk? Morocco: Labes?
 
 ## English
 
