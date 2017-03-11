@@ -1,6 +1,22 @@
 # Words
 
-The words I just looked up on a dictionary
+My mother tongue is Turkish, and I speak fluent English. In this section, I'm documenting the words that are new to my mind;
+
+Languages:
+* [English](#english)
+* [Arabic](#arabic)
+* [Zazaki](#zazaki)
+* [Kurdish](#kurdish)
+
+## Zazaki
+
+**Yes:** He **No:** Nene
+**Come:** Be **Go:** Su
+**God Bless You:** Heq Rajibo
+**Hello:** Mabi xer
+
+
+## English
 
 #### Incentive
 
