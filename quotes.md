@@ -29,6 +29,8 @@ On pain and suffering;
 
 > These pains you feel are messengers. Listen to them.
 
+> Pain is a treasure, for it contains mercies.
+
 On comfort and desire;
 
 > The moon stays bright when it doesn't avoid the night.
@@ -54,10 +56,11 @@ On love;
 
 > Let the lover be disgraceful, crazy, absentminded. Someone sober will worry about things going badly. Let the lover be.
 
+> Love comes with a knife, not some shy question, and not with fears for its reputation!
+
 Advise;
 
 > Start a huge, foolish project, like Noah…it makes absolutely no difference what people think of you.
-
 
 > Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.
 
@@ -65,8 +68,15 @@ Advise;
 
 > Only from the heart can you touch the sky.
 
+> Give your weakness to one who helps
+
+أنا الحق (En-el Hak)
+
+> Not only the thirsty seek the water, the water as well seeks the thirsty.
+
 > You are not a drop in the ocean. You are the entire ocean in a drop.
 
+> Your heart is the size of an ocean. Go find yourself in its hidden depths
 
 ### Türkçe
 
