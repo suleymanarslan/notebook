@@ -23,6 +23,34 @@ The quotes I stumbled upon and found inspirational.
 
 > Where there is ruin, there is hope for a treasure.
 
+> Set your life on fire. Seek those who fan your flames.
+
+> Let the beauty we love be what we do. There are hundreds of ways to kneel and kiss the ground.
+
+> Be like the sun for grace and mercy. Be like the night to cover others' faults. Be like running water for generosity. Be like death for rage and anger. Be like the Earth for modesty. Appear as you are. Be as you appear.
+
+> Suffering is a gift. In it is hidden mercy.
+
+> Two there are who are never satisfied -- the lover of the world and the lover of knowledge.
+
+> Start a huge, foolish project, like Noah…it makes absolutely no difference what people think of you.
+
+> Reason is powerless in the expression of Love.
+
+> A mountain keeps an echo deep inside. That's how I hold your voice.
+
+> The cure for pain is in the pain.
+
+> What hurts you, blesses you. Darkness is your candle.
+
+> These pains you feel are messengers. Listen to them.
+
+> Only from the heart can you touch the sky.
+
+> The moon stays bright when it doesn't avoid the night.
+
+> Let the lover be disgraceful, crazy, absentminded. Someone sober will worry about things going badly. Let the lover be.
+
 ### Türkçe
 
 
@@ -60,3 +88,6 @@ The quotes I stumbled upon and found inspirational.
 
 > Bizi ancak çalışmak kurtarır
 — Çehov
+
+> Bastığın yerin ayaklarının altında sıkı durduğunu hissedememek, hemen yola çıkılacakmış kadar eğreti bir hayat yaşamak ne azaplı şeydi?
+— Kuyucaklı Yusuf, Sabahattin Ali
