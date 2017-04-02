@@ -92,3 +92,7 @@ Most of us don’t listen with the intent to understand, we listen with the inte
 
 #### Be Brief
 A good conversation is like miniskirt, short enough to retain interest, but long enough to cover the subject.
+
+## the daily routines of famous creative people
+
+![](https://cldup.com/keDC-1EwU1.jpg)
