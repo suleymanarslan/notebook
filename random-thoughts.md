@@ -2,6 +2,14 @@
 
 thoughts come and go. here I keep some of them.
 
+## thoughts from doğubeyazıt
+
+250 years old [İshakpaşa Palace](https://www.instagram.com/p/BQ6HF0CgfPb/)... One of the most beautiful places I've been in my life. It's in Iranian border, and unfortunately the armed conflict in the area keeps visitors away from here.
+
+I feel happy and sad at same time. Happy because even a little corner of my country has such a fantastic architecture I've never seen before. Happy because the hospitality here is uncomparable, how they welcome foreigners or local tourists with that great positive vibe, inviting visitors to have tea with them... Sad because the economy in the region is affected by escelated war, a meaningless violence that noone here deserves. .
+
+No matter what, I love here. One day we'll have peace and we'll solve our issues, and hopefully that time, our children or grandchildren will never have to leave their families to go abroad for work like this generation do. This land deserves peace, and is enough for all of us.
+
 ## surviving fairly
 
 one day I gave two kids some small gifts because I liked them. their auntie saw us and invited to have tea. we met the whole family, had tea. I'm talking about may be 50 cups of tea. we don't even speak the same language but we tell eachother stories, we are connected.
