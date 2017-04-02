@@ -5,14 +5,25 @@ The quotes I stumbled upon and found inspirational.
 * [English](#english)
 * [Türkçe](#türkçe)
 
-#### English
+### English
 
 > Everyone you will ever meet knows something you don't.
 — Bill Nye
 
+> To go wrong in one's own way is better than to go right in someone else's.
+— Fyodor Dostoyevsky
+
+> angelheaded hipsters burning for the ancient heavenly connection to the / starry dynamo in the machinery of night
+— Allen Gingsberg, Howl
 
 
-#### Türkçe
+#### Calaladdin Rumi:
+
+> Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.
+
+> Where there is ruin, there is hope for a treasure.
+
+### Türkçe
 
 
 > Ötmek istiyorum viran bağlarda,
