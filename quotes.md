@@ -19,25 +19,9 @@ The quotes I stumbled upon and found inspirational.
 
 #### Calaladdin Rumi:
 
-> Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.
-
-> Where there is ruin, there is hope for a treasure.
-
-> Set your life on fire. Seek those who fan your flames.
-
-> Let the beauty we love be what we do. There are hundreds of ways to kneel and kiss the ground.
-
-> Be like the sun for grace and mercy. Be like the night to cover others' faults. Be like running water for generosity. Be like death for rage and anger. Be like the Earth for modesty. Appear as you are. Be as you appear.
+On pain and suffering;
 
 > Suffering is a gift. In it is hidden mercy.
-
-> Two there are who are never satisfied -- the lover of the world and the lover of knowledge.
-
-> Start a huge, foolish project, like Noah…it makes absolutely no difference what people think of you.
-
-> Reason is powerless in the expression of Love.
-
-> A mountain keeps an echo deep inside. That's how I hold your voice.
 
 > The cure for pain is in the pain.
 
@@ -45,11 +29,44 @@ The quotes I stumbled upon and found inspirational.
 
 > These pains you feel are messengers. Listen to them.
 
-> Only from the heart can you touch the sky.
+On comfort and desire;
 
 > The moon stays bright when it doesn't avoid the night.
 
+> Set your life on fire. Seek those who fan your flames.
+
+> Run from what's comfortable. Forget safety. Live where you fear to live. Destroy your reputation. Be notorious.
+
+> All people on the planet are children, except for a very few. No one is grown up except those free of desire.
+
+On beauty;
+
+> Where there is ruin, there is hope for a treasure.
+
+> Let the beauty we love be what we do. There are hundreds of ways to kneel and kiss the ground.
+
+On love;
+> Two there are who are never satisfied -- the lover of the world and the lover of knowledge.
+
+> Reason is powerless in the expression of Love.
+
+> A mountain keeps an echo deep inside. That's how I hold your voice.
+
 > Let the lover be disgraceful, crazy, absentminded. Someone sober will worry about things going badly. Let the lover be.
+
+Advise;
+
+> Start a huge, foolish project, like Noah…it makes absolutely no difference what people think of you.
+
+
+> Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.
+
+> Be like the sun for grace and mercy. Be like the night to cover others' faults. Be like running water for generosity. Be like death for rage and anger. Be like the Earth for modesty. Appear as you are. Be as you appear.
+
+> Only from the heart can you touch the sky.
+
+> You are not a drop in the ocean. You are the entire ocean in a drop.
+
 
 ### Türkçe
 
