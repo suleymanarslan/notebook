@@ -21,15 +21,13 @@ The quotes I stumbled upon and found inspirational.
 
 On pain and suffering;
 
-> Suffering is a gift. In it is hidden mercy.
+> Pain is a treasure, for it contains mercies.
 
 > The cure for pain is in the pain.
 
 > What hurts you, blesses you. Darkness is your candle.
 
 > These pains you feel are messengers. Listen to them.
-
-> Pain is a treasure, for it contains mercies.
 
 On comfort and desire;
 
@@ -76,7 +74,9 @@ Advise;
 
 > You are not a drop in the ocean. You are the entire ocean in a drop.
 
-> Your heart is the size of an ocean. Go find yourself in its hidden depths
+> Your heart is the size of an ocean. Go find yourself in its hidden depths.
+
+> If in thirst you drink water from a cup, you see God in it. Those who are not in love with God will see only their own faces in it.
 
 ### Türkçe
 
