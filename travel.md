@@ -87,6 +87,7 @@ Local businesses in touristic areas usually charge tourists and locals different
 * Earbuds
 * Lighter
 * USB Charger
+* Nail clipper
 
 ### Gadgets
 * [Camera](./photography.md#the-gear)
