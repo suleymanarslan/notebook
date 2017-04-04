@@ -1,12 +1,48 @@
 # logbook
 
+* [2017](#2017)
+* [2016](#2016)
+* [2015](#2015)
+
+## 2017
+
+#### March 17
+We are in Jakarta for Nova's cousin's wedding. Our plan is to settle down in Ubud for a while after the wedding at 1th April.
+
+#### February 25
+8:30am, the Iran border is even crazier. We didn't even try, started hitchhiking to Dersim.
+
+#### February 24
+There is a bus taking off from Dogubeyazit every once an hour for 8 Lira. We took one of those buses and made it to the customs. We noticed that the border was
+completely out of control due to the crowd of Iranians coming Turkey for short visits. There was a huge line of angry crowd, fights were breaking out oftenly.
+We can't enter Iran in this situation, will try again tomorrow morning.
+
+#### February 23
+We are in the Georgia border, Nova couldn't enter the country due to visa issues. We'll hitchike to Iran border, as Nova can enter there without a visa.
+
+#### February 17
+We took the scenic East Express train from Ankara to Kars. After Kars, we'll head to Georgia to renew Nova's visa.
+
+#### January 13
+We are in Turkey after spending a month in Jordan.
+
+#### January 1
+We're entering the new year as the photographer of a local band Autostrad in their concert. They offered us this job but seem like there is issues within the band,
+I felt like we wasted our time.
+
 ## 2016
 
+#### December 16
+The hackathon was a total scam. All the finalists were already patented products. And the winner was a guy who already got his product funded by EU 2 years ago.
+
+#### December 13
+We are in Jordan to [present our idea](http://slides.com/azer/farming) about distributing farming products efficiently in a hackathon.
+
 #### October 16
-We finished our trip in Morocco and settled down for next 1.5 months with a teacher friend living in a southern city. 
+We finished our trip in Morocco and settled down for next 1.5 months with a teacher friend living in a southern city.
 
 #### October 2
-Me and my wife landed on Casablanca and started hitchhiking to Fez. 
+Me and my wife landed on Casablanca and started hitchhiking to Fez.
 
 #### September 7
 We came to Turkey for visiting our family and celebrating the Islamic festival Eid-Adha.
@@ -68,4 +104,4 @@ Met a solo traveler (Nova) in an the Madrasa in ancient Mardin. We were both tak
 Left the refugee camp, came back to Urfa and will head to Mardin tomorrow.
 
 #### January 1
-Woke up at about 4am in a refugee tent in a camp on Syria-Turkey border during the Kobani war. Expecting to see the sunrise on east, saw a huge explosion on the south. 
+Woke up at about 4am in a refugee tent in a camp on Syria-Turkey border during the Kobani war. Expecting to see the sunrise on east, saw a huge explosion on the south.

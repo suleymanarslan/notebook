@@ -14,6 +14,15 @@ Apply rules to all except last one;
 section:not(:last-child) { margin-bottom:1em; }
 ```
 
+#### nth-child()
+
+Keywords available: `even`, `odd`
+
+Example: Select every 3rd element
+```
+ul li:nth-child(3n+3)
+```
+
 #### Masonry Layout
 
 ```html
@@ -169,3 +178,7 @@ export default view
   endef
 
   @echo "$$COMPONENT_HTML" > ui/components/${name}.js
+
+## Scraping Wikipedia
+
+* [Request JSON Output of an Article](https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&explaintext=1&titles=Michelangelo)
