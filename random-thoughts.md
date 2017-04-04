@@ -2,7 +2,7 @@
 
 thoughts come and go. here I keep some of them.
 
-![türkçe: düşünceler.md](düşünceler.md)
+[türkçe: düşünceler.md](düşünceler.md)
 
 ## thoughts from doğubeyazıt
 
