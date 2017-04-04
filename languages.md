@@ -2,12 +2,12 @@
 
 My mother tongue is Turkish, and I speak fluent English. In this section, I'm documenting the words that are new to my mind;
 
-* [English](#english)
-* [Arabic](#arabic)
 * [Zazaki](#zazaki)
+* [Arabic](#arabic)
 * [Kurdish](#kurdish)
-* [Batak](#batak)
+* [Toba Batak](#toba-batak)
 * [Bahasa](#bahasa)
+* [English](#english)
 
 ## Zazaki
 
@@ -17,7 +17,7 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 * **You (plural):** Sıma
 * **They:** Yei
 * **We:** Ma
-* **Yes:** He 
+* **Yes:** He
 * **No:** Nene
 * **Come:** Be
 * **Go:** Su
@@ -67,6 +67,29 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 * **Hot water** Lime shun
 * **Nice to meet you** Met şerefin
 * **How are you?** Jordan: keyfe haluk? Morocco: Labes?
+
+## Bahasa
+
+* **Anjas** cool
+* **Anjing** dog
+* **Terima kasih** thank you
+* **Apa kabar** how are you?
+* **Baik** Good
+* **Bagus** beautiful
+* **salamat pagi** good morning
+* **salamat malam** good night
+* **lazzat** delicious
+* **berapa** how much?
+* **ini** this
+* **apa** what?
+* **kemana** where are you going to?
+
+## Toba Batak
+* **olo** yes
+* **mauliatte** thanks
+* **tabo** delicious
+
+See also: [toba-batak-dictionary/dict.json](https://github.com/azer/toba-batak-dictionary/blob/master/dict.json)
 
 ## English
 
