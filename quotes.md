@@ -118,3 +118,6 @@ Advise;
 
 > Bastığın yerin ayaklarının altında sıkı durduğunu hissedememek, hemen yola çıkılacakmış kadar eğreti bir hayat yaşamak ne azaplı şeydi?
 — Kuyucaklı Yusuf, Sabahattin Ali
+
+> Bir memleket gibidir gemi. Her şey düzenli ve kontrol altında olmalıdır. Kaidelere uyulmalıdır, kanunlara nizamlara… Ben de bu memleketin baş şeyi gibiyim, başbakanı gibiyim mesela. Her şey benden sorulur. Denize çıktın mıydı bu küçücük gemi memleket oluverir. Aslında bir başbakandan daha çok görevim var. Çünkü onun bakanları var, adamları var, falanı var filanı var. Benim yok. Bu gemide güvenlik de, eğitim de, sağlık da, eğlence de benden sorulur. Kâmil de başbakanın en kıyak yardımcısı. Siz de vatandaş. Aynı zamanda memur gibisiniz. Bu yüzden çok kıyak, çok disiplinli ve çakı gibi olmalıyız. Sürekli kendimizi ve birbirimizi kollamalıyız.
+— İdris Kaptan, Gemide
