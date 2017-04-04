@@ -2,6 +2,8 @@
 
 thoughts come and go. here I keep some of them.
 
+![türkçe: düşünceler.md](düşünceler.md)
+
 ## thoughts from doğubeyazıt
 
 250 years old [İshakpaşa Palace](https://www.instagram.com/p/BQ6HF0CgfPb/)... One of the most beautiful places I've been in my life. It's in Iranian border, and unfortunately the armed conflict in the area keeps visitors away from here.
