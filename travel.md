@@ -158,6 +158,7 @@ Our route in Morocco has been;
 * **Ouarzazate** It was on our route, so we stopped and stayed with a couchsurfing host. Nothing interesting. 
 * **Aït Benhadou** An ancient ksar (a city built defensively against attacks). Must seen.
 * **Marrakech** A beautiful ancient Medina, similar to Fez but bigger and has hipster cafes run by western people. We spent 3 days here and definitely worthed. Local food in Medina is so good. Definitely recommended.
+* **Toubkal** Second highest peak in Africa. We camped there a day. It's touristy and not welcoming towards people who want to camp with their own tent. 
 * **Essaouira** Close to beaches, historical and quite beautiful medina. The chaotic port with all that birds and cats, lovely. We spent 3-4 days here.
 * **Imsouane** We got a ride from a Swedish couple going here so dropped by to see it, it's a calm little beautiful town with a beach perfect for surfing. It made me wanna stay there for all my life but our budget was too tight for staying here, so we started hitchhiking to Agadir same night.
 * **Agadir** A modern town with nothing interesting. We had a friendly Couchsurfing host with quite similar interests though, ended up staying a week here.
