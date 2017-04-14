@@ -78,6 +78,20 @@ Advise;
 
 > If in thirst you drink water from a cup, you see God in it. Those who are not in love with God will see only their own faces in it.
 
+#### Mahatma Gandhi
+
+> Be the change that you wish to see in the world.
+
+> Live as if you were to die tomorrow. Learn as if you were to live forever.”
+
+> Happiness is when what you think, what you say, and what you do are in harmony.
+
+> The weak can never forgive. Forgiveness is the attribute of the strong.
+
+> Freedom is not worth having if it does not include the freedom to make mistakes.
+
+> Hate the sin, love the sinner.
+
 ### Türkçe
 
 
