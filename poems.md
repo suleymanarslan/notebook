@@ -108,7 +108,7 @@ bıçaklanmazsam iyidir
 #### kayda değer konular
 
 ```
-demokratik seçim denilen ilkel çirkinliğe artık bir son versek de, kayda değer konulara yer açılsa.
+demokratik seçim denilen ilkel kirliliğe artık bir son versek de, kayda değer konulara yer açılsa.
 
 mesela doğurganlık, yaratıcılık, komisyonculuk,
 arabesk rap, reggae, şiir ve ganja
