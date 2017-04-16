@@ -132,12 +132,12 @@ işportacılık ve nakliyatçılık
 uzayın boşluklarında kaybolan sigorta primleri
 bacağına saplanmış kelebek bıçağına aldırmadan acil serviste senet imzalayan taksici
 ansızın evin kapısında beliren mahkeme kağıtları
-kaos ve ikrar
+kaos, ikrar ve sermaye
 buğulu camlarına sigara dumanı dokunan doğu kıraathaneleri
 zabıta baskınında hızla depar atan urfalı ihtiyar seccade satıcısı
 gündoğumunda ateşin ve rüzgarın sesiyle uyananlar
 hiçkimsenin güvenmediği astronotlar
 akvaryum kokusu
-aniden yapılan saçma sapan yolculuklarla
+ve aniden yapılan saçma sapan yolculuklarla
 tütmesi gereken ocağı arayanlar.
 ```
