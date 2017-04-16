@@ -10,7 +10,7 @@ Index of Contents:
   * [arılar uçar üzerinde](#arılar-uçar-üzerinde)
   * [doğubeyazıt](#doğubeyazıt)
   * [otogardan hesap sorulmaz](#otogardan-hesap-sorulmaz)
-  * [kayda değer konular](#kayda-deger-konular)
+  * [kayda değer konular](#kayda-değer-konular)
 
 ## english
 
