@@ -10,6 +10,7 @@ Index of Contents:
   * [arılar uçar üzerinde](#arılar-uçar-üzerinde)
   * [doğubeyazıt](#doğubeyazıt)
   * [otogardan hesap sorulmaz](#otogardan-hesap-sorulmaz)
+  * [kayda değer konular](#kayda-deger-konular)
 
 ## english
 
@@ -102,4 +103,41 @@ dönerse molotof kokteyli
 dönmezse koltuk numarası bellidir
 otogarda arabesk rap yaptığım bir gece
 bıçaklanmazsam iyidir
+```
+
+#### kayda değer konular
+
+```
+demokratik seçim denilen ilkel çirkinliğe artık bir son versek de, kayda değer konulara yer açılsa.
+
+mesela doğurganlık, yaratıcılık, komisyonculuk,
+arabesk rap, reggae, şiir ve ganja
+tren garları ve adliye sarayları
+adliye sarayının önünde takılan sivil polis
+torbacılarla arabesk rap dinleyerek volta atan apaçi
+zaman, israf ve yokluk
+definecilerle kazı yapan arkeolog
+bi otomobilin bagajında iran'dan özbekistan'a giden afgan
+bi kola şişesinde jakarta'dan istanbul'a gelen papağan
+yemenden kayıkla somaliye kaçarak canını kurtaran ithalatçı
+sırf daha serin bir yaz geçirmek adına orta afrikadan dersim dağlarına gelen turna
+açgözlülük ve alçak gönüllülük
+bim'de sinirlenince götünü açan çingene
+erezyonu bırakıp ceviz kaçakçılığına girenler
+karlı bir gün gölhisarda mola veren dolmuş
+camdan karlı dağları izleyen yolcular
+haplanıp işe giden kafası bozuk berber çırağı
+mardin'de her sabah küçük tüpte menemen pişirilen leblebi fırını
+işportacılık ve nakliyatçılık
+uzayın boşluklarında kaybolan sigorta primleri
+bacağına saplanmış kelebek bıçağına aldırmadan acil serviste senet imzalayan taksici
+ansızın evin kapısında beliren mahkeme kağıtları
+kaos ve ikrar
+buğulu camlarına sigara dumanı dokunan doğu kıraathaneleri
+zabıta baskınında hızla depar atan urfalı ihtiyar seccade satıcısı
+gündoğumunda ateşin ve rüzgarın sesiyle uyananlar
+hiçkimsenin güvenmediği astronotlar
+akvaryum kokusu
+aniden yapılan saçma sapan yolculuklarla
+tütmesi gereken ocağı arayanlar.
 ```
