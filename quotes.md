@@ -17,7 +17,7 @@ The quotes I stumbled upon and found inspirational.
 — Allen Gingsberg, Howl
 
 
-#### Calaladdin Rumi:
+#### Jalāl ad-Dīn Muhammad Rūmī:
 
 On pain and suffering;
 
