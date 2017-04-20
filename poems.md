@@ -77,14 +77,13 @@ gözüpek, fakat ağaçlara kıyamayan
 karaburun rüzgarıdır.
 ```
 
-#### doğubeyazıt
+#### doğubeyazıt otogarı
 
 ```
 alaaddin lambalı bali poşetleri
-sahte maaş bordroları ve tabancayla
-bankaya giderken yoldan geçen kundaklanmış
+sahte maaş bordroları ve tabancayla kundakladığımız
 ateş üflenen peri bacaları
-afedersiniz hanımefendi, bıçağınız varsa şayet
+afedersiniz hanımefendi siz de bıçak taşıyorsanız
 birbirimize bir alaaddin lambası mesafedeyiz
 yani sümela manastırı duvarlarında tasvir edilen
 otobüsler bile benzinliyken
