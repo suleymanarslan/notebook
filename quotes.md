@@ -3,6 +3,9 @@
 The quotes I stumbled upon and found inspirational. 
 
 * [English](#english)
+  * [Jalāl ad-Dīn Muhammad Rūmī](#jalāl-ad-dīn-muhammad-rūmī)
+  * [Mahatma Gandi](#mahatma-gandi)
+  * [Omar Khayyám](#omar-khayyám)
 * [Türkçe](#türkçe)
 
 ### English
@@ -91,6 +94,12 @@ Advise;
 > Freedom is not worth having if it does not include the freedom to make mistakes.
 
 > Hate the sin, love the sinner.
+
+#### Omar Khayyám
+
+> Drink wine. This is life eternal. This is all that youth will give you. It is the season for wine, roses and drunken friends. Be happy for this moment. This moment is your life.
+
+
 
 ### Türkçe
 
