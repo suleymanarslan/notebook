@@ -26,9 +26,12 @@ We took the scenic East Express train from Ankara to Kars. After Kars, we'll hea
 #### January 13
 We are in Turkey after spending a month in Jordan.
 
+#### January 6
+
+We camped in Wadi Rum. 
+
 #### January 1
-We're entering the new year as the photographer of a local band Autostrad in their concert. They offered us this job but seem like there is issues within the band,
-I felt like we wasted our time.
+We're entering the new year as the photographer of a local band Autostrad in their concert. They offered us this job but seem like there is issues within the band, I felt like we wasted our time. I'll never invest anytime on music projects anymore.
 
 ## 2016
 
