@@ -38,8 +38,12 @@ The hackathon was a total scam. All the finalists were already patented products
 #### December 13
 We are in Jordan to [present our idea](http://slides.com/azer/farming) about distributing farming products efficiently in a hackathon.
 
-#### October 16
+#### November 16
 We finished our trip in Morocco and settled down for next 1.5 months with a teacher friend living in a southern city.
+
+#### October 12
+
+We camped in Western Shara for two nights, three days. 
 
 #### October 2
 Me and my wife landed on Casablanca and started hitchhiking to Fez.
