@@ -6,6 +6,22 @@
 
 ## 2017
 
+#### April 19th
+
+I'm back to Ubud, Indonesia.
+
+#### April 12th
+
+I'm going to Singapore for visa renewal, will be back to Ubud on 19th.
+
+#### April 10th
+
+I've announced invite only edition of [kozmos](http://getkozmos.com)
+
+#### April 5
+
+We've moved to Ubud, rented a small house. I'm working on [getkozmos.com](http://getkozmos.com)
+
 #### March 17
 We are in Jakarta for Nova's cousin's wedding. Our plan is to settle down in Ubud for a while after the wedding at 1th April.
 
