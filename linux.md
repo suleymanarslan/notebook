@@ -177,7 +177,7 @@ Use `systemctl` command to control the services. Example;
 systemctl restart slim.service
 ```
 
-List of `systemctl` commands:
+Some useful `systemctl` commands:
 * start
 * stop
 * restart
@@ -188,11 +188,24 @@ List of `systemctl` commands:
 * disable
 * mask
 * unmask
+* list-units
 
 Restart `systemd` scanning for new or changed units;
 
 ```bash
 systemctl daemon-reload
+```
+
+See which units are failing;
+
+```bash
+systemctl list-units --state=failed
+```
+
+See logs of a specific unit;
+
+```bash
+sudo journalctl -xu dhcpcd@enp0s3.service --since today
 ```
 
 ## Irssi
@@ -240,3 +253,7 @@ Now, you will be out of your chroot, with the built ISO at the file path of:
 ```
 /tmp/chroot/tmp/baseline/out/<iso>
 ```
+
+## xmonad
+
+* After making a change hit `xmonad --recompile` to check errors, then `mod+r` to reload the config.

@@ -2,8 +2,11 @@
 
 I find myself Googling same stuff every time I'm making something. This is for remembering programming tips/snippets that I learn and forget easily.
 
+* [CSS](#css)
 * [Bash](#bash)
 * [Makefiles](#makefiles)
+* [systemd](#systemd)
+* [Upstart](#upstart)
 * [HTTP Status Codes](#http-status-codes)
 
 ## CSS
@@ -92,6 +95,29 @@ section {
 }
 ```
 
+#### Shaking Effect
+
+```css
+/* also need keyframes and -moz-keyframes */
+@-webkit-keyframes shake {
+  8%, 41% {
+    -webkit-transform: translateX(-10px);
+  }
+  25%, 58% {
+    -webkit-transform: translateX(10px);
+  }
+  75% {
+    -webkit-transform: translateX(-5px);
+  }
+  92% {
+    -webkit-transform: translateX(5px);
+  }
+  0%, 100% {
+    -webkit-transform: translateX(0);
+  }
+}
+```
+
 ## Bash
 
 ### Conditions
@@ -156,6 +182,61 @@ selected=$(dialog --stdout \
                   --menu "Select a continent or ocean from the menu:" \
                   20 50 30 \
                   "${regionsArray[@]}")
+```
+
+## systemd
+
+#### Basic commands:
+
+* `service myapp start|stop|restart|status`
+* Reload service config: `systemctl daemon-reload`
+* See logs: `journalctl -u {myapp}`
+
+## upstart
+
+* Logs are saved to /var/log/{app}
+
+#### Commands:
+
+* `initctl list`
+* `initctl status myapp`
+* `initctl start myapp`
+
+Service can be used, too;
+
+* `sudo service goweb status`
+* `sudo service goweb start`
+
+Syntax Check:
+* `init-checkconf /etc/init/goweb.conf`
+
+#### Example script:
+
+```
+description "A stupid golang http listener"
+
+start on filesystem or runlevel [2345]
+stop on runlevel [!2345]
+
+setuid www-data
+setgid www-data
+
+env API_KEY=abcdefgh
+
+respawn
+respawn limit 5 2
+
+chdir /opt
+
+pre-start script
+    # Source File
+    . /path/to/env/file
+end script
+
+script
+    # Start Listener
+    /opt/listen
+end script
 ```
 
 ## Makefiles
