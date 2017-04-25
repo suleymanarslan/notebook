@@ -126,11 +126,12 @@ açgözlülük ve alçak gönüllülük
 karlı bir gün gölhisarda mola veren dolmuş
 camdan karlı dağları izleyen yolcular
 haplanıp işe giden kafası bozuk berber çırağı
-mardin'de küçük tüpte menemen pişirilen leblebi fırını
 
+mardin'de küçük tüpte menemen pişirilen leblebi fırını
 işportacılık ve nakliyatçılık
 uzayın boşluklarında kaybolan sigorta primleri
-bacağına saplanmış kelebek bıçağına aldırmadan acil serviste senet imzalayan taksici
+bacağına saplanmış kelebek bıçağına aldırmadan
+         acil serviste senet imzalayan taksici
 
 ansızın evin kapısında beliren mahkeme kağıtları
 kaos, ikrar ve sermaye
