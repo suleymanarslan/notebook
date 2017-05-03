@@ -119,7 +119,7 @@ zaman, israf ve yokluk
 definecilerle kazı yapan arkeolog
 bi otomobilin bagajında iran'dan özbekistan'a giden afgan
 bi kola şişesinde jakarta'dan istanbul'a gelen papağan
-oto lastikçileri ve balinalar
+oto lastikçileri, enlemler ve boylamlar
 yemenden kayıkla somaliye kaçarak canını kurtaran ithalatçı
 sırf daha serin bir yaz geçirmek adına orta afrikadan dersim dağlarına gelen turna
 
