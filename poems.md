@@ -77,22 +77,21 @@ gözüpek, fakat ağaçlara kıyamayan
 karaburun rüzgarıdır.
 ```
 
-#### doğubeyazıt otogarı
+#### doğubeyazıt
 
 ```
 alaaddin lambalı bali poşetleri
 sahte maaş bordroları ve tabancayla kundakladığımız
 ateş üflenen peri bacaları
+
 afedersiniz hanımefendi siz de bıçak taşıyorsanız
-birbirimize bir alaaddin lambası mesafedeyiz
-yani sümela manastırı duvarlarında tasvir edilen
-otobüsler bile benzinliyken
-her otogara bir alaaddinin düştüğü
+bana bir alaaddin lambası kadar yakınsınız
+yani elimle uçarsanız birlikte
 erbakan'ın sabaha
 ambulansın bisan ihlasa
 milli görüşün beldesana dönüşümü ikliminde
 silahsız tatlı su yoloculuğu yapmamız elele
-uçuştuğumuz doğubeyazıt otogarında
+uçuştuğumuz doğubeyazıt sokaklarında
 ```
 
 #### otogardan hesap sorulmaz
