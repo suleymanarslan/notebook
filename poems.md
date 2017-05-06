@@ -86,12 +86,12 @@ ateş üflenen peri bacaları
 
 afedersiniz hanımefendi siz de bıçak taşıyorsanız
 bana bir alaaddin lambası kadar yakınsınız
-yani elimle uçarsanız birlikte
+yani bir gece yarısı jandarma çevirmesinden kaçarken 
 erbakan'ın sabaha
 ambulansın bisan ihlasa
-milli görüşün beldesana dönüşümü ikliminde
-silahsız tatlı su yoloculuğu yapmamız elele
-uçuştuğumuz doğubeyazıt otogarında
+milli görüşün beldesana dönüşümü arifesinde
+silahsız tatlı su yoloculuğu yapabiliriz elele
+uçuştuğumuz doğubeyazıt'ın eski otogarında.
 ```
 
 #### otogardan hesap sorulmaz
