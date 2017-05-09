@@ -1,21 +1,40 @@
 # photography
 
-## the gear
+* [Editing](#editing)
+  * [How to remove lens dirt?](#how-to-remove-lens-dirt)
+  * [How to do area specific adjustments?](#how-to-do-area-specific-adjustments)
+  * [What should be fixed in a regular shot?](#what-should-be-fixed-in-a-regular-shot)
+* [My Gear](#my-gear)
 
-My current setup consists of one body with two fixed -zoom and wide- lenses and 5 batteries.
+## Editing
+
+#### How to remove lens dirt ? 
+
+* Open Adobe Photoshop
+* Select `Spot Healing Brush Tool` and brush the dirt to remove it.
+* If not effective, select the area with Patch Tool and around to find the pattern that matches the area you want to fix.
+
+#### How to do area specific color corrections in Lightroom ?
+
+* Select `Adjustment Brush`
+* Enable `Show Mask Overlay` so you see the area you selected.
+* Use the brush tool to select the areas you wanna fix.
+* Apply the fix.
+
+#### What should be fixed in a regular shot ?
+
+* **Rotation:** Make sure it looks straight. 
+* **Frame**: The frame should have good focus and be free from unnecessary distractions.
+* **Light:** +/- basic settings such as `exposure` and `shadows` to make sure the photo doesn't hurt eyes.
+* **Colors**: Colors make people enjoy seeing a photo. +/- following basic settings;
+  * +/- Contrast
+  * +/- Saturation
+  * +/- Temperature
+  
+## My Gear
+
+My current setup consists of one body with two fixed -zoom and wide- lenses, 5 batteries and bunch of memory cards.
 
 * Camera: Sony A7r II
 * Zoom Lens: Zeiss Batis 85mm f/1.8
 * Wide Lens: Zeiss Batis 18mm f/2.8
-
-## editing
-
-* Fix rotation and perspective
-* Increase clarity and sharpness
-
-And try:
-* +/- Exposure
-* +/- Contrast
-* +/- Saturation
-* +/- Shadows
-* +/- Temperature
