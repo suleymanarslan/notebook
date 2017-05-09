@@ -1,9 +1,9 @@
 # photography
 
 * [Editing](#editing)
-  * [How to remove lens dirt?](#how-to-remove-lens-dirt)
-  * [How to do area specific adjustments?](#how-to-do-area-specific-adjustments)
-  * [What should be fixed in a regular shot?](#what-should-be-fixed-in-a-regular-shot)
+  * [How to remove lens dirt?](#how-to-remove-lens-dirt-)
+  * [How to do area specific adjustments?](#ow-to-do-area-specific-color-corrections-in-lightroom-)
+  * [What should be fixed in a regular shot?](#what-should-be-fixed-in-a-regular-shot-)
 * [My Gear](#my-gear)
 
 ## Editing
