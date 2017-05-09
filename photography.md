@@ -4,6 +4,7 @@
   * [How to remove lens dirt?](#how-to-remove-lens-dirt-)
   * [How to do area specific adjustments?](#ow-to-do-area-specific-color-corrections-in-lightroom-)
   * [What should be fixed in a regular shot?](#what-should-be-fixed-in-a-regular-shot-)
+* [Ethics](#ethics)
 * [My Gear](#my-gear)
 
 ## Editing
@@ -31,6 +32,12 @@
   * +/- Saturation
   * +/- Temperature
   
+## Ethics
+
+* If you're taking photo of a permission, always get their permission.
+* Don't delete or add any objects.
+* Shoot as it is, don't influence people's mood, behavior or emotions to get the shot you want. For example, during I was volunteering in the Syrian border, I've seen a lot of parasite journalists who ask refugees sensitive questions to make them cry, so they can shoot them when they look not happy.
+ 
 ## My Gear
 
 My current setup consists of one body with two fixed -zoom and wide- lenses, 5 batteries and bunch of memory cards.
