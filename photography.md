@@ -36,7 +36,7 @@
 
 * If you're taking photo of a permission, always get their permission.
 * Don't delete or add any objects.
-* Shoot as it is, don't influence people's mood, behavior or emotions to get the shot you want. For example, during I was volunteering in the Syrian border, I've seen a lot of parasite journalists who ask refugees sensitive questions to make them cry, so they can shoot them when they look not happy.
+* Shoot as it is, don't influence people's mood, behavior or emotions to get the shot you want. For example, during I was volunteering in the Syrian border, I've seen a lot of parasite journalists who specifically look for shocking photos, and even manipulate refugees' mood so they can the kind of shot when want.
  
 ## My Gear
 
