@@ -38,6 +38,8 @@
 * Don't delete or add any objects.
 * Shoot as it is, don't manipulate or influence people's mood, behavior or emotions to get the shot you want. For example, during I was volunteering in the Syrian border, I've seen a lot of parasite journalists who specifically look for shocking photos, and even manipulate refugees' mood so they can the kind of shot when want.
  
+See Also: [Travel / My Principles](travel.md#my-principles)
+ 
 ## My Gear
 
 My current setup consists of one body with two fixed -zoom and wide- lenses, 5 batteries and bunch of memory cards.
