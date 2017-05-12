@@ -2,6 +2,32 @@
 
 [For English: random-thoughts.md](random-thoughts.md)
 
+## doğanın dili
+
+sırtımızda 20 kiloluk çanta, 12 saat boyunca durmadan afrika'daki en yüksek ikinci zirve olan toubkal dağının basecamp'ine yürüdük. şansımıza fırtına çıktı, gece yarısına kadar çadırımızı korumak için etraftan iri taşlar toplayıp duvar örmeye çalıştık. ertesi gün fırtına iyice şiddetlendi, hem doğayla hem de kendi psikolojimizle savaşarak güçlükle zirveye çıktık, hayatımızdaki en mutlu anlardan biriydi herhalde. bi sincapın ağzından ton balık 🐟 kutusunu bir saniye bile düşünmeden çalıp iştahla yedik.
+
+bu deneyimin benim için en değerli yanı, tabiatın insanla konuştuğu dili ilk kez bu kadar net bir şekilde duymuş olmaktı. yaşadığımız fiziksel ve psikolojik güçlükler doğanın canlıları yönlendirmek için kullandığı dilin ta kendisiydi. bu dili anlayan ve yorumlayabilen ustaların ne kadar nadir olduklarını farkettim, yani hem buddha'nın hem celaleddin rumi'nin fiziksel acıların doğadan gelen mesajlar olduğunu söylemesi, peygamberlerin mesaj almak için dağlara çıkması tesadüf değildi. doğa bize hayatta kalmak adına nasıl bir yön izlememiz gerektiğini öğretti.
+
+aylar sonra ankara'da kitapçıları gezerken alıp okuduğum "hayvanlardan tanrılara sapiens" kitabı, toubkal'da yaşadığım deneyimden çıkardığım sonuçları biraz daha eleyip dokumamı ve kafamda netleştirmemi sağladı. genelde çok satan kitaplara mesafeli yaklaşırım ama bu kitap çok iyi, herkese tavsiye ederim.
+
+## otostop ve zaman
+
+6 saatlik El Hosima - Fez mesafesi, dağ yolundan otostopla üç gün sürdü. Bazı köylerde günboyu saatlerce beklediğimiz oldu, genellikle yol kenarında karşılaştığımız çocuklarla arapça pratik yaparak, varsa top oynayarak, yoksa yanımızdaki bisiklet hoparlöründen rap dinleyerek zaman geçirdik. 
+
+İnsanlar epey arkadaş canlısıydı, mesela yaklaşık 6-7 saat araç beklediğimiz bir dağ köyünde, köylüler yol kenarında bir ağacın altına halı serip bizimle birlikte öğle yemeği yedi :)
+
+Zaman hiç alışık olmadığım kadar yavaş bir hızla ama eşi benzeri olmayan bir lezzette akıyordu. Dış dünyadaki olağanüstü durağanlık, iç dünyamda, kalbim ve aklımda yani, rio karnavalı olarak tabir edebileceğim bi şölene dönüşmüştü, not defterim düşüncelerle, fikirlerle, çizimlerle doldu taştı.
+
+Bahsettiğim otostop yolculuğu sırasında fotoğraftaki iki kardeşle tanıştık, bizi yeni aldıkları motosikletle epey bir mesafe götürdüler, lakin dağ yolunun sarp yokuşları nedeniyle motor 4 kişiyi çekmekte epey zorlandı ve sürekli hararet yaptı.
+
+Her hararetten sonra 15-20 dakika bekleyip tekrar yola devam ettik, birkaç kez inip başka bir araca binmeyi teklif etsek de kabul etmediler. En sonunda motoru daha uzun süre dinlendirmek için bir köy kahvesine gittik. Çay muhabbet derken birkaç saat geçti, ardından tekrar yola devam, motor bu kez hararet yapmadan gece 11 gibi yolumuzun ayrıldığı kasabaya ulaştırdı.
+
+Kendilerini acemi gösteren heyecanla bir panzerin etrafında koşuşturan polislerin yanından geçip, çadır kurmak için kimsenin rahatsız etmeyeceği bir sokak aramaya başladık. Kasabanın meydanında büyük bir kalabalık toplanmıştı, o gün Fas'ta genel seçimler yapılıyormuş. Yağmur epey şiddetlendi, pek seçici davranmadan bir ara sokağa çadırımızı kurup uykuya daldık, ertesi sabah 4'te uyanarak yola devam ettik...
+
+## yirmili yaşlar
+
+Bir sabah uyanacağız, etrafımızdaki herkes bizden daha genç yaşta olacaklar. Yeni çıkan bi şarkının muhteşem ahenginden bahsedecekler ama kulaklarımız pek iyi duyamayacak. Bir kitabın nasıl da ufuk açıcı, nasıl da ters köşeye yatırıcı yepyeni fikirlerle dolup taştığından sözedecekler ama gözlerimiz kitap okuyacak kadar iyi göremeyecek. Görseler de çabucak yorulacaklar. En korkuncu da, artık ne kendimizi geliştirmek için, ne de değişmek için fırsatımız olacak. İleriye baktığımızda ölüm göreceğiz. Dünyadan geçip gideceğiz ve bu geçişin en güzel döneminin, 20'li yaşların kıymetini çok iyi bilmeliyiz. 
+
 ## sahara çölü
 
 Bir yanda güneş batarken, diğer yanda ay beliriyor. Çöl, tabiatın müsade isteyip insanla gökyüzünü başbaşa bıraktığı yer. Etrafta ne bir karınca, ne de yaprak hışırtısı var. Karanlık çöküp ay yörüngesinde ilerlerken, rüzgar da şiddetlenmeye başlayıp kum taneciklerini tek tek istediği noktalara bırakıyor. Rüzgar, bu başyapıtın ardındaki sanatçının fırçası adeta; her akşam ortaya çıkıp gündoğumuna dek çölün her milimetre karesini, bütün kum tepelerini en ince detaylarına kadar geometrik oyunlarla nakış gibi işliyor. Rüzgarın şiddetli olmadığı bir kuytuya uyku tulumlarımızı serip yatıyoruz, üç gün iki gece buradayız, erzağımız elma, mandalina, soğan, domates, ekmek ve birkaç litre su. 
