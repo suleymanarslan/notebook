@@ -19,6 +19,8 @@ The quotes I stumbled upon and found inspirational.
 > angelheaded hipsters burning for the ancient heavenly connection to the / starry dynamo in the machinery of night
 — Allen Gingsberg, Howl
 
+> The best time to plant a tree was 20 years ago. The second best time is now
+- Chinese proverb
 
 #### Jalāl ad-Dīn Muhammad Rūmī:
 
