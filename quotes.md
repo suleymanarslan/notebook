@@ -6,6 +6,7 @@ The quotes I stumbled upon and found inspirational.
   * [Jalāl ad-Dīn Muhammad Rūmī](#jalāl-ad-dīn-muhammad-rūmī)
   * [Mahatma Gandi](#mahatma-gandi)
   * [Omar Khayyám](#omar-khayyám)
+  * [Antoine de Saint-Exupery](#antoine-de-saint-Exupery)
 * [Türkçe](#türkçe)
 
 ### English
@@ -32,6 +33,14 @@ The quotes I stumbled upon and found inspirational.
 > A goal without a plan is just a wish.
 
 > The machine does not isolate us from the great problems of nature but plunges us more deeply into them.
+
+From [The Little Prince](https://en.wikipedia.org/wiki/The_Little_Prince)
+
+> The most beautiful things in the world cannot be seen or touched, they are felt with the heart.
+
+> All grown-ups were once children... but only few of them remember it.
+
+> And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye.
 
 #### Jalāl ad-Dīn Muhammad Rūmī:
 
