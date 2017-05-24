@@ -13,15 +13,6 @@ The quotes I stumbled upon and found inspirational.
 > Everyone you will ever meet knows something you don't.
 — Bill Nye
 
-> Perfection is finally attained not when there is no longer anything to add, but when there is no longer anything to take away.
-— Antoine de Saint-Exupery
-
-> A goal without a plan is just a wish.
-— Antoine de Saint-Exupery
-
-> The machine does not isolate us from the great problems of nature but plunges us more deeply into them.
-— Antoine de Saint-Exupery
-
 > To go wrong in one's own way is better than to go right in someone else's.
 — Fyodor Dostoyevsky
 
@@ -33,6 +24,14 @@ The quotes I stumbled upon and found inspirational.
 
 > Angelheaded hipsters burning for the ancient heavenly connection to the / starry dynamo in the machinery of night
 — Allen Gingsberg, Howl
+
+#### Antoine de Saint-Exupery:
+
+> Perfection is finally attained not when there is no longer anything to add, but when there is no longer anything to take away.
+
+> A goal without a plan is just a wish.
+
+> The machine does not isolate us from the great problems of nature but plunges us more deeply into them.
 
 #### Jalāl ad-Dīn Muhammad Rūmī:
 
