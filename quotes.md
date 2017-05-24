@@ -3,10 +3,10 @@
 The quotes I stumbled upon and found inspirational. 
 
 * [English](#english)
+  * [Antoine de Saint-Exupery](#antoine-de-saint-exupery)
   * [Jalāl ad-Dīn Muhammad Rūmī](#jalāl-ad-dīn-muhammad-rūmī)
   * [Mahatma Gandi](#mahatma-gandi)
   * [Omar Khayyám](#omar-khayyám)
-  * [Antoine de Saint-Exupery](#antoine-de-saint-Exupery)
 * [Türkçe](#türkçe)
 
 ### English
@@ -39,8 +39,6 @@ From [The Little Prince](https://en.wikipedia.org/wiki/The_Little_Prince)
 > The most beautiful things in the world cannot be seen or touched, they are felt with the heart.
 
 > All grown-ups were once children... but only few of them remember it.
-
-> And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye.
 
 #### Jalāl ad-Dīn Muhammad Rūmī:
 
