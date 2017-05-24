@@ -13,7 +13,13 @@ The quotes I stumbled upon and found inspirational.
 > Everyone you will ever meet knows something you don't.
 — Bill Nye
 
-> Perfection is Achieved Not When There Is Nothing More to Add, But When There Is Nothing Left to Take Away
+> Perfection is finally attained not when there is no longer anything to add, but when there is no longer anything to take away.
+— Antoine de Saint-Exupery
+
+> A goal without a plan is just a wish.
+— Antoine de Saint-Exupery
+
+> The machine does not isolate us from the great problems of nature but plunges us more deeply into them.
 — Antoine de Saint-Exupery
 
 > To go wrong in one's own way is better than to go right in someone else's.
