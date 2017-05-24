@@ -13,14 +13,20 @@ The quotes I stumbled upon and found inspirational.
 > Everyone you will ever meet knows something you don't.
 — Bill Nye
 
+> Perfection is Achieved Not When There Is Nothing More to Add, But When There Is Nothing Left to Take Away
+— Antoine de Saint-Exupery
+
 > To go wrong in one's own way is better than to go right in someone else's.
 — Fyodor Dostoyevsky
 
-> angelheaded hipsters burning for the ancient heavenly connection to the / starry dynamo in the machinery of night
-— Allen Gingsberg, Howl
-
 > The best time to plant a tree was 20 years ago. The second best time is now
-- Chinese proverb
+— Chinese proverb
+
+> Your need for acceptance can make you invisible in this world
+— Jim Carrey
+
+> Angelheaded hipsters burning for the ancient heavenly connection to the / starry dynamo in the machinery of night
+— Allen Gingsberg, Howl
 
 #### Jalāl ad-Dīn Muhammad Rūmī:
 
