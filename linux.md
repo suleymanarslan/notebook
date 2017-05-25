@@ -82,6 +82,14 @@ Lists network interfaces in the system.
   yes | pacman -S yolo
   ```
 
+#### pkill -f
+
+Kills a process partially matching given pattern;
+
+```
+pkill -f pattern
+```
+
 ## partitioning
 
   * Command-line tools: parted, fdisk, cfdisk (with UI)
@@ -267,7 +275,7 @@ route | grep '^default' | grep -o '[^ ]*$'
 ```
 
 
-#### Get Public IP Address:
+#### Get Internal IP Address:
 
 ```bash
 ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}[0-9]*' | grep -v '127.0.0.1'
