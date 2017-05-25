@@ -1,12 +1,37 @@
 # linux
 
+List of Contents:
+
+* [Useful Commands](#useful-commands)
+  * [chroot](#chroot)
+  * [dialog](#dialog)
+  * [fc-list](#fc-list)
+  * [nl](#nl)
+  * [powertop](#powertop)
+  * [yes](#yes)
+  * [du](#du)
+  * [ncdu](#ncdu)
+  * [expac](#expac)
+  * [ip](#ip)
+  * [pkill](#pkill)
+  * [sed](#sed)
+  * [awk](#awk)
+  * [tmux](#tmux)
+  * [htop](#htop)
+  * [systemctl](#systemctl)
+* [Useful Networking Commands](#networking)
+* [Arch Linux Installation](#arch-linux-installation)
+* [Building Custom Arch ISO](#building-custom-arch-iso)
+* [Irssi](#irssi)
+* [Xmonad](#xmonad)
+
 ## Useful Commands
 
 #### chroot
-  Opens a new TTY on given root directory.
+Opens a new TTY on given root directory.
 
-#### [dialog](#dialogs)
-  You can create UI dialogs with it on command-line easily. For example;
+#### dialog
+You can create UI dialogs with it on command-line easily. For example;
 
   ```bash
   usernameDialog () {
@@ -20,35 +45,43 @@
   ```
 
 #### fc-list
-  Lists fonts available in the system.
+Lists fonts available in the system.
 
-  ```bash
-  fc-list | grep Monaco
-  ```
+```bash
+fc-list | grep Monaco
+```
 
 #### nl
-  Adds line numbers to beginning of each line
+Adds line numbers to beginning of each line.
+
+```bash
+cat foobar.txt | nl
+```
 
 #### powertop
-  Lists processes by their energy consume.
+Lists processes by their energy consume.
 
 #### yes
-  Approve all confirmations
+Approve all confirmations
+
+  ```bash
+  yes | pacman -S yolo
+  ```
 
 #### du
-  Checks size of a folder.
+Checks size of a folder.
 
   ```bash
   du -sh /
   ```
 
 #### ncdu
-  Disk usage analyzer with CLI UI with ncurses.
+Disk usage analyzer with CLI UI with ncurses.
 
 #### expac
-  Data extraction tool for ALPM (Arch Linux Package Management).
+Data extraction tool for ALPM (Arch Linux Package Management).
 
-  To list packages by their size;
+To list packages by their size;
   ```bash
   expac "%n %m" -l'\n' -Q $(pacman -Qq) | sort -rhk 2 | less
   ```
@@ -57,127 +90,91 @@
   yes | pacman -S yolo
   ```
 
-#### ip link show
+#### ip
 
-Lists network interfaces in the system.
+List network interfaces in the system:
 
-#### command_exists
+```bash
+ip link show
+```
 
-  Definition:
-  ```bash
-  command_exists () {
-      type "$1" &> /dev/null ;
-  }
-  ```
+Manage routing tables:
 
-  Usage:
+```
+ip r
+```
 
-  ```
-  if command_exists foo ; then
-      echo "yo"
-  fi
-  ```
+#### pkill
 
-  ```bash
-  yes | pacman -S yolo
-  ```
-
-#### pkill -f
-
-Kills a process partially matching given pattern;
+Kill a process partially matching given pattern;
 
 ```
 pkill -f pattern
 ```
 
-## partitioning
+#### sed
 
-  * Command-line tools: parted, fdisk, cfdisk (with UI)
-  * List disks and partitions by `fdisk -l` or `lsblk`
-  * The simple and popular layout is boot & root;
-
-  ```bash
-  parted /dev/sda --script mklabel msdos \
-      mkpart primary ext4 1MiB 512MiB \
-      set 1 boot on \
-      mkpart primary ext4 512MiB 100%
-  ```
-
-  * Don't forget formatting them as ext4: `yes | mkfs.ext4 /dev/sda1`
-
-## creating users
-
-  This bash function I wrote for happy-hacker-linux installer shows the steps of creating a user.
-
-```bash
-createUser () {
-    useradd -m -s /usr/bin/zsh $1
-    echo "$1:$2" | chpasswd
-
-    echo "$1 ALL=(ALL) NOPASSWD: ALL" >> /etc/sudoers
-    echo $1 > /etc/hostname
-    echo "127.0.1.1	$1.localdomain	$1" >> /etc/hosts
-}
-```
-
-## arch linux installation
-
-* [Create Partitions](#partitioning)
-* Make sure boot (/mnt/boot) & root (/mnt) mounted.
-* Run `pacstrap` to install the base: `pacstrap /mnt`
-* Update FS Tab: `genfstab -U /mnt >> /mnt/etc/fstab`
-* Switch to the new root: `arch-chroot /mnt`
-* Install GRUB
-* Localize:
-  * Select timezone with `tzselect`
-  * Generate /etc/adjtime: `hwclock --systohc`
-  * Uncomment en_US lines in /etc/locale.gen: `sed -i -e '/^#en_US/s/^#//' /etc/locale.gen`
-  * Generate locales with `locale-gen`
-  * `echo "LANG=en_US.UTF-8" >> /etc/locale.conf`
-  * `echo "FONT=Lat2-Terminus16" >> /etc/vconsole.conf`
-* [Create users](#create-users)
-* Done
-
-## sed
-
-#### Uncomment matching line with sed
+Uncomment matching line:
 
 ```bash
 sed -i -e '/^#en_US/s/^#//' /etc/locale.
 ```
 
-#### slugify a string
+Slugify a string:
 
 ```bash
 sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z
 ```
 
-## awk
-
-#### Select columns
+#### awk
 
 ```bash
 lsblk | awk '{print $1,$4}'
 # sda 8GB
 ```
 
-## iterating input by line and columns
+#### Tmux
 
-```bash
-while read col1 col2 ; do
-  echo "$col1 $col2"
-done < input.txt
-```
+On command-line:
+* `tmux a -t [name]` Open a session
+* `tmux ls` List available sessions
 
-## timezones
+On session:
+* `C-z $` Rename session
+* `C-z d` Detach session
 
-#### list all regions:
+Windows
 
-```bash
-find /usr/share/zoneinfo/. -maxdepth 1 -type d | cut -d "/" -f6 | sed '/^$/d'
-```
+* `C-[left]` Select the next window
+* `C-[right]` Select the previous window
+* `S-[left]` Move window to left
+* `S-[right]` Move window to right
+* `C-z c` Open new window
+* `C-z x` Close current window
+* `C-z C-z`  Open last window
+* `C-z :swap-window -t -1` Move current window to left
+* `C-z ,` Rename window
+* `C-z n` Next window
+* `C-z p` Previous window
 
-## Managing Services
+Status Bar
+
+* `C-z b` Toggle status bar
+
+#### htop
+
+Interactive process viewer. Useful keybindings:
+
+* `/` Search
+* `\` Filter
+* `,` Choose the sorting criteria
+* `k` Send kill signal to selected process
+* `u` Filter results by user
+* `t` Open/close tree mode
+* `-` or `+` Collapse/uncollapse process trees
+* `H` Turn off displaying threads
+
+#### systemctl
 
 Use `systemctl` command to control the services. Example;
 
@@ -216,14 +213,114 @@ See logs of a specific unit;
 sudo journalctl -xu dhcpcd@enp0s3.service --since today
 ```
 
-## Irssi
-* Auto-connect to a network: `/server ADD -auto -network NetworkName irc.host.com 6667`
-* Auto-join to channels: `/channel ADD -auto #channel NetworkName password`
-* Switch to a window: `M-[number]` use letters when for windows beyond 9: `M-[q|w|e|r|t|y]`
-* Close window: `/wc`
-* Save config: `/save`
-* Load a script: `/script load awm`
-* Set theme: `/set theme weed`
+## Networking
+
+#### Get the name of the actively used network interfaces
+
+```bash
+route | grep '^default' | grep -o '[^ ]*$'
+```
+
+#### Get Internal IP Address:
+
+```bash
+ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}[0-9]*' | grep -v '127.0.0.1'
+```
+
+#### Get Sent/Received Bytes
+
+```
+cat /sys/class/net/eth0/statistics/rx_bytes
+cat /sys/class/net/eth0/statistics/rx_packets
+cat /sys/class/net/eth0/statistics/tx_packets
+cat /sys/class/net/eth0/statistics/tx_bytes
+```
+
+#### Check If You're Online
+
+```
+ping -q -w 1 -c 1 $gateway> /dev/null && echo 1 || echo 0
+```
+
+#### Get Gateway IP
+
+```
+ip r | grep default | cut -d ' ' -f 3
+```
+
+## Arch Linux Installation
+
+* [Create Partitions](#partitioning)
+* Make sure boot (/mnt/boot) & root (/mnt) mounted.
+* Run `pacstrap` to install the base: `pacstrap /mnt`
+* Update FS Tab: `genfstab -U /mnt >> /mnt/etc/fstab`
+* Switch to the new root: `arch-chroot /mnt`
+* Install GRUB
+* Localize:
+  * [Select timezone](#timezones)
+  * Generate /etc/adjtime: `hwclock --systohc`
+  * Uncomment en_US lines in /etc/locale.gen: `sed -i -e '/^#en_US/s/^#//' /etc/locale.gen`
+  * Generate locales with `locale-gen`
+  * `echo "LANG=en_US.UTF-8" >> /etc/locale.conf`
+  * `echo "FONT=Lat2-Terminus16" >> /etc/vconsole.conf`
+* [Create users](#creating-users)
+* Done
+
+### Partitioning
+
+  * Command-line tools: parted, fdisk, cfdisk (with UI)
+  * List disks and partitions by `fdisk -l` or `lsblk`
+  * The simple and popular layout is boot & root;
+
+  ```bash
+  parted /dev/sda --script mklabel msdos \
+      mkpart primary ext4 1MiB 512MiB \
+      set 1 boot on \
+      mkpart primary ext4 512MiB 100%
+  ```
+
+  * Don't forget formatting them as ext4: `yes | mkfs.ext4 /dev/sda1`
+
+### Creating Users
+
+  This bash function I wrote for happy-hacker-linux installer shows the steps of creating a user.
+
+```bash
+createUser () {
+    useradd -m -s /usr/bin/zsh $1
+    echo "$1:$2" | chpasswd
+
+    echo "$1 ALL=(ALL) NOPASSWD: ALL" >> /etc/sudoers
+    echo $1 > /etc/hostname
+    echo "127.0.1.1	$1.localdomain	$1" >> /etc/hosts
+}
+```
+
+### Timezones
+
+View your time info:
+
+```bash
+timedatectl
+```
+
+List all regions:
+
+```bash
+find /usr/share/zoneinfo/. -maxdepth 1 -type d | cut -d "/" -f6 | sed '/^$/d'
+```
+
+Or, select your timezone interactively:
+
+```bash
+tzselect
+```
+
+Then set your timezone:
+
+```bash
+timedatectl set-timezone Asia/Makassar
+```
 
 ## Building Custom Arch ISO
 
@@ -262,42 +359,15 @@ Now, you will be out of your chroot, with the built ISO at the file path of:
 /tmp/chroot/tmp/baseline/out/<iso>
 ```
 
-## xmonad
+## Irssi
+* Auto-connect to a network: `/server ADD -auto -network NetworkName irc.host.com 6667`
+* Auto-join to channels: `/channel ADD -auto #channel NetworkName password`
+* Switch to a window: `M-[number]` use letters when for windows beyond 9: `M-[q|w|e|r|t|y]`
+* Close window: `/wc`
+* Save config: `/save`
+* Load a script: `/script load awm`
+* Set theme: `/set theme weed`
+
+## Xmonad
 
 * After making a change hit `xmonad --recompile` to check errors, then `mod+r` to reload the config.
-
-## network
-
-#### Get the name of the actively used network interfaces
-
-```bash
-route | grep '^default' | grep -o '[^ ]*$'
-```
-
-
-#### Get Internal IP Address:
-
-```bash
-ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}[0-9]*' | grep -v '127.0.0.1'
-```
-
-#### Get Sent/Received Bytes
-
-```
-cat /sys/class/net/eth0/statistics/rx_bytes
-cat /sys/class/net/eth0/statistics/rx_packets
-cat /sys/class/net/eth0/statistics/tx_packets
-cat /sys/class/net/eth0/statistics/tx_bytes
-```
-
-#### Check If You're Online
-
-```
-ping -q -w 1 -c 1 $gateway> /dev/null && echo 1 || echo 0
-```
-
-#### Get Gateway IP
-
-```
-ip r | grep default | cut -d ' ' -f 3
-```

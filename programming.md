@@ -155,12 +155,39 @@ if [[ $string == *"My long"* ]]; then
 fi
 ```
 
+#### Check if a command exists
+
+Definition:
+```bash
+  command_exists () {
+      type "$1" &> /dev/null ;
+  }
+```
+
+Usage:
+
+```
+  if command_exists foo ; then
+      echo "yo"
+  fi
+```
+
 ### loops
 
 #### Iterate Files
 
 ```bash
 for i in *; do echo $i; done
+```
+
+#### iterating input by line and columns
+
+```bash
+lsblk | awk '{print $1,$4}' > input.txt
+
+while read col1 col2 ; do
+  echo "$col1 $col2"
+done < input.txt
 ```
 
 ### dialogs
