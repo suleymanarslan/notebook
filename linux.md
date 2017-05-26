@@ -145,10 +145,10 @@ On session:
 
 Windows
 
-* `C-[left]` Select the next window
-* `C-[right]` Select the previous window
-* `S-[left]` Move window to left
-* `S-[right]` Move window to right
+* `S-[left]` Select the next window
+* `S-[right]` Select the previous window
+* `C-[left]` Move window to left
+* `C-[right]` Move window to right
 * `C-z c` Open new window
 * `C-z x` Close current window
 * `C-z C-z`  Open last window
@@ -160,6 +160,10 @@ Windows
 Status Bar
 
 * `C-z b` Toggle status bar
+
+Other
+
+* `C-z :source-file ~/.tmux.conf` Reload config
 
 #### htop
 
