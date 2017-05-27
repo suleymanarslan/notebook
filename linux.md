@@ -128,9 +128,19 @@ sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z
 
 #### awk
 
+Select particular columns and print out;
 ```bash
 lsblk | awk '{print $1,$4}'
 # sda 8GB
+```
+
+#### file
+
+Returns file info. It's especially useful on images;
+
+```bash
+file logo.png
+# PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
 ```
 
 #### Tmux
