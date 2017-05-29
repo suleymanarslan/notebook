@@ -1,7 +1,47 @@
 # Parenthood
 
+Pregnancy:
+* [Pregnancy Diet](#pregnancy-diet)
 * [Development of Baby](#development-of-baby)
-* [States of Pregnancy](#states-of-pregnancy)
+* [Stages of Pregnancy](#states-of-pregnancy)
+
+## Pregnancy Diet
+
+#### Daily Nutrition Needed:
+
+* Folic Acid (0.4 to 0.8 mg): Lentils, dark green vegetables, beans, fruit and juice
+* Iron 27mg: Seafood, beans, dark green & leafy vegetables
+* Calcium 1000mg: Milk, Cheese, Cooked Kale, Broccoli, Almonds, Yogurt
+* Vitamin A 770 Mcg: Carrots, Eggs, Broccoli, Beef Liver
+* Vitamin B12 2.6 Mcg: Beef liver, Salmon, Milk
+
+#### Recommended
+
+* Drink 10 cups of fluids
+* Fish (Salmon is great)
+* Boiled egg in the morning
+* Beans: Protein & fiber
+* Sweet Potato: Vitamin A, C and Fiber
+* Whole Grains: Fiber and Vitamin E
+* Walnuts: Omega 3s
+* Yogurt: Protein
+* Dark green, leafy vegetables: Vitamin A, C, K
+* Lean Meats (fat cut off): High-quality Protein
+* Colorful fruits and veggies: 
+
+#### Avoid
+
+* Alcohol, smoking
+* Refrigerated smoked seafood like whitefish, salmon, and mackerel
+* Hot dogs or deli meats unless steaming hot
+* Refrigerated meat spreads
+* Unpasteurized milk or juices
+* Store-made salads, such as chicken, egg, or tuna salad
+* Unpasteurized soft cheeses, such as unpasteurized feta, Brie, queso blanco, queso fresco, and blue cheeses
+* Shark, swordfish, king mackerel, or tile fish (also called golden or white snapper); these fish have high levels of mercury.
+* More than 170 grams per week of white (albacore) tuna
+* Herbs and plants used as medicines without your doctor's okay.
+* Raw sprouts of any kind (including alfalfa, clover, radish, and mung bean)
 
 ## Development of Baby
 
