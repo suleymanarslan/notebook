@@ -1,11 +1,36 @@
 # life
 
+Index of Contents:
+
+* [Self Advices](#self-advices)
+* [Do When Stressed](#do-when-stressed)
+* [Pregnancy](#pregnancy)
+* [Qualities We Need In Our Every Day Lifes](#qualities-we-need-in-our-every-day-lifes)
+* [Wisdom](#wisdom)
+* [5 Ways To Build Lasting Self-esteem](#5-ways-to-build-lasting-self-esteem)
+* [Why Do We See Dreams?](#why-do-we-see-dreams)
+* [Better Conversation Advices](#better-conversation-advices)
+* [The Daily Routines Of Famous Creative People](#the-daily-routines-of-famous-creative-people)
+
 ## Self-advices
 
 * Be incomplete
 * Be free, own yourself 100%
 * If you can do something in less than a minute, do it now without delaying
 * Smile and make it fun
+
+
+## Do When Stressed
+
+* Do push-ups
+* Take photos
+* Sing your favorite songs
+* Take naps
+* Play cards, backgammon, 101 with friends
+* Listen podcasts
+* Watch movies
+* Go somewhere, talk walk
+* Smoke weed
 
 ## Qualities we need in our every day lifes
 
@@ -73,17 +98,6 @@ Noted from a [TED video](https://www.youtube.com/watch?v=l_NYrWqUR40)
 * Practice failure. Those who fail are better equipped to face challenges.
 * Be kind to yourself when you make mistakes.
 
-## Do when you feel stressed
-
-* Do push-ups
-* Take photos
-* Sing your favorite songs
-* Take naps
-* Play cards, backgammon, 101 with friends
-* Listen podcasts
-* Watch movies
-* Go somewhere, talk walk
-* Smoke weed
 
 ## Better Conversation Advices
 
