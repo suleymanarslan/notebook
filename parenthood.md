@@ -13,8 +13,8 @@ Index Of Contents:
 * Folic Acid (0.4 to 0.8 mg): Lentils, dark green vegetables, beans, fruit and juice
 * Iron 27mg: Seafood, beans, dark green & leafy vegetables
 * Calcium 1000mg: Milk, Cheese, Cooked Kale, Broccoli, Almonds, Yogurt
-* Vitamin A 770 Mcg: Carrots, Eggs, Broccoli, Beef Liver
-* Vitamin B12 2.6 Mcg: Beef liver, Salmon, Milk
+* Vitamin A 770 Mcg: Carrots, Eggs, Broccoli
+* Vitamin B12 2.6 Mcg: Salmon, Milk
 
 #### Recommended
 
@@ -43,6 +43,7 @@ Index Of Contents:
 * More than 170 grams per week of white (albacore) tuna
 * Herbs and plants used as medicines without your doctor's okay.
 * Raw sprouts of any kind (including alfalfa, clover, radish, and mung bean)
+* Liver ([ref](https://www.evira.fi/en/foodstuff/information-on-food/food-hazards/restriction-on-the-use-of-foodstuffs/consumption-of-liver-and-liver-based-foods/consumption-of-liver-and-liver-based-food-during-pregnancy/))
 
 ## Development of Baby
 
