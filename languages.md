@@ -95,6 +95,13 @@ See also: [toba-batak-dictionary/dict.json](https://github.com/azer/toba-batak-d
 
 Words I looked up on dictionary;
 
+#### Endure
+
+* suffer (something painful or difficult) patiently.
+synonyms:	undergo, go through, live through, experience, meet, encounter; More
+
+* remain in existence; last.
+
 #### Incentive
 
 ```
