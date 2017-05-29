@@ -5,11 +5,14 @@ The quotes I stumbled upon and found inspirational.
 * [English](#english)
   * [Antoine de Saint-Exupery](#antoine-de-saint-exupery)
   * [Jalāl ad-Dīn Muhammad Rūmī](#jalāl-ad-dīn-muhammad-rūmī)
-  * [Mahatma Gandi](#mahatma-gandi)
+  * [Mahatma Gandi](#mahatma-gandhi)
   * [Omar Khayyám](#omar-khayyám)
 * [Türkçe](#türkçe)
 
 ### English
+
+> Talent is insignificant. I know a lot of talented ruins. Beyond talent lie all the usual words: discipline, love, luck, but most of all, endurance.
+— James Baldwin
 
 > Everyone you will ever meet knows something you don't.
 — Bill Nye
