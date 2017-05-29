@@ -6,6 +6,14 @@
 
 ## 2017
 
+#### May 27
+
+We learnt that my wife Nova is pregnant! And it was already 1.5 months old! 
+
+#### May 19
+
+[Kozmos](http://getkozmos.com) soft-launched by sending invites to people who requested invites.
+
 #### April 19th
 
 I'm back to Ubud, Indonesia.
