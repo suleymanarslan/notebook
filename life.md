@@ -4,7 +4,7 @@ Index of Contents:
 
 * [Self Advices](#self-advices)
 * [Do When Stressed](#do-when-stressed)
-* [Pregnancy](#pregnancy)
+* [8 Qualities of Cultured People](#8-qualities-of-cultured-people)
 * [Qualities We Need In Our Every Day Lifes](#qualities-we-need-in-our-every-day-lifes)
 * [Wisdom](#wisdom)
 * [5 Ways To Build Lasting Self-esteem](#5-ways-to-build-lasting-self-esteem)
@@ -31,6 +31,19 @@ Index of Contents:
 * Watch movies
 * Go somewhere, talk walk
 * Smoke weed
+
+## 8 Qualities of Cultured People
+
+According to [Anton Chekhov](https://www.brainpickings.org/2013/01/29/anton-chekhov-8-qualities-of-cultured-people/)
+
+* They respect human personality, and therefore they are always kind, gentle, polite, and ready to give in to others.
+* They have sympathy not for beggars and cats alone. Their heart aches for what the eye does not see….
+* They respect the property of others, and therefor pay their debts.
+* They are sincere, and dread lying like fire. They don’t lie even in small things. 
+* They do not disparage themselves to rouse compassion.
+* They have no shallow vanity. They do not care for such false diamonds as knowing celebrities.
+* If they have a talent they respect it. They sacrifice to it rest, women, wine, vanity…
+* They develop the aesthetic feeling in themselves. They cannot go to sleep in their clothes, see cracks full of bugs on the walls, breathe bad air, walk on a floor that has been spat upon, cook their meals over an oil stove.
 
 ## Qualities we need in our every day lifes
 
