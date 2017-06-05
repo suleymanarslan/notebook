@@ -19,6 +19,7 @@ List of Contents:
   * [tmux](#tmux)
   * [htop](#htop)
   * [systemctl](#systemctl)
+  * [tee](#tee)
 * [Useful Networking Commands](#networking)
 * [Arch Linux Installation](#arch-linux-installation)
 * [Building Custom Arch ISO](#building-custom-arch-iso)
@@ -225,6 +226,16 @@ See logs of a specific unit;
 
 ```bash
 sudo journalctl -xu dhcpcd@enp0s3.service --since today
+```
+
+#### tee
+
+It's used for splitting the output of a program so we can both display it and also save it.
+
+For example, add a new entry to hosts file;
+
+```
+echo "127.0.0.1 foobar" | sudo tee -a /etc/hosts
 ```
 
 ## Networking
