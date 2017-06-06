@@ -174,25 +174,25 @@ Our route in Morocco has been;
 
 ## Beautiful Places in Turkey
 
-* **Sumela Monastery** http://en.wikipedia.org/wiki/Sumela_Monastery
-* **Mount Nemrut** http://en.wikipedia.org/wiki/Mount_Nemrut
-* **Dalyan, Patara, Xantos** http://en.wikipedia.org/wiki/Lycia
-* **Kaputaş Beach** http://instagram.com/p/d1Zx7ZEm2b/
-* **Saklıkent Gorge** [Tripadvisor](http://www.tripadvisor.com/Attraction_Review-g298031-d1931924-Reviews-Saklikent_Gorge-Fethiye_Mugla_Province_Turkish_Aegez_Coast.html)
-* **Hasankeyf** https://www.flickr.com/photos/azer/11687458044/
-* **Ancient Mardin** http://instagram.com/p/iiJdDfEm0x/
-* **Mor Hananyo Monastary** http://en.wikipedia.org/wiki/Mor_Hananyo_Monastery
-* **Ancient Harran** http://instagram.com/p/itHGqOkm6Y/ 
-* **Diyarbakır** [Tripadvisor](http://www.tripadvisor.com/Attractions-g297994-Activities-Diyarbakir.html)
-* **Urfa** http://instagram.com/p/iq-b39Em11/
-* **Pergamon** http://en.wikipedia.org/wiki/Pergamon
-* **Ephesus** http://en.wikipedia.org/wiki/Ephesus
-* **Ani, Kars** http://en.wikipedia.org/wiki/Ani
-* **Cappadocia** http://en.wikipedia.org/wiki/Cappadocia
-* **Göbekli Tepe**http://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe
-* **Karatepe National Park** http://en.wikipedia.org/wiki/Karatepe
-* **Ayder Yaylası** http://en.wikipedia.org/wiki/Ayder
-* **Munzur Valley National Park** http://en.wikipedia.org/wiki/Munzur_Valley_National_Park
-* **Sülbüs Mountain** http://tr.wikipedia.org/wiki/S%C3%BClb%C3%BCs_Da%C4%9F%C4%B1
-* **Doğubeyazıt** https://en.wikipedia.org/wiki/Do%C4%9Fubeyaz%C4%B1t
-* **Van** https://en.wikipedia.org/wiki/Van
+* Sumela Monastery http://en.wikipedia.org/wiki/Sumela_Monastery
+* Mount Nemrut http://en.wikipedia.org/wiki/Mount_Nemrut
+* Dalyan, Patara, Xantos http://en.wikipedia.org/wiki/Lycia
+* Kaputaş Beach http://instagram.com/p/d1Zx7ZEm2b/
+* Saklıkent Gorge [Tripadvisor](http://www.tripadvisor.com/Attraction_Review-g298031-d1931924-Reviews-Saklikent_Gorge-Fethiye_Mugla_Province_Turkish_Aegez_Coast.html)
+* Hasankeyf https://www.flickr.com/photos/azer/11687458044/
+* Ancient Mardin http://instagram.com/p/iiJdDfEm0x/
+* Mor Hananyo Monastary http://en.wikipedia.org/wiki/Mor_Hananyo_Monastery
+* Ancient Harran http://instagram.com/p/itHGqOkm6Y/ 
+* Diyarbakır [Tripadvisor](http://www.tripadvisor.com/Attractions-g297994-Activities-Diyarbakir.html)
+* Urfa http://instagram.com/p/iq-b39Em11/
+* Pergamon http://en.wikipedia.org/wiki/Pergamon
+* Ephesus http://en.wikipedia.org/wiki/Ephesus
+* Ani, Kars http://en.wikipedia.org/wiki/Ani
+* Cappadocia http://en.wikipedia.org/wiki/Cappadocia
+* Göbekli Tepe http://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe
+* Karatepe National Park http://en.wikipedia.org/wiki/Karatepe
+* Ayder Yaylası http://en.wikipedia.org/wiki/Ayder
+* Munzur Valley National Park http://en.wikipedia.org/wiki/Munzur_Valley_National_Park
+* Sülbüs Mountain http://tr.wikipedia.org/wiki/S%C3%BClb%C3%BCs_Da%C4%9F%C4%B1
+* Doğubeyazıt https://en.wikipedia.org/wiki/Do%C4%9Fubeyaz%C4%B1t
+* Van https://en.wikipedia.org/wiki/Van
