@@ -20,6 +20,7 @@ List of Contents:
   * [htop](#htop)
   * [systemctl](#systemctl)
   * [tee](#tee)
+  * [file](#file)
 * [Useful Networking Commands](#networking)
 * [Arch Linux Installation](#arch-linux-installation)
 * [Building Custom Arch ISO](#building-custom-arch-iso)
@@ -236,6 +237,26 @@ For example, add a new entry to hosts file;
 
 ```
 echo "127.0.0.1 foobar" | sudo tee -a /etc/hosts
+```
+
+#### file
+
+List files by extension;
+
+```
+find . -type f -name *.strings
+```
+
+Using `-or`:
+
+```
+find . -type f \( -name "*.strings" -or -name "*.txt" \)
+```
+
+Executing a command per file;
+
+```
+find . -type f -name *.strings -exec sed -i '' -e "s/foo/bar/" {} \;
 ```
 
 ## Networking
