@@ -279,7 +279,7 @@ codesign --verbose=4 -s "<Signature Key>" --deep --strict Foo.app
 Verify if an app was signed;
 
 ```
-codesign -dvvv --strict Foo.app
+codesign -dvvv --strict --deep-verify Foo.app
 ```
 
 Verify if it'll be allowed to be executed;
