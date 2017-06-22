@@ -21,6 +21,7 @@ List of Contents:
   * [systemctl](#systemctl)
   * [tee](#tee)
   * [file](#file)
+  * [date](#date)
 * [Useful Networking Commands](#networking)
 * [Arch Linux Installation](#arch-linux-installation)
 * [Building Custom Arch ISO](#building-custom-arch-iso)
@@ -143,6 +144,21 @@ Returns file info. It's especially useful on images;
 ```bash
 file logo.png
 # PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+```
+
+#### date
+
+Get unix timestamp:
+
+```
+date +%s
+```
+
+Get date & time nicely formatted;
+
+```
+date '+%d %h %H:%M'
+# 22 Jun 01:42
 ```
 
 #### Tmux
