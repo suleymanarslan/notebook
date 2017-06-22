@@ -7,6 +7,8 @@ I find myself Googling same stuff every time I'm making something. This is for r
 * [Makefiles](#makefiles)
 * [systemd](#systemd)
 * [Upstart](#upstart)
+* [Codesign](#codesign)
+* [Scraping Wikipedia](#scraping-wikipedia)
 * [HTTP Status Codes](#http-status-codes)
 
 ## CSS
@@ -264,6 +266,20 @@ script
     # Start Listener
     /opt/listen
 end script
+```
+
+## Codesign
+
+A command-line tool for signing OSX apps. e.g
+
+```
+codesign --verbose=4 -s "<Signature Key>" --deep --strict Foo.app
+```
+
+Verify if an app was signed;
+
+```
+codesign -dvvv Foo.app
 ```
 
 ## Makefiles
