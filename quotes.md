@@ -10,6 +10,8 @@ The quotes I stumbled upon and found inspirational.
 * [Türkçe](#türkçe)
 
 ### English
+> What’s the use of falling in love if you both remain inertly as-you-were?
+— Mary McCarthy
 
 > Talent is insignificant. I know a lot of talented ruins. Beyond talent lie all the usual words: discipline, love, luck, but most of all, endurance.
 — James Baldwin
