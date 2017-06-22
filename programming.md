@@ -282,6 +282,12 @@ Verify if an app was signed;
 codesign -dvvv --strict Foo.app
 ```
 
+Verify if it'll be allowed to be executed;
+
+```
+spctl -a -t exec -vv Foo.app
+```
+
 ## Makefiles
 
 #### multiline strings
