@@ -24,7 +24,7 @@ Websites:
 * [persona](https://persona.co/)
 * [the gallery](http://thegallery.io/)
 * [the intercept](https://theintercept.com/)
-* [cargo collectie](http://cargocollective.com/)
+* [cargo collectie](http://cargocollective.com/) | [morocco](http://cargocollective.com/ninakeinrath/)
 * [lonelyplanet.com/iran](http://www.lonelyplanet.com/) | [cambodia](https://www.lonelyplanet.com/cambodia)
 * [helen tran](http://helentran.com/) | [two habits](http://helentran.com/twohabits)
 * [crew.co](https://crew.co/)
