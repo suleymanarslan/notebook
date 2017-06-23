@@ -25,7 +25,7 @@ Websites:
 * [the gallery](http://thegallery.io/)
 * [the intercept](https://theintercept.com/)
 * [cargo collectie](http://cargocollective.com/) | [morocco](http://cargocollective.com/ninakeinrath/)
-* [lonelyplanet.com/iran](http://www.lonelyplanet.com/) | [cambodia](https://www.lonelyplanet.com/cambodia)
+* [lonelyplanet.com](http://www.lonelyplanet.com/) | [cambodia](https://www.lonelyplanet.com/cambodia)
 * [helen tran](http://helentran.com/) | [two habits](http://helentran.com/twohabits)
 * [crew.co](https://crew.co/)
 * [pudding](https://pudding.cool/)
