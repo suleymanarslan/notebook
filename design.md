@@ -9,8 +9,9 @@
 
 ## Get Inspired
 
-Tools:
+Tools & Products:
 * [Tumpline](https://en.wikipedia.org/wiki/Tumpline)
+* [Bogarde BMX](http://www.bogarde.fr/)
 * [Masahiro Kikuno](http://watchesbysjx.com/2017/05/portrait-masahiro-kikuno-japanese-watchmaker.html)
 
 Websites:
@@ -27,6 +28,8 @@ Websites:
 * [lonelyplanet.com/iran](http://www.lonelyplanet.com/) | [cambodia](https://www.lonelyplanet.com/cambodia)
 * [helen tran](http://helentran.com/) | [two habits](http://helentran.com/twohabits)
 * [crew.co](https://crew.co/)
+* [pudding](https://pudding.cool/)
+* [the book of life](http://www.thebookoflife.org/)
 
 ## Fonts
 
@@ -35,6 +38,7 @@ Websites:
 * [Beautiful Web Type](http://hellohappy.org/beautiful-web-type)
 * [Typewolf](https://www.typewolf.com/): A collection of inspirational sites with fonts listed
 * [Google Web Fonts Helper](http://google-webfonts-helper.herokuapp.com/fonts): Lets you download the fonts you like, so you can host your fonts.
+* [The Pattern Library](http://thepatternlibrary.com)
 
 ### Fonts I Use
 
