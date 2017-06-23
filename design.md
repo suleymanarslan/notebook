@@ -1,7 +1,16 @@
 # DESIGN
 
+## Philosophy
+
+* [Wabi Sabi](https://www.brainpickings.org/2010/11/11/wabi-sabi/)
+
 ## Get Inspired
 
+Tools:
+* [Tumpline](https://en.wikipedia.org/wiki/Tumpline)
+* [Masahiro Kikuno](http://watchesbysjx.com/2017/05/portrait-masahiro-kikuno-japanese-watchmaker.html)
+
+Websites:
 * [e-flux](http://www.e-flux.com/) | [article](http://www.e-flux.com/architecture/artificial-labor/)
 * [nautiulus](https://nautil.us/) | [issue](http://nautil.us/issue/49/the-absurd) | [article](http://nautil.us/issue/49/the-absurd/chaos-makes-the-multiverse-unnecessary)
 * [99percentinvisible](http://99percentinvisible.org/article/color-sphere-professors-pivotal-color-space-numbering-system/)
