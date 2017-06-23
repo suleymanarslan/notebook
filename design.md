@@ -33,7 +33,7 @@ Websites:
 * [Typewolf](https://www.typewolf.com/): A collection of inspirational sites with fonts listed
 * [Google Web Fonts Helper](http://google-webfonts-helper.herokuapp.com/fonts): Lets you download the fonts you like, so you can host your fonts.
 
-### My Bundles
+### Fonts I Use
 
 #### Kozmos Bundle
 
