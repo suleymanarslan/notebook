@@ -13,6 +13,19 @@ I find myself Googling same stuff every time I'm making something. This is for r
 
 ## CSS
 
+#### transition
+
+Add transform property ease-in effect;
+
+```css
+-webkit-transition: -webkit-transform 0.3s ease-in;
+-moz-transition: -moz-transform 0.3s ease-in;
+-o-transition: -o-transform 0.3s ease-in;
+transition: transform 0.3s ease-in;
+```
+
+Specify `all` instead of transform if effect should impact all properties.
+
 #### not()
 Apply rules to all except last one;
 

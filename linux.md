@@ -22,9 +22,13 @@ List of Contents:
   * [tee](#tee)
   * [file](#file)
   * [date](#date)
+  * [find](#find)
+  * [pidof](#pidof)
+  * [tree](#tree)
 * [Useful Networking Commands](#networking)
 * [Arch Linux Installation](#arch-linux-installation)
 * [Building Custom Arch ISO](#building-custom-arch-iso)
+* [How to submit a package to AUR?](#how-to-submit-a-package-to-aur)
 * [Irssi](#irssi)
 * [Xmonad](#xmonad)
 
@@ -255,7 +259,7 @@ For example, add a new entry to hosts file;
 echo "127.0.0.1 foobar" | sudo tee -a /etc/hosts
 ```
 
-#### file
+#### find
 
 List files by extension;
 
@@ -273,6 +277,26 @@ Executing a command per file;
 
 ```
 find . -type f -name *.strings -exec sed -i '' -e "s/foo/bar/" {} \;
+```
+
+### tree
+
+Lists contents of a directory in tree-like format.
+
+```
+tree
+```
+
+Show hidden files:
+
+```
+tree -a
+```
+
+Show only directories:
+
+```
+tree -d
 ```
 
 ## Networking
@@ -309,6 +333,21 @@ ping -q -w 1 -c 1 $gateway> /dev/null && echo 1 || echo 0
 ```
 ip r | grep default | cut -d ' ' -f 3
 ```
+
+## Irssi
+* Auto-connect to a network: `/server ADD -auto -network NetworkName irc.host.com 6667`
+* Auto-join to channels: `/channel ADD -auto #channel NetworkName password`
+* Switch to a window: `M-[number]` use letters when for windows beyond 9: `M-[q|w|e|r|t|y]`
+* Close window: `/wc`
+* Save config: `/save`
+* Load a script: `/script load awm`
+* Set theme: `/set theme weed`
+
+## Xmonad
+
+* After making a change hit `xmonad --recompile` to check errors, then `mod+r` to reload the config.
+
+## How to submit a package to AUR ?
 
 ## Arch Linux Installation
 
@@ -384,6 +423,40 @@ Then set your timezone:
 timedatectl set-timezone Asia/Makassar
 ```
 
+### date
+
+Print current date formatted:
+
+```
+date '+%d %h %H:%M'
+```
+
+Set current date:
+
+```
+date --set="23 June 1988 10:00:00"
+```
+
+Or time:
+
+```
+date --set="10:00:00"
+```
+
+### pidof
+
+Find process id of a running program:
+
+```
+pidof nginx
+```
+
+It might return multiple pids (e.g nginx have worker processes). Specify `-s` parameter to get only one pid:
+
+```
+pidof -s nginx
+```
+
 ## Building Custom Arch ISO
 
 #### Step 1: Create Chroot Base System
@@ -420,16 +493,3 @@ Now, you will be out of your chroot, with the built ISO at the file path of:
 ```
 /tmp/chroot/tmp/baseline/out/<iso>
 ```
-
-## Irssi
-* Auto-connect to a network: `/server ADD -auto -network NetworkName irc.host.com 6667`
-* Auto-join to channels: `/channel ADD -auto #channel NetworkName password`
-* Switch to a window: `M-[number]` use letters when for windows beyond 9: `M-[q|w|e|r|t|y]`
-* Close window: `/wc`
-* Save config: `/save`
-* Load a script: `/script load awm`
-* Set theme: `/set theme weed`
-
-## Xmonad
-
-* After making a change hit `xmonad --recompile` to check errors, then `mod+r` to reload the config.
