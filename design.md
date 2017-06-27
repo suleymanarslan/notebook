@@ -15,6 +15,12 @@ Tools & Products:
 * [Masahiro Kikuno](http://watchesbysjx.com/2017/05/portrait-masahiro-kikuno-japanese-watchmaker.html)
 
 Websites:
+* [aj](https://aj.lkn.io/)
+* [carrd.co](https://carrd.co)
+* [pixelarity](https://pixelarity.com/)
+* [dropbox paper](https://www.dropbox.com/paper)
+* [notion.so](https://www.notion.so/)
+* [fly](https://fly.io/)
 * [e-flux](http://www.e-flux.com/) | [article](http://www.e-flux.com/architecture/artificial-labor/)
 * [nautiulus](https://nautil.us/) | [issue](http://nautil.us/issue/49/the-absurd) | [article](http://nautil.us/issue/49/the-absurd/chaos-makes-the-multiverse-unnecessary)
 * [99percentinvisible](http://99percentinvisible.org/article/color-sphere-professors-pivotal-color-space-numbering-system/)
@@ -30,9 +36,7 @@ Websites:
 * [crew.co](https://crew.co/)
 * [pudding](https://pudding.cool/)
 * [the book of life](http://www.thebookoflife.org/)
-* [dropbox paper](https://www.dropbox.com/paper)
-* [notion.so](https://www.notion.so/)
-* [fly](https://fly.io/)
+
 
 ## Fonts
 
