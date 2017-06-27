@@ -30,6 +30,9 @@ Websites:
 * [crew.co](https://crew.co/)
 * [pudding](https://pudding.cool/)
 * [the book of life](http://www.thebookoflife.org/)
+* [dropbox paper](https://www.dropbox.com/paper)
+* [notion.so](https://www.notion.so/)
+* [fly](https://fly.io/)
 
 ## Fonts
 
