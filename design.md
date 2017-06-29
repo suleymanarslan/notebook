@@ -15,6 +15,7 @@ Tools & Products:
 * [Masahiro Kikuno](http://watchesbysjx.com/2017/05/portrait-masahiro-kikuno-japanese-watchmaker.html)
 
 Websites:
+* [u+d](http://design.u.plus/)
 * [aj](https://aj.lkn.io/)
 * [carrd.co](https://carrd.co)
 * [pixelarity](https://pixelarity.com/)
@@ -36,7 +37,7 @@ Websites:
 * [crew.co](https://crew.co/)
 * [pudding](https://pudding.cool/)
 * [the book of life](http://www.thebookoflife.org/)
-* [u+d](http://design.u.plus/)
+
 
 
 ## Fonts
