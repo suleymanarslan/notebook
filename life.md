@@ -2,6 +2,7 @@
 
 Index of Contents:
 
+* [Friendship](#friendship)
 * [Self Advices](#self-advices)
 * [Do When Stressed](#do-when-stressed)
 * [8 Qualities of Cultured People](#8-qualities-of-cultured-people)
@@ -11,6 +12,16 @@ Index of Contents:
 * [Why Do We See Dreams?](#why-do-we-see-dreams)
 * [Better Conversation Advices](#better-conversation-advices)
 * [The Daily Routines Of Famous Creative People](#the-daily-routines-of-famous-creative-people)
+
+## Friendship 
+
+[](https://cldup.com/45jCK3YVWS.jpg)
+
+Seneca [writes in his letters](https://www.brainpickings.org/2017/05/19/seneca-friendship/):
+
+> One who seeks friendship for favourable occasions, strips it of all its nobility.
+
+> If you consider any man a friend whom you do not trust as you trust yourself, you are mightily mistaken and you do not sufficiently understand what true friendship means… When friendship is settled, you must trust; before friendship is formed, you must pass judgment. Those persons indeed put last first and confound their duties, who … judge a man after they have made him their friend, instead of making him their friend after they have judged him. Ponder for a long time whether you shall admit a given person to your friendship; but when you have decided to admit him, welcome him with all your heart and soul. Speak as boldly with him as with yourself… Regard him as loyal and you will make him loyal.
 
 ## Self-advices
 
