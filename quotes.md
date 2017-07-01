@@ -11,6 +11,9 @@ The quotes I stumbled upon and found inspirational.
 * [Quran](#quran)
 
 ### English
+> You worked, you learnt team work, cooperation, and unity, and struggle, and then you became independent
+— [2pac](https://www.youtube.com/watch?v=GL-ZoNhUFmc)
+
 > May your choices reflect your hopes not your fears
 — Nelson Mandella
 
