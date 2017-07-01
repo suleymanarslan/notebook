@@ -15,7 +15,7 @@ Index of Contents:
 
 ## Friendship 
 
-[](https://cldup.com/45jCK3YVWS.jpg)
+![](https://cldup.com/45jCK3YVWS.jpg)
 
 Seneca [writes in his letters](https://www.brainpickings.org/2017/05/19/seneca-friendship/):
 
