@@ -95,6 +95,28 @@ See also: [toba-batak-dictionary/dict.json](https://github.com/azer/toba-batak-d
 
 Words I looked up on dictionary;
 
+#### Noble
+
+Adjective
+
+```
+belonging to a hereditary class with high social or political status; aristocratic.
+
+synonyms:	aristocratic, patrician, blue-blooded, high-born, titled; archaicgentle
+"a noble family"
+```
+
+```
+having or showing fine personal qualities or high moral principles and ideals.
+synonyms:	righteous, virtuous, good, honorable, upright, decent, worthy, moral, ethical, reputable; More
+```
+
+Noun
+
+```
+(especially in former times) a person of noble rank or birth.
+```
+
 #### Endure
 
 * suffer (something painful or difficult) patiently.
