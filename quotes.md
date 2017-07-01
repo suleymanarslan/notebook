@@ -11,6 +11,9 @@ The quotes I stumbled upon and found inspirational.
 * [Quran](#quran)
 
 ### English
+> May your choices reflect your hopes not your fears
+— Nelson Mandella
+
 > What’s the use of falling in love if you both remain inertly as-you-were?
 — Mary McCarthy
 
