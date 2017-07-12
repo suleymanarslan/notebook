@@ -23,6 +23,7 @@ Tools & Products:
 
 Websites:
 
+* [julie.design](http://julie.design/)
 * [semplice](https://www.semplice.com/) | [features](https://www.semplice.com/features) | [pricing](https://www.semplice.com/get-semplice)
 * [bumpers.fm](https://bumpers.fm/)
 * [betalist](https://betalist.com/) | [startup](https://betalist.com/startups/httpulse)
