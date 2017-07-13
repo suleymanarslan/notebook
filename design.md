@@ -23,6 +23,8 @@ Tools & Products:
 
 Websites:
 
+* [bench.li](http://bench.li/)
+* [minimal.gallery](http://minimal.gallery/)
 * [julie.design](http://julie.design/)
 * [semplice](https://www.semplice.com/) | [features](https://www.semplice.com/features) | [pricing](https://www.semplice.com/get-semplice)
 * [bumpers.fm](https://bumpers.fm/)
