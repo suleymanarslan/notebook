@@ -8,7 +8,7 @@
 
 [Son çalıştığım şirketteki patronum](https://en.wikipedia.org/wiki/Biz_Stone)dan (kendisi aynı zamanda Star Trek'in bilimkurgu danışmanıydı) öğrendiğim yegane bilgi, teknolojinin amacının aslında teknolojiyi hayatın dışına itmek olduğuydu. Yani en iyi teknoloji, gözle görülmeyeni, ekransız olanı, elle tutmaya gerek kalmayanı, neredeyse varlığından dahi haberimizin olmayanı.
 
-Semih Kaplanoğlu'nun yeni filmi bilimkurgu yönüyle bu nedenle çok iyi. Siyah beyaz bir defa; yani seyirciyi güzel renklerle ya da afilli "feyk" bilimkurgu aygıtlarıyla çocuk gibi oyalamak yerine gerçek bir hikaye anlatmayı tercih etmişler. Semih Kaplanoğlu'nun önceki filmlerine bakacak olursak, sadelikten yana, muazzam bir hikayeci olduğunu görüyoruz.
+Semih Kaplanoğlu'nun yeni filmi bilimkurgu yönüyle bu nedenle çok iyi. Siyah beyaz bir defa; yani seyirciyi güzel renklerle ya da afilli teknolojik oyuncaklarla çocuk gibi oyalamak yerine gerçek bir hikaye anlatmayı tercih etmişler. Semih Kaplanoğlu'nun önceki filmlerine bakacak olursak, sadelikten yana, muazzam bir hikayeci olduğunu görüyoruz.
 
 Filmin ekibinin çoğu -oyuncular da- İsveç ve Fransız, yönetmen, yazarlar ve post-produksiyoncular Türkiye'den. İlk gösterimi de Saraybosna Film Festivalinde yapılacakmış. Şahsen büyük bi heyecanla bekliyorum bu filmi, beklentim çok yüksek.
 
