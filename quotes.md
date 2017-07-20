@@ -3,6 +3,7 @@
 The quotes I stumbled upon and found inspirational. 
 
 * [English](#english)
+  * [Haruki Murakami](#haruki-murakami)
   * [Antoine de Saint-Exupery](#antoine-de-saint-exupery)
   * [Jalāl ad-Dīn Muhammad Rūmī](#jalāl-ad-dīn-muhammad-rūmī)
   * [Mahatma Gandi](#mahatma-gandhi)
@@ -11,15 +12,6 @@ The quotes I stumbled upon and found inspirational.
 * [Quran](#quran)
 
 ### English
-> Pain is inevitable. Suffering is optional.
-— Haruki Murakami
-
-> And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about.
-— Haruki Murakami
-
-> If you only read the books that everyone else is reading, you can only think what everyone else is thinking.
-— Haruki Murakami
-
 > You worked, you learnt team work, cooperation, and unity, and struggle, and then you became independent
 — [2pac](https://www.youtube.com/watch?v=GL-ZoNhUFmc)
 
@@ -46,6 +38,14 @@ The quotes I stumbled upon and found inspirational.
 
 > Angelheaded hipsters burning for the ancient heavenly connection to the / starry dynamo in the machinery of night
 — Allen Gingsberg, Howl
+
+#### Haruki Murakami
+
+> Pain is inevitable. Suffering is optional.
+
+> And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about.
+
+> If you only read the books that everyone else is reading, you can only think what everyone else is thinking.
 
 #### Antoine de Saint-Exupery:
 
