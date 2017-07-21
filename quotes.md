@@ -12,6 +12,9 @@ The quotes I stumbled upon and found inspirational.
 * [Quran](#quran)
 
 ### English
+> Where some people have a self, most people have a void, because they are too busy in wasting their vital creative energy to project themselves as this or that, dedicating their lives to actualizing a concept of what they should be like rather than actualizing their potentiality as a human being.
+— [Bruce Lee](https://www.brainpickings.org/2017/02/22/in-my-own-process-bruce-lee/)
+
 > You worked, you learnt team work, cooperation, and unity, and struggle, and then you became independent
 — [2pac](https://www.youtube.com/watch?v=GL-ZoNhUFmc)
 
