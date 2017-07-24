@@ -356,6 +356,21 @@ ip r | grep default | cut -d ' ' -f 3
 
 ## Arch Linux Installation
 
+Download ISO and create a bootable USB stick;
+
+In Linux:
+```bash
+dd bs=4M if=/path/to/archlinux.iso of=/dev/sdx status=progress && sync
+```
+
+In OSX:
+
+```bash
+sudo dd if=path/to/arch.iso of=/dev/rdiskX bs=1m
+```
+
+After booting the USB, follow these steps;
+
 * [Create Partitions](#partitioning)
 * Make sure boot (/mnt/boot) & root (/mnt) mounted.
 * Run `pacstrap` to install the base: `pacstrap /mnt`
@@ -461,6 +476,7 @@ It might return multiple pids (e.g nginx have worker processes). Specify `-s` pa
 ```
 pidof -s nginx
 ```
+
 
 ## Building Custom Arch ISO
 
