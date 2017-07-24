@@ -24,6 +24,7 @@ Tools & Products:
 
 Websites:
 
+* [the outline](https://theoutline.com/)
 * [freelance.tv](http://freelance.tv/)
 * [bench.li](http://bench.li/)
 * [minimal.gallery](http://minimal.gallery/)
