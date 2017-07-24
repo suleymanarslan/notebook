@@ -24,7 +24,7 @@ Tools & Products:
 
 Websites:
 
-* [the outline](https://theoutline.com/)
+* [the outline](https://theoutline.com/) | [topic](https://theoutline.com/topic/culture) | [article](https://theoutline.com/post/1931/michael-jackson-alter-ego-houston-hawkins-boy-george-playboy-interview)
 * [freelance.tv](http://freelance.tv/)
 * [bench.li](http://bench.li/)
 * [minimal.gallery](http://minimal.gallery/)
