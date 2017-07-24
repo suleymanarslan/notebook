@@ -25,6 +25,7 @@ List of Contents:
   * [find](#find)
   * [pidof](#pidof)
   * [tree](#tree)
+  * [xev](#xev)
 * [Useful Networking Commands](#networking)
 * [Arch Linux Installation](#arch-linux-installation)
 * [Building Custom Arch ISO](#building-custom-arch-iso)
@@ -298,6 +299,10 @@ Show only directories:
 ```
 tree -d
 ```
+
+### xev
+
+Creates a window and lets you see the keyboard events. Useful when you modify keybindings. 
 
 ## Networking
 
