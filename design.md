@@ -18,6 +18,8 @@ Index of Contents
 ## Get Inspired
 
 Tools & Products:
+
+* [ROA BMW R80](https://www.designboom.com/technology/bmw-r80-cafe-racer-roa-motorcycles-07-25-2017/)
 * [Tumpline](https://en.wikipedia.org/wiki/Tumpline)
 * [Bogarde BMX](http://www.bogarde.fr/)
 * [Masahiro Kikuno](http://watchesbysjx.com/2017/05/portrait-masahiro-kikuno-japanese-watchmaker.html)
