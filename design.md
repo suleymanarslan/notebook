@@ -19,6 +19,7 @@ Index of Contents
 
 Tools & Products:
 
+* [classified moto](https://www.designboom.com/technology/classified-moto-frank-custom-triumph-speed-triple-3-motorcycle-07-26-2017)
 * [ROA BMW R80](https://www.designboom.com/technology/bmw-r80-cafe-racer-roa-motorcycles-07-25-2017/)
 * [Tumpline](https://en.wikipedia.org/wiki/Tumpline)
 * [Bogarde BMX](http://www.bogarde.fr/)
