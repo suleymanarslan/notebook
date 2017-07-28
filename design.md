@@ -26,6 +26,10 @@ Tools & Products:
 
 Websites:
 
+* [sidlee collective](http://sidleecollective.com/)
+* [multiplicity](http://multiplicitybyfoilco.com/)
+* [we occupy](https://www.weoccupy.co.uk/)
+* [spyline](http://spyline.de/) | [project](http://spyline.de/project/multiplicity-leeds-2016/)
 * [Jeannie Huang](http://jeanniehuangdesigns.com)
 * [the outline](https://theoutline.com/) | [topic](https://theoutline.com/topic/culture) | [article](https://theoutline.com/post/1931/michael-jackson-alter-ego-houston-hawkins-boy-george-playboy-interview)
 * [freelance.tv](http://freelance.tv/)
