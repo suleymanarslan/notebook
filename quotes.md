@@ -3,6 +3,7 @@
 The quotes I stumbled upon and found inspirational. 
 
 * [English](#english)
+  * [Franz Kafka](#franz-kafka)
   * [Haruki Murakami](#haruki-murakami)
   * [Antoine de Saint-Exupery](#antoine-de-saint-exupery)
   * [Jalāl ad-Dīn Muhammad Rūmī](#jalāl-ad-dīn-muhammad-rūmī)
@@ -12,6 +13,9 @@ The quotes I stumbled upon and found inspirational.
 * [Quran](#quran)
 
 ### English
+> Don’t worry about losing. If it is right, it happens — The main thing is not to hurry. Nothing good gets away.
+— [John Steinbeck](https://www.brainpickings.org/2012/01/12/john-steinbeck-on-love-1958/)
+
 > Where some people have a self, most people have a void, because they are too busy in wasting their vital creative energy to project themselves as this or that, dedicating their lives to actualizing a concept of what they should be like rather than actualizing their potentiality as a human being.
 — [Bruce Lee](https://www.brainpickings.org/2017/02/22/in-my-own-process-bruce-lee/)
 
@@ -41,6 +45,14 @@ The quotes I stumbled upon and found inspirational.
 
 > Angelheaded hipsters burning for the ancient heavenly connection to the / starry dynamo in the machinery of night
 — Allen Gingsberg, Howl
+
+#### Franz Kafka
+
+> What is love? After all, it is quite simple. Love is everything which enhances, widens, and enriches our life. In its heights and in its depths. Love has as few problems as a motor-car. The only problems are the driver, the passengers, and the road.
+
+> Just be quiet and patient. Let evil and unpleasantness pass quietly over you. Do not try to avoid them. On the contrary, observe them carefully. Let active understanding take the place of reflex irritation, and you will grow out of your trouble. Men can achieve greatness only by surmounting their own littleness.
+
+> Patience is the master key to every situation. One must have sympathy for everything, surrender to everything, but at the same time remain patient and forbearing… There is no such thing as bending or breaking. It’s a question only of overcoming, which begins with overcoming oneself. That cannot be avoided. To abandon that path is always to break in pieces. One must patiently accept everything and let it grow within oneself. The barriers of the fear-ridden I can only be broken by love. One must, in the dead leaves that rustle around one, already see the young fresh green of spring, compose oneself in patience, and wait. Patience is the only true foundation on which to make one’s dreams come true.
 
 #### Haruki Murakami
 
