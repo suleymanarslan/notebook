@@ -238,6 +238,13 @@ Restart `systemd` scanning for new or changed units;
 systemctl daemon-reload
 ```
 
+Toggle a service with one-liner:
+
+```
+if [[  "`systemctl is-active NetworkManager`" != "active" ]]; then sudo systemctl start NetworkManager; else sudo systemctl stop NetworkManager; fi
+
+```
+
 See which units are failing;
 
 ```bash
