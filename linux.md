@@ -26,6 +26,7 @@ List of Contents:
   * [pidof](#pidof)
   * [tree](#tree)
   * [xev](#xev)
+  * [nethogs](#nethogs)
 * [Useful Networking Commands](#networking)
 * [Arch Linux Installation](#arch-linux-installation)
 * [Building Custom Arch ISO](#building-custom-arch-iso)
@@ -210,6 +211,10 @@ Interactive process viewer. Useful keybindings:
 * `t` Open/close tree mode
 * `-` or `+` Collapse/uncollapse process trees
 * `H` Turn off displaying threads
+
+#### nethogs
+
+htop for network. lists processes by their network traffic.
 
 #### systemctl
 
