@@ -159,12 +159,12 @@ Advise;
 
 ### Türkçe
 
+> İnsan gitmekten yapılmıştır dünya kalmaktan.
+— Mustafa Akar
 
 > Ötmek istiyorum viran bağlarda,
 > Ayağıma cennet kiralansa da 
 — Aşık Mahzuni Şerif
-
-
 
 > Yalnızca güzelliği keşfetmek için yaşarız, başka herşey bekleyiştir. 
 — Halil Cibran
