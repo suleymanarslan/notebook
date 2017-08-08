@@ -9,6 +9,7 @@ Index of Contents:
 * [My Principles](#my-principles)
 * [Morocco Route](#morocco-route)
 * [Beautiful Places in Turkey](#beautiful-places-in-turkey)
+* [Kayaking Spots in Turkey](#kayaking-spots-in-turkey)
 
 ## How to travel with little money?
 
@@ -196,3 +197,19 @@ Our route in Morocco has been;
 * Sülbüs Mountain http://tr.wikipedia.org/wiki/S%C3%BClb%C3%BCs_Da%C4%9F%C4%B1
 * Doğubeyazıt https://en.wikipedia.org/wiki/Do%C4%9Fubeyaz%C4%B1t
 * Van https://en.wikipedia.org/wiki/Van
+
+## Kayaking Spots in Turkey
+
+* Çoruh Nehri (Artvin): June - October
+* Köprüçay (Antalya): April - October
+* Dalaman Çayı (Antalya): April - October
+* Zamantı Irmağı (Kayseri): June - October
+* Göksu Nehri (Mersin): April - October
+* Göksu Çayı (Adana): June - October
+* Sarısu (Kandıra): December - May
+* Melen Çayı (Bolu): December - May
+* Fırtına Deresi (Rize): June - September
+* Berta Çayı (Artvin): June - October
+* Barhal Deresi (Rize): June - September
+* Oltu Çayı (Erzurum): June - October
+* Harşit Çayı (Gümüşhane): June - October
