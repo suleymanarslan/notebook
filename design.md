@@ -29,6 +29,7 @@ Tools & Products:
 
 Websites:
 
+* [piérre reimertz](https://www.reimertz.co/)
 * [sidlee collective](http://sidleecollective.com/)
 * [multiplicity](http://multiplicitybyfoilco.com/)
 * [we occupy](https://www.weoccupy.co.uk/)
