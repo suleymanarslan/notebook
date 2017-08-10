@@ -19,13 +19,16 @@ Index of Contents
 
 Tools & Products:
 
-* [illy x1](https://www.designboom.com/design/illy-x1-espresso-machine-luca-trazzi-08-06-2017/)
-* [toyota land cruiser FJ45LV 170 custom](https://www.designboom.com/technology/toyota-land-cruiser-fj45lv-170-custom-4x4-fj-company-08-03-2017/)
-* [classified moto](https://www.designboom.com/technology/classified-moto-frank-custom-triumph-speed-triple-3-motorcycle-07-26-2017)
-* [ROA BMW R80](https://www.designboom.com/technology/bmw-r80-cafe-racer-roa-motorcycles-07-25-2017/)
 * [Tumpline](https://en.wikipedia.org/wiki/Tumpline)
 * [Bogarde BMX](http://www.bogarde.fr/)
 * [Masahiro Kikuno](http://watchesbysjx.com/2017/05/portrait-masahiro-kikuno-japanese-watchmaker.html)
+* [illy x1](https://www.designboom.com/design/illy-x1-espresso-machine-luca-trazzi-08-06-2017/)
+
+Motorbikes & Cars:
+* [toyota land cruiser FJ45LV 170 custom](https://www.designboom.com/technology/toyota-land-cruiser-fj45lv-170-custom-4x4-fj-company-08-03-2017/)
+* [classified moto](https://www.designboom.com/technology/classified-moto-frank-custom-triumph-speed-triple-3-motorcycle-07-26-2017)
+* [ROA BMW R80](https://www.designboom.com/technology/bmw-r80-cafe-racer-roa-motorcycles-07-25-2017/)
+* [ducati scrambler](https://www.designboom.com/technology/ducati-scrambler-sixty2-custom-motorcycle-diamond-atelier-08-09-2017/)
 
 Websites:
 
