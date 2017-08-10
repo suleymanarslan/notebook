@@ -4,6 +4,7 @@ I find myself Googling same stuff every time I'm making something. This is for r
 
 * [CSS](#css)
 * [Bash](#bash)
+* [SQL](#sql)
 * [Makefiles](#makefiles)
 * [systemd](#systemd)
 * [Upstart](#upstart)
@@ -102,6 +103,15 @@ selected=$(dialog --stdout \
                   --menu "Select a continent or ocean from the menu:" \
                   20 50 30 \
                   "${regionsArray[@]}")
+```
+
+## SQL
+
+Adding a column to a table;
+
+```sql
+ALTER TABLE `database`.`table` 
+ADD COLUMN `created_at` BIGINT(20) NULL DEFAULT 0 AFTER `page_id`;
 ```
 
 ## systemd
