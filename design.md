@@ -32,6 +32,7 @@ Motorbikes & Cars:
 
 Websites:
 
+* [wikipedia redesigns](https://dribbble.com/search?q=wikipedia)
 * [piérre reimertz](https://www.reimertz.co/)
 * [sidlee collective](http://sidleecollective.com/)
 * [multiplicity](http://multiplicitybyfoilco.com/)
