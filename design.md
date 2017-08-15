@@ -32,7 +32,6 @@ Motorbikes & Cars:
 
 Websites:
 
-* [wikipedia redesigns](https://dribbble.com/search?q=wikipedia)
 * [piérre reimertz](https://www.reimertz.co/)
 * [sidlee collective](http://sidleecollective.com/)
 * [multiplicity](http://multiplicitybyfoilco.com/)
@@ -69,6 +68,15 @@ Websites:
 * [crew.co](https://crew.co/)
 * [pudding](https://pudding.cool/)
 * [the book of life](http://www.thebookoflife.org/)
+
+Wikipedia Redesigns:
+
+* [By Jeremy](https://dribbble.com/shots/2415062-Wikipedia-Redesign/attachments/467983)
+* [By Patrik](https://dribbble.com/shots/3404720-Wikipedia)
+* [By Jeremy](https://dribbble.com/shots/2424110-Wikipedia-Redesign-Close-up-Table-of-contents)
+* [By George K.](https://dribbble.com/shots/1446904-Wikipedia-Article-view/attachments/213672)
+* [By Aurelien](https://dribbble.com/shots/1508672-Wikipedia-concept)
+* [By Unity](https://dribbble.com/shots/1511150-Wikipedia-Redesign)
 
 ## Fonts
 
