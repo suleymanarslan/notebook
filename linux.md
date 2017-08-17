@@ -30,6 +30,7 @@ List of Contents:
 * [Useful Networking Commands](#networking)
 * [Arch Linux Installation](#arch-linux-installation)
 * [Building Custom Arch ISO](#building-custom-arch-iso)
+* [Mount Swap Partition](#mount-swap-partition)
 * [How to submit a package to AUR?](#how-to-submit-a-package-to-aur)
 * [Irssi](#irssi)
 * [Xmonad](#xmonad)
@@ -314,7 +315,7 @@ tree -d
 
 ### xev
 
-Creates a window and lets you see the keyboard events. Useful when you modify keybindings. 
+Creates a window and lets you see the keyboard events. Useful when you modify keybindings.
 
 ## Networking
 
@@ -363,6 +364,20 @@ ip r | grep default | cut -d ' ' -f 3
 ## Xmonad
 
 * After making a change hit `xmonad --recompile` to check errors, then `mod+r` to reload the config.
+
+## Mount Swap Partition
+
+Get UUID of the partition:
+
+```
+$ sudo blkid /dev/sdaX
+```
+
+And add following line into `/etc/fstab`
+
+```fstab
+UUID=? none   swap    sw      0       0
+```
 
 ## How to submit a package to AUR ?
 
