@@ -276,7 +276,7 @@ $ systemd-analyze
 List the started unit files, sorted by the time each of them took to start up:
 
 ```bash
-$ systemd-analyze blame # see as chain:
+$ systemd-analyze blame
 ```
 
 See boot units as chain:
