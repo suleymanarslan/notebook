@@ -32,6 +32,8 @@ Motorbikes & Cars:
 
 Websites:
 
+* [siteinspire](http://www.itsnicethat.com/)
+* [it's nice that](http://www.itsnicethat.com/)
 * [here.awaytravel.com](https://here.awaytravel.com)
 * [land-book](https://land-book.com/)
 * [piérre reimertz](https://www.reimertz.co/)
