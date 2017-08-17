@@ -18,6 +18,7 @@ List of Contents:
   * [awk](#awk)
   * [tmux](#tmux)
   * [htop](#htop)
+  * [iotop](#iotop)
   * [systemctl](#systemctl)
   * [systemd-analyze](#systemd-analyze)
   * [tee](#tee)
@@ -214,6 +215,10 @@ Interactive process viewer. Useful keybindings:
 * `t` Open/close tree mode
 * `-` or `+` Collapse/uncollapse process trees
 * `H` Turn off displaying threads
+
+#### iotop
+
+Sorts processes by disk writes, and show how much and how frequently programs are writing to the disk.
 
 #### nethogs
 
@@ -414,10 +419,6 @@ $ cat /proc/swaps
 
 See total, used and free swap space:
 
-```bash
-$ cat /proc/meminfo
-```
-
 ```
 $ cat /proc/meminfo | grep Swap
 ```
@@ -428,6 +429,26 @@ Or:
 $ cat /proc/swaps
 ```
 
+### Swapiness
+
+The swappiness sysctl parameter represents the kernel's preference (or avoidance) of swap space. Swappiness can have a value between 0 and 100, the default value is 60. A low value causes the kernel to avoid swapping, a higher value causes the kernel to try to use swap space. Using a low value on sufficient memory is known to improve responsiveness on many systems.
+To check the current swappiness value:
+
+```bash
+$ cat /proc/sys/vm/swappiness
+```
+
+To temporarily set the swappiness value:
+
+```bash
+$ sysctl vm.swappiness=10
+```
+
+To set the swappiness value permanently, edit a `sysctl` configuration file:
+
+```bash
+echo "vm.swappiness=10" > /etc/sysctl.d/99-sysctl.conf
+```
 
 ## Irssi
 * Auto-connect to a network: `/server ADD -auto -network NetworkName irc.host.com 6667`
