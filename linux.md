@@ -367,16 +367,56 @@ ip r | grep default | cut -d ' ' -f 3
 
 ## Mount Swap Partition
 
-Get UUID of the partition:
+Create a Swap partition using partitioning tools like `cfdisk` or `parted`. Then format the partition as swap;
 
 ```
-$ sudo blkid /dev/sdaX
+$ mkswap /dev/sdXY
+```
+
+Enable it;
+
+```bash
+$ swapon /dev/sdXY
+```
+
+Get UUID of the partition:
+
+```bash
+$ sudo blkid /dev/sdXY
 ```
 
 And add following line into `/etc/fstab`
 
 ```fstab
 UUID=? none   swap    sw      0       0
+```
+
+List swap devices and their sizes:
+
+```bash
+$ swapon -s
+```
+
+See which swap devices are being used:
+
+```bash
+$ cat /proc/swaps
+```
+
+See total, used and free swap space:
+
+```bash
+$ cat /proc/meminfo
+```
+
+```
+$ cat /proc/meminfo | grep Swap
+```
+
+Or:
+
+```
+$ cat /proc/swaps
 ```
 
 ## How to submit a package to AUR ?
