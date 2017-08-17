@@ -19,6 +19,7 @@ List of Contents:
   * [tmux](#tmux)
   * [htop](#htop)
   * [systemctl](#systemctl)
+  * [systemd-analyze](#systemd-analyze)
   * [tee](#tee)
   * [file](#file)
   * [date](#date)
@@ -28,9 +29,10 @@ List of Contents:
   * [xev](#xev)
   * [nethogs](#nethogs)
 * [Useful Networking Commands](#networking)
+* [Improve Performance](#improve-performance)
+* [Mount Swap Partition](#mount-swap-partition)
 * [Arch Linux Installation](#arch-linux-installation)
 * [Building Custom Arch ISO](#building-custom-arch-iso)
-* [Mount Swap Partition](#mount-swap-partition)
 * [How to submit a package to AUR?](#how-to-submit-a-package-to-aur)
 * [Irssi](#irssi)
 * [Xmonad](#xmonad)
@@ -263,6 +265,26 @@ See logs of a specific unit;
 sudo journalctl -xu dhcpcd@enp0s3.service --since today
 ```
 
+#### systemd-analyze
+
+Analysize the boot time:
+
+```bash
+$ systemd-analyze
+```
+
+List the started unit files, sorted by the time each of them took to start up:
+
+```bash
+$ systemd-analyze blame # see as chain:
+```
+
+See boot units as chain:
+
+```bash
+$ systemd-analyze critical-chain
+```
+
 #### tee
 
 It's used for splitting the output of a program so we can both display it and also save it.
@@ -352,19 +374,6 @@ ping -q -w 1 -c 1 $gateway> /dev/null && echo 1 || echo 0
 ip r | grep default | cut -d ' ' -f 3
 ```
 
-## Irssi
-* Auto-connect to a network: `/server ADD -auto -network NetworkName irc.host.com 6667`
-* Auto-join to channels: `/channel ADD -auto #channel NetworkName password`
-* Switch to a window: `M-[number]` use letters when for windows beyond 9: `M-[q|w|e|r|t|y]`
-* Close window: `/wc`
-* Save config: `/save`
-* Load a script: `/script load awm`
-* Set theme: `/set theme weed`
-
-## Xmonad
-
-* After making a change hit `xmonad --recompile` to check errors, then `mod+r` to reload the config.
-
 ## Mount Swap Partition
 
 Create a Swap partition using partitioning tools like `cfdisk` or `parted`. Then format the partition as swap;
@@ -418,6 +427,21 @@ Or:
 ```
 $ cat /proc/swaps
 ```
+
+
+## Irssi
+* Auto-connect to a network: `/server ADD -auto -network NetworkName irc.host.com 6667`
+* Auto-join to channels: `/channel ADD -auto #channel NetworkName password`
+* Switch to a window: `M-[number]` use letters when for windows beyond 9: `M-[q|w|e|r|t|y]`
+* Close window: `/wc`
+* Save config: `/save`
+* Load a script: `/script load awm`
+* Set theme: `/set theme weed`
+
+## Xmonad
+
+* After making a change hit `xmonad --recompile` to check errors, then `mod+r` to reload the config.
+
 
 ## How to submit a package to AUR ?
 
