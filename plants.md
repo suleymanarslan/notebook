@@ -1,6 +1,6 @@
 # Plants
 
-#### Anadoluda Toprakta Kendi Kendine Yetişen Bitkiler 🌱 🌿 ;
+#### Anadoluda Toprakta Kendi Kendine Yetişen Bitkiler   ;
 
 Antalya yöresi:
 * ebegümeci
@@ -38,3 +38,13 @@ Kars yöresi:
 * Ateşi düşürücüdür. İshali keser. Kanamayı dindirmekte kullanılır. Mikropları öldürür. İştahı açar. Vücuda kuvvet verir. 
 Romatizma ağrılarını dindirmekte faydalıdır. Mesane taşlarının düşürülmesine yardımcıdır. Uykusuzluğu gidericidir. 
 Sinirleri yatıştırır. Aybaşı kanamalarını düzenlemekte faydalıdır.
+
+#### Akhuş (Kayın) Ağacının Faydaları
+
+* Akhuş ağacının yapraklarının kurusu ve suyu cilt hastalıklarında kullanılır.
+* Saç yapısını toplayıp saçları gürleştirir, köklerini güçlendirir dökülmesini engeller ve kepekleri giderici özelliği vardır.
+* Böbreklerde oluşan taş ve kumları atar ve böbreklerin düzenli çalışmasını sağlar.
+* İdrar tutukluğunu çözerek vücutta bulunan zararlı sıvıları atmamızı sağlar.
+* Akhuş ağacı vücutta bulunan tuz oranını düzenler.
+* Fazla iştahı engelleyerek vücudun alacağı fazla kilolara engel olur.
+* Romatizma ağrılarına iyi gelir ve ayak kokularını giderir.
