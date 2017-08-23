@@ -150,6 +150,22 @@ synonyms:	undergo, go through, live through, experience, meet, encounter; More
 
 * remain in existence; last.
 
+#### gloomy
+
+```
+adjective
+dark or poorly lit, especially so as to appear depressing or frightening.
+"a gloomy corridor"
+synonyms:	dark, shadowy, sunless, dim, somber, dingy, dismal, dreary, murky, unwelcoming, cheerless, comfortless, funereal; literaryStygian
+"a gloomy room"
+
+feeling distressed or pessimistic.
+"I am by no means gloomy about the prospects for domestic industry"
+synonyms:	despondent, downcast, downhearted, dejected, dispirited, disheartened, discouraged, demoralized, crestfallen; More
+causing distress or depression.
+"a gloomy atmosphere"
+```
+
 #### incentive
 
 ```
