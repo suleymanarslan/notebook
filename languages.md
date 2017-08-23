@@ -135,7 +135,50 @@ See also: [toba-batak-dictionary/dict.json](https://github.com/azer/toba-batak-d
 
 Words I looked up on dictionary;
 
-#### Noble
+#### demystify
+
+```
+verb
+make (a difficult or esoteric subject) clearer and easier to understand.
+"this book attempts to demystify technology"
+```
+
+#### endure
+
+* suffer (something painful or difficult) patiently.
+synonyms:	undergo, go through, live through, experience, meet, encounter; More
+
+* remain in existence; last.
+
+#### incentive
+
+```
+a thing that motivates or encourages one to do something.
+"there is no incentive for customers to conserve water"
+
+synonyms:	inducement, motivation, motive, reason, stimulus, stimulant, spur, impetus, encouragement, impulse; More
+antonyms:	deterrent
+```
+
+#### indulge
+
+```
+verb
+allow oneself to enjoy the pleasure of.
+"we indulged in some hot fudge sundaes"
+
+synonyms:	wallow in, give oneself up to, give way to, yield to, abandon oneself to, give free rein to; More
+```
+
+#### lavish
+
+```
+adjective
+sumptuously rich, elaborate, or luxurious.
+"a lavish banquet"
+```
+
+#### noble
 
 Adjective
 
@@ -157,42 +200,7 @@ Noun
 (especially in former times) a person of noble rank or birth.
 ```
 
-#### Endure
-
-* suffer (something painful or difficult) patiently.
-synonyms:	undergo, go through, live through, experience, meet, encounter; More
-
-* remain in existence; last.
-
-#### Incentive
-
-```
-a thing that motivates or encourages one to do something.
-"there is no incentive for customers to conserve water"
-
-synonyms:	inducement, motivation, motive, reason, stimulus, stimulant, spur, impetus, encouragement, impulse; More
-antonyms:	deterrent
-```
-
-#### Demystify
-
-```
-verb
-make (a difficult or esoteric subject) clearer and easier to understand.
-"this book attempts to demystify technology"
-```
-
-#### Sermon
-
-```
-noun
-a talk on a religious or moral subject, especially one given during a church service and based on a passage from the Bible.
-"he preached a sermon"
-synonyms:	homily, address, speech, talk, discourse, oration; lesson
-
-```
-
-#### Revere
+#### revere
 
 ```
 verb
@@ -201,20 +209,13 @@ feel deep respect or admiration for (something).
 "Cézanne's still lifes were revered by his contemporaries"
 ```
 
-#### lavish
+
+#### sermon
 
 ```
-adjective
-sumptuously rich, elaborate, or luxurious.
-"a lavish banquet"
-```
+noun
+a talk on a religious or moral subject, especially one given during a church service and based on a passage from the Bible.
+"he preached a sermon"
+synonyms:	homily, address, speech, talk, discourse, oration; lesson
 
-#### Indulge
-
-```
-verb
-allow oneself to enjoy the pleasure of.
-"we indulged in some hot fudge sundaes"
-
-synonyms:	wallow in, give oneself up to, give way to, yield to, abandon oneself to, give free rein to; More
 ```
