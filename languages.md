@@ -6,6 +6,7 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 * [Kurdish](#kurdish)
 * [Toba Batak](#toba-batak)
 * [Bahasa](#bahasa)
+* [Balinese](#balinese)
 * [Zazaki](#zazaki)
 * [English](#english)
 
@@ -134,6 +135,10 @@ See also: [toba-batak-dictionary/dict.json](https://github.com/azer/toba-batak-d
 ## English
 
 Words I looked up on dictionary;
+
+#### cognition
+
+the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.
 
 #### demystify
 
