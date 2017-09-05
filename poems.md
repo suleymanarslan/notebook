@@ -44,66 +44,9 @@ thinking if your shoes would untie somewhere
 
 ## turkish
 
-#### arılar uçar üzerinde
-
-[Ses Kaydı](https://www.youtube.com/watch?v=nhocThq2jus)
-
-```
-arılar uçar üzerinde
-yüzünde serçelerin gaga izleri
-hiçbir bıçak kesemez seni
-yazgın yetişir yolüstü geçitlere
-toroslardan ciloya
-likyadaki keçi yollarından
-munzur vadisine
-sen, kuş yuvalarında paylaşılırsın
-bahsin yalnız toprağın altında açılır
-köklerin horasanda bi tekke sofrası olur,
-nehirler köklerine yol alır
-ve her bahar arifesi
-ağaçlarına karıncalar secde eder
-karanfil taneleri düşer kapılarına
-çağrın, hepimizin pusulasıdır
-hakikat de.
-
-hakikat, beyoğlunda bir sokak köpeğidir
-bali çekmeden uyuyamayan; dosttur…
-
-hakikat, anneannemin elini yıkadığı sabun,
-fırnaz’da kesilmeyen zeytin ağacıdır…
-
-hakikat, isyancı bi ortadoğu nehridir;
-gözüpek, fakat ağaçlara kıyamayan
-karaburun rüzgarıdır.
-```
-
-#### doğubeyazıt
-
-```
-alaaddin lambalı bali poşetleri
-sahte maaş bordroları ve tabancayla kundakladığımız
-ateş üflenen peri bacaları
-
-afedersiniz hanımefendi siz de bıçak taşıyorsanız
-bana bir alaaddin lambası kadar yakınsınız
-yani bir gece yarısı jandarma çevirmesinden kaçarken 
-erbakan'ın sabaha
-ambulansın bisan ihlasa
-milli görüşün beldesana dönüşümü arifesinde
-silahsız tatlı su yoloculuğu yapabiliriz elele
-uçuştuğumuz doğubeyazıt'ın eski otogarında.
-```
-
-#### otogardan hesap sorulmaz
-
-```
-dönerse molotof kokteyli
-dönmezse koltuk numarası bellidir
-otogarda arabesk rap yaptığım bir gece
-bıçaklanmazsam iyidir
-```
-
 #### kayda değer konular
+
+[ses kaydı](https://www.youtube.com/watch?v=qVX785ELgYU)
 
 ```
 demokratik seçim denilen ilkel kirliliğe artık bir son versek de, kayda değer konulara yer açılsa.
@@ -143,4 +86,66 @@ hiçkimsenin güvenmediği astronotlar
 akvaryum kokusu
 ve aniden yapılan saçma sapan yolculuklarla
 tütmesi gereken ocağı arayanlar.
+```
+
+
+
+#### doğubeyazıt
+
+```
+alaaddin lambalı bali poşetleri
+sahte maaş bordroları ve tabancayla kundakladığımız
+ateş üflenen peri bacaları
+
+afedersiniz hanımefendi siz de bıçak taşıyorsanız
+bana bir alaaddin lambası kadar yakınsınız
+yani bir gece yarısı jandarma çevirmesinden kaçarken 
+erbakan'ın sabaha
+ambulansın bisan ihlasa
+milli görüşün beldesana dönüşümü arifesinde
+silahsız tatlı su yoloculuğu yapabiliriz elele
+uçuştuğumuz doğubeyazıt'ın eski otogarında.
+```
+
+#### otogardan hesap sorulmaz
+
+```
+dönerse molotof kokteyli
+dönmezse koltuk numarası bellidir
+otogarda arabesk rap yaptığım bir gece
+bıçaklanmazsam iyidir
+```
+
+
+#### arılar uçar üzerinde
+
+[Ses Kaydı](https://www.youtube.com/watch?v=nhocThq2jus)
+
+```
+arılar uçar üzerinde
+yüzünde serçelerin gaga izleri
+hiçbir bıçak kesemez seni
+yazgın yetişir yolüstü geçitlere
+toroslardan ciloya
+likyadaki keçi yollarından
+munzur vadisine
+sen, kuş yuvalarında paylaşılırsın
+bahsin yalnız toprağın altında açılır
+köklerin horasanda bi tekke sofrası olur,
+nehirler köklerine yol alır
+ve her bahar arifesi
+ağaçlarına karıncalar secde eder
+karanfil taneleri düşer kapılarına
+çağrın, hepimizin pusulasıdır
+hakikat de.
+
+hakikat, beyoğlunda bir sokak köpeğidir
+bali çekmeden uyuyamayan; dosttur…
+
+hakikat, anneannemin elini yıkadığı sabun,
+fırnaz’da kesilmeyen zeytin ağacıdır…
+
+hakikat, isyancı bi ortadoğu nehridir;
+gözüpek, fakat ağaçlara kıyamayan
+karaburun rüzgarıdır.
 ```
