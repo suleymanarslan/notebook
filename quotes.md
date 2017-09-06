@@ -1,6 +1,6 @@
 ## Quotes
 
-The quotes I stumbled upon and found inspirational. 
+The quotes I stumbled upon and found inspirational.
 
 * [English](#english)
   * [Franz Kafka](#franz-kafka)
@@ -13,16 +13,22 @@ The quotes I stumbled upon and found inspirational.
 * [Quran](#quran)
 
 ### English
+> The great source of both misery and disorders of human life, seems to arise from over-rating the difference between one permanent situation and another. Avarice, over-rates the difference between powerty and riches: ambition, that between a private and a public station: vainglory, that between obscrurity and extensive reputation. The person under the influence of any of those extravagant passions is not only miserable in his actual situation, but is often disposed to disturb the peace of society, in order to arrive at that which he so foolishly admires.
+— Adam Smith, The Theory of Moral Sentiments
+
+> If you want a golden rule that fit everybody, this is it; Have nothing in your houses that you do not know to be useful, or believe to be beautiful.
+— William Morris, The Beauty of Life, 1880
+
 > Don’t worry about losing. If it is right, it happens — The main thing is not to hurry. Nothing good gets away.
 — [John Steinbeck](https://www.brainpickings.org/2012/01/12/john-steinbeck-on-love-1958/)
 
 > Where some people have a self, most people have a void, because they are too busy in wasting their vital creative energy to project themselves as this or that, dedicating their lives to actualizing a concept of what they should be like rather than actualizing their potentiality as a human being.
 — [Bruce Lee](https://www.brainpickings.org/2017/02/22/in-my-own-process-bruce-lee/)
 
-> You worked, you learnt team work, cooperation, and unity, and struggle, and then you became independent
+> You worked, you learnt team work, cooperation, and unity, and struggle, and then you became independent.
 — [2pac](https://www.youtube.com/watch?v=GL-ZoNhUFmc)
 
-> May your choices reflect your hopes not your fears
+> May your choices reflect your hopes not your fears.
 — Nelson Mandella
 
 > What’s the use of falling in love if you both remain inertly as-you-were?
@@ -163,10 +169,10 @@ Advise;
 — Mustafa Akar
 
 > Ötmek istiyorum viran bağlarda,
-> Ayağıma cennet kiralansa da 
+> Ayağıma cennet kiralansa da
 — Aşık Mahzuni Şerif
 
-> Yalnızca güzelliği keşfetmek için yaşarız, başka herşey bekleyiştir. 
+> Yalnızca güzelliği keşfetmek için yaşarız, başka herşey bekleyiştir.
 — Halil Cibran
 
 
@@ -218,7 +224,7 @@ English Translation:
 O you who have believed, be persistently standing firm for Allah, witnesses in justice, and do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness. And fear Allah ; indeed, Allah is Acquainted with what you do.
 ```
 
-Turkish Translation: 
+Turkish Translation:
 
 ```
 Ey iman edenler! Allah için gerçeğe bağlı kalmada kararlı olun! Adil tanıklar olun! Bir kavme olan düşmanlığınız sizi adaletsizliğe yöneltmesin. Adil olun, bu, takvalı olmaya en uygun olandır. Allah'a karşı takvalı olun. Allah, yaptığınız her şeyden haberdardır.
