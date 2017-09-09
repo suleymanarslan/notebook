@@ -104,7 +104,7 @@ erbakan'ın sabaha
 ambulansın bisan ihlasa
 milli görüşün beldesana dönüşümü arifesinde
 silahsız tatlı su yoloculuğu yapabiliriz elele
-uçuştuğumuz doğubeyazıt'ın eski otogarında.
+uçuştuğumuz doğubeyazıt otogarında.
 ```
 
 #### otogardan hesap sorulmaz
