@@ -129,10 +129,12 @@ yazgın yetişir yolüstü geçitlere
 toroslardan ciloya
 likyadaki keçi yollarından
 munzur vadisine
+
 sen, kuş yuvalarında paylaşılırsın
 bahsin yalnız toprağın altında açılır
 köklerin horasanda bi tekke sofrası olur,
 nehirler köklerine yol alır
+
 ve her bahar arifesi
 ağaçlarına karıncalar secde eder
 karanfil taneleri düşer kapılarına
