@@ -212,6 +212,26 @@ Advise;
 
 ### Quran
 
+#### 49:13
+
+Arabic translation:
+
+```
+يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ13
+```
+
+English translation:
+
+```
+O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you. Indeed, Allah is Knowing and Acquainted.
+```
+
+Turkish translation:
+
+```
+Ey insanlar! Sizi bir erkek ve bir dişiden yarattık. Birbirinizle tanışmanız* için sizi kabilelere ve sülalelere ayırdık. Allah'ın yanında en kerim* olanınız, en çok takva sahibi olanınızdır. Kuşkusuz Allah, Her Şeyi Bilen'dir, Her Şeyden Haberdar'dır.
+```
+
 #### 5:8
 
 Original Verse:
@@ -229,3 +249,5 @@ Turkish Translation:
 ```
 Ey iman edenler! Allah için gerçeğe bağlı kalmada kararlı olun! Adil tanıklar olun! Bir kavme olan düşmanlığınız sizi adaletsizliğe yöneltmesin. Adil olun, bu, takvalı olmaya en uygun olandır. Allah'a karşı takvalı olun. Allah, yaptığınız her şeyden haberdardır.
 ```
+
+
