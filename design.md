@@ -32,7 +32,7 @@ Motorbikes & Cars:
 
 Websites:
 
-* [siteinspire](http://www.itsnicethat.com/)
+* [siteinspire](http://www.siteinspire.com/)
 * [it's nice that](http://www.itsnicethat.com/)
 * [here.awaytravel.com](https://here.awaytravel.com)
 * [land-book](https://land-book.com/)
