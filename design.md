@@ -32,6 +32,7 @@ Motorbikes & Cars:
 
 Websites:
 
+* [ben bate](https://benbate.com/)
 * [siteinspire](http://www.siteinspire.com/)
 * [it's nice that](http://www.itsnicethat.com/)
 * [here.awaytravel.com](https://here.awaytravel.com)
