@@ -32,6 +32,8 @@ Motorbikes & Cars:
 
 Websites:
 
+* [westward leaning](https://westwardleaning.com/)
+* [simon.works](https://simon.works/)
 * [ben bate](https://benbate.com/)
 * [siteinspire](http://www.siteinspire.com/)
 * [it's nice that](http://www.itsnicethat.com/)
