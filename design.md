@@ -32,6 +32,7 @@ Motorbikes & Cars:
 
 Websites:
 
+* [jony guedj](http://www.jonyguedj.com/)
 * [westward leaning](https://westwardleaning.com/)
 * [simon.works](https://simon.works/)
 * [ben bate](https://benbate.com/)
