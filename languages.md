@@ -171,6 +171,15 @@ causing distress or depression.
 "a gloomy atmosphere"
 ```
 
+#### ignite
+
+```
+catch fire or cause to catch fire.
+"furniture can give off lethal fumes when it ignites"
+
+synonyms:	catch fire, catch, burst into flames, be set off, erupt, explode
+```
+
 #### incentive
 
 ```
