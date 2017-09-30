@@ -32,6 +32,10 @@ Motorbikes & Cars:
 
 Websites:
 
+* [word form](http://word-form.com/)
+* [defringe](http://defringe.com/)
+* [radio nova](http://www.nova.fr/)
+* [ginlane](https://www.ginlane.com/)
 * [jony guedj](http://www.jonyguedj.com/)
 * [westward leaning](https://westwardleaning.com/)
 * [simon.works](https://simon.works/)
