@@ -32,6 +32,7 @@ Motorbikes & Cars:
 
 Websites:
 
+* [alessandro risso](http://www.alessandrorisso.com/)
 * [viviane le courtois](http://vivianelecourtois.com/)
 * [laura makabresku](http://lauramakabresku.com/)
 * [universal practice](http://universalpractice.com.au/)
