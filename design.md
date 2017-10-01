@@ -32,6 +32,11 @@ Motorbikes & Cars:
 
 Websites:
 
+* [viviane le courtois](http://vivianelecourtois.com/)
+* [laura makabresku](http://lauramakabresku.com/)
+* [universal practice](http://universalpractice.com.au/)
+* [dominic jacob](http://domjacob.co.uk/)
+* [perrera](https://perrera.com/) | [post](https://perrera.com/2017/exploring-design-directions/) 
 * [matthew vernon](http://matthewvernon.co/)
 * [bao](https://baolondon.com/)
 * [word form](http://word-form.com/)
