@@ -32,6 +32,7 @@ Motorbikes & Cars:
 
 Websites:
 
+* [doro design](http://www.dorodesign.eu/)
 * [alessandro risso](http://www.alessandrorisso.com/)
 * [viviane le courtois](http://vivianelecourtois.com/)
 * [laura makabresku](http://lauramakabresku.com/)
