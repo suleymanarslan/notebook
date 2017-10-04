@@ -32,6 +32,7 @@ Motorbikes & Cars:
 
 Websites:
 
+* [ash huang](http://ashsmash.com/)
 * [doro design](http://www.dorodesign.eu/)
 * [alessandro risso](http://www.alessandrorisso.com/)
 * [viviane le courtois](http://vivianelecourtois.com/)
