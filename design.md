@@ -104,6 +104,9 @@ Wikipedia Redesigns:
 
 ### Useful
 
+* [Grid Education Tool](http://griddy.io/)
+* [5 Minutes Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
+* [color library](http://colorlibrary.ch/)
 * [Beautiful Web Type](http://hellohappy.org/beautiful-web-type)
 * [Typewolf](https://www.typewolf.com/): A collection of inspirational sites with fonts listed
 * [Google Web Fonts Helper](http://google-webfonts-helper.herokuapp.com/fonts): Lets you download the fonts you like, so you can host your fonts.
