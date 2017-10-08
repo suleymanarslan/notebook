@@ -74,6 +74,16 @@ Usage:
 for i in *; do echo $i; done
 ```
 
+#### Rename bunch of files
+
+```bash
+for name in *
+do
+    newname=new-"$(echo "$name" | cut -c7-)" # cuts first 6 characters
+    mv "$name" "$newname"
+done
+```
+
 #### iterating input by line and columns
 
 ```bash
