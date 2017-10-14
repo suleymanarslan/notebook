@@ -4,7 +4,24 @@ thoughts come and go. here I keep some of them.
 
 [türkçe: düşünceler.md](düşünceler.md)
 
+## On new technologies
 
+I've been using an old classic Casio watch since when I was kid. First I had the plastic one, later I switched to the metalic color. Once I lost it in the airport, then I got the same model for only 30 Lira (About $7.5).
+This Casio watch is superior than most of the technology we got in these days. Why did I say this? Here are the reasons;
+
+* It's simple
+* It's fast
+* It can run for 20 years with same battery
+* It won't distract you
+* It can be repaired easily
+* You don't have to upgrade to next model every year
+
+Some of these items are hard to have in smartphones and computers. For example, we haven't invented a long lasting battery yet.
+What about the other ones in the list though? If we think about simplicity, speed and distraction, why the new technologies suck at these fundamental features?
+
+In 2017, technology companies create habit teams to research and develop ways to make users more addicted to use their thrash apps, so a user who just wants
+to check the time ends up looking at his highschool friend's vacation photos 15 minutes after. We can't expect these growth vampires profiting from manipulating
+people to innovate new technology for the benefit of humanity.
 
 ## thoughts on freedom
 
@@ -84,8 +101,8 @@ I got friends and relatives in prison currently. I fought the police on the stre
 
 With all my respect to who actually do research and take risks, I find many journalists thrash. Like this Gülenist worked for a ideological group who arrested anyone critising their operation, and they published a ideological magazine which manipulates the public with fake documents and planted evidences on cases like bombings, shootings, and once they lost all that power, they become democrat journalists! Yeah but, they have never done any journalism before ?
 
-I recently met a black journalist from NY who worked for liberal media, and she worked on a case about how NYC cops arrest muslim cab drivers to help the prison companies make more profit. She collected true evidences such as phone records, but couldn't publish it anywhere! Then left US, kept doing journalism this time in Asia, about the western minings. People tried to kil her :) She show me the website she reported to, I guess indie site with no marketing and no finance behind, would never make it to even first 10 pages of any Google search. They are the real journalists who do research and don't care about what their boss wanna see and what people wanna read. 
+I recently met a black journalist from NY who worked for liberal media, and she worked on a case about how NYC cops arrest muslim cab drivers to help the prison companies make more profit. She collected true evidences such as phone records, but couldn't publish it anywhere! Then left US, kept doing journalism this time in Asia, about the western minings. People tried to kil her :) She show me the website she reported to, I guess indie site with no marketing and no finance behind, would never make it to even first 10 pages of any Google search. They are the real journalists who do research and don't care about what their boss wanna see and what people wanna read.
 
-What we see in the western media is all western propaganda. Yeah, you can say Fuck Trump and draw Merkel kissing Obama but when it comes to a topic that matters such as democracy in middle east, all the ideas you'd hear there would be already out of date, some ancient democracy noone in middle east believes anymore. Western media loves to see underaged kids holding AK47 for democracy or christianity but if it's muslims fighting, they demonize the hell out of them. A Vice journalist made a documentary about underaged Kurdish youth arming up to start a civil war for independence. In middle east and Africa, western media, governments and intelligence agencies never missed any opportunity to create little adhoc nations from beautiful democracy dreams and they even forgot the war they supplied weapons to after a year. Like Syria! The western media demonized Assad, reported some Syrian youth asking for democracy, innocent people were being killed or put in jails by demon dictator, so there has to be a french revolution in Syria then, right ? 
+What we see in the western media is all western propaganda. Yeah, you can say Fuck Trump and draw Merkel kissing Obama but when it comes to a topic that matters such as democracy in middle east, all the ideas you'd hear there would be already out of date, some ancient democracy noone in middle east believes anymore. Western media loves to see underaged kids holding AK47 for democracy or christianity but if it's muslims fighting, they demonize the hell out of them. A Vice journalist made a documentary about underaged Kurdish youth arming up to start a civil war for independence. In middle east and Africa, western media, governments and intelligence agencies never missed any opportunity to create little adhoc nations from beautiful democracy dreams and they even forgot the war they supplied weapons to after a year. Like Syria! The western media demonized Assad, reported some Syrian youth asking for democracy, innocent people were being killed or put in jails by demon dictator, so there has to be a french revolution in Syria then, right ?
 
-The truth is, a lot of people including myself, would prefer a middle eastern king or dictator whatever, over any sort of system brought from Europe. Specifically democracy because for west, democracy is a weapon that they own. A military coup (funded by US) happens in Honduras, Clinton calls it restoring democracy. A military coup happens in Egypt, Obama calls it restoring democracy. A military coup is happening in Turkey, all western media backs it calling "Turkish military is restoring secular democracy" until it fails, then after the failure, they began calling the coup was fake and innocent people are being arrested. The most funny part of that is, if the coup actually worked out, military would execute actual journalists in the name of democracy, and western media wouldn't even mention it. Western hypocracy is quite often heard for a reason. 
+The truth is, a lot of people including myself, would prefer a middle eastern king or dictator whatever, over any sort of system brought from Europe. Specifically democracy because for west, democracy is a weapon that they own. A military coup (funded by US) happens in Honduras, Clinton calls it restoring democracy. A military coup happens in Egypt, Obama calls it restoring democracy. A military coup is happening in Turkey, all western media backs it calling "Turkish military is restoring secular democracy" until it fails, then after the failure, they began calling the coup was fake and innocent people are being arrested. The most funny part of that is, if the coup actually worked out, military would execute actual journalists in the name of democracy, and western media wouldn't even mention it. Western hypocracy is quite often heard for a reason.

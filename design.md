@@ -9,6 +9,7 @@ Index of Contents
 * [Get Inspired](#get-inspired)
 * [Fonts](#fonts)
 * [CSS](#css)
+* [Unicode Icons](#unicode)
 * [Base64 Icons](#base64-icons)
 
 ## Philosophy
@@ -247,6 +248,44 @@ section {
 }
 ```
 
+#### Grid Layout
+
+```css
+.grid {
+    display: grid;
+    width: 400px;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto auto;
+    grid-column-gap: 0px;
+    grid-row-gap: 20px;
+    justify-items: stretch;
+    align-items: stretch;
+}
+```
+
+#### Hamburger Menu Icon
+
+```css
+.hamburger {
+  position: relative;
+  display: inline-block;
+  width: 1.25em;
+  height: 0.8em;
+  margin-right: 0.3em;
+  border-top: 0.2em solid #000;
+  border-bottom: 0.2em solid #000;
+}
+
+.hamburger:before {
+  content: "";
+  position: absolute;
+  top: 0.3em;
+  left: 0px;
+  width: 100%;
+  border-top: 0.2em solid #000;
+}
+```
+
 ### Rainbow Text Animation
 
 ```css
@@ -310,6 +349,24 @@ section {
     -webkit-transform: translateX(0);
   }
 }
+```
+
+## Unicode Icons
+
+⟶
+```html
+&#10230;
+```
+
+⟵
+
+```html
+&#10229;
+```
+
+✕
+```html
+&#x2715;
 ```
 
 ## Base64 Icons
