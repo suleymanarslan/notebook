@@ -29,6 +29,7 @@ List of Contents:
   * [tree](#tree)
   * [xev](#xev)
   * [nethogs](#nethogs)
+  * [setxkbmap](#setxkbmap)
 * [Useful Networking Commands](#networking)
 * [Improve Performance](#improve-performance)
 * [Mount Swap Partition](#mount-swap-partition)
@@ -344,6 +345,30 @@ tree -d
 
 Creates a window and lets you see the keyboard events. Useful when you modify keybindings.
 
+### setxkbmap
+
+Sets the keyboard layout:
+
+```
+setxkbmap tr -variant alt -option lv3:ralt
+```
+
+
+### pidof
+
+Find process id of a running program:
+
+```
+pidof nginx
+```
+
+It might return multiple pids (e.g nginx have worker processes). Specify `-s` parameter to get only one pid:
+
+```
+pidof -s nginx
+```
+
+
 ## Networking
 
 #### Get the name of the actively used network interfaces
@@ -573,20 +598,6 @@ Or time:
 
 ```
 date --set="10:00:00"
-```
-
-### pidof
-
-Find process id of a running program:
-
-```
-pidof nginx
-```
-
-It might return multiple pids (e.g nginx have worker processes). Specify `-s` parameter to get only one pid:
-
-```
-pidof -s nginx
 ```
 
 
