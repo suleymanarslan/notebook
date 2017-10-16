@@ -40,8 +40,7 @@ Seneca [writes in his letters](https://www.brainpickings.org/2017/05/19/seneca-f
 * Play cards, backgammon, 101 with friends
 * Listen podcasts
 * Watch movies
-* Go somewhere, talk walk
-* Smoke weed
+* Go somewhere, take walk
 
 ## 8 Qualities of Cultured People
 
