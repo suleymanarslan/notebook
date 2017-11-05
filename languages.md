@@ -198,6 +198,10 @@ synonyms:	inducement, motivation, motive, reason, stimulus, stimulant, spur, imp
 antonyms:	deterrent
 ```
 
+#### indignation
+
+anger or annoyance provoked by what is perceived as unfair treatment.
+
 #### indulge
 
 ```
@@ -237,6 +241,10 @@ Noun
 ```
 (especially in former times) a person of noble rank or birth.
 ```
+
+#### resentment
+
+bitter indignation at having been treated unfairly.
 
 #### revere
 
