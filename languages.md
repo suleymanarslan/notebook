@@ -242,6 +242,10 @@ Noun
 (especially in former times) a person of noble rank or birth.
 ```
 
+#### ornamental
+
+serving or intended as an ornament; decorative.
+
 #### resentment
 
 bitter indignation at having been treated unfairly.
