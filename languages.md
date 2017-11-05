@@ -159,6 +159,10 @@ synonyms:	undergo, go through, live through, experience, meet, encounter; More
 
 * remain in existence; last.
 
+#### fulfillment
+
+the achievement of something desired, promised, or predicted
+
 #### gloomy
 
 ```
