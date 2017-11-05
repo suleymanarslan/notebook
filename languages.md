@@ -175,6 +175,10 @@ causing distress or depression.
 "a gloomy atmosphere"
 ```
 
+#### gratification
+
+pleasure, especially when gained from the satisfaction of a desire.
+
 #### ignite
 
 ```
