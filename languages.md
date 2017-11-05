@@ -140,6 +140,10 @@ Words I looked up on dictionary;
 
 the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.
 
+#### confine
+
+keep or restrict someone or something within certain limits of (space, scope, quantity, or time).
+
 #### demystify
 
 ```
@@ -249,3 +253,7 @@ a talk on a religious or moral subject, especially one given during a church ser
 synonyms:	homily, address, speech, talk, discourse, oration; lesson
 
 ```
+
+#### stimulus
+
+a thing or event that evokes a specific functional reaction in an organ or tissue.
