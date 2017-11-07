@@ -280,5 +280,7 @@ a thing or event that evokes a specific functional reaction in an organ or tissu
 
 #### zenith
 
-the time at which something is most powerful or successful.
+* the time at which something is most powerful or successful.
+
+* the point in the sky or celestial sphere directly above an observer.
 
