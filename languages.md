@@ -277,3 +277,8 @@ synonyms:	homily, address, speech, talk, discourse, oration; lesson
 #### stimulus
 
 a thing or event that evokes a specific functional reaction in an organ or tissue.
+
+#### zenith
+
+the time at which something is most powerful or successful.
+
