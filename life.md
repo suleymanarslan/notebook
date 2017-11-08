@@ -15,10 +15,10 @@ Index of Contents:
 
 ## Self-advices
 
-I've been learning more about life as I get old. I haven't accomplished
+I've been learning more about life as I get older. I haven't accomplished
 my goals yet, so this list is not something "I've done it and recommend it",
-it's more like, "this is what I'm working on it". And I want to share it here so
-I grow it by the time and other people's feedback.
+it's more like "this is what I'm working on it". And I want to share it here so
+I grow it by the time with other people's feedback.
 
 * Be grateful.
 * Be incomplete.
