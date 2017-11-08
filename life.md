@@ -31,7 +31,7 @@ I grow it by the time with other people's feedback.
   * Goals (p.s reach small goals first before the bigger ones)
   * New experiences
   * Build Good habits
-    * Mediate
+    * Avoid being addicted to social media and the phony rewards like follower, rt, like counts..
     * Learn how to manage your time
     * If you can do something in less than a minute, do it now without delaying
 * Mediate
