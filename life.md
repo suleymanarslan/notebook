@@ -2,8 +2,8 @@
 
 Index of Contents:
 
-* [Friendship](#friendship)
 * [Self Advices](#self-advices)
+* [Friendship](#friendship)
 * [Do When Stressed](#do-when-stressed)
 * [8 Qualities of Cultured People](#8-qualities-of-cultured-people)
 * [Qualities We Need In Our Every Day Lifes](#qualities-we-need-in-our-every-day-lifes)
@@ -13,7 +13,41 @@ Index of Contents:
 * [Better Conversation Advices](#better-conversation-advices)
 * [The Daily Routines Of Famous Creative People](#the-daily-routines-of-famous-creative-people)
 
-## Friendship 
+## Self-advices
+
+I've been learning more about life as I get old. I haven't accomplished
+my goals yet, so this list is not something "I've done it and recommend it",
+it's more like, "this is what I'm working on it". And I want to share it here so
+I grow it by the time and other people's feedback.
+
+* Be grateful.
+* Be incomplete.
+* Be free, own yourself.
+* Chase;
+  * True Love
+  * Knowledge
+  * Inspiration
+  * Freedom
+  * Goals (p.s reach small goals first before the bigger ones)
+  * New experiences
+  * Build Good habits
+    * Mediate
+    * Learn how to manage your time
+    * If you can do something in less than a minute, do it now without delaying
+* Mediate
+* Focus
+* Smile
+* Family matters
+* Make constructive critism
+* Learn by failing
+* Learn multiple things
+* Educate your ego
+* Avoid labeling people
+* Be yourself
+* Own your faults
+* Be picky about friendships.
+
+## Friendship
 
 ![](https://cldup.com/45jCK3YVWS.jpg)
 
@@ -23,16 +57,10 @@ Seneca [writes in his letters](https://www.brainpickings.org/2017/05/19/seneca-f
 
 > If you consider any man a friend whom you do not trust as you trust yourself, you are mightily mistaken and you do not sufficiently understand what true friendship means… When friendship is settled, you must trust; before friendship is formed, you must pass judgment. Those persons indeed put last first and confound their duties, who … judge a man after they have made him their friend, instead of making him their friend after they have judged him. Ponder for a long time whether you shall admit a given person to your friendship; but when you have decided to admit him, welcome him with all your heart and soul. Speak as boldly with him as with yourself… Regard him as loyal and you will make him loyal.
 
-## Self-advices
-
-* Be incomplete
-* Be free, own yourself 100%
-* If you can do something in less than a minute, do it now without delaying
-* Smile and make it fun
-
 
 ## Do When Stressed
 
+* Mediate
 * Do push-ups
 * Take photos
 * Sing your favorite songs
@@ -49,7 +77,7 @@ According to [Anton Chekhov](https://www.brainpickings.org/2013/01/29/anton-chek
 * They respect human personality, and therefore they are always kind, gentle, polite, and ready to give in to others.
 * They have sympathy not for beggars and cats alone. Their heart aches for what the eye does not see….
 * They respect the property of others, and therefor pay their debts.
-* They are sincere, and dread lying like fire. They don’t lie even in small things. 
+* They are sincere, and dread lying like fire. They don’t lie even in small things.
 * They do not disparage themselves to rouse compassion.
 * They have no shallow vanity. They do not care for such false diamonds as knowing celebrities.
 * If they have a talent they respect it. They sacrifice to it rest, women, wine, vanity…
@@ -92,15 +120,15 @@ Self-esteem is built by demonstrating real ability and achievement in areas of o
 
 #### Learn to accept compliments
 
-The best way to avoid the reflexive reactions of batting away compliments is to prepare simple set responses and train yourself to use them automatically whenever you get good feedback (e.g., “Thank you” or “How kind of you to say”). 
+The best way to avoid the reflexive reactions of batting away compliments is to prepare simple set responses and train yourself to use them automatically whenever you get good feedback (e.g., “Thank you” or “How kind of you to say”).
 
-#### Eliminate self-criticism and introduce self-compassion 
+#### Eliminate self-criticism and introduce self-compassion
 
 Whenever your self-critical inner monologue kicks in, ask yourself what you would say to a dear friend if they were in your situation and direct those comments to yourself.
 
 #### Affirm your real worth
 
-Make a list of qualities you have that are meaningful in the specific context. 
+Make a list of qualities you have that are meaningful in the specific context.
 
 ## Why do we see dreams?
 
