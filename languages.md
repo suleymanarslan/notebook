@@ -136,6 +136,11 @@ See also: [toba-batak-dictionary/dict.json](https://github.com/azer/toba-batak-d
 
 Words I looked up on dictionary;
 
+#### buoyancy
+
+the ability or tendency to float in water or air or some other fluid.
+
+
 #### cognition
 
 the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.
