@@ -149,6 +149,7 @@ the mental action or process of acquiring knowledge and understanding through th
 
 keep or restrict someone or something within certain limits of (space, scope, quantity, or time).
 
+
 #### demystify
 
 ```
@@ -254,6 +255,11 @@ Noun
 #### ornamental
 
 serving or intended as an ornament; decorative.
+
+
+#### pinnacle
+
+the most successful point; the culmination.
 
 #### resentment
 
