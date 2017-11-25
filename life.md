@@ -3,6 +3,7 @@
 Index of Contents:
 
 * [Self Advices](#self-advices)
+* [Reasons To Say No](#reasons-to-say-no)
 * [Friendship](#friendship)
 * [Do When Stressed](#do-when-stressed)
 * [8 Qualities of Cultured People](#8-qualities-of-cultured-people)
@@ -28,14 +29,14 @@ I grow it by the time with other people's feedback.
   * Knowledge
   * Inspiration
   * Freedom
-  * Goals (p.s reach small goals first before the bigger ones)
   * New experiences
   * Build Good habits
     * Avoid being addicted to social media and the phony rewards like follower, rt, like counts..
     * Learn how to manage your time
     * If you can do something in less than a minute, do it now without delaying
+* Have goals, remember your them along the way. (p.s reach small goals first before the bigger ones)
 * Mediate
-* Focus
+* Focus (own & deploy your attention to reach your goals)
 * Smile
 * Family matters
 * Make constructive critism
@@ -46,6 +47,14 @@ I grow it by the time with other people's feedback.
 * Be yourself
 * Own your faults
 * Be picky about friendships.
+
+## Reasons To Say No
+
+Quoted from [Jocelyn Glei](https://twitter.com/jkglei/status/934103114566766594)
+
+* Not aligned with your goals/audience.
+* Not relevant to your expertise and/or interests.
+* Not an authentic invitation. (They didn't take the time to understand what you do.)
 
 ## Friendship
 
