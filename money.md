@@ -2,6 +2,86 @@
 
 I gotta learn about what is money, why do I need it and how to manage it without screwing up.
 
+## Everything You Need To Know About Finance
+
+Source: [WSJ](http://online.wsj.com/public/resources/documents/SUN_-A001.pdf)
+
+#### Ignore economic and financial forecasts
+
+Even though I do not personally agree with this one, Mr. Arends does make a valid point that most expert forecasts completely missed the financial collapse of 2008, the largest in the U.S. in 70 years, and the scope of the subsequent stock market recovery.
+
+#### Keep it simple
+
+No truer words could be printed. I believe simplicity is the key to understanding and managing your portfolio well. If you cannot fully understand an investment, you have no business making it.
+
+#### Buy individual stocks only as a gamble
+
+Even though I wholeheartedly agree with Mr. Arends’ message that you should “never buy fashionable investments,” I believe individual stocks can play a valuable role in a well-diversified portfolio. However, I must preface that statement with the following: “The stock selection should be done with the help of an investment advisor who has done the proper due diligence.”
+
+#### Put most of your long-term portfolio into equities
+
+I could not agree more. Even though equities are volatile, they generally produce the best long-term returns for growth—typically about 4–5% a year above inflation. The hard part of stock ownership is fighting the urge to sell should they plummet.
+
+#### Invest globally, not just in the U.S.
+
+Diversification is essential when it comes to smoothing out volatility; owning foreign stocks markets is a key part of this strategy.
+
+#### Buy Treasuries
+
+Even in this low interest rate environment, every stock portfolio needs a rudder to maintain stability. Treasury bonds and some Treasury inflation-protected securities offer this stability, as they are likely to hold their value, or even go up, when stocks crash.
+
+#### Never buy a lottery ticket
+
+Every time I see someone buying a lottery ticket, I’m tempted to ask them if they have ever won. Everyone knows the odds of winning the lottery are astronomically high, yet many Americans still line up weekly to throw their money away on a long shot.
+
+#### Know thyself
+
+ No one knows you better than you. If you lack the discipline to charge items that are not in your budget, then cut up your credit cards. Use automatic deposits into your 401(k) and savings account. The old adage “out of sight, out of mind” works well here.
+
+#### Buy high-deductible home and car insurance
+
+It’ll save you money. Insurance is necessary, and a high deductible can help reduce the cost.
+
+#### Protect yourself from disaster
+
+Have disability insurance, either through work or directly. Remember, you have to protect the breadwinner (that’s you!). Use term life insurance to cover your dependents should anything unexpected happen.
+
+#### Save early, save often
+
+The miracle of compounding interest requires time and patience. Invest a dollar for 10 years at 4%, and you’ll have $1.50. Invest it for 40 years, and you’ll have nearly $5.
+
+#### Use those free shelters
+
+Contribute as much as possible to your company’s 401(k) plan or equivalent (such as a 403(b) or 457), and at least enough to get the company match. If you can, contribute to individual retirement accounts for yourself (and a nonworking spouse) as well.
+
+#### Plan for a long life
+
+A third of your adult life could come after you’re 65. Try to pay off your mortgage, and save at least ten times your annual salary by the time you retire. Delay taking Social Security for as long as you can, up to the age of 70, to maximize each monthly check. Don’t carry a balance from month to month unless you are planning to default and file for bankruptcy. Card interest rates are extremely high—partially to account for the borrowers who will default. Make paying off that debt your utmost priority.
+
+#### Cut the waste
+
+There’s fat in every middle-class budget. This is true. Pay attention to where your money is going. There are many areas that can be easily trimmed. Unfortunately, for those foodies on a budget, keep in mind that few habits bust the budget more than eating out regularly.
+
+#### Tune out advertising
+
+If you think it sounds too good to be true, it usually is. Think of those 12% CDs offered by an unknown bank in Antigua.
+
+#### Protect your nest egg
+
+I’m always reminded of the safety briefing flight attendants give you: “Secure your own oxygen mask before putting one on a child.” I thought that was odd at first, but it’s true that without you, your child does not stand a chance. So don’t drain your retirement savings to pay for your child’s college education. Students have many other funding options, such as loans, grants, or a job. But you have far fewer, and less palatable, options if you run out of money in retirement. Likewise, don’t empty your 401(k) or IRA to start a business. You will be taxed and penalized on the withdrawals even if you lose the money. And so long as the money remains in those shelters, it’s protected from creditors.
+
+#### Teach your children about money
+
+Teach them early and often. No one else will, and they will have to make their own way.
+
+#### Value your money
+
+Work out how much you take home, after tax, for each hour you work. And remember that number—especially when you shop.
+
+#### Share
+
+Nothing is more rewarding than helping others, so try to find a line item in your budget for charity. It is an investment that will deliver the most valuable of returns.
+
 ## History of Capitalism
 
 Noted from [a Youtube Video](https://www.youtube.com/watch?v=dIuaW9YWqEU).
