@@ -5,7 +5,7 @@ Index of Contents:
 * [Self Advices](#self-advices)
 * [Reasons To Say No](#reasons-to-say-no)
 * [Friendship](#friendship)
-* [Happy Life](#happy-life)
+* [Rich Life](#rich-life)
 * [Do When Stressed](#do-when-stressed)
 * [8 Qualities of Cultured People](#8-qualities-of-cultured-people)
 * [Qualities We Need In Our Every Day Lifes](#qualities-we-need-in-our-every-day-lifes)
