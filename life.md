@@ -5,6 +5,7 @@ Index of Contents:
 * [Self Advices](#self-advices)
 * [Reasons To Say No](#reasons-to-say-no)
 * [Friendship](#friendship)
+* [Happy Life](#happy-life)
 * [Do When Stressed](#do-when-stressed)
 * [8 Qualities of Cultured People](#8-qualities-of-cultured-people)
 * [Qualities We Need In Our Every Day Lifes](#qualities-we-need-in-our-every-day-lifes)
@@ -66,6 +67,16 @@ Seneca [writes in his letters](https://www.brainpickings.org/2017/05/19/seneca-f
 
 > If you consider any man a friend whom you do not trust as you trust yourself, you are mightily mistaken and you do not sufficiently understand what true friendship means… When friendship is settled, you must trust; before friendship is formed, you must pass judgment. Those persons indeed put last first and confound their duties, who … judge a man after they have made him their friend, instead of making him their friend after they have judged him. Ponder for a long time whether you shall admit a given person to your friendship; but when you have decided to admit him, welcome him with all your heart and soul. Speak as boldly with him as with yourself… Regard him as loyal and you will make him loyal.
 
+## Rich Life
+
+* You and your loved ones are healthy
+* Quality time with family, friends
+* People who love and trust you
+* Work that fills you with joy, pride
+* Opportunity to learn and grow
+* Freedom to express the true you
+* Courage to dare, dream and do
+* Wanting & needing less
 
 ## Do When Stressed
 
