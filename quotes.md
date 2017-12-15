@@ -165,6 +165,9 @@ Advise;
 
 ### Türkçe
 
+> Ben yalnızca yürürken düşünebilirim. Durduğumda düşüncelerim de durur; benim kafam bacaklarımla hareket eder.
+- Jean Jacques Rousseau, İtiraflar
+
 > İnsan gitmekten yapılmıştır dünya kalmaktan.
 — Mustafa Akar
 
