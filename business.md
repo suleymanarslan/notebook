@@ -79,3 +79,9 @@
 * [Ardent](http://www.ardentcapital.com/ardent/)
 
 ### Turkey
+
+* [Young Turk VC](http://www.youngturkvc.com/)
+* [Galata Business Angels](http://www.galatabusinessangels.com/) (info@galatabusinessangels.com)
+* [Lab-X](http://lab-x.org/)
+* [iLab](http://www.ilab.com.tr/) iletisim@ilab.com.tr
+* [inovent](http://www.inovent.com.tr/) info@inovent.com.tr
