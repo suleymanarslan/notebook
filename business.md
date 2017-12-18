@@ -23,3 +23,37 @@
   * Intro
   * Main body
   * Conclusion (remind the intro)
+
+## Investment Companies
+
+### Silicon Valley
+
+* [500](https://500.co/)
+* [YCombinator](https://ycombinator.com)
+
+### London
+
+### Berlin
+
+### Singapore
+
+* [B Capital Group](https://bcapgroup.com/) (ir@bcapgroup.com / info@bcapgroup.com)
+* [Golden Gate Investors](http://goldengate.vc/investors/) (hello@goldengate.vc)
+* [Jungle Ventures](http://www.jungle-ventures.com/) (info@jungle-ventures.com)
+* [innov8](http://innov8.singtel.com) (innov8@singtel.com)
+* [Sequoia](https://www.sequoiacap.com/)
+* [Monkshill](http://www.monkshill.com/) (reach.us@monkshill.com)
+* [Quest Ventures](https://www.questventures.com/) (info@questventures.com)
+* [Sreda](http://sreda.vc/) (info@lifesreda.com)
+* [Coent](http://coent.sg) (info@coent.sg)
+* [Rakuten](https://capital.rakuten.com/) (invest-rakuten-capital@mail.rakuten.com)
+* [KKfund](http://kkfund.co) (info@kkfund.co)
+* [Dreamlabs](http://dreamlabs.sg) (info@dreamlabs.sg)
+* [Innosight Ventures](http://www.innosightventures.com/) (info@innosightventures.com)
+* [Incubate Fund](http://incubatefund.com/en/)
+* [Spiral Ventures](https://spiral-ventures.com/)
+* [East Ventures](https://east.vc)
+
+### Indonesia
+
+### Turkey
