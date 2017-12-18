@@ -42,7 +42,7 @@
 * [Rocket Internet](https://www.rocket-internet.com/)
 * [Holtz Brinck](https://www.holtzbrinck-ventures.com/) (businessplan@holtzbrinck.net)
 * [early bird](https://www.earlybird.com)
-* [cherry](http://www.cherry.vc/)
+* [cherry](http://www.cherry.vc/) (investors@cherry.vc)
 
 ### Singapore
 
