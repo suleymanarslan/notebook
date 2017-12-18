@@ -53,6 +53,7 @@
 * [Incubate Fund](http://incubatefund.com/en/)
 * [Spiral Ventures](https://spiral-ventures.com/)
 * [East Ventures](https://east.vc)
+* [Wavemaker](http://wavemaker.vc/#intro)
 
 ### Indonesia
 
