@@ -30,6 +30,7 @@
 
 * [500](https://500.co/)
 * [YCombinator](https://ycombinator.com)
+* [Icon](http://iconventures.com) 
 
 ### London
 
@@ -54,7 +55,27 @@
 * [Spiral Ventures](https://spiral-ventures.com/)
 * [East Ventures](https://east.vc)
 * [Wavemaker](http://wavemaker.vc/#intro)
+* [Gree](https://www.greeventures.com/en/) 
+
+
+### Tokyo
+
+* [DCM](https://www.dcm.com) (businessplan@dcm.com)
+* [Infinity Ventures](http://www.infinityventures.com/)
+* [Digital Garage](http://www.garage.co.jp/en/)
+* [Jafco](http://www.jafco.com/) (info@iconventures.com, joe@iconventures.com, nick@iconventures.com)
+* [Globis](http://www.globiscapital.co.jp/en/) (info-gcp@globis.co.jp)
+* [Gree](https://www.greeventures.com/en/) 
 
 ### Indonesia
+
+* [CyberAgent](http://www.cyberagentventures.com/)
+* [Convergence](http://www.convergencevc.com/) info@convergencevc.com
+* [IdeaBox](http://ideabox.co.id/)
+* [IdeaSource](http://ideasource.com) portfolio@ideosource.com
+
+### Bangkok
+
+* [Ardent](http://www.ardentcapital.com/ardent/)
 
 ### Turkey
