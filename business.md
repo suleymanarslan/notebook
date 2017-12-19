@@ -26,11 +26,18 @@
 
 ## Investment Companies
 
+### Worldwide
+
+* [Intel Capital](http://www.intelcapital.com/)
+* [Silver Lake](http://www.silverlake.com/)
+* [Fenox](http://www.fenoxvc.com/contact-us/) (contact@fenoxvc.com)
+* [500](https://500.co/)
+* [Icon](http://iconventures.com) 
+* [Warburg Pincus](http://www.warburgpincus.com/)
+
 ### Silicon Valley
 
-* [500](https://500.co/)
 * [YCombinator](https://ycombinator.com)
-* [Icon](http://iconventures.com) 
 * [Accel](https://www.accel.com)
 
 ### London
@@ -68,6 +75,9 @@
 * [1823 Ventures](https://www.1823ventures.com)
 * [Arbor Ventures](http://www.arborventures.com/)
 * [Big Colors](http://bigcolors.com/)
+* [SeedPlus](http://www.seedplus.com/) (hello@seedplus.com)
+* [Vertex](http://www.vertexventures.com/)
+
 
 ### Japan
 
