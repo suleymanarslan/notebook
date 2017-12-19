@@ -39,6 +39,11 @@
 
 * [YCombinator](https://ycombinator.com)
 * [Accel](https://www.accel.com)
+* [Bold Start](http://www.boldstart.vc/)
+
+### New York
+
+* [Fueled](https://fueled.com/)
 
 ### London
 
