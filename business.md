@@ -31,6 +31,7 @@
 * [500](https://500.co/)
 * [YCombinator](https://ycombinator.com)
 * [Icon](http://iconventures.com) 
+* [Accel](https://www.accel.com)
 
 ### London
 
@@ -64,7 +65,9 @@
 * [East Ventures](https://east.vc)
 * [Wavemaker](http://wavemaker.vc/#intro)
 * [Gree](https://www.greeventures.com/en/) 
-
+* [1823 Ventures](https://www.1823ventures.com)
+* [Arbor Ventures](http://www.arborventures.com/)
+* [Big Colors](http://bigcolors.com/)
 
 ### Tokyo
 
