@@ -98,6 +98,7 @@
 * [Convergence](http://www.convergencevc.com/) (info@convergencevc.com)
 * [IdeaBox](http://ideabox.co.id/)
 * [IdeaSource](http://ideasource.com) (portfolio@ideosource.com)
+* [Venturra](http://venturra.com)
 
 ### Bangkok
 
