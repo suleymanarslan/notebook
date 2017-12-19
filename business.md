@@ -124,6 +124,7 @@
 * [BOM](http://bom.nl) (info@bom.nl)
 * [Value Creation Capital](http://valuecreationcapital.com) (value@valuecreationcapital.com)
 * [Zeeuws Investerings Fonds](http://zeeuwsinvesteringsfonds.nl) (johan@zeeuwsinvesteringsfonds.nl)
+* [Brooklyn Ventures](https://www.brooklyn-ventures.com/) (info@brooklyn-ventures.com)
 
 ### Turkey
 
