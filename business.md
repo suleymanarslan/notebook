@@ -119,10 +119,11 @@
 * [Holland Startup](https://www.hollandstartup.com)
 * [Boralis](http://boralis.com) (marque@boralis.com)
 * [Voc](http://www.voccp.com/) (info@voccp.com)
-* [The Hatch Firm](http://thehatchfirm.com/) (mailto:info@thehatchfirm.com)
+* [The Hatch Firm](http://thehatchfirm.com/) (info@thehatchfirm.com)
 * [Block Party](http://blckprty.com/)
 * [BOM](http://bom.nl) (info@bom.nl)
 * [Value Creation Capital](http://valuecreationcapital.com) (value@valuecreationcapital.com)
+* [Zeeuws Investerings Fonds](http://zeeuwsinvesteringsfonds.nl) (johan@zeeuwsinvesteringsfonds.nl)
 
 ### Turkey
 
