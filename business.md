@@ -39,11 +39,11 @@
 
 * [YCombinator](https://ycombinator.com)
 * [Accel](https://www.accel.com)
-* [Bold Start](http://www.boldstart.vc/)
 
 ### New York
 
 * [Fueled](https://fueled.com/)
+* [Bold Start](http://www.boldstart.vc/)
 
 ### London
 
@@ -108,6 +108,21 @@
 ### Bangkok
 
 * [Ardent](http://www.ardentcapital.com/ardent/)
+
+### Netherlands
+
+* [Keadyn](http://www.keadyn.com/) (hello@keadyn.com)
+* [Uniiq](https://uniiq.nl) (contact@uniiq.nl)
+* [Venture Fathers](http://www.venturefathers.com/) (info@venturefathers.com)
+* [Vectrix](https://www.vectrix.nl/en/contact/) (info@vectrix.nl)
+* [Bfly Ventures](http://www.bfly.vc/)
+* [Holland Startup](https://www.hollandstartup.com)
+* [Boralis](http://boralis.com) (marque@boralis.com)
+* [Voc](http://www.voccp.com/) (info@voccp.com)
+* [The Hatch Firm](http://thehatchfirm.com/) (mailto:info@thehatchfirm.com)
+* [Block Party](http://blckprty.com/)
+* [BOM](http://bom.nl) (info@bom.nl)
+* [Value Creation Capital](http://valuecreationcapital.com) (value@valuecreationcapital.com)
 
 ### Turkey
 
