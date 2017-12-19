@@ -44,6 +44,7 @@
 
 * [Fueled](https://fueled.com/)
 * [Bold Start](http://www.boldstart.vc/)
+* [BetaWorks](https://betaworks.com/)
 
 ### London
 
