@@ -69,7 +69,7 @@
 * [Arbor Ventures](http://www.arborventures.com/)
 * [Big Colors](http://bigcolors.com/)
 
-### Tokyo
+### Japan
 
 * [DCM](https://www.dcm.com) (businessplan@dcm.com)
 * [Infinity Ventures](http://www.infinityventures.com/)
@@ -78,12 +78,16 @@
 * [Globis](http://www.globiscapital.co.jp/en/) (info-gcp@globis.co.jp)
 * [Gree](https://www.greeventures.com/en/) 
 
+### India
+
+* [Blume](http://blume.vc/)
+
 ### Indonesia
 
 * [CyberAgent](http://www.cyberagentventures.com/)
-* [Convergence](http://www.convergencevc.com/) info@convergencevc.com
+* [Convergence](http://www.convergencevc.com/) (info@convergencevc.com)
 * [IdeaBox](http://ideabox.co.id/)
-* [IdeaSource](http://ideasource.com) portfolio@ideosource.com
+* [IdeaSource](http://ideasource.com) (portfolio@ideosource.com)
 
 ### Bangkok
 
@@ -94,5 +98,5 @@
 * [Young Turk VC](http://www.youngturkvc.com/)
 * [Galata Business Angels](http://www.galatabusinessangels.com/) (info@galatabusinessangels.com)
 * [Lab-X](http://lab-x.org/)
-* [iLab](http://www.ilab.com.tr/) iletisim@ilab.com.tr
-* [inovent](http://www.inovent.com.tr/) info@inovent.com.tr
+* [iLab](http://www.ilab.com.tr/) (iletisim@ilab.com.tr)
+* [inovent](http://www.inovent.com.tr/) (info@inovent.com.tr)
