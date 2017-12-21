@@ -14,6 +14,7 @@ Index of Contents:
 * [Why Do We See Dreams?](#why-do-we-see-dreams)
 * [Better Conversation Advices](#better-conversation-advices)
 * [The Daily Routines Of Famous Creative People](#the-daily-routines-of-famous-creative-people)
+* [20 Cognitive Biases That Screw Up Your Decisions](#20-cognitive-biases-that-screw-up-your-decisions)
 
 ## Self-advices
 
@@ -207,3 +208,7 @@ A good conversation is like miniskirt, short enough to retain interest, but long
 ## the daily routines of famous creative people
 
 ![](https://cldup.com/keDC-1EwU1.jpg)
+
+## 20 Cognitive Biases That Screw Up Your Decisions
+
+![](https://cldup.com/E3NvxhD1hp.jpg)
