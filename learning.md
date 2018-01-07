@@ -1,12 +1,29 @@
 # learning
 
+## Feynman Technique
+
+### Step 1
+
+Grab a sheet of paper and write the name of the concept at the top. You can use pretty much any concept or idea – even though the technique is named after Feynman, it’s not limited solely to math and science.
+
+### Step 2 
+
+Explain the concept in your own words as if you were teaching it to someone else. Focus on using plain, simple language. Don’t limit your explanation to a simple definition or a broad overview; challenge yourself to work through an example or two as well to ensure you can put the concept into action.
+
+### Step 3
+
+Review your explanation and identify the areas where you didn’t know something or where you feel your explanation is shaky. Once you’ve pinpointed them, go back to the source material, your notes, or any examples you can find in order to shore up your understanding.
+
+### Step 4
+
+If there are any areas in your explanation where you’ve used lots of technical terms or complex language, challenge yourself to re-write these sections in simpler terms. Make sure your explanation could be understood by someone without the knowledge base you believe you already have.
+
 ## 5 Learning Hacks
 
 Author: [Candace Thille](https://ed.stanford.edu/faculty/cthille)
-
 Video: [Youtube](https://www.youtube.com/watch?v=0jl46ku9uSE)
 
-#### 1. Ditch the highlighter
+### 1. Ditch the highlighter
 
 Highlighters can be a waste of time says Thille. "If there is one thing I could do, I would take highlighters away from students," she explains.
 
@@ -16,7 +33,7 @@ Instead of mindlessly underlining something you want to learn, Thille suggests f
 
 "If you thought that point was important, try and restate it in your own words," she says. "Try and make sense of out it because you're not really trying to commit it to memory, you're trying to extract meaning out of it."
 
-#### 2. Embrace difficulty
+### 2. Embrace difficulty
 
 Thille finds that students are often tempted to spend lots of time studying things that they understand and are discouraged by things that are hard for them. This, she argues, holds students back from meeting their full potential.
 
@@ -26,11 +43,7 @@ This mentality leads students to prioritize their time incorrectly. Spending mor
 
 "Really engaging in things that are hard and seem confusing is a much better study strategy" than focusing on the information they already understand, says Thille.
 
-Students passing by Stanford Memorial Church on the Stanford campus.
-Connie J. Spinardi | Getty Images
-Students passing by Stanford Memorial Church on the Stanford campus.
-
-#### 3. Don't cram
+### 3. Don't cram
 
 If you want to learn something and actually put it to use, then cramming is the wrong approach says Thille. "I think students know this, but they still do it," she says.
 
