@@ -149,6 +149,15 @@ the mental action or process of acquiring knowledge and understanding through th
 
 keep or restrict someone or something within certain limits of (space, scope, quantity, or time).
 
+#### cram
+
+```
+verb
+
+1. completely fill (a place or container) to the point that it appears to be overflowing.
+
+2. study intensively over a short period of time just before an examination.
+```
 
 #### demystify
 
