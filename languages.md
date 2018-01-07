@@ -252,6 +252,12 @@ Noun
 (especially in former times) a person of noble rank or birth.
 ```
 
+#### mercenary
+
+```
+(of a person or their behavior) primarily concerned with making money at the expense of ethics.
+```
+
 #### ornamental
 
 serving or intended as an ornament; decorative.
