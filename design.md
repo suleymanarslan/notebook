@@ -33,6 +33,7 @@ Motorbikes & Cars:
 
 Websites:
 
+* [Cory Maryott](http://www.corymaryott.com/)
 * [andre ribeiro](https://andreribeiro.co/)
 * [jenny johannesson](http://www.jennyjohannesson.com/)
 * [stripe elements](https://stripe.com/elements)
