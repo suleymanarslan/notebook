@@ -39,7 +39,6 @@ Websites:
 * [this is fool proof](https://www.thisisfoolproof.com/)
 * [chobani food service](http://chobanifoodservice.com)
 * [ideo](https://www.ideo.com/) | [post](https://www.ideo.com/blog/why-you-should-start-prototyping-right-now?utm_source=t.co&utm_medium=referral)
-* [ash huang](http://ashsmash.com/)
 * [doro design](http://www.dorodesign.eu/)
 * [alessandro risso](http://www.alessandrorisso.com/)
 * [viviane le courtois](http://vivianelecourtois.com/)
