@@ -14,4 +14,4 @@ R: 239 G: 123 B: 136
 
 ![](https://cldup.com/C8ac2UParb.png)
 
-R: 0 G: 196 B: 127
+R: 0 G: 196 B: 126
