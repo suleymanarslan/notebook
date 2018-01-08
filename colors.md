@@ -1,5 +1,7 @@
 # Colors
 
+List of colors I like.
+
 ![](https://cldup.com/FVARJ6EhWF.png)
 
 R: 172 G: 218 B: 207
