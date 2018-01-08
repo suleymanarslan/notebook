@@ -35,7 +35,6 @@ Websites:
 
 * [Cory Maryott](http://www.corymaryott.com/)
 * [andre ribeiro](https://andreribeiro.co/)
-* [jenny johannesson](http://www.jennyjohannesson.com/)
 * [stripe elements](https://stripe.com/elements)
 * [this is fool proof](https://www.thisisfoolproof.com/)
 * [chobani food service](http://chobanifoodservice.com)
