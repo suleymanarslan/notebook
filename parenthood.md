@@ -53,7 +53,7 @@ Here is what happens when the labor day comes;
 * **Active Labor Phase:** Continues from 3 cm. until the cervix is dilated to 7 cm.
 * **Transition Phase:** Continues from 7 cm. until the cervix is fully dilated to 10 cm.
 
-#### Early Labor Phase
+### Early Labor Phase
 
 During this phase, you should just try to relax. It is not necessary to rush to the hospital or birth center. Try to enjoy the comfort of the familiar surroundings at home. If early labor occurs during the day, do some simple routines around the house.
 
@@ -66,7 +66,7 @@ During this phase, you should just try to relax. It is not necessary to rush to 
 * Contractions can feel like aching in your lower back, menstrual cramps, and pressure/tightening in the pelvic area
 * Your water might break – this is known as amniotic sac rupture and can happen anytime within the first stage of labor
 
-#### Active Labor Phase
+### Active Labor Phase
 
 Now is time for you to head to the hospital or birth center. Your contractions will be stronger, longer and closer together. It is very important that you have plenty of support. It is also a good time to start your breathing techniques and try a few relaxation exercises between contractions.
 
@@ -78,7 +78,7 @@ Now is time for you to head to the hospital or birth center. Your contractions w
 * Contractions will feel stronger and longer
 * This is usually the time to head to the hospital or birth center
 
-#### Transition Phase
+### Transition Phase
 
 During this phase, the mother will rely heavily on her support person. This is the most challenging phase, but it is also the shortest. Try to think “one contraction at a time” (this may be hard to do if the contractions are very close together). Remember how far you have already come, and when you feel an urge to push, tell your health care provider.
 
