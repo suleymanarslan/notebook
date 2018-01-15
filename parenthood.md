@@ -11,6 +11,7 @@ Index Of Contents:
 ## Fever
 
 Normal body temperature for a baby is 36.4°C, it can vary slightly. 38°C degree and above is considered as fewer.
+[Source](https://www.nhs.uk/conditions/pregnancy-and-baby/treating-high-temperature-children/?)
 
 ### How to tell if your child has a fever?
 
