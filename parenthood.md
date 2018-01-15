@@ -3,7 +3,7 @@
 Index Of Contents:
 
 * [Fever](#fever)
-* [Birth](#birth)
+* [Stages of Birth](#stages-of-birth)
 * [Pregnancy Diet](#pregnancy-diet)
 * [Development of Baby](#development-of-baby)
 * [Stages of Pregnancy](#states-of-pregnancy)
