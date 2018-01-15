@@ -6,6 +6,10 @@ Index Of Contents:
 * [Development of Baby](#development-of-baby)
 * [Stages of Pregnancy](#states-of-pregnancy)
 
+## Body Temperature
+
+Normal body temperature is 36.4°C, it can vary slightly. 38°C degree and above is considered as fewer.
+
 ## Pregnancy Diet
 
 #### Daily Nutrition Needed:
