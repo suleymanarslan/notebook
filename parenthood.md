@@ -2,13 +2,102 @@
 
 Index Of Contents:
 
+* [Fever](#fever)
+* [Birth](#birth)
 * [Pregnancy Diet](#pregnancy-diet)
 * [Development of Baby](#development-of-baby)
 * [Stages of Pregnancy](#states-of-pregnancy)
 
-## Body Temperature
+## Fever
 
-Normal body temperature is 36.4°C, it can vary slightly. 38°C degree and above is considered as fewer.
+Normal body temperature for a baby is 36.4°C, it can vary slightly. 38°C degree and above is considered as fewer.
+
+### How to tell if your child has a fever?
+
+* feel hotter than usual when you touch their forehead, back or stomach
+* feel sweaty or clammy
+* have flushed cheeks
+
+### How to care for your feverish child?
+
+* encourage them to drink plenty of fluids – offer regular breastfeeds if you're breastfeeding
+* only offer them food if they seem to want it
+* look out for signs of dehydration – these can include a dry mouth, no tears, sunken eyes and, in babies, fewer wet nappies 
+* check on your child from time to time during the night
+* keep them away from childcare, nursery or school – let the carer, nursery or school know your child is unwell
+* there's no need to undress your child or sponge them down with tepid water – research shows neither actually helps reduce fever
+* avoid bundling them up in too many clothes or bedclothes
+
+
+### Always get medical advice if:
+
+* your baby is under 3 months old and they have a temperature of 38°C or higher
+* your baby is 3 to 6 months old and has a temperature of 39C (102F) or higher
+* you think your child may be dehydrated
+* your child develops a red rash that doesn't fade when a glass is rolled over it
+* your child has a fit (convulsion)
+* they're crying constantly and you can't console or distract them, or the cry doesn't sound like their normal cry
+* has a high-pitched or unusual sound when crying
+* the fever lasts for more than 5 days
+* your child's health is getting worse
+* you have any concerns about looking after your child at home
+
+## Stages of Birth
+
+This is the most important information that every couple have to know before the birth, so you'll be aware of what is going on. If I didn't learn following information and didn't use a timer to measure contractions of my wife during the birth, nurses in the hospital were about to follow a false procedure because they thought the birth would happen 7-8 hours later. I trusted this information I found on [americanpregnancy.org](http://americanpregnancy.org/labor-and-birth/first-stage-of-labor/) and it literally made the nurses change their mind, measure the opening again and call the doctor to the hospital at 3am. 
+
+Here is what happens when the labor day comes;
+
+* **Early Labor Phase:** The time of the onset of labor until the cervix is dilated to 3 cm.
+* **Active Labor Phase:** Continues from 3 cm. until the cervix is dilated to 7 cm.
+* **Transition Phase:** Continues from 7 cm. until the cervix is fully dilated to 10 cm.
+
+#### Early Labor Phase
+
+During this phase, you should just try to relax. It is not necessary to rush to the hospital or birth center. Try to enjoy the comfort of the familiar surroundings at home. If early labor occurs during the day, do some simple routines around the house.
+
+**What to expect:**
+
+* Early labor will last approximately 8-12 hours
+* Your cervix will efface and dilate to 3 cm
+* Contractions will last about 30-45 seconds, giving you 5-30 minutes of rest between contractions
+* Contractions are typically mild and somewhat irregular but become progressively stronger and more frequent
+* Contractions can feel like aching in your lower back, menstrual cramps, and pressure/tightening in the pelvic area
+* Your water might break – this is known as amniotic sac rupture and can happen anytime within the first stage of labor
+
+#### Active Labor Phase
+
+Now is time for you to head to the hospital or birth center. Your contractions will be stronger, longer and closer together. It is very important that you have plenty of support. It is also a good time to start your breathing techniques and try a few relaxation exercises between contractions.
+
+**What to expect?**
+
+* Active labor will last about 3-5 hours
+* Your cervix will dilate from 4cm to 7cm
+* Contractions during this phase will last about 45-60 seconds with 3-5 minutes rest in between
+* Contractions will feel stronger and longer
+* This is usually the time to head to the hospital or birth center
+
+#### Transition Phase
+
+During this phase, the mother will rely heavily on her support person. This is the most challenging phase, but it is also the shortest. Try to think “one contraction at a time” (this may be hard to do if the contractions are very close together). Remember how far you have already come, and when you feel an urge to push, tell your health care provider.
+
+**What to expect?**
+
+* Transition will last about 30 min-2 hrs
+* Your cervix will dilate from 8cm to 10cm
+* Contractions during this phase will last about 60-90 seconds with a 30 second-2 minute rest in between
+* Contractions are long, strong, intense, and can overlap
+* This is the hardest phase but also the shortest
+* You might experience hot flashes, chills, nausea, vomiting, or gas.
+
+**Tips for support person:**
+
+* Offer lots of encouragement and praise
+* Avoid small talk
+* Continue breathing with her
+* Help guide her through her contractions with encouragement
+* Encourage her to relax between contractions
+* Don’t think that there is something wrong if she seems to be angry – it is a normal part of transition
 
 ## Pregnancy Diet
 
