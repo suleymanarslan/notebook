@@ -34,9 +34,9 @@ Infants ask for more food than they need. It's helpful to know the best amount a
 | 4 Months | 120-180 ml | * |
 | 6 Months | 180-230 | ** |
 
-* Depends on the frequency of feedings and his or her size
+\* Depends on the frequency of feedings and his or her size
 
-** Depends on whether you've introduced any baby food.
+\** Depends on whether you've introduced any baby food.
 
 ### Vomitting
 
