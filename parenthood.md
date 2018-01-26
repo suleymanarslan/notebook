@@ -25,6 +25,8 @@ Our baby is one week old by now. Here is what I learnt so far;
 
 ### Feeding
 
+Infants ask for more food than they need. It's helpful to know the best amount and frequency to avoid overfeeding.
+
 | Age | Amount | Time Period |
 | --- | --- | --- |
 | Newborn | 45-90 ml | Every 2-3 Hours |
@@ -33,6 +35,7 @@ Our baby is one week old by now. Here is what I learnt so far;
 | 6 Months | 180-230 | ** |
 
 * Depends on the frequency of feedings and his or her size
+
 ** Depends on whether you've introduced any baby food.
 
 ### Vomitting
