@@ -3,6 +3,7 @@
 Index Of Contents:
 
 * [Newborn Baby](#newborn-baby)
+  * [Feeding](#feeding)
   * [Fever](#fever)
   * [Vomitting](#vomitting)
 * [Stages of Birth](#stages-of-birth)
@@ -15,7 +16,7 @@ Index Of Contents:
 Our baby is one week old by now. Here is what I learnt so far;
 
 * Infants can detect light but can not "see" first 2 weeks. They'll be able to make eye contact and focus on objects by the end of month.
-* They need sun bathing every day at least for 30 minutes. 
+* They need sun bathing every day at least for 30 minutes between 6am until 9am.
 * Swaddling is not beneficial according to the experts.
 * They need milk every 2 hours and they'll cry until you feed them. 
 * When baby is crying and you want to make him/her feel comfortable, try [burping](https://www.babycentre.co.uk/a1051322/how-to-burp-your-baby).
