@@ -22,14 +22,26 @@ Our baby is one week old by now. Here is what I learnt so far;
 * Even normal birth is bloody like a surgery. The mother will keep having painful contractions and will need a lot of rest after birth, so the father has to be ready for hard work and sleepless nights. 
 * Disposable diapers are comfortable for baby because they can keep sleeping after peeing, so the parents, too. But they're expensive. We use clothe diapers and wake up & change when the baby pee/poo, and do laundry every day. 
 
-### Fever
+### Feeding
 
-Normal body temperature for a baby is 36.4°C, it can vary slightly. 38°C degree and above is considered as fewer.
-[Source](https://www.nhs.uk/conditions/pregnancy-and-baby/treating-high-temperature-children/?)
+| Age | Amount | Time Period |
+| --- | --- | --- |
+| Newborn | 45-90 ml | Every 2-3 Hours |
+| 2 Months | 120-150 ml | Every 3-4 Hours |
+| 4 Months | 120-180 ml | * |
+| 6 Months | 180-230 | ** |
+
+* Depends on the frequency of feedings and his or her size
+** Depends on whether you've introduced any baby food.
 
 ### Vomitting
 
 It's a sign for overfeeding (if there is no other issue). We started using a pacifier once our baby puked after drinking a lot of milk.
+
+### Fever
+
+Normal body temperature for a baby is 36.4°C, it can vary slightly. 38°C degree and above is considered as fewer.
+[Source](https://www.nhs.uk/conditions/pregnancy-and-baby/treating-high-temperature-children/?)
 
 ### How to tell if your child has a fever?
 
