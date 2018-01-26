@@ -47,35 +47,6 @@ It's a sign for overfeeding (if there is no other issue). We started using a pac
 Normal body temperature for a baby is 36.4°C, it can vary slightly. 38°C degree and above is considered as fewer.
 [Source](https://www.nhs.uk/conditions/pregnancy-and-baby/treating-high-temperature-children/?)
 
-### How to tell if your child has a fever?
-
-* feel hotter than usual when you touch their forehead, back or stomach
-* feel sweaty or clammy
-* have flushed cheeks
-
-### How to care for your feverish child?
-
-* encourage them to drink plenty of fluids – offer regular breastfeeds if you're breastfeeding
-* only offer them food if they seem to want it
-* look out for signs of dehydration – these can include a dry mouth, no tears, sunken eyes and, in babies, fewer wet nappies 
-* check on your child from time to time during the night
-* keep them away from childcare, nursery or school – let the carer, nursery or school know your child is unwell
-* there's no need to undress your child or sponge them down with tepid water – research shows neither actually helps reduce fever
-* avoid bundling them up in too many clothes or bedclothes
-
-
-### Always get medical advice if:
-
-* your baby is under 3 months old and they have a temperature of 38°C or higher
-* your baby is 3 to 6 months old and has a temperature of 39C (102F) or higher
-* you think your child may be dehydrated
-* your child develops a red rash that doesn't fade when a glass is rolled over it
-* your child has a fit (convulsion)
-* they're crying constantly and you can't console or distract them, or the cry doesn't sound like their normal cry
-* has a high-pitched or unusual sound when crying
-* the fever lasts for more than 5 days
-* your child's health is getting worse
-* you have any concerns about looking after your child at home
 
 ## Stages of Birth
 
