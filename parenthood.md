@@ -6,6 +6,7 @@ Index Of Contents:
   * [Feeding](#feeding)
   * [Fever](#fever)
   * [Vomitting](#vomitting)
+  * [Crying](#crying)
 * [Stages of Birth](#stages-of-birth)
 * [Pregnancy Diet](#pregnancy-diet)
 * [Development of Baby](#development-of-baby)
@@ -47,6 +48,10 @@ It's a sign for overfeeding (if there is no other issue). We started using a pac
 Normal body temperature for a baby is 36.4°C, it can vary slightly. 38°C degree and above is considered as fewer.
 [Source](https://www.nhs.uk/conditions/pregnancy-and-baby/treating-high-temperature-children/?)
 
+### Crying
+
+* The first two weeks, baby cries when he / she is hungry unless there is an health issue.
+* Crying increases at 2 or 3 weeks of age, peaks between 6 and 8 weeks, and then slows down after that, generally hitting its lowest level by around 4 months. 
 
 ## Stages of Birth
 
