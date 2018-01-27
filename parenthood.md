@@ -50,8 +50,10 @@ Normal body temperature for a baby is 36.4°C, it can vary slightly. 38°C degre
 
 ### Crying
 
-* The first two weeks, baby cries when he / she is hungry unless there is an health issue.
 * Crying increases at 2 or 3 weeks of age, peaks between 6 and 8 weeks, and then slows down after that, generally hitting its lowest level by around 4 months. 
+* When the baby cries a lot, try singing a lullaby. It works magically. 
+* They might have gas, as a part of the body development. Try making them feel comfortable by [burping](https://www.babycentre.co.uk/a1051322/how-to-burp-your-baby).
+
 
 ## Stages of Birth
 
