@@ -21,6 +21,7 @@ List of Contents:
   * [du](#du)
   * [ncdu](#ncdu)
   * [expac](#expac)
+  * [grep](#grep)
   * [ip](#ip)
   * [pkill](#pkill)
   * [sed](#sed)
@@ -394,6 +395,14 @@ Manage routing tables:
 
 ```
 ip r
+```
+
+#### grep
+
+Match patterns with text, print not matched;
+
+```bash
+grep -oFf patterns.txt text.txt | grep -vFf - patterns.txt
 ```
 
 #### pkill
