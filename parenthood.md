@@ -18,8 +18,11 @@ Index Of Contents:
 Schools teach math and science, and parents are expected to teach kids everything else. I'm collecting list of things I want to teach my kid(s);
 
 * Camping
-* Tracking Footsteps
-* Setting Goals & Reaching Them
+  * How to setup a tent ?
+  * How to make a bonefire ?
+  * Understanding and tracking footsteps
+* Goals: how to decide and reach them ?
+* 
 
 ## Newborn Baby
 
