@@ -9,6 +9,12 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 * [Balinese](#balinese)
 * [Zazaki](#zazaki)
 * [English](#english)
+* [Türkçe](#turkce)
+
+## Türkçe
+
+* *İntisap* a. (intisa:bı) esk. 1. Bağlanma. 2. Girme. 3. Kapılanma.
+
 
 ## Arabic
 
@@ -129,8 +135,6 @@ See also: [toba-batak-dictionary/dict.json](https://github.com/azer/toba-batak-d
 * **How are you?** Turında?
 * **Good Bye** Xatire sıma
 * **Where are you coming from?:** Koytında yena?
-
-
 
 ## English
 
