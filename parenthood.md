@@ -2,6 +2,7 @@
 
 Index Of Contents:
 
+* [Education](#education)
 * [Newborn Baby](#newborn-baby)
   * [Feeding](#feeding)
   * [Fever](#fever)
@@ -11,6 +12,14 @@ Index Of Contents:
 * [Pregnancy Diet](#pregnancy-diet)
 * [Development of Baby](#development-of-baby)
 * [Stages of Pregnancy](#states-of-pregnancy)
+
+## Education
+
+Schools teach math and science, and parents are expected to teach kids everything else. I'm collecting list of things I want to teach my kid(s);
+
+* Camping
+* Tracking Footsteps
+* Setting Goals & Reaching Them
 
 ## Newborn Baby
 
