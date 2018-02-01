@@ -84,6 +84,10 @@ From [The Little Prince](https://en.wikipedia.org/wiki/The_Little_Prince)
 
 #### Jalāl ad-Dīn Muhammad Rūmī:
 
+On difficulty;
+
+> As you start to walk out on the way, the way appears.
+
 On pain and suffering;
 
 > Pain is a treasure, for it contains mercies.
