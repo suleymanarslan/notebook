@@ -17,7 +17,11 @@ Index Of Contents:
 
 Schools teach math and science, and parents are expected to teach kids everything else. I'm collecting list of things I want to teach my kid(s);
 
-* Money: how to make, save and manage...
+* Money
+  * What is it ?
+  * Why is it important?
+  * How to make it ?
+  * How to manage it ?
 * Time
 * Goals: how to decide and reach them ?
 * Camping
