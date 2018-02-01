@@ -1,6 +1,30 @@
 # Money
 
-I gotta learn about what is money, why do I need it and how to manage it without screwing up.
+## How to make money ?
+
+[Source](https://youtu.be/58PWZDC8TU0?t=462)
+
+* You basically get rewarded by society for giving it what it wants.
+* Figure out what product or service the society want but does not yet now how to get.
+* Become the person who delivers that product/service at skill. 
+* If you have hobbies around intellectual curiosity you're more likely to develop the skillsets the society does not know how to train other people how to do.
+* Know something that other people don't know at the time period when they want it. 
+* Take specific knowledge that you got and you want to be known as person who can deliver that; you have to have a brand and reputation. 
+* Leverage is critical: if I put in 8 hours chopping wood that will get me 8 times the output that from one hour of chopping wood. Whereas with leverage I might have bulldozers, chainsaws, lumberjacks working with me, I get a multiplier affect. 
+* There are three broad classes of leverage;
+  * Labor: other humans working for you.
+  * Capital: Everytime you make a decision, you got money as a multipler. That's why fund managers and VCs do so well.
+  * Products that have no marginal cost of replication: books, media, code.
+* Code is the most powerful leverage that is permissionless. All you need is a computer, you don't need anyone's permission.
+* To summarize; 
+  * You have to have specific knowledge.
+  * Take on accountability with a brand.
+  * Use whichever form of leverage that applies to your situation.
+* If you want to make maximum amount of money possible in a deterministic & predictable way;
+  * Stay on the bleeding edge of trends.
+  * Study technology, design, art.
+  * Build specific knowledge.
+  * You'd wait for the moment until something emerged in the world where they needed that skillset and you're uniquely qualified.
 
 ## Everything You Need To Know About Finance
 
