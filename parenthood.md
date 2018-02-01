@@ -17,6 +17,15 @@ Index Of Contents:
 
 Schools teach math and science, and parents are expected to teach kids everything else. I'm collecting list of things I want to teach my kid(s);
 
+* Sports
+  * Swimming
+  * Football (soccer)
+  * Kayaking
+  * Bouldering
+* Camping
+  * How to setup a tent ?
+  * How to make a bonefire ?
+  * Understanding and tracking footsteps
 * Money
   * What is it ?
   * Why is it important?
@@ -24,15 +33,7 @@ Schools teach math and science, and parents are expected to teach kids everythin
   * How to manage it ?
 * Time
 * Goals: how to decide and reach them ?
-* Camping
-  * How to setup a tent ?
-  * How to make a bonefire ?
-  * Understanding and tracking footsteps
-* Sports
-  * Swimming
-  * Football (soccer)
-  * Kayaking
-  * Bouldering
+
 
 ## Newborn Baby
 
