@@ -28,6 +28,11 @@ Schools teach math and science, and parents are expected to teach kids everythin
   * How to setup a tent ?
   * How to make a bonefire ?
   * Understanding and tracking footsteps
+* Sports
+  * Swimming
+  * Football (soccer)
+  * Kayaking
+  * Bouldering
 
 ## Newborn Baby
 
