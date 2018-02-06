@@ -5,6 +5,7 @@ List of Contents:
 * [Useful Networking Commands](#networking)
 * [Improve Performance](#improve-performance)
 * [Mount Swap Partition](#mount-swap-partition)
+* [Increase /tmp Size](#increase-tmp-size)
 * [Arch Linux Installation](#arch-linux-installation)
 * [Building Custom Arch ISO](#building-custom-arch-iso)
 * [How to submit a package to AUR?](#how-to-submit-a-package-to-aur)
@@ -147,6 +148,20 @@ To set the swappiness value permanently, edit a `sysctl` configuration file:
 
 ```bash
 echo "vm.swappiness=10" > /etc/sysctl.d/99-sysctl.conf
+```
+
+## Increase /tmp Size
+
+Unmount /tmp first:
+
+```
+umount -l /tmp
+```
+
+And mount it to another folder:
+
+```
+mount --bind /path/to/folder/tmp /tmp
 ```
 
 ## Irssi
