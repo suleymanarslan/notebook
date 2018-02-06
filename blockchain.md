@@ -10,6 +10,7 @@ Index of Contents:
     * [Serialization](#serialization)
     * [Persistence](#persistence)
     * [CLI](#cli)
+  * [Transactions](#transactions)
 
 ## Building Blockchain in Go
 
@@ -473,3 +474,300 @@ func main() {
 	cli.Run()
 }
 ```
+
+## Transactions
+
+A transaction is combination of inputs and outputs. They lock values with a script,
+which can be onlucked by only by the one who locked them.
+
+```go
+type Transaction struct {
+	ID   []byte
+	Vin  []TXInput
+	Vout []TXOutput
+}
+```
+
+Outputs store the Satoshis in their `Value` field, locking them with a puzzle stored in `ScriptPubKey`.
+Internally Bitcoin uses the `Script` language to define outputs locking and unlocking logic.
+`ScriptPubKey` stores the wallet address defined by user.
+
+```go
+type TXOutput struct {
+	Value        int
+	ScriptPubKey string
+}
+```
+
+Every output is *indivisible*, we can't reference a part of its value.
+Transactions spent the whole in output. If the value is greater than required,
+a change is generated and sent back to the sender.
+
+```go
+type TXInput struct {
+	TxId      []byte
+	Vout      int
+	ScriptSig string
+}
+```
+
+Input stores transaction id in the `TxId` field, output index in the `Vout` field.
+`ScriptSig` provides data to be used in an output's `ScriptPubKey`. If the data is correct,
+the output can be unlocked. This is how we guarantee a user can not spend other people's belongings.
+
+Every new transaction must have at least one input and output. Output stores the "coins",
+input refrences an output from previous transaction and provides data for unlocking and creating
+new outputs.
+
+### Coinbase
+
+Coinbase is a special transaction type which creates outputs ("coins") without requiring previous outputs.
+
+```go
+func NewCoinbaseTX(to, data string) *Transaction {
+	if data == "" {
+		data = fmt.Sprintf("Reward to '%s'", to)
+	}
+
+	txin := TXInput{[]byte{}, -1, data}
+	txout := TXOutput{subsidy, to}
+	tx := Transaction{nil, []TXInput{txin}, []TXOutput{txout}}
+	tx.SetID()
+
+	return &tx
+}
+```
+
+### Transactions
+
+Every block must store at least one transaction;
+
+```go
+type Block struct {
+	Timestamp     int64
+	Transactions  []*Transaction
+	PrevBlockHash []byte
+	Hash          []byte
+	Nonce         int
+}
+```
+
+`NewBlock` and `NewGenesisBlock` should be also changed accordingly. Now `CreateBlockchain` takes an address
+and reward it for mining genesis block.
+
+```go
+func NewBlock(transactions []*Transaction, prevBlockHash []byte) *Block {
+	block := &Block{time.Now().Unix(), transactions, prevBlockHash, []byte{}, 0}
+	...
+}
+
+func NewGenesisBlock(coinbase *Transaction) *Block {
+	return NewBlock([]*Transaction{coinbase}, []byte{})
+}
+
+func CreateBlockchain(address string) *Blockchain {
+	...
+	err = db.Update(func(tx *bolt.Tx) error {
+		cbtx := NewCoinbaseTX(address, genesisCoinbaseData)
+		genesis := NewGenesisBlock(cbtx)
+
+		b, err := tx.CreateBucket([]byte(blocksBucket))
+		err = b.Put(genesis.Hash, genesis.Serialize())
+		...
+	})
+	...
+}
+```
+
+### Proof of Work
+
+As we replaced `Data` field with `Transactions`, we'll first add a method to create a hash of
+all transactions, then change the `prepareData` method to include the transactions hash;
+
+```go
+func (b *Block) HashTransactions() []byte {
+	var txHashes [][]byte
+	var txHash [32]byte
+
+	for _, tx := range b.Transactions {
+		txHashes = append(txHashes, tx.ID)
+	}
+	txHash = sha256.Sum256(bytes.Join(txHashes, []byte{}))
+
+	return txHash[:]
+}
+
+func (b *Block) HashTransactions() []byte {
+	var txHashes [][]byte
+	var txHash [32]byte
+
+	for _, tx := range b.Transactions {
+		txHashes = append(txHashes, tx.ID)
+	}
+	txHash = sha256.Sum256(bytes.Join(txHashes, []byte{}))
+
+	return txHash[:]
+}
+```
+
+Bitcoin uses a more elaborate technique: it represents all transactions containing in a block as a Merkle tree and uses the root hash of the tree in the Proof-of-Work system. This approach allows to quickly check if a block contains certain transaction, having only just the root hash and without downloading all the transactions.
+
+### Unspent Transaction Outputs
+
+The balance for a wallet is all unspent transaction outputs. *Unspent* means that these outputs
+weren't referened in any inputs.
+
+In the diagram below;
+
+* tx0, output 1;
+* tx1, output 0;
+* tx3, output 0;
+* tx4, output 0.
+
+![](https://jeiwan.cc/images/transactions-diagram.png)
+
+To find all unspent transactions, we need to;
+
+* Iterate all the blocks
+* Iterate all transactions in the block
+* Collect all transaction inputs in `spentTXOs`
+* Iterate all outputs in the transaction
+* Check if the output was spent
+* If it wasn't, add the output to `unspentTXs`
+
+```go
+func (bc *Blockchain) FindUnspentTransactions(address string) []Transaction {
+  var unspentTXs []Transaction
+  spentTXOs := make(map[string][]int)
+  bci := bc.Iterator()
+
+  for {
+    block := bci.Next()
+
+    for _, tx := range block.Transactions {
+      txID := hex.EncodeToString(tx.ID)
+
+    Outputs:
+      for outIdx, out := range tx.Vout {
+        // Was the output spent?
+        if spentTXOs[txID] != nil {
+          for _, spentOut := range spentTXOs[txID] {
+            if spentOut == outIdx {
+              continue Outputs
+            }
+          }
+        }
+
+        if out.CanBeUnlockedWith(address) {
+          unspentTXs = append(unspentTXs, *tx)
+        }
+      }
+
+      if tx.IsCoinbase() == false {
+        for _, in := range tx.Vin {
+          if in.CanUnlockOutputWith(address) {
+            inTxID := hex.EncodeToString(in.Txid)
+            spentTXOs[inTxID] = append(spentTXOs[inTxID], in.Vout)
+          }
+        }
+      }
+    }
+
+    if len(block.PrevBlockHash) == 0 {
+      break
+    }
+  }
+
+  return unspentTXs
+}
+
+func (bc *Blockchain) FindUTXO(address string) []TXOutput {
+       var UTXOs []TXOutput
+       unspentTransactions := bc.FindUnspentTransactions(address)
+
+       for _, tx := range unspentTransactions {
+               for _, out := range tx.Vout {
+                       if out.CanBeUnlockedWith(address) {
+                               UTXOs = append(UTXOs, out)
+                       }
+               }
+       }
+
+       return UTXOs
+}
+```
+
+Now we create the balance method that sums values of all unspent outputs locked by the account address;
+
+```go
+func (bc *Blockchain) FindUTXO(address string) []TXOutput {
+       var UTXOs []TXOutput
+       unspentTransactions := bc.FindUnspentTransactions(address)
+
+       for _, tx := range unspentTransactions {
+               for _, out := range tx.Vout {
+                       if out.CanBeUnlockedWith(address) {
+                               UTXOs = append(UTXOs, out)
+                       }
+               }
+       }
+
+       return UTXOs
+}
+```
+
+### Sending Coins
+
+Steps to send coin to someone else;
+
+* Create a new transaction
+* Put the transaction in a block
+* Mine the block immediately.
+
+```go
+func NewUTXOTransaction(from, to string, amount int, bc *Blockchain) *Transaction {
+	var inputs []TXInput
+	var outputs []TXOutput
+
+	acc, validOutputs := bc.FindSpendableOutputs(from, amount)
+
+	if acc < amount {
+		log.Panic("ERROR: Not enough funds")
+	}
+
+	// Build a list of inputs
+	for txid, outs := range validOutputs {
+		txID, err := hex.DecodeString(txid)
+
+		for _, out := range outs {
+			input := TXInput{txID, out, from}
+			inputs = append(inputs, input)
+		}
+	}
+
+	// Build a list of outputs
+	outputs = append(outputs, TXOutput{amount, to})
+	if acc > amount {
+		outputs = append(outputs, TXOutput{acc - amount, from}) // a change
+	}
+
+	tx := Transaction{nil, inputs, outputs}
+	tx.SetID()
+
+	return &tx
+}
+
+func (cli *CLI) send(from, to string, amount int) {
+	bc := NewBlockchain(from)
+	defer bc.db.Close()
+
+	tx := NewUTXOTransaction(from, to, amount, bc)
+	bc.MineBlock([]*Transaction{tx})
+	fmt.Println("Success!")
+}
+```
+
+In Bitcoin, blocks are not mined immediately though. Instead;
+* Transactions are put into a memory pool
+* Miners take all transactions from the mempool and creates a candidate block
+* Transactions become confirmed when a block containing them is mined and added to the blockchain.
