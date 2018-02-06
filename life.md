@@ -38,6 +38,8 @@ Index of Contents:
 
 > “You’re looking for three things, generally, in a person,” says Buffett. “Intelligence, energy, and integrity. And if they don’t have the last one, don’t even bother with the first two. I tell them, ‘Everyone here has the intelligence and energy—you wouldn’t be here otherwise. But the integrity is up to you. You weren’t born with it, you can’t learn it in school.”
 
+> “You decide to be dishonest, stingy, uncharitable, egotistical, all the things people don’t like in other people,” argues Warren. “They are all choices. Some people think there’s a limited little pot of admiration to go around, and anything the other guy takes out of the pot, there’s less left for you. But it’s just the opposite.”
+
 ![](https://www.fs.blog/wp-content/uploads/2013/09/Buffett-Three-Things-I-look-For.jpg)
 
 ## Self-advices
