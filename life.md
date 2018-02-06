@@ -2,6 +2,7 @@
 
 Index of Contents:
 
+* [The True Meaning of Integrity](#the-true-meaning-of-integrity)
 * [The Three Things I Look For in a Person](#the-three-things-i-look-for-in-a-person)
 * [Self Advices](#self-advices)
 * [Reasons To Say No](#reasons-to-say-no)
@@ -16,6 +17,19 @@ Index of Contents:
 * [Better Conversation Advices](#better-conversation-advices)
 * [The Daily Routines Of Famous Creative People](#the-daily-routines-of-famous-creative-people)
 * [20 Cognitive Biases That Screw Up Your Decisions](#20-cognitive-biases-that-screw-up-your-decisions)
+
+## The True Meaning of Integrity
+
+> What does it take to be someone who leads with integrity? Consciousness and choice. I believe that there are at least 6 things that great leaders choose to do to be on a journey towards greater integrity:
+
+[Source](https://www.huffingtonpost.com/soyoung-kang/the-true-meaning-of-integ_b_11273420.html)
+
+* Understands the true definition of integrity (hopefully after this post, you will be able to check this box).
+* Intentionally reflects on what to say, how to behave, how to make decisions in a way that is reflective of his/her values and beliefs.
+* Is the same authentic person regardless of the situation. You can meet this leader with their family, friends, church, or at a boardroom, and you will see a consistency in behavior, actions, and words. You will recognize this person no matter what environment he/she is in.
+* Recognizes the impact that he/she has on others. This leader is conscious of how his/her behavior and words impacts those around them intentionally and often times, unintentionally. So when this leader behaves in a way that is out of integrity, he/she stops, acknowledges, apologizes, and corrects course. This requires humility, authenticity, and ‘others-centeredness’ as you need to ‘see’ how others are responding to you.
+* Actively focuses on the development of character and wholeness. This leader spends time intentionally on this area through various areas, such as reading, getting coached, listening to the counsel of others, going to leadership development courses, and reflecting on how to develop character.
+* Enrolls others to be on the same journey. This leader aims to walk in integrity and as others see that, they are drawn to this. They can have confidence in this leader with the belief that this leader will do what he/she says and believes. They are able to inspire others to be on the same journey of lifelong pursuit of ‘wholeness’ and ultimately, INTEGRITY.
 
 ## The Three Things I Look For in a Person
 
