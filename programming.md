@@ -203,6 +203,23 @@ spctl -a -t exec -vv Foo.app
 
 ## Makefiles
 
+#### Defining Variables
+
+```make
+$(eval missingPackages := `grep -oFf /tmp/.snt-go-pkgs Gopkg.lock`)
+```
+
+#### Conditions
+
+```make
+@if [ "$(missingPackages)" = "" ]; then\
+  echo "Gopkg.lock looks good.";\
+else \
+  echo "Gopkg.lock is missing $(missingPackages)"; \
+  exit 1;\
+fi
+```
+
 #### multiline strings
 
 It's possible as long as the variable is exported
