@@ -2,7 +2,7 @@
 
 Index of Contents:
 
-* [The Three Things I Look For in a Person]()
+* [The Three Things I Look For in a Person](#the-three-things-i-look-for-in-a-person)
 * [Self Advices](#self-advices)
 * [Reasons To Say No](#reasons-to-say-no)
 * [Friendship](#friendship)
