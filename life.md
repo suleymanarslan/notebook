@@ -2,6 +2,7 @@
 
 Index of Contents:
 
+* [The Three Things I Look For in a Person]()
 * [Self Advices](#self-advices)
 * [Reasons To Say No](#reasons-to-say-no)
 * [Friendship](#friendship)
@@ -15,6 +16,15 @@ Index of Contents:
 * [Better Conversation Advices](#better-conversation-advices)
 * [The Daily Routines Of Famous Creative People](#the-daily-routines-of-famous-creative-people)
 * [20 Cognitive Biases That Screw Up Your Decisions](#20-cognitive-biases-that-screw-up-your-decisions)
+
+## The Three Things I Look For in a Person
+
+[Source](https://www.fs.blog/2013/05/warren-buffett-the-three-things-i-look-for-in-a-person/)
+
+
+> “You’re looking for three things, generally, in a person,” says Buffett. “Intelligence, energy, and integrity. And if they don’t have the last one, don’t even bother with the first two. I tell them, ‘Everyone here has the intelligence and energy—you wouldn’t be here otherwise. But the integrity is up to you. You weren’t born with it, you can’t learn it in school.”
+
+![](https://www.fs.blog/wp-content/uploads/2013/09/Buffett-Three-Things-I-look-For.jpg)
 
 ## Self-advices
 
