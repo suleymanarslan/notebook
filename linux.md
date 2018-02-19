@@ -38,6 +38,7 @@ List of Contents:
   * [find](#find)
   * [pidof](#pidof)
   * [tree](#tree)
+  * [xargs](#xargs)
   * [xev](#xev)
   * [nethogs](#nethogs)
   * [setxkbmap](#setxkbmap)
@@ -641,6 +642,14 @@ Show only directories:
 
 ```
 tree -d
+```
+
+### xargs
+
+Build an execute commands from standard input
+
+```bash
+xargs -n 1 curl < download.txt
 ```
 
 ### xev
