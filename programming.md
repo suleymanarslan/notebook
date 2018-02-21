@@ -119,11 +119,56 @@ selected=$(dialog --stdout \
 
 ## SQL
 
-Adding a column to a table;
+## Indexes:
+
+Create an index:
 
 ```sql
-ALTER TABLE `database`.`table`
-ADD COLUMN `created_at` BIGINT(20) NULL DEFAULT 0 AFTER `page_id`;
+CREATE INDEX idx_will_be_indexed ON page (will_be_indexed);
+```
+
+Create a unique index:
+
+```sql
+CREATE UNIQUE INDEX idx_token ON user (token);
+```
+
+See what indexes use query:
+
+```sql
+EXPLAIN SELECT ...
+```
+
+List all indexes:
+
+```sql
+SHOW INDEX FROM page;
+```
+
+Delete an index:
+
+```sql
+DROP INDEX index_name ON table_name
+```
+
+## Alter Table
+
+Add a column;
+
+```sql
+ALTER TABLE `table` ADD COLUMN `created_at` BIGINT(20) NULL DEFAULT 0 AFTER `page_id`;
+```
+
+Rename a column:
+
+```sql
+ALTER TABLE `page` CHANGE `page_language` `language` VARCHAR(255) COLLATE utf8mb4_unicode_ci;
+```
+
+Remove a column:
+
+```sql
+ALTER TABLE `page` DROP COLUMN `content_language`;
 ```
 
 ## systemd
