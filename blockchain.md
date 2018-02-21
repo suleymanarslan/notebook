@@ -11,6 +11,13 @@ Index of Contents:
     * [Persistence](#persistence)
     * [CLI](#cli)
   * [Transactions](#transactions)
+    * [Coinbase](#coinbase)
+    * [Transactions](#transactions)
+    * [Proof of Work](#proof-of-work)
+    * [Unspent Transaction Outputs](#unspent-transaction-outputs)
+    * [Sending Coins](#sending-coins)
+  * [Addresses](#addresses)
+
 
 ## Building Blockchain in Go
 
@@ -477,6 +484,8 @@ func main() {
 
 ## Transactions
 
+### Implementation
+
 A transaction is combination of inputs and outputs. They lock values with a script,
 which can be onlucked by only by the one who locked them.
 
@@ -771,3 +780,5 @@ In Bitcoin, blocks are not mined immediately though. Instead;
 * Transactions are put into a memory pool
 * Miners take all transactions from the mempool and creates a candidate block
 * Transactions become confirmed when a block containing them is mined and added to the blockchain.
+
+## Addresses
