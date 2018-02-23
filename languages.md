@@ -243,6 +243,20 @@ sumptuously rich, elaborate, or luxurious.
 "a lavish banquet"
 ```
 
+#### loiter
+
+```
+verb
+
+stand or wait around idly or without apparent purpose.
+"she saw Mary loitering near the cloakrooms"
+synonyms:	linger, wait, skulk; More
+
+travel indolently and with frequent pauses.
+"they loitered along in the sunshine, stopping at the least excuse"
+synonyms:	dawdle, dally, stroll, amble, saunter, meander, drift, putter, take one's time; More
+```
+
 #### noble
 
 Adjective
