@@ -119,7 +119,25 @@ selected=$(dialog --stdout \
 
 ## SQL
 
-## Indexes:
+### Profiling
+
+```sql
+SET profiling = 1;
+```
+
+Execute your query, then list profiled queries;
+
+```sql
+SHOW PROFILES;
+```
+
+Choose which profile you'd like to see in detail, then:
+
+```sql
+SHOW PROFILE FOR QUERY 1;
+```
+
+### Indexes:
 
 Create an index:
 
@@ -157,7 +175,7 @@ Delete an index:
 DROP INDEX index_name ON table_name
 ```
 
-## Difference Between Index Types:
+#### Difference Between Index Types:
 
 * **KEY or INDEX** refers to a normal non-unique index. Non-distinct values for the index are allowed, so the index may contain rows with identical values in all columns of the index. These indexes don't enforce any restraints on your data so they are used only for making sure certain queries can run quickly.
 
@@ -167,7 +185,7 @@ DROP INDEX index_name ON table_name
 
 * **FULLTEXT** indexes are different from all of the above, and their behaviour differs significantly between database systems. FULLTEXT indexes are only useful for full text searches done with the MATCH() / AGAINST() clause, unlike the above three - which are typically implemented internally using b-trees (allowing for selecting, sorting or ranges starting from left most column) or hash tables (allowing for selection starting from left most column).
 
-## Alter Table
+### Alter Table
 
 Add a column;
 
