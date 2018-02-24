@@ -15,7 +15,6 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 
 * *İntisap* a. (intisa:bı) esk. 1. Bağlanma. 2. Girme. 3. Kapılanma.
 
-
 ## Arabic
 
 #### Basic Words
@@ -173,10 +172,22 @@ make (a difficult or esoteric subject) clearer and easier to understand.
 
 #### endure
 
+```
 * suffer (something painful or difficult) patiently.
 synonyms:	undergo, go through, live through, experience, meet, encounter; More
 
 * remain in existence; last.
+```
+
+#### ennoble
+
+```
+verb
+give (someone) a noble rank or title.
+synonyms:	dignify, honor, exalt, elevate, raise, enhance, add dignity to, distinguish; More
+lend greater dignity or nobility of character to.
+"the theater is a moral instrument to ennoble the mind"
+```
 
 #### fulfillment
 
