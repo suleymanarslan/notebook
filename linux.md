@@ -431,6 +431,18 @@ pkill -f pattern
 
 #### sed
 
+Display nth line in a large file:
+
+```bash
+sed '26577519q;d'
+```
+
+Replace nth line in a large file:
+
+```bash
+sed -i '26577519s/ &#3;/ /' content.rdf.u8
+```
+
 Uncomment matching line:
 
 ```bash
