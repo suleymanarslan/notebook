@@ -39,7 +39,7 @@ export default view
   
 ## Help Generator
 
-```
+```make
 help: ##@other Show this help
 	@perl -e '$(HELP_FUN)' $(MAKEFILE_LIST)
 
