@@ -2,20 +2,20 @@
 
 ## Conditions
 
-### Check if a variable is empty:
+#### Check if a variable is empty:
 
 ```bash
 if [[ -z "${foobar// }" ]]; then
 fi
 ```
 
-### Check if a variable is not empty:
+Check if a variable is not empty:
 
 ```bash
 [[ -n "${foobar// }" ]]
 ```
 
-### Check if a file exists:
+#### Check if a file exists:
 
 ```bash
 if [ -f $FILE ];
@@ -26,7 +26,7 @@ else
 fi
 ```
 
-### Check if a string contains another string
+#### Check if a string contains another string
 
 ```bash
 string='My long string'
@@ -35,7 +35,7 @@ if [[ $string == *"My long"* ]]; then
 fi
 ```
 
-### Check if a command exists
+#### Check if a command exists
 
 Definition:
 ```bash
@@ -52,15 +52,15 @@ Usage:
   fi
 ```
 
-## loops
+## Loops
 
-### Iterate Files
+#### Iterate Files
 
 ```bash
 for i in *; do echo $i; done
 ```
 
-### Rename bunch of files
+#### Rename bunch of files
 
 ```bash
 for name in *
@@ -70,7 +70,7 @@ do
 done
 ```
 
-### iterating input by line and columns
+#### iterating input by line and columns
 
 ```bash
 lsblk | awk '{print $1,$4}' > input.txt
@@ -80,9 +80,9 @@ while read col1 col2 ; do
 done < input.txt
 ```
 
-## dialogs
+## Dialogs
 
-### opening a menu with bunch of lines
+#### Opening a menu with bunch of lines
 
 ```bash
 regionsArray=()
