@@ -23,6 +23,25 @@ Turkish Translation:
 Ey iman edenler! Allah için gerçeğe bağlı kalmada kararlı olun! Adil tanıklar olun! Bir kavme olan düşmanlığınız sizi adaletsizliğe yöneltmesin. Adil olun, bu, takvalı olmaya en uygun olandır. Allah'a karşı takvalı olun. Allah, yaptığınız her şeyden haberdardır.
 ```
 
+#### 30:21
+
+Original Verse:
+```
+وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ - 30:21
+```
+
+
+English:
+
+```
+And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought.
+```
+
+Turkish:
+
+```
+O'nun ayetlerinden* biri de, sizin için kendi cinsinizden eşler yaratmasıdır. Siz, onunla dinginleşir huzur bulursunuz. Birbirinize karşı, aranızda sevgi ve rahmet oluşturdu. Düşünenler için burada bazı dersler vardır.
+```
 
 #### 49:13
 
