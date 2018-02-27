@@ -1,6 +1,6 @@
 # Poems I Like
 
-* [Yıldızların Uzaklığına Övgü](yildizlarin-uzakligina-ovgu)
+* [Yıldızların Uzaklığına Övgü](#yildizlarin-uzakligina-ovgu)
 * [Şivekar'ın Yolculuğudur](#sivekar-in-yolculugudur)
 * [Howl - Allen Ginsberg](#howl)
 * [Uluma (Howl) - Allen Ginsberg](#uluma)
@@ -12,6 +12,7 @@
 
 ## Yıldızların Uzaklığına Övgü
 
+```
 Kargaşa!
 Anılacak günlerim olmadı mı benim? 
 Ayaklarımın korkusuzca çiçeklendiği, 
@@ -38,9 +39,11 @@ Nasıl bir soylu boşluğa çılgınca kanayorum.
 Ey yangınlar artığı! 
 Her yangından arta kalan bir şey, 
 Her yangından arta kalan gerçek şey
+```
 
 ## Şivekar'ın Yolculuğudur
 
+```
 Eskiler iz sürerdi. 
 Biz muttasıl arıyoruz yeni insanlar. 
 Arıyoruz alemin iç yüzünden zihnimize 
@@ -239,6 +242,7 @@ Ama başka ne sorulurdu ki?
 Cevap verdi Hüsnü Yusuf: 
 '' ne inim, ne cinim'' 
 '' ben de senin gibi bir beni Ademim''
+```
 
 ## Evet, İsyan
 
