@@ -2,6 +2,7 @@
 
 My mother tongue is Turkish, and I speak fluent English. In this section, I'm documenting the words that are new to my mind;
 
+* [Türkçe](#turkce)
 * [Arabic](#arabic)
 * [Kurdish](#kurdish)
 * [Toba Batak](#toba-batak)
@@ -9,11 +10,13 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 * [Balinese](#balinese)
 * [Zazaki](#zazaki)
 * [English](#english)
-* [Türkçe](#turkce)
+
 
 ## Türkçe
 
-* *İntisap* a. (intisa:bı) esk. 1. Bağlanma. 2. Girme. 3. Kapılanma.
+* **İntisap** a. (intisa:bı) esk. 1. Bağlanma. 2. Girme. 3. Kapılanma.
+* **İfrat** Herhangi bir konuda çok ileri gitme, ölçüyü aşma, aşırı davranma, taşkınlık
+* **Tefrit** Herhangi bir konuda geride kalma, yeterli ölçüde olmama durumu, ifrat karşıtı
 
 ## Arabic
 
