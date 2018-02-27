@@ -217,44 +217,4 @@ Advise;
 > Bir gemi düşünelim; bu geminin de hali vakti yerinde, ama gözleri görmeyen, kulakları işitmeyen ve üstelik gemicilikten de bihaber bir sahibi olsun. Sonra, bu geminin kaptanı olmaya çalışan bir dolu tayfa düşünelim. Kaptanlık sanatını bilmeyen ya da biliyorsa nereden bildiğini söylemeyen, hatta kaptanlık sanatı da neymiş diyen tayfalar olsun bunlar. Hepsinin tek isteği geminin dümenine geçmek. Bu yüzden geminin sahibine yalvarıp yakarıyorlar, dümeni bana ver diye. Gemi sahibi birinden birine verecek olsa dümeni, bir diğeri onu gemiden apar topar atmaya ya da öldürmeye kadar vardırıyor işi. İlaçlarla, içkilerle uyuşturuyorlar onu ve gemide ne var ne yoksa çalıp çırpıyorlar. Tıka basa ne buldularsa yiyorlar, kafaları çekiyorlar. Gemiyi de böyle ayyaşlar nasıl yürütürse öyle yürütüyorlar. Bu arada gemi sahibini kandırıp dümeni ele geçiren kimseye de övgüler yağdırmaya başlıyorlar, alkışlıyorlar, “eşsiz kaptan, en büyük gemici,” diye avaz avaz bağırıyorlar. Ama gerçek bir kaptanın, hava durumunu, mevsimleri, yıldızları, rüzgârları ve bunlara benzer şekilde bir geminin yürütülmesi için ne gerekiyorsa hepsini bilen kişi olması gerektiğini düşünmüyorlar bile. İşte bir gemide böyle bir karmaşa yaşanıyorsa, o gemide gerçek kaptanın değeri anlaşılmaz. Ona ancak kaçık, işe yaramaz sıfatları yakıştırılır. Böyle bir gemiye benzer devlette, filozofların durumu da gerçek kaptanın durumuna benzer. Gerçek kaptan onurludur, asla yalvarıp yakararak geminin başına geçmek istemez. Bilgisi ve görgüsüyle bu işi yapmak ister. Bu yüzden de gidip de bir gemi sahibinin kapısını çalmaz; aksine gemi sahibinin onun kapısını çalması beklenir, çünkü doktor hastanın değil, hasta doktorun kapısını çalar.
 — Pluton / Devlet
 
-### Quran
-
-#### 49:13
-
-Arabic translation:
-
-```
-يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
-```
-
-English translation:
-
-```
-O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you. Indeed, Allah is Knowing and Acquainted.
-```
-
-Turkish translation:
-
-```
-Ey insanlar! Sizi bir erkek ve bir dişiden yarattık. Birbirinizle tanışmanız* için sizi kabilelere ve sülalelere ayırdık. Allah'ın yanında en kerim* olanınız, en çok takva sahibi olanınızdır. Kuşkusuz Allah, Her Şeyi Bilen'dir, Her Şeyden Haberdar'dır.
-```
-
-#### 5:8
-
-Original Verse:
-```
-يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ بِالْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ - 5:8
-```
-
-English Translation:
-```
-O you who have believed, be persistently standing firm for Allah, witnesses in justice, and do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness. And fear Allah ; indeed, Allah is Acquainted with what you do.
-```
-
-Turkish Translation:
-
-```
-Ey iman edenler! Allah için gerçeğe bağlı kalmada kararlı olun! Adil tanıklar olun! Bir kavme olan düşmanlığınız sizi adaletsizliğe yöneltmesin. Adil olun, bu, takvalı olmaya en uygun olandır. Allah'a karşı takvalı olun. Allah, yaptığınız her şeyden haberdardır.
-```
-
 
