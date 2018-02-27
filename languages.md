@@ -2,7 +2,7 @@
 
 My mother tongue is Turkish, and I speak fluent English. In this section, I'm documenting the words that are new to my mind;
 
-* [Türkçe](#turkce)
+* [Türkçe](#türkçe)
 * [Arabic](#arabic)
 * [Kurdish](#kurdish)
 * [Toba Batak](#toba-batak)
