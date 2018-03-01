@@ -4,6 +4,7 @@ The quotes I stumbled upon and found inspirational.
 
 * [English](#english)
   * [Franz Kafka](#franz-kafka)
+  * [Johann Wolfgang von Goethe](#johann-wolfgang-von-goethe )
   * [Haruki Murakami](#haruki-murakami)
   * [Antoine de Saint-Exupery](#antoine-de-saint-exupery)
   * [Jalāl ad-Dīn Muhammad Rūmī](#jalāl-ad-dīn-muhammad-rūmī)
