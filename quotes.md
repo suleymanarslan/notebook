@@ -9,6 +9,7 @@ The quotes I stumbled upon and found inspirational.
   * [Jalāl ad-Dīn Muhammad Rūmī](#jalāl-ad-dīn-muhammad-rūmī)
   * [Mahatma Gandi](#mahatma-gandhi)
   * [Omar Khayyám](#omar-khayyám)
+  * [Goethe](#goethe)
 * [Türkçe](#türkçe)
 * [Quran](#quran)
 
@@ -51,6 +52,18 @@ The quotes I stumbled upon and found inspirational.
 
 > Angelheaded hipsters burning for the ancient heavenly connection to the / starry dynamo in the machinery of night
 — Allen Gingsberg, Howl
+
+#### Johann Wolfgang von Goethe
+
+> A man sees in the world what he carries in his heart.
+
+> As soon as you trust yourself, you will know how to live.
+
+> One ought, every day at least, to hear a little song, read a good poem, see a fine picture, and, if it were possible, to speak a few reasonable words.
+
+> Nothing shows a man's character more than what he laughs at.
+
+> Knowing is not enough; we must apply. Willing is not enough; we must do.
 
 #### Franz Kafka
 
