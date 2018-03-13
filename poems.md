@@ -5,8 +5,9 @@ Index of Contents:
 * [English](#english)
   * [ambulance](#ambulance)
   * [your shoes](#your-shoes)
-  
+
 * [Turkish](#turkish)
+  * [berlin](#berlin)
   * [arılar uçar üzerinde](#arılar-uçar-üzerinde)
   * [doğubeyazıt](#doğubeyazıt)
   * [otogardan hesap sorulmaz](#otogardan-hesap-sorulmaz)
@@ -44,6 +45,19 @@ thinking if your shoes would untie somewhere
 
 ## turkish
 
+#### Berlin
+
+```
+Kapı kollarını anahtar yerine taşıdığımız olmadı mı bizim ?
+Tanımadığımız insanlarla sokaklarda koşu yarışına giriştiğimiz,
+Ağaç diplerine sakladığımız anahtarların yerini unutuğumuz olmadı mı?
+
+Bu şehrin sokaklarında üç küçük nokta olabiliriz
+Kanaatkar, gerektiğinde talihini onarabileceğine inanan
+Gene de sağı solu belli olmayan üç kum tanesi, ne de olsa
+Berlin, büyük bir muamma.
+```
+
 #### kayda değer konular
 
 [ses kaydı](https://www.youtube.com/watch?v=qVX785ELgYU)
@@ -63,7 +77,7 @@ bi otomobilin bagajında iran'dan özbekistan'a giden afgan
 bi kola şişesinde jakarta'dan istanbul'a gelen papağan
 oto lastikçileri ve teknocular
 yemenden kayıkla somaliye kaçarak canını kurtaran ithalatçı
-sırf daha serin bir yaz geçirmek adına 
+sırf daha serin bir yaz geçirmek adına
           orta afrikadan dersim dağlarına gelen turna
 
 açgözlülük ve alçak gönüllülük
@@ -99,7 +113,7 @@ ateş üflenen peri bacaları
 
 afedersiniz hanımefendi siz de bıçak taşıyorsanız
 bana bir alaaddin lambası kadar yakınsınız
-yani bir gece yarısı jandarma çevirmesinden kaçarken 
+yani bir gece yarısı jandarma çevirmesinden kaçarken
 erbakan'ın sabaha
 ambulansın bisan ihlasa
 milli görüşün beldesana dönüşümü arifesinde
