@@ -39,6 +39,7 @@
 
 * [YCombinator](https://ycombinator.com)
 * [Accel](https://www.accel.com)
+* [CRV](https://www.crv.com)
 
 ### New York
 
