@@ -16,6 +16,7 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 
 * **İntisap** a. (intisa:bı) esk. 1. Bağlanma. 2. Girme. 3. Kapılanma.
 * **İfrat** Herhangi bir konuda çok ileri gitme, ölçüyü aşma, aşırı davranma, taşkınlık
+* **Mütefekkir** Düşünen insan
 * **Tefrit** Herhangi bir konuda geride kalma, yeterli ölçüde olmama durumu, ifrat karşıtı
 
 ## Arabic
