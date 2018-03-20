@@ -332,6 +332,10 @@ synonyms:	homily, address, speech, talk, discourse, oration; lesson
 
 ```
 
+#### susceptible
+
+likely or liable to be influenced or harmed by a particular thing.
+
 #### stimulus
 
 a thing or event that evokes a specific functional reaction in an organ or tissue.
