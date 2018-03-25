@@ -50,27 +50,28 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 ## Bahasa
 
 * **yes** iya
-* **no** inga
-* **cool** Anjas
-* **dog ** Anjing
+* **no** enggak/tidak | _type in enggak into google translate so you know hot it's should be pronounced_
+* **cool** Anjas/wow | _I don't know in Bali, but in my city (Jakarta), people uses wow instead of anjas_
+* **dog** Anjing | _The word anjing has some negative meaning to it, it's like saying someone is a pig, so I recommend you to just not say it._
 * **thank you** Terima kasih
 * **how are you?** Apa kabar
-* **Good** Baik
-* **No good** Inga baik
-* **Beautiful** bagus
-* **good morning** salamat pagi
-* **good night** salamat malam
+* **Good** Baik/bagus
+* **No good** Enggak/tidak baik
+* **Beautiful** bagus/indah
+* **good morning** selamat pagi
+* **good night** selamat malam
 * **delicious** mantap
 * **how much?** berapa
 * **this** ini
 * **apa** what?
 * **what is this?** ini apa?
-* **kemana** where are you going to?
-* **more** tambah
-* **do you have water?** kamu punya aqua ?
+* **where** kemana
+* **mau kemana** where are you going to?
+* **more** tambah/lagi/lebih
+* **do you have water?** kamu ada air? | _aqua is a brand name, it doesn't mean water, **air** means water._
 * **expensive** mahal
 * **take care** hati hati
-* **udah*** finish
+* **finish*** udah
 * **ayo** lets'go
 
 Numbers:
@@ -80,7 +81,7 @@ Numbers:
 * 4 Empat
 * 5 Lima
 * 6 Enam
-* 7 Tuju
+* 7 Tujuh
 * 8 Delapan
 * 9 Sembilan
 * 10 Sepuluh
