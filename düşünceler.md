@@ -2,6 +2,28 @@
 
 [For English: random-thoughts.md](random-thoughts.md)
 
+## Daha Fazla Param Olunca Yapacaklarım
+
+$50.000
+* İlginç kuş türlerini anlatan boyama ve hikaye kitapları çıkarmak.
+
+$100.000
+* Oakland'dan ayrılırken sattığım Subaru Outback'imi geri almak ve motorunu yenilemek.
+
+$250.000
+* Sevdiğim kitapların radyo tiyatrosu formatında sesli dizilerini yapıp Afrika Radyo'da yayınlamak.
+
+$500.000
+* Afrika Radyo'yu FM olarak hizmete açmak.
+* Kuş gözlem evi açmak.
+
+$1.000.000
+* Melek yatırımcı olarak teknoloji projelerine yatırım yapmak.
+* Devasa boyutlarda güvercin, turna ve keklik heykelleri yaptırıp uygun parkların ortasına yerleştirmek.
+
+$10.000.000
+* Tamamen kendi ilgimi çeken konular üzerine odaklanan, lise ve üniversiteyi birleştiren bir eğitim enstitüsü kurmak. Bu konular şunlar; yapay zeka / derin öğrenme, uzay, edebiyat, şiir, bağlama, fotoğraf ve film.
+
 ## buğday (grain) filmi üzerine
 
 ([Filmin Fragmanı](https://www.youtube.com/watch?v=XdcoTpwhQeo) | [IMDB](http://www.imdb.com/name/nm0969427/?ref_=tt_ov_wr))
