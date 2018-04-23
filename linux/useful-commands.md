@@ -12,6 +12,7 @@ Index of Contents:
 * [file](#file)
 * [grep](#grep)
 * [htop](#htop)
+* [hwclock](#hwclock)
 * [iotop](#iotop)
 * [ip](#ip)
 * [ncdu](#ncdu)
@@ -125,6 +126,20 @@ Interactive process viewer. Useful keybindings:
 * `t` Open/close tree mode
 * `-` or `+` Collapse/uncollapse process trees
 * `H` Turn off displaying threads
+
+## hwclock
+
+Show hardware clock:
+
+```
+hwclock --show
+```
+
+Set hardware clock from system clock;
+
+```
+hwclock --systohc
+```
 
 ## iotop
 
