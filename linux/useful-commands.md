@@ -24,6 +24,7 @@ Index of Contents:
 * [sed](#sed)
 * [setxkbmap](#setxkbmap)
 * [tee](#tee)
+* [timedatectl](#timedatectl)
 * [tree](#tree)
 * [xargs](#xargs)
 * [xev](#xev)
@@ -239,6 +240,26 @@ For example, add a new entry to hosts file;
 
 ```
 echo "127.0.0.1 foobar" | sudo tee -a /etc/hosts
+```
+
+## timedatectl
+
+Check the system time and timezone info:
+
+```
+timedatectl
+```
+
+Set system clock:
+
+```
+timedatectl set-time "yyyy-MM-dd hh:mm:ss"
+```
+
+Set timezone:
+
+```
+timedatectl set-timezone America/Los_Angeles
 ```
 
 ## tree
