@@ -4,7 +4,7 @@
 * [Confidence Tips](#confidence-tips)
 * [Do When Stressed](#do-when-stressed)
 * [5 ways to build lasting self-esteem](5-ways-to-build-lasting-self-esteem)
-
+* [20 Cognitive Biases That Screw Up Your Decisions](#20-cognitive-biases-that-screw-up-your-decisions)
 
 ## Advices to myself
 
@@ -82,3 +82,7 @@ Whenever your self-critical inner monologue kicks in, ask yourself what you woul
 #### Affirm your real worth
 
 Make a list of qualities you have that are meaningful in the specific context.
+
+## 20 Cognitive Biases That Screw Up Your Decisions
+
+![](https://cldup.com/E3NvxhD1hp.jpg)
