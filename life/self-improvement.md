@@ -1,5 +1,11 @@
 # Self-improvement
 
+* [Advices to myself](#advices-to-myself)
+* [Confidence Tips](#confidence-tips)
+* [Do When Stressed](#do-when-stressed)
+* [5 ways to build lasting self-esteem](5-ways-to-build-lasting-self-esteem)
+
+
 ## Advices to myself
 
 * Be grateful.
@@ -28,6 +34,16 @@
 * Be yourself
 * Own your faults
 * Be picky about friendships.
+
+## Confidence Tips
+
+Noted from a [TED video](https://www.youtube.com/watch?v=l_NYrWqUR40)
+
+* Picture your success when you begin a difficult task
+* Believe in your ability to improve. Have growth mindset.
+* Practice failure. Those who fail are better equipped to face challenges.
+* Be kind to yourself when you make mistakes.
+
 
 ## Do When Stressed
 
