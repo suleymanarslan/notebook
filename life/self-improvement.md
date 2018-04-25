@@ -5,7 +5,7 @@
 * [Do When Stressed](#do-when-stressed)
 * [5 ways to build lasting self-esteem](5-ways-to-build-lasting-self-esteem)
 * [20 Cognitive Biases That Screw Up Your Decisions](#20-cognitive-biases-that-screw-up-your-decisions)
-* [25 Principles of Adult Behavior by John Perry Barlow](25-principles-of-adult-behavior-by-john-perry-barlow)
+* [25 Principles of Adult Behavior by John Perry Barlow](#25-principles-of-adult-behavior-by-john-perry-barlow)
 
 ## Advices to myself
 
