@@ -5,6 +5,7 @@
 * [Do When Stressed](#do-when-stressed)
 * [5 ways to build lasting self-esteem](5-ways-to-build-lasting-self-esteem)
 * [20 Cognitive Biases That Screw Up Your Decisions](#20-cognitive-biases-that-screw-up-your-decisions)
+* [25 Principles of Adult Behavior by John Perry Barlow](25-principles-of-adult-behavior-by-john-perry-barlow)
 
 ## Advices to myself
 
@@ -86,3 +87,31 @@ Make a list of qualities you have that are meaningful in the specific context.
 ## 20 Cognitive Biases That Screw Up Your Decisions
 
 ![](https://cldup.com/E3NvxhD1hp.jpg)
+
+## 25 Principles of Adult Behavior by John Perry Barlow
+
+* Be patient. No matter what.
+* Don’t badmouth: Assign responsibility, never blame. Say nothing behind another’s back you’d be unwilling to say, in exactly the same tone and language, to his face.
+* Never assume the motives of others are, to them, less noble than yours are to you.
+* Expand your sense of the possible.
+* Don’t trouble yourself with matters you truly cannot change.
+* Expect no more of anyone than you yourself can deliver.
+* Tolerate ambiguity.
+* Laugh at yourself frequently.
+* Concern yourself with what is right rather than who is right.
+* Never forget that, no matter how certain, you might be wrong.
+* Give up blood sports.
+* Remember that your life belongs to others as well. Do not endanger it frivolously. And never endanger the life of another.
+* Never lie to anyone for any reason. (Lies of omission are sometimes exempt.)
+* Learn the needs of those around you and respect them.
+* Avoid the pursuit of happiness. Seek to define your mission and pursue that.
+* Reduce your use of the first personal pronoun.
+* Praise at least as often as you disparage.
+* Never let your errors pass without admission.
+* Become less suspicious of joy.
+* Understand humility.
+* Forgive.
+* Foster dignity.
+* Live memorably.
+* Love yourself.
+* Endure.
