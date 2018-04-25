@@ -2,6 +2,7 @@
 
 * [Better Conversation Advices](#better-conversation-advices)
 * [Friendship](#friendship)
+* [Reasons To Say No](#reasons-to-say-no)
 * [The Three Things I Look For in a Person](#the-three-things-i-look-for-in-a-person)
 
 ## Better Conversation Advices
@@ -47,6 +48,15 @@ Seneca [writes in his letters](https://www.brainpickings.org/2017/05/19/seneca-f
 > One who seeks friendship for favourable occasions, strips it of all its nobility.
 
 > If you consider any man a friend whom you do not trust as you trust yourself, you are mightily mistaken and you do not sufficiently understand what true friendship means… When friendship is settled, you must trust; before friendship is formed, you must pass judgment. Those persons indeed put last first and confound their duties, who … judge a man after they have made him their friend, instead of making him their friend after they have judged him. Ponder for a long time whether you shall admit a given person to your friendship; but when you have decided to admit him, welcome him with all your heart and soul. Speak as boldly with him as with yourself… Regard him as loyal and you will make him loyal.
+
+## Reasons To Say No
+
+Quoted from [Jocelyn Glei](https://twitter.com/jkglei/status/934103114566766594)
+
+* Not aligned with your goals/audience.
+* Not relevant to your expertise and/or interests.
+* Not an authentic invitation. (They didn't take the time to understand what you do.)
+
 
 ## The Three Things I Look For in a Person
 
