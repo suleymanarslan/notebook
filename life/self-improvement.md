@@ -29,6 +29,18 @@
 * Own your faults
 * Be picky about friendships.
 
+## Do When Stressed
+
+* Mediate
+* Do push-ups
+* Take photos
+* Sing your favorite songs
+* Take naps
+* Play cards, backgammon, 101 with friends
+* Listen podcasts
+* Watch movies
+* Go somewhere, take walk
+
 ## 5 ways to build lasting self-esteem
 
 Noted from [Ted Ideas](http://ideas.ted.com/5-ways-to-build-lasting-self-esteem)
