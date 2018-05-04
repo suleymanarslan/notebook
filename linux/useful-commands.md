@@ -313,6 +313,9 @@ xdpyinfo | awk '/dimensions/{print $2}'
 
 Creates a window and lets you see the keyboard events. Useful when you modify keybindings.
 
+## xprop
+
+Gives information about window properties. 
 
 ## yes
 Approve all confirmations
