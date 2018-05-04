@@ -7,6 +7,14 @@
 First thing to do in Berlin is registering yourself. You can do it in the 6th floor of following building;
 Fasanenstraße 85, 10623 Berlin
 
+#### Language / Translation
+
+[Red Tape Translation](https://www.redtapetranslation.com/) helps people make phone calls or attend meetings which happens only in German. 
+
+## Health
+
+* [Jameda: Search engine for doctors](https://www.jameda.de/)
+
 ## Parks
 
 * [Schlachtensee](https://de.m.wikipedia.org/wiki/Schlachtensee)
