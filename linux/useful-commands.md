@@ -4,6 +4,7 @@ Index of Contents:
 
 * [awk](#awk)
 * [chroot](#chroot)
+* [convert](#convert)
 * [date](#date)
 * [dialog](#dialog)
 * [du](#du)
