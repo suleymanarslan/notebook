@@ -28,15 +28,25 @@ Index of Contents:
 * [tree](#tree)
 * [xargs](#xargs)
 * [xev](#xev)
+* [xdpyinfo](#xdipyinfo) 
 * [yes](#yes)
 
 
 ## awk
 
 Select particular columns and print out;
+
 ```bash
 lsblk | awk '{print $1,$4}'
 # sda 8GB
+```
+
+## convert
+
+Resize an image by keeping the proportions, changing the format:
+
+```bash
+convert -scale "$resolution^" ~/wallpaper.jpg  /tmp/wallpaper.png
 ```
 
 ## chroot
@@ -288,6 +298,14 @@ Build an execute commands from standard input
 
 ```bash
 xargs -n 1 curl < download.txt
+```
+
+## xdpyinfo
+
+Get screen resolution:
+
+```bash
+xdpyinfo | awk '/dimensions/{print $2}'
 ```
 
 ## xev
