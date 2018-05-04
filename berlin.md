@@ -1,5 +1,12 @@
 # Berlin
 
+## Bureaucracy
+
+#### Address Registration
+
+First thing to do in Berlin is registering yourself. You can do it in the 6th floor of following building;
+Fasanenstraße 85, 10623 Berlin
+
 ## Parks
 
 * [Schlachtensee](https://de.m.wikipedia.org/wiki/Schlachtensee)
