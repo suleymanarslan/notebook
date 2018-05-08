@@ -50,6 +50,24 @@ Resize an image by keeping the proportions, changing the format:
 convert -scale "$resolution^" ~/wallpaper.jpg  /tmp/wallpaper.png
 ```
 
+Add a black transparent layer on top and some text in the center;
+
+```bash
+convert ~/wallpaper.jpg \
+            -scale "$resolution^" \
+            -fill black -colorize 50% \
+            -font System-San-Francisco-Display \
+            -fill "#ffffff33" \
+            -gravity center -pointsize 30 -annotate +0-200 'A man sees in the world what he carries in his heart. — Goethe' \
+            $lockpng
+```
+
+Rotate the image:
+
+```bash
+convert  image.png -rotate -90 image-copy.png
+```
+
 ## chroot
 
 Opens a new TTY on given root directory.
