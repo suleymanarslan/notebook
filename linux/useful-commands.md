@@ -10,6 +10,7 @@ Index of Contents:
 * [du](#du)
 * [expac](#expac)
 * [fc-list](#fc-list)
+* [ffmpeg](#ffmpeg)
 * [file](#file)
 * [grep](#grep)
 * [htop](#htop)
@@ -134,6 +135,55 @@ Returns file info. It's especially useful on images;
 ```bash
 file logo.png
 # PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+```
+
+## ffmpeg
+
+Record screen:
+
+```bash
+$ sleep 10; ffmpeg -y -video_size 1366x680 -framerate 25 -f x11grab -i :0.0+0,80 output.mp4
+## sleep {X}:                      prepare for X seconds before start recording
+## -y:                             overwrite output.mp4 if exists
+## -video_size {width}x{height}:   make frame size to width x height
+## -framerate:                     frame per second
+## -f x11grab:                     the encoder used, you shouldn't modify this =/
+## -i {a}.{b}+{left},{top}:        record screen {a}.{b}(FYI: X server $DISPLAY) with offset from left top corner of screen to {left} {top}
+```
+
+Trim video by time:
+
+```bash
+$ sleep 10; ffmpeg -y -video_size 1366x680 -framerate 25 -f x11grab -i :0.0+0,80 output.mp4
+## sleep {X}:                      prepare for X seconds before start recording
+## -y:                             overwrite output.mp4 if exists
+## -video_size {width}x{height}:   make frame size to width x height
+## -framerate:                     frame per second
+## -f x11grab:                     the encoder used, you shouldn't modify this =/
+## -i {a}.{b}+{left},{top}:        record screen {a}.{b}(FYI: X server $DISPLAY) with offset from left top corner of screen to {left} {top}
+```
+
+Output series of PNG files;
+```bash
+$ rm -rf frames
+$ mkdir frames
+$ ffmpeg -i myclip.mp4 -vf scale=320:-1:flags=lanczos,fps=10 frames/ffout%03d.png
+## frames/:            make a new directory to store output pictures
+## scale={width}:-1:   make pictures at scale of {width} with calculated height
+## flags={whatever}:   some MAGIC
+## fps={x}:            make pictures with playback at {x}fps
+## ffout%03d.png:      file name with 001, 002, ..., 999
+```
+
+Put all PNG files together in a GIF:
+
+```bash
+$ convert -delay 3 -loop 0 -dither None -colors 80 "frames/ffout*.png" -fuzz "10%" -layers OptimizeFrame "output.gif"
+## -delay {f}: skip {f} frames between each frame in GIF, making GIF playing fast
+## -loop 0: make GIF loop forever
+## -color {c}: Make about {c} colors in available in GIF
+## -fuzz "10%": fuzz each frame, would make GIF not recognizable
+## -layers: some MAGIC
 ```
 
 ## grep
