@@ -154,13 +154,11 @@ $ sleep 10; ffmpeg -y -video_size 1366x680 -framerate 25 -f x11grab -i :0.0+0,80
 Trim video by time:
 
 ```bash
-$ sleep 10; ffmpeg -y -video_size 1366x680 -framerate 25 -f x11grab -i :0.0+0,80 output.mp4
-## sleep {X}:                      prepare for X seconds before start recording
-## -y:                             overwrite output.mp4 if exists
-## -video_size {width}x{height}:   make frame size to width x height
-## -framerate:                     frame per second
-## -f x11grab:                     the encoder used, you shouldn't modify this =/
-## -i {a}.{b}+{left},{top}:        record screen {a}.{b}(FYI: X server $DISPLAY) with offset from left top corner of screen to {left} {top}
+$ ffmpeg -y -i output.mp4 -ss 3 -t 11 myclip.mp4; ffplay myclip.mp4
+## -i:         specify which input file
+## --ss {n}:   trim {n} seconds from begining
+## -t {d}:     secify the duration of myclip.mp4
+## ffplay:     play myclip.mp4 once the encoding ends
 ```
 
 Output series of PNG files;
