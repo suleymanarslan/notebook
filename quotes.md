@@ -186,6 +186,9 @@ Advise;
 
 ### Türkçe
 
+> Dermân arardım derdime derdim bana dermân imiş, Bürhân sorardım aslıma aslım bana bürhân imiş
+— Niyazı-i Mısri
+
 > Ben yalnızca yürürken düşünebilirim. Durduğumda düşüncelerim de durur; benim kafam bacaklarımla hareket eder.
 — Jean Jacques Rousseau, İtiraflar
 
