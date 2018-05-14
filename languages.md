@@ -21,6 +21,7 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 * **Mütefekkir** Düşünen insan
 * **Tefekkür** Düşünme, düşünüş
 * **Tefrit** Herhangi bir konuda geride kalma, yeterli ölçüde olmama durumu, ifrat karşıtı
+* **Feraset** 1. Anlayış, seziş, sezgi 2. Zekâ.
 
 ## Arabic
 
