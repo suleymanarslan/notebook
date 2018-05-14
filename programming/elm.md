@@ -1,5 +1,47 @@
 # ELM
 
+## Function Composition
+
+```elm
+addOne : Int -> Int
+addOne number =
+    number + 1
+
+multiplyByThree : Int -> Int
+multiplyByThree number =
+    number * 3
+
+firstAddThenMultiply : Int -> Int
+firstAddThenMultiply number =
+    (addOne >> multiplyByThree) number
+
+firstMultiplyThenAdd : Int -> Int
+firstMultiplyThenAdd number =
+    (addOne << multiplyByThree) number
+
+firstAddThenMultiply 5 --> (5 + 1) * 3
+firstMultiplyThenAdd 5 --> (5 * 3) + 1
+```
+
+The arrows show the direction (what goes after what).
+Note that you could say
+
+```elm
+firstAddThenMultiply : Int -> Int
+firstAddThenMultiply =
+    addOne >> multiplyByThree
+```
+but in Elm we generally [try not to be too clever](http://martin.janiczek.cz/clanek/being-clever-antipattern-in-elm/)
+and we prefer pipelines :
+
+```elm
+firstAddThenMultiply : Int -> Int
+firstAddThenMultiply number =
+    number
+        |> addOne
+        |> multiplyByThree
+```
+
 ## Emacs Shortcuts
 
 | Binding | Command |
