@@ -14,6 +14,7 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 
 ## Türkçe
 
+* **Feraset** 1. Anlayış, seziş, sezgi 2. Zekâ.
 * **İfrat** Herhangi bir konuda çok ileri gitme, ölçüyü aşma, aşırı davranma, taşkınlık
 * **İntisap** a. (intisa:bı) esk. 1. Bağlanma. 2. Girme. 3. Kapılanma.
 * **İptila** Düşkünlük, tiryakilik
@@ -21,7 +22,8 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 * **Mütefekkir** Düşünen insan
 * **Tefekkür** Düşünme, düşünüş
 * **Tefrit** Herhangi bir konuda geride kalma, yeterli ölçüde olmama durumu, ifrat karşıtı
-* **Feraset** 1. Anlayış, seziş, sezgi 2. Zekâ.
+* **Telakki** 1. Anlayış 2. Kabul etme, sayma.
+
 
 ## Arabic
 
