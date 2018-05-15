@@ -23,6 +23,7 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 * **Tefekkür** Düşünme, düşünüş
 * **Tefrit** Herhangi bir konuda geride kalma, yeterli ölçüde olmama durumu, ifrat karşıtı
 * **Telakki** 1. Anlayış 2. Kabul etme, sayma.
+* **Tevekkül** Herhangi bir işte elinden geleni yapıp daha sonrasını Allah'a bırakma: 
 
 
 ## Arabic
