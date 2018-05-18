@@ -20,6 +20,7 @@ Fasanenstraße 85, 10623 Berlin
 
 * [Schlachtensee](https://de.m.wikipedia.org/wiki/Schlachtensee)
 * [Arkonaplatz](https://de.m.wikipedia.org/wiki/Arkonaplatz)
+* [Garten Der Welt](https://gruen-berlin.de/gaerten-der-welt)
 
 ## Museums
 
