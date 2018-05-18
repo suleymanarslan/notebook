@@ -1,5 +1,21 @@
 # business
 
+## Meeting Culture
+
+Author: [Greg Wilson](http://third-bit.com/) [Source](https://mobile.twitter.com/gvwilson/status/994553693772099589)
+
+* Decide if there actually needs to be a meeting. If the only purpose is to share information, send a brief email instead.
+* Write and circulate an agenda.  If nobody cares enough to do this, the meeting doesn't need to happen.
+* Include timings in the agenda to help you keep the meeting moving.
+* Prioritize. Things that will have high impact but take little time should be done first.
+* Put someone in charge. This doesn't mean doing all the talking, any more than being a referee means kicking the ball the most.
+* Require politeness. No one gets to be rude and no one gets to ramble (because the purest form of politeness is respecting others' time).
+* No technology. Insist that everyone put their phones, tablets, and laptops into politeness mode (i.e., closes them).
+* No interruptions. Participants should raise a finger or put up a sticky note if they want to speak, and the chair should handle sequencing.
+* Record minutes.  Write down the most important pieces of information that were shared, every decision that was made, and every task that was assigned to someone.
+* Take notes.  While other people are talking, participants should take notes of questions they want to ask or points they want to make.  (You'll be surprised how smart it makes you look when it's your turn to speak.)
+* End early. If your meeting is scheduled for 10:00-11:00, you should aim to end at 10:55 to give people time to get where they need to go next.
+
 ## How to create and grow a product ?
 
 * Launch revolutionary product
