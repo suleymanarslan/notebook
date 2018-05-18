@@ -21,6 +21,10 @@ Fasanenstraße 85, 10623 Berlin
 * [Schlachtensee](https://de.m.wikipedia.org/wiki/Schlachtensee)
 * [Arkonaplatz](https://de.m.wikipedia.org/wiki/Arkonaplatz)
 
+## Museums
+
+* [Planetarium](http://www.planetarium.berlin/)
+
 ## Flea Markets
 
 * [Mauerpark](https://goo.gl/6wioq7): Open Sundays. One of the biggest and got a lot of furniture at the western side of the market. Should be close to your home. Got my dining table and chairs from here._
