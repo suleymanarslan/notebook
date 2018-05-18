@@ -2,7 +2,7 @@
 
 ## Meeting Culture
 
-Author: [Greg Wilson](http://third-bit.com/) [Source](https://mobile.twitter.com/gvwilson/status/994553693772099589)
+Author: [Greg Wilson](http://third-bit.com/) - [Source](https://mobile.twitter.com/gvwilson/status/994553693772099589)
 
 * Decide if there actually needs to be a meeting. If the only purpose is to share information, send a brief email instead.
 * Write and circulate an agenda.  If nobody cares enough to do this, the meeting doesn't need to happen.
