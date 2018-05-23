@@ -14,3 +14,6 @@ It measures how much a molecule is displaced from its resting position. Amplitud
 
 Frequency is a measure of how many times the waveform repeats in a given amount of time. The common unit of measurement for frequency is the Hertz, abbreviated as "Hz", which represents the number of repetitions per second.
 
+## Harmonics
+
+When a waveform has "side effect" frequencies, we call them harmonics.
