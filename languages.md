@@ -16,6 +16,7 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 
 * **Feraset** 1. Anlayış, seziş, sezgi 2. Zekâ.
 * **İfrat** Herhangi bir konuda çok ileri gitme, ölçüyü aşma, aşırı davranma, taşkınlık
+* **İnhisar** 1. Tekel. 2. mec. Tek başına sahip olma
 * **İntisap** a. (intisa:bı) esk. 1. Bağlanma. 2. Girme. 3. Kapılanma.
 * **İptila** Düşkünlük, tiryakilik
 * **İstidat** Yetenek
