@@ -42,7 +42,7 @@ Websites:
 * [Filli Studios](http://fillistudios.com/home)
 * [Cory Maryott](http://www.corymaryott.com/)
 * [andre ribeiro](https://andreribeiro.co/)
-* [stripe elements](https://stripe.com/elements)
+* [stripe elements](https://stripe.com/elements) | [examples](https://stripe.github.io/elements-examples/)
 * [this is fool proof](https://www.thisisfoolproof.com/)
 * [chobani food service](http://chobanifoodservice.com)
 * [ideo](https://www.ideo.com/) | [post](https://www.ideo.com/blog/why-you-should-start-prototyping-right-now?utm_source=t.co&utm_medium=referral)
