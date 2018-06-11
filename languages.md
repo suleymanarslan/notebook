@@ -15,6 +15,8 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 ## Türkçe
 
 * **başat** 1. Baskın 2. Hakim
+
+* **hörgüç** 1. Devenin sırtındaki tümsek, çıkıntı. 
 * **Feraset** 1. Anlayış, seziş, sezgi 2. Zekâ.
 * **İfrat** Herhangi bir konuda çok ileri gitme, ölçüyü aşma, aşırı davranma, taşkınlık
 * **İnhisar** 1. Tekel. 2. mec. Tek başına sahip olma
