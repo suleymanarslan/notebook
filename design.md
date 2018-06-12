@@ -33,6 +33,7 @@ Motorbikes & Cars:
 
 Websites:
 
+* [laws of ux](https://lawsofux.com/)
 * [magoz](https://magoz.is/)
 * [cool backgrounds](https://coolbackgrounds.io/)
 * [frank chimero](https://frankchimero.com/) | [writing](https://frankchimero.com/writing/) | [post](https://frankchimero.com/writing/the-good-room/)
