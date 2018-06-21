@@ -356,6 +356,11 @@ likely or liable to be influenced or harmed by a particular thing.
 
 a thing or event that evokes a specific functional reaction in an organ or tissue.
 
+
+#### svelte
+
+attractively thin, graceful and stylish
+
 #### zenith
 
 * the time at which something is most powerful or successful.
