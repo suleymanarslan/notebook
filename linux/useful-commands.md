@@ -20,6 +20,7 @@ Index of Contents:
 * [ncdu](#ncdu)
 * [nethogs](#nethogs)
 * [nl](#nl)
+* [mount](#mount)
 * [pidof](#pidof)
 * [pkill](#pkill)
 * [powertop](#powertop)
@@ -249,6 +250,18 @@ Adds line numbers to beginning of each line.
 ```bash
 cat foobar.txt | nl
 ```
+
+## mount
+
+A bind mount is an alternate view of a directory tree. Classically, mounting creates a view of a storage device as a directory tree. A bind mount instead takes an existing directory tree and replicates it under a different point. The directories and files in the bind mount are the same as the original. Any modification on one side is immediately reflected on the other side, since the two views show the same data.
+
+Under Linux, bind mounts are available as a kernel feature. You can create one with the mount command, by passing either the --bind command line option or the bind mount option. The following two commands are equivalent:
+
+`
+mount --bind /some/where /else/where
+`
+
+[source](https://unix.stackexchange.com/questions/198590/what-is-a-bind-mount)
 
 ## pidof
 
