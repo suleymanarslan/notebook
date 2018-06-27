@@ -11,6 +11,10 @@ Fasanenstraße 85, 10623 Berlin
 
 [Red Tape Translation](https://www.redtapetranslation.com/) helps people make phone calls or attend meetings which happens only in German. 
 
+#### Radio Tax
+
+[Sign up](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/anmelden/index_ger.html)
+
 ## Health
 
 * [Jameda: Search engine for doctors](https://www.jameda.de/)
