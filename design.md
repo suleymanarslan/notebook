@@ -33,6 +33,7 @@ Motorbikes & Cars:
 
 Websites:
 
+* [magoz.is](https://magoz.is/)
 * [illustration.tools](https://illustration.tools/)
 * [numi](https://numi.io/)
 * [zeplin](https://zeplin.io/)
