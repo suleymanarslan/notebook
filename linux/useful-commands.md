@@ -30,9 +30,11 @@ Index of Contents:
 * [timedatectl](#timedatectl)
 * [tree](#tree)
 * [xargs](#xargs)
+* [ufw](#ufw)
 * [xev](#xev)
 * [xdpyinfo](#xdipyinfo) 
 * [yes](#yes)
+
 
 
 ## awk
@@ -395,6 +397,32 @@ Creates a window and lets you see the keyboard events. Useful when you modify ke
 ## xprop
 
 Gives information about window properties. 
+
+## ufw
+
+Allow access to specified from anywhere:
+
+```bash
+ufw allow 22
+```
+
+Allow only trusted ip to specified port;
+
+```bash
+ufw allow from TRUSTED_IP to any port 9200
+```
+
+Enable it
+
+```bash
+ufw enable
+```
+
+Check the status
+
+```bash
+ufw status
+```
 
 ## yes
 Approve all confirmations
