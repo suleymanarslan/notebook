@@ -46,6 +46,25 @@ lsblk | awk '{print $1,$4}'
 # sda 8GB
 ```
 
+
+Filter out the values in the column if they're lower than 3000;
+
+```bash
+awk '$0 > 3000  {print ;}'
+```
+
+Calculate sum of the numbers in the selected column:
+
+```bash
+awk '{SUM+=$0}END{print SUM}' data.txt
+```
+
+Calculate avg of the numbers in the selected column;
+
+```bash
+awk '{ sum += $1 } END { if (NR > 0) print sum / NR }'
+```
+
 ## convert
 
 Resize an image by keeping the proportions, changing the format:
