@@ -52,7 +52,8 @@ Kapı kolunu anahtar yerine taşıdığımız olmadı mı bizim ?
 Tanımadığımız insanlarla sokaklarda koşu yarışına giriştiğimiz,
 Ağaç diplerine sakladığımız anahtarın yerini unutuğumuz olmadı mı?
 
-Bu şehrin sokaklarında üç dosya kağıdı olabiliriz
+Bu sokaklarda, ormanlarda, göllerde ve sıradağlarda
+Bir başkasının yerine yolculuk eden üç dosya kağıdı olabiliriz
 Kanaatkar, gerektiğinde talihini onarabileceğine inanan
 Gene de sağı solu belli olmayan üç kum tanesi, ne de olsa
 Berlin, büyük bir muamma.
