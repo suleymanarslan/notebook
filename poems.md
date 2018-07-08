@@ -48,11 +48,11 @@ thinking if your shoes would untie somewhere
 #### Berlin
 
 ```
-Kapı kollarını anahtar yerine taşıdığımız olmadı mı bizim ?
+Kapı kolunu anahtar yerine taşıdığımız olmadı mı bizim ?
 Tanımadığımız insanlarla sokaklarda koşu yarışına giriştiğimiz,
-Ağaç diplerine sakladığımız anahtarların yerini unutuğumuz olmadı mı?
+Ağaç diplerine sakladığımız anahtarın yerini unutuğumuz olmadı mı?
 
-Bu şehrin sokaklarında üç küçük nokta olabiliriz
+Bu şehrin sokaklarında üç dosya kağıdı olabiliriz
 Kanaatkar, gerektiğinde talihini onarabileceğine inanan
 Gene de sağı solu belli olmayan üç kum tanesi, ne de olsa
 Berlin, büyük bir muamma.
