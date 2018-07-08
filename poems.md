@@ -48,9 +48,9 @@ thinking if your shoes would untie somewhere
 #### Berlin
 
 ```
-Kapı kolunu anahtar yerine taşıdığımız olmadı mı bizim ?
+Kapı kolunu anahtar yerine taşıdığımız olmadı mı?
 Tanımadığımız insanlarla sokaklarda koşu yarışına giriştiğimiz,
-Ağaç diplerine sakladığımız anahtarın yerini unutuğumuz olmadı mı?
+Ağaç diplerine sakladığımız anahtarın yerini unuttuğumuz olmadı mı?
 
 Bu sokaklarda, ormanlarda, göllerde ve sıradağlarda
 Bir başkasının yerine yolculuk eden üç dosya kağıdı olabiliriz
