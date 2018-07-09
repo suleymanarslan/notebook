@@ -33,6 +33,7 @@ Motorbikes & Cars:
 
 Websites:
 
+* [watsi](https://watsi.org/) | [blog](https://blog.watsi.org/)
 * [magoz.is](https://magoz.is/)
 * [illustration.tools](https://illustration.tools/)
 * [numi](https://numi.io/)
