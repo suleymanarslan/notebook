@@ -206,6 +206,12 @@ $ convert -delay 3 -loop 0 -dither None -colors 80 "frames/ffout*.png" -fuzz "10
 ## -layers: some MAGIC
 ```
 
+Trim an mp3 file:
+
+```
+ffmpeg -i file.mp3 -ss 00:00:20 -to 00:00:40 -c copy file-2.mp3
+```
+
 ## grep
 
 Match patterns with text, print not matched;
