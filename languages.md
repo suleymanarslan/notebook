@@ -2,7 +2,7 @@
 
 My mother tongue is Turkish, and I speak fluent English. In this section, I'm documenting the words that are new to my mind;
 
-* [Türkçe](#türkçe)
+* [Spanish](#spanish)
 * [Arabic](#arabic)
 * [Kurdish](#kurdish)
 * [Toba Batak](#toba-batak)
@@ -10,28 +10,13 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 * [Balinese](#balinese)
 * [Zazaki](#zazaki)
 * [English](#english)
+* [Türkçe](#türkçe)
 
+## Spanish 
 
-## Türkçe
-
-* **başat** 1. Baskın 2. Hakim
-
-* **hörgüç** 1. Devenin sırtındaki tümsek, çıkıntı. 
-* **Feraset** 1. Anlayış, seziş, sezgi 2. Zekâ.
-* **İfrat** Herhangi bir konuda çok ileri gitme, ölçüyü aşma, aşırı davranma, taşkınlık
-* **İnhisar** 1. Tekel. 2. mec. Tek başına sahip olma
-* **İntisap** a. (intisa:bı) esk. 1. Bağlanma. 2. Girme. 3. Kapılanma.
-* **İptila** Düşkünlük, tiryakilik
-* **İstidat** Yetenek
-* **Mefhum** Kavram
-* **Mübadele** Değişim
-* **Mütefekkir** Düşünen insan
-* **Tefekkür** Düşünme, düşünüş
-* **Tefrit** Herhangi bir konuda geride kalma, yeterli ölçüde olmama durumu, ifrat karşıtı
-* **Telakki** 1. Anlayış 2. Kabul etme, sayma.
-* **tekebbür** Kibirlenme, büyüklenme, çalım, kurum.
-* **Tevekkül** Herhangi bir işte elinden geleni yapıp daha sonrasını Allah'a bırakma: 
-
+* **What time is it?** Que hora es ?
+* **Good night** Buonas noches
+* **What is your name?** Komo teyamas ?
 
 ## Arabic
 
@@ -366,4 +351,25 @@ attractively thin, graceful and stylish
 * the time at which something is most powerful or successful.
 
 * the point in the sky or celestial sphere directly above an observer.
+
+
+## Türkçe
+
+* **başat** 1. Baskın 2. Hakim
+
+* **hörgüç** 1. Devenin sırtındaki tümsek, çıkıntı. 
+* **Feraset** 1. Anlayış, seziş, sezgi 2. Zekâ.
+* **İfrat** Herhangi bir konuda çok ileri gitme, ölçüyü aşma, aşırı davranma, taşkınlık
+* **İnhisar** 1. Tekel. 2. mec. Tek başına sahip olma
+* **İntisap** a. (intisa:bı) esk. 1. Bağlanma. 2. Girme. 3. Kapılanma.
+* **İptila** Düşkünlük, tiryakilik
+* **İstidat** Yetenek
+* **Mefhum** Kavram
+* **Mübadele** Değişim
+* **Mütefekkir** Düşünen insan
+* **Tefekkür** Düşünme, düşünüş
+* **Tefrit** Herhangi bir konuda geride kalma, yeterli ölçüde olmama durumu, ifrat karşıtı
+* **Telakki** 1. Anlayış 2. Kabul etme, sayma.
+* **tekebbür** Kibirlenme, büyüklenme, çalım, kurum.
+* **Tevekkül** Herhangi bir işte elinden geleni yapıp daha sonrasını Allah'a bırakma: 
 
