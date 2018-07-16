@@ -14,8 +14,8 @@ My mother tongue is Turkish, and I speak fluent English. In this section, I'm do
 
 ## Spanish 
 
-* **What time is it?** Que hora es ?
-* **Good night** Buonas noches
+* **What time is it?** Que hora es ? (ke ora es)
+* **Good night** Buonas noches 
 * **What is your name?** Komo teyamas ?
 
 ## Arabic
