@@ -167,10 +167,7 @@ Index of Contents
 | Proxy-Connection[27] | Implemented as a misunderstanding of the HTTP specifications. Common because of mistakes in implementations of early HTTP versions. Has exactly the same functionality as standard Connection field. Must not be used with HTTP/2.[10]   | Proxy-Connection: keep-alive  |
 | X-UIDH[28][29][30] | Server-side deep packet insertion of a unique ID identifying customers of Verizon Wireless; also known as "perma-cookie" or "supercookie" | X-UIDH: ...  |
 | X-Csrf-Token[31] | Used to prevent cross-site request forgery. Alternative header names are: X-CSRFToken[32] and X-XSRF-TOKEN[33] | X-Csrf-Token: i8XNjC4b8KVok4uw5RftR38Wgp2BFwql  |
-| X-Request-ID[34][35],
-X-Correlation-ID[36][37]
-
- | Correlates HTTP requests between a client and server. | X-Request-ID: f058ebd6-02f7-4d3f-942e-904344e8cde5  |
+| X-Request-ID[34][35], X-Correlation-ID[36][37] | Correlates HTTP requests between a client and server. | X-Request-ID: f058ebd6-02f7-4d3f-942e-904344e8cde5  |
 | Save-Data | The Save-Data client hint request header available in Chrome, Opera, and Yandex browsers lets developers deliver lighter, faster applications to users who opt-in to data saving mode in their browser. | Save-Data: on  |
 
 ## Response Headers
