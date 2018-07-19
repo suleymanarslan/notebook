@@ -1,8 +1,12 @@
 # Web
 
-## Scraping Wikipedia
+Index of Contents
 
-* [Request JSON Output of an Article](https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&explaintext=1&titles=Michelangelo)
+* [HTTP Status Codes](#http-status-codes)
+* [HTTP Request Headers](#http-request-headers)
+* [Common Non-standard HTTP Request Headers]()
+* [Response Headers](#response-headers)
+* [Scraping Wikipedia](#scraping-wikipedia)
 
 ## HTTP Status Codes
 
@@ -106,7 +110,6 @@
 * **526** Invalid SSL Certificate
 * **527** Railgun Error
 
-
 ## HTTP Request Headers
 
 | Field name | Desc | Example | Status |
@@ -147,7 +150,30 @@
 | Via | Informs the server of proxies through which the request was sent. | Via: 1.0 fred, 1.1 example.com (Apache/1.1) | Permanent |
 | Warning | A general warning about possible problems with the entity body. | Warning: 199 Miscellaneous warning | Permanent |
 
-## Common non-standard HTTP Request Headers
+## Common Non-standard HTTP Request Headers
+
+| Field name | Desc | Example |
+| --- | --- | --- |
+| Upgrade-Insecure-Requests[15] | Tells a server which (presumably in the middle of a HTTP -> HTTPS migration) hosts mixed content that the client would prefer redirection to HTTPS and can handle Content-Security-Policy: upgrade-insecure-requests Must not be used with HTTP/2[10]   | Upgrade-Insecure-Requests: 1  |
+| X-Requested-With | Mainly used to identify Ajax requests. Most JavaScript frameworks send this field with value of XMLHttpRequest | X-Requested-With: XMLHttpRequest  |
+| DNT[16] | Requests a web application to disable their tracking of a user. This is Mozilla's version of the X-Do-Not-Track header field (since Firefox 4.0 Beta 11). Safari and IE9 also have support for this field.[17] On March 7, 2011, a draft proposal was submitted to IETF.[18] The W3C Tracking Protection Working Group is producing a specification.[19] | DNT: 1 (Do Not Track Enabled) DNT: 0 (Do Not Track Disabled)    |
+| X-Forwarded-For[20] | A de facto standard for identifying the originating IP address of a client connecting to a web server through an HTTP proxy or load balancer. Superseded by Forwarded header. | X-Forwarded-For: client1, proxy1, proxy2 X-Forwarded-For: 129.78.138.66, 129.78.64.103    |
+| X-Forwarded-Host[21] | A de facto standard for identifying the original host requested by the client in the Host HTTP request header, since the host name and/or port of the reverse proxy (load balancer) may differ from the origin server handling the request. Superseded by Forwarded header. | X-Forwarded-Host: en.wikipedia.org:8080 X-Forwarded-Host: en.wikipedia.org    |
+| X-Forwarded-Proto[22] | A de facto standard for identifying the originating protocol of an HTTP request, since a reverse proxy (or a load balancer) may communicate with a web server using HTTP even if the request to the reverse proxy is HTTPS. An alternative form of the header (X-ProxyUser-Ip) is used by Google clients talking to Google servers. Superseded by Forwarded header. | X-Forwarded-Proto: https  |
+| Front-End-Https[23] | Non-standard header field used by Microsoft applications and load-balancers | Front-End-Https: on  |
+| X-Http-Method-Override[24] | Requests a web application to override the method specified in the request (typically POST) with the method given in the header field (typically PUT or DELETE). This can be used when a user agent or firewall prevents PUT or DELETE methods from being sent directly (note that this is either a bug in the software component, which ought to be fixed, or an intentional configuration, in which case bypassing it may be the wrong thing to do). | X-HTTP-Method-Override: DELETE  |
+| X-ATT-DeviceId[25] | Allows easier parsing of the MakeModel/Firmware that is usually found in the User-Agent String of AT&T Devices | X-Att-Deviceid: GT-P7320/P7320XXLPG  |
+| X-Wap-Profile[26] | Links to an XML file on the Internet with a full description and details about the device currently connecting. In the example to the right is an XML file for an AT&T Samsung Galaxy S2. | x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I777.xml  |
+| Proxy-Connection[27] | Implemented as a misunderstanding of the HTTP specifications. Common because of mistakes in implementations of early HTTP versions. Has exactly the same functionality as standard Connection field. Must not be used with HTTP/2.[10]   | Proxy-Connection: keep-alive  |
+| X-UIDH[28][29][30] | Server-side deep packet insertion of a unique ID identifying customers of Verizon Wireless; also known as "perma-cookie" or "supercookie" | X-UIDH: ...  |
+| X-Csrf-Token[31] | Used to prevent cross-site request forgery. Alternative header names are: X-CSRFToken[32] and X-XSRF-TOKEN[33] | X-Csrf-Token: i8XNjC4b8KVok4uw5RftR38Wgp2BFwql  |
+| X-Request-ID[34][35],
+X-Correlation-ID[36][37]
+
+ | Correlates HTTP requests between a client and server. | X-Request-ID: f058ebd6-02f7-4d3f-942e-904344e8cde5  |
+| Save-Data | The Save-Data client hint request header available in Chrome, Opera, and Yandex browsers lets developers deliver lighter, faster applications to users who opt-in to data saving mode in their browser. | Save-Data: on  |
+
+## Response Headers
 
 
 | Field name | Desc | Example | Status |
@@ -193,3 +219,7 @@
 | Warning | A general warning about possible problems with the entity body. | Warning: 199 Miscellaneous warning | Permanent |
 | WWW-Authenticate | Indicates the authentication scheme that should be used to access the requested entity. | WWW-Authenticate: Basic | Permanent |
 | X-Frame-Options | Clickjacking protection: deny - no rendering within a frame, sameorigin - no rendering if origin mismatch, allow-from - allow from specified location, allowall - non-standard, allow from any location | X-Frame-Options: deny | Obsolete[49] |
+
+## Scraping Wikipedia
+
+* [Request JSON Output of an Article](https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&explaintext=1&titles=Michelangelo)
