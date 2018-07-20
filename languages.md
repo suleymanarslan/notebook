@@ -250,6 +250,10 @@ allow oneself to enjoy the pleasure of.
 synonyms:	wallow in, give oneself up to, give way to, yield to, abandon oneself to, give free rein to; More
 ```
 
+#### insidious 
+
+Proceeding in a gradual, subtle way, but with harmful effects.
+
 #### lavish
 
 ```
