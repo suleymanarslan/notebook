@@ -24,6 +24,8 @@ Fasanenstraße 85, 10623 Berlin
 ## Cool Startups
 
 * [eyeo](https://eyeo.com/)
+* [juniqe](https://www.juniqe.com/)
+* [n26](https://n26.com)
 * [urlist](https://angel.co/urlist) (inactive)
 * [Pitch.io](https://pitch.com/)
 * [World Brain](https://worldbrain.io/)
@@ -55,4 +57,10 @@ Fasanenstraße 85, 10623 Berlin
 
 * [Flea market at Boxhagener Platz](https://goo.gl/maps/ZUcd6NweQZF2): Open on Sunday, very close to the RAW one but better before 3pm.
 
-* [Berlin Hallenflohmarkt](https://goo.gl/7cfQWc): They are open several days of the week until 4pm. Quite big and lots of furniture. Some of the stuff maybe quite old and dusty but cheap (you've got to bargain though)_
+* [Berlin Hallenflohmarkt](https://goo.gl/7cfQWc): They are open several days of the week until 4pm. Quite big and lots of furniture. Some of the stuff maybe quite old and dusty but cheap (you've got to bargain though)
+
+## Venture Capital 
+
+* [QLV](http://www.qlv.berlin/)
+* [Berlin Ventures](http://www.berlinventures.com/)
+* [Yields](https://angel.co/yields-internet-ventures)
