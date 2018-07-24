@@ -72,4 +72,5 @@ Fasanenstraße 85, 10623 Berlin
 * [Innogy](https://www.innogy.ventures/)
 * [Outlier](https://outlierventures.io/)
 * [QLV](http://www.qlv.berlin/)
+* [Paua Ventures](https://angel.co/paua-ventures)
 * [Yields](https://angel.co/yields-internet-ventures)
