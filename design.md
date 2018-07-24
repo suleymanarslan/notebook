@@ -33,6 +33,7 @@ Motorbikes & Cars:
 
 Websites:
 
+* [Majsan](http://majsanauvinen.com/)
 * [solvatten](https://solvatten.org/)
 * [Sara Svensson](http://sarajuliasvensson.com/) | [solvatten](http://sarajuliasvensson.com/work/solvatten/)
 * [inside the head](https://insidethehead.co) | [chapters](https://insidethehead.co/chapters) | [chapters/age](https://insidethehead.co/chapters/age)
