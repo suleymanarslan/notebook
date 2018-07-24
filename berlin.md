@@ -21,6 +21,13 @@ Fasanenstraße 85, 10623 Berlin
 
 [Sign up](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/anmelden/index_ger.html)
 
+## Cool Startups
+
+* [eyeo](https://eyeo.com/)
+* [urlist](https://angel.co/urlist) (inactive)
+* [Pitch.io](https://pitch.com/)
+* [World Brain](https://worldbrain.io/)
+
 ## Health
 
 * [Jameda: Search engine for doctors](https://www.jameda.de/)
