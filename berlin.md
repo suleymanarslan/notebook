@@ -68,6 +68,7 @@ Fasanenstraße 85, 10623 Berlin
 ## Venture Capital 
 
 * [Berlin Ventures](http://www.berlinventures.com/)
+* [Early Bird](https://earlybird.com/)
 * [Innogy](https://www.innogy.ventures/)
 * [Outlier](https://outlierventures.io/)
 * [QLV](http://www.qlv.berlin/)
