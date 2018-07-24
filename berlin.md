@@ -68,6 +68,7 @@ Fasanenstraße 85, 10623 Berlin
 ## Venture Capital 
 
 * [amplifier](https://angel.co/amplifier-gmbh-co-kg)
-* [QLV](http://www.qlv.berlin/)
+* [Innogy](https://www.innogy.ventures/)
 * [Berlin Ventures](http://www.berlinventures.com/)
+* [QLV](http://www.qlv.berlin/)
 * [Yields](https://angel.co/yields-internet-ventures)
