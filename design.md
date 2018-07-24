@@ -33,6 +33,7 @@ Motorbikes & Cars:
 
 Websites:
 
+* [inside the head](https://insidethehead.co) | [chapters](https://insidethehead.co/chapters) | [chapters/age](https://insidethehead.co/chapters/age)
 * [watsi](https://watsi.org/) | [blog](https://blog.watsi.org/)
 * [magoz.is](https://magoz.is/)
 * [illustration.tools](https://illustration.tools/)
