@@ -26,6 +26,7 @@ Index of Contents:
 * [powertop](#powertop)
 * [sed](#sed)
 * [setxkbmap](#setxkbmap)
+* [sort](#sort)
 * [tee](#tee)
 * [timedatectl](#timedatectl)
 * [tree](#tree)
@@ -347,6 +348,51 @@ Sets the keyboard layout:
 
 ```
 setxkbmap tr -variant alt -option lv3:ralt
+```
+
+## sort
+
+Sort the contents of a file alphabetically, in reverse order, by number, by month. It can also remove duplicates.
+
+```
+$ cat > file.txt
+abhishek
+chitransh
+satish
+rajan
+naveen
+divyam
+harsh
+```
+
+```
+$ sort file.txt
+abhishek
+chitransh
+divyam
+harsh
+naveen 
+rajan
+satish
+```
+
+## uniq
+
+Filters duplicate lines.
+
+```
+$ cat > file.txt
+foo
+bar
+foo
+qux
+```
+
+```
+$ cat file.txt | uniq -c
+2 foo
+1 bar
+1 qux
 ```
 
 ## tee
