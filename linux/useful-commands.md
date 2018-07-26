@@ -4,6 +4,7 @@ Index of Contents:
 
 * [awk](#awk)
 * [chroot](#chroot)
+* [column](#column)
 * [convert](#convert)
 * [date](#date)
 * [dialog](#dialog)
@@ -27,6 +28,7 @@ Index of Contents:
 * [sed](#sed)
 * [setxkbmap](#setxkbmap)
 * [sort](#sort)
+* [uniq](#uniq)
 * [tee](#tee)
 * [timedatectl](#timedatectl)
 * [tree](#tree)
@@ -95,6 +97,27 @@ convert  image.png -rotate -90 image-copy.png
 ## chroot
 
 Opens a new TTY on given root directory.
+
+## column
+
+Equalize column width of given file.
+
+```
+$ cat > text.txt
+id name age                                                                                                               
+1 azer 30
+2 fuji 1
+3 nova 27
+```
+
+
+```
+$ column -t col.txt                                                                                                    
+id  name  age                                                                                                             
+1   azer  30
+2   fuji  1
+3   nova  27
+```
 
 ## date
 
