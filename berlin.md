@@ -36,6 +36,16 @@ Fasanenstraße 85, 10623 Berlin
 
 * [Film Tech Office](https://www.filmtechoffice.com/)
 
+## Electricity
+
+When you move to a new apartment, you'll need;
+
+* Get counter number (Zählernummer) from the landlord.
+* Register for a new service at check24 using the counter number. (I selected Vattenfall)
+* Provide your bank IBAN.
+
+They'll start charging you monthly. 
+
 ## Health
 
 * [Jameda: Search engine for doctors](https://www.jameda.de/)
