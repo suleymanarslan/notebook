@@ -33,6 +33,7 @@ Motorbikes & Cars:
 
 Websites:
 
+* [celo](https://celo.org/)
 * [Majsan](http://majsanauvinen.com/)
 * [solvatten](https://solvatten.org/)
 * [Sara Svensson](http://sarajuliasvensson.com/) | [solvatten](http://sarajuliasvensson.com/work/solvatten/)
