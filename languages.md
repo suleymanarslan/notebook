@@ -143,6 +143,31 @@ See also: [toba-batak-dictionary/dict.json](https://github.com/azer/toba-batak-d
 
 Words I looked up on dictionary;
 
+#### articulate
+
+```
+adjective
+
+1.
+having or showing the ability to speak fluently and coherently.
+
+2.
+technical
+having joints or jointed segments.
+"delicate articulate plants with a slender central stem"
+```
+
+```
+verb
+1.
+pronounce (something) clearly and distinctly.
+"he articulated each word with precision"
+
+2.
+form a joint.
+"the mandible is a solid piece articulating with the head"
+```
+
 #### buoyancy
 
 the ability or tendency to float in water or air or some other fluid.
