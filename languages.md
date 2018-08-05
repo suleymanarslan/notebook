@@ -385,7 +385,7 @@ attractively thin, graceful and stylish
 ## Türkçe
 
 * **başat** 1. Baskın 2. Hakim
-
+* **cinas** Çok anlamlı bir kelimeye, her defasında başka bir anlam yükleyerek birbirine yakın birkaç yerde kullanma
 * **hörgüç** 1. Devenin sırtındaki tümsek, çıkıntı. 
 * **Feraset** 1. Anlayış, seziş, sezgi 2. Zekâ.
 * **İfrat** Herhangi bir konuda çok ileri gitme, ölçüyü aşma, aşırı davranma, taşkınlık
@@ -393,13 +393,17 @@ attractively thin, graceful and stylish
 * **İntisap** a. (intisa:bı) esk. 1. Bağlanma. 2. Girme. 3. Kapılanma.
 * **İptila** Düşkünlük, tiryakilik
 * **İstidat** Yetenek
+* **Kinaye**  Düşünüleni dolaylı olarak anlatan söz
 * **Mefhum** Kavram
+* **Musavvir** Tasvir eden, şekil ve suret veren. 
 * **Mübadele** Değişim
 * **Mütefekkir** Düşünen insan
 * **Tefekkür** Düşünme, düşünüş
 * **Tefrit** Herhangi bir konuda geride kalma, yeterli ölçüde olmama durumu, ifrat karşıtı
 * **Telakki** 1. Anlayış 2. Kabul etme, sayma.
+* **Telmih**  Anlatılmak istenen şeyi söz arasında imalı olarak belli etme, açıkça söylememe
 * **tekebbür** Kibirlenme, büyüklenme, çalım, kurum.
 * **Temayüz**  Başkalarına göre üstün duruma gelme, sivrilme, seçkinleşme.
 * **Tevekkül** Herhangi bir işte elinden geleni yapıp daha sonrasını Allah'a bırakma: 
+* **Tevessül** Başlama, girişme.
 
