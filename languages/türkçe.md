@@ -11,6 +11,7 @@
 * **İstidat** Yetenek
 * **Kinaye**  Düşünüleni dolaylı olarak anlatan söz
 * **Mefhum** Kavram
+* **Muktedir** Bir şeyi yapmaya, başarmaya gücü yeten, erkli.
 * **Musavvir** Tasvir eden, şekil ve suret veren. 
 * **Mübadele** Değişim
 * **Mütefekkir** Düşünen insan
