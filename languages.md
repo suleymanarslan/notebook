@@ -400,5 +400,6 @@ attractively thin, graceful and stylish
 * **Tefrit** Herhangi bir konuda geride kalma, yeterli ölçüde olmama durumu, ifrat karşıtı
 * **Telakki** 1. Anlayış 2. Kabul etme, sayma.
 * **tekebbür** Kibirlenme, büyüklenme, çalım, kurum.
+* **Temayüz**  Başkalarına göre üstün duruma gelme, sivrilme, seçkinleşme.
 * **Tevekkül** Herhangi bir işte elinden geleni yapıp daha sonrasını Allah'a bırakma: 
 
