@@ -1,6 +1,6 @@
 # Türkçe
 
-# **başat** 1. Baskın 2. Hakim
+* **başat** 1. Baskın 2. Hakim
 * **cinas** Çok anlamlı bir kelimeye, her defasında başka bir anlam yükleyerek birbirine yakın birkaç yerde kullanma
 * **hörgüç** 1. Devenin sırtındaki tümsek, çıkıntı. 
 * **Feraset** 1. Anlayış, seziş, sezgi 2. Zekâ.
@@ -14,6 +14,7 @@
 * **Musavvir** Tasvir eden, şekil ve suret veren. 
 * **Mübadele** Değişim
 * **Mütefekkir** Düşünen insan
+* **Rabıta** Bağlayan şey, bağ
 * **Tefekkür** Düşünme, düşünüş
 * **Tefrit** Herhangi bir konuda geride kalma, yeterli ölçüde olmama durumu, ifrat karşıtı
 * **Telakki** 1. Anlayış 2. Kabul etme, sayma.
