@@ -15,6 +15,7 @@
 * **Muktedir** Bir şeyi yapmaya, başarmaya gücü yeten, erkli.
 * **Musavvir** Tasvir eden, şekil ve suret veren. 
 * **Mübadele** Değişim
+* **Mücehhez**  1. Donanmış. 2. Hazırlıklı, hazırlanmış
 * **Müfredat**  1. Bir bütünü oluşturan bireyler, ayrıntılar. 
 * **Mütefekkir** Düşünen insan
 * **Rabıta** Bağlayan şey, bağ
