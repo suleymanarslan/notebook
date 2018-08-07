@@ -4,6 +4,7 @@
 * **cinas** Çok anlamlı bir kelimeye, her defasında başka bir anlam yükleyerek birbirine yakın birkaç yerde kullanma
 * **hörgüç** 1. Devenin sırtındaki tümsek, çıkıntı. 
 * **Feraset** 1. Anlayış, seziş, sezgi 2. Zekâ.
+* **hemhâl*** Aynı durumda olan
 * **İfrat** Herhangi bir konuda çok ileri gitme, ölçüyü aşma, aşırı davranma, taşkınlık
 * **İnhisar** 1. Tekel. 2. mec. Tek başına sahip olma
 * **İntisap** a. (intisa:bı) esk. 1. Bağlanma. 2. Girme. 3. Kapılanma.
@@ -17,6 +18,7 @@
 * **Müfredat**  1. Bir bütünü oluşturan bireyler, ayrıntılar. 
 * **Mütefekkir** Düşünen insan
 * **Rabıta** Bağlayan şey, bağ
+* **Ümmi** Okuyup yazması olmayan
 * **Tefekkür** Düşünme, düşünüş
 * **Tefrit** Herhangi bir konuda geride kalma, yeterli ölçüde olmama durumu, ifrat karşıtı
 * **Telakki** 1. Anlayış 2. Kabul etme, sayma.
