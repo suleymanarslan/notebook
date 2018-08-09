@@ -206,11 +206,17 @@ $ sleep 10; ffmpeg -y -video_size 1366x680 -framerate 25 -f x11grab -i :0.0+0,80
 Trim video by time:
 
 ```bash
-$ ffmpeg -y -i output.mp4 -ss 3 -t 11 myclip.mp4; ffplay myclip.mp4
+$ ffmpeg -y -i output.mp4 -ss 3 -t 11 myclip.mp4
 ## -i:         specify which input file
 ## --ss {n}:   trim {n} seconds from begining
 ## -t {d}:     secify the duration of myclip.mp4
 ## ffplay:     play myclip.mp4 once the encoding ends
+```
+
+Get video resolution:
+
+```bash
+$ ffprobe -v error -select_streams v:0 -show_entries stream=width,height -of csv=s=x:p=0 merged.mp4
 ```
 
 Output series of PNG files;
