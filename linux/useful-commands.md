@@ -119,6 +119,12 @@ id  name  age
 3   nova  27
 ```
 
+Change delimiter to `:`:
+
+```
+column -t -s ':'
+```
+
 ## date
 
 Get unix timestamp:
