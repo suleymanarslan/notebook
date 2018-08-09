@@ -371,6 +371,12 @@ Slugify a string:
 sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z
 ```
 
+Get value of a field from JSON file:
+
+```bash
+sed -n 's/\s*\"foo":\s*"\(.*\)\"/\1/p' config.json
+```
+
 ## setxkbmap
 
 Sets the keyboard layout:
