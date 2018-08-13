@@ -35,7 +35,8 @@ Index of Contents:
 * [xargs](#xargs)
 * [ufw](#ufw)
 * [xev](#xev)
-* [xdpyinfo](#xdipyinfo) 
+* [xdpyinfo](#xdipyinfo)
+* [xdotool](#xdotool)
 * [yes](#yes)
 
 
@@ -500,6 +501,14 @@ Get screen resolution:
 
 ```bash
 xdpyinfo | awk '/dimensions/{print $2}'
+```
+
+## xdotool
+
+Get mouse location.
+
+```
+xdotool getmouselocation --shell
 ```
 
 ## xev
