@@ -37,6 +37,7 @@ Index of Contents:
 * [xev](#xev)
 * [xdpyinfo](#xdipyinfo)
 * [xdotool](#xdotool)
+* [xprop](#xprop)
 * [yes](#yes)
 
 
