@@ -138,6 +138,10 @@ synonyms:	wallow in, give oneself up to, give way to, yield to, abandon oneself 
 
 Proceeding in a gradual, subtle way, but with harmful effects.
 
+#### intrinsic
+
+belonging naturally; essential.
+
 #### lavish
 
 ```
@@ -196,6 +200,10 @@ serving or intended as an ornament; decorative.
 #### pinnacle
 
 the most successful point; the culmination.
+
+#### per-se
+
+by or in itself or themselves; intrinsically.
 
 #### resentment
 
