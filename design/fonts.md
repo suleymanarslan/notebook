@@ -18,7 +18,11 @@
 
 ## Open Sans
 
+![](https://cldup.com/58gLAD1RdN.png)
+
 ## PT Mono
+
+![](https://cldup.com/gffakXZUwP.png)
 
 ## Tiempos
 
