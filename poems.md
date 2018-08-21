@@ -48,12 +48,13 @@ thinking if your shoes would untie somewhere
 #### Berlin
 
 ```
-Kapı kolunu anahtar yerine taşıdığımız olmadı mı?
+Kapı kolunu anahtar yerine taşıdığımız olmadı mı bizim?
 Tanımadığımız insanlarla sokaklarda koşu yarışına giriştiğimiz,
-Ağaç diplerine sakladığımız anahtarın yerini unuttuğumuz olmadı mı?
+Ağaç diplerine gömülen anahtarları kaybettiğimiz günler
+Sonbahardan mahrum kaldığımız olmadı mı?
 
-Bu sokaklarda, ormanlarda, göllerde ve sıradağlarda
-Bir başkasının yerine yolculuk eden üç dosya kağıdı olabiliriz
+Bu sokaklarla, hatta polisle ve esnafla
+Yolculuk eden üç dosya kağıdı olabiliriz
 Kanaatkar, gerektiğinde talihini onarabileceğine inanan
 Gene de sağı solu belli olmayan üç kum tanesi, ne de olsa
 Berlin, büyük bir muamma.
