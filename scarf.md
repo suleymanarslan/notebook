@@ -45,4 +45,6 @@ when the stimulus is associated with survival.
 * The perception of a potential or real reduction in status can generate a strong threat response. 
 
 #### Reducing status threat
-* It can be surprisingly easy to accidentally threaten someone's sense of status. A status threat can occur though giving advice or instructions or simply suggesting someone is... 
+* It can be surprisingly easy to accidentally threaten someone's sense of status. A status threat can occur though giving advice or instructions or simply suggesting someone is slightly ineffective at a task. Many everyday conversations devolve into arguments driven by a status threat, a desire to not be perceived as less than another. When threatened, people may defend a position that doesn't make sense, to avoid the perceived pain of a drop in status.
+* In most people, the question "can I offer you some feedback" generates a similar response to hearing fast footsteps behind you at night. 
+* If leaders want to change others' behavior, more attention must be paid to reducing status threats when giving feedback. One way to do this by allowing people to give themselves feedback on their own performance.
