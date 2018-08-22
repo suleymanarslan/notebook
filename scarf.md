@@ -33,3 +33,7 @@ when the stimulus is associated with survival.
     * When feeling threatened by one's boss, it's harder to find smart answers because of diminished cognitive resources. 
   * Secondly, when threatened, the increased overall activation in the brain inhibits people from perceiving the more subtle signals required for solving non-linear problems, involved in the insight or "aha!" experience. 
   * Thirdly, with the amygdala activated, the dendency is to generalize more, which increases the likelihood of accidental connections. 
+* The avoid response generates far more arousal in the limbic system, more quickly and with longer lasting effects than an approach response.
+* This discovery that our brain is inherently attuned to threatening stimuli helps explain many disquieting parts of life, from why the media focuses on bad news to why people are self-critical. 
+* It also points to the need to understand the social nature of the brain and proactively minimize common social threats.
+* Engagement is a state of being willing to do difficult things, to take risks, to think deeply about issues and develop new solutions. An approach state is also closely linked to positive emotions. This state is one of increased dopamine levels, important for interest and learning.
