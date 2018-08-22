@@ -9,8 +9,8 @@
 * The SCARF model summarizes these two themes within a framework that captures the common factors that can activate a reward or threat response in social situations. This model can be applied in any situation where people collaborate in groups, including all types of workplaces, educational environments, family settings and general social events. 
 * The SCARF model involves five domains of human social experience: Status, Certainty, Autonomy, Relatedness and Fairness.
 * This model enables people to more easily remember, recognize and potentially modify the core social domains that drive human behavior. Labelling and understanding these drivers draws conscious awereness to otherwise non conscious processes, which can help in two ways.
-* Firstly, knowing the drivers that can cause a threat response enables people to design interactions to minimize threats.
-* Secondly, knowing about the drivers that can activate a reward response enables people to motivate others more effectively by tapping into internal rewards, thereby reducing the reliance on external rewards such as money.
+  * Firstly, knowing the drivers that can cause a threat response enables people to design interactions to minimize threats.
+  * Secondly, knowing about the drivers that can activate a reward response enables people to motivate others more effectively by tapping into internal rewards, thereby reducing the reliance on external rewards such as money.
 
 ### Foundations of the SCARF model
 
@@ -29,7 +29,7 @@ when the stimulus is associated with survival.
 * Someone feeling threatened by a boss who is undermining their credibility is less likely to be able to solve complex problems and more likely to make mistakes.
 * The reduced cognitive performance is driven several factors. 
   * Firstly, when a human being senses a threat, resources available for overall executive functions in the prefontal cortex decrease. There is a strong negative correlation between the amount of threat activation and the resources available for prefrontal cortex. 
-  * The result is literally less oxygen and glucose available for the brain functions involved in working memory, which impacts linear, conscious processing.
-  * When feeling threatened by one's boss, it's harder to find smart answers because of diminished cognitive resources. 
+    * The result is literally less oxygen and glucose available for the brain functions involved in working memory, which impacts linear, conscious processing.
+    * When feeling threatened by one's boss, it's harder to find smart answers because of diminished cognitive resources. 
   * Secondly, when threatened, the increased overall activation in the brain inhibits people from perceiving the more subtle signals required for solving non-linear problems, involved in the insight or "aha!" experience. 
   * Thirdly, with the amygdala activated, the dendency is to generalize more, which increases the likelihood of accidental connections. 
