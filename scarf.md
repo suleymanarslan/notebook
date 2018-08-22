@@ -67,3 +67,11 @@ when the stimulus is associated with survival.
 * For example, people feel a status increase when they feel they are learning and improving and when attention is paid to this improvement. This probably occurs because individuals think about themselves using the same brain networks they use for thinking about others. For example, beating one's own best time at a task or sporting activity, the reward circuitry from a sense of being 'better than' is activated, but in this case, the person one is 'better than' is oneself in the past.
 * Status can go up when people are given positive feedback, especially public acknowledgment. One study showed activation of the reward circuitry in children being as strong as money when told "That's correct" by a repetitive computer voice.
 * Finally, status is about one's relative position in a community of importance such as a professional group or social club based on what is valued.
+
+### Certainty 
+
+* The brain is a pattern recognition machine that is constantly trying to predict the near future. 
+* To pick up a cup of coffee, the sensory system, sensing the position of the fingers at each moment, interacts dynamically with the motor cortex to determine where to move your fingers next. Your fingers don't draw on fresh data each time; the brain draws on the memory of what a cup is supposed to feel like in the hand, based on expectations drawn from previous experiences. If it feels different, perhaps slippery, you immediately pay attention. 
+* The brain likes to know the pattern occurring moment to moment, it craves certainty, so that prediction is possible. Without prediction, the brain must use dramatically use more resources, involving the more energy-intensive prefrontal cortex, to process moment-to-moment experience. 
+* Even small amount of uncertainty generates an "error" response in the orbital frontal cortex (OFC). This takes attention away from one's goals, forcing attention to the error. 
+* The act of creating a sense of certainty is rewarding. Examples are everywhere in daily life: music that has simple repeating patterns is rewarding because of the ability to predict the flow of information. MEeting expectations generates an increase in dopamine levels in the brain, a reward response. 
