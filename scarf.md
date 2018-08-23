@@ -1,6 +1,6 @@
 # SCARF
 
-*Notes from [SCARF: a brain-based model for collaborating with and influencing others](https://www.epa.gov/sites/production/files/2015-09/documents/thurs_georgia_9_10_915_covello.pdf).*
+*Highlights from [SCARF: a brain-based model for collaborating with and influencing others](https://www.epa.gov/sites/production/files/2015-09/documents/thurs_georgia_9_10_915_covello.pdf).*
 
 Index of Contents
 
@@ -75,3 +75,49 @@ when the stimulus is associated with survival.
 * The brain likes to know the pattern occurring moment to moment, it craves certainty, so that prediction is possible. Without prediction, the brain must use dramatically use more resources, involving the more energy-intensive prefrontal cortex, to process moment-to-moment experience. 
 * Even small amount of uncertainty generates an "error" response in the orbital frontal cortex (OFC). This takes attention away from one's goals, forcing attention to the error. 
 * The act of creating a sense of certainty is rewarding. Examples are everywhere in daily life: music that has simple repeating patterns is rewarding because of the ability to predict the flow of information. MEeting expectations generates an increase in dopamine levels in the brain, a reward response. 
+
+#### Reducing the threat from uncertaintiy
+* Any kind of significant change generates uncertainty.
+* As people build business plans, strategirs or map out an organization's structure, they feel increasing levels of clarity about how an organization might better function in the future.
+* Breaking a complex project down into small steps does the same. Another key tool involves establishing clear expectations of what might happen in any situation, as well as expectations of desirable outcomes.
+
+#### Increasing the reward from certainty
+
+* In learning situations, the old adage is "tell people what you are going to tell them, tell them, then tell them what you told them", all of which increases certainty.
+
+### Autonomy
+
+* Autonomy is the perception of exerting control over one's environment; a sensation of having choices. 
+* Several studies in the retirement industry find strong correlations between a sense of control and health outcomes. People leave corporate life, often for far less income, because they desire greater autonomy.
+* A reduction in autonomy, for example when being micro managed, can generate a strong threat response. When one senses lack of control, the experience is of a lack of agency, or an inability to influence outcomes.
+
+#### Reducing autonomy threat 
+
+* Working in a team necessitates a reduction in autonomy. In healthy cultures, this potential; threat tends to be counteracted with an increase in status, certainty and relatedness. With an autonomy threat just below the surface, it can be helpful to pay attention to this driver. The statement "Here's two options that could work, which would you prefer?" will tend to elicit a better response than "Here's what you have to do now". 
+* Allowing people to set up their own desks, organize their workflow, even manage their working hours, can all be beneficial if done within agreed parameters. 
+
+### Relatedness
+
+* Relatedness involves deciding whether others are in or out of a social group. 
+* People naturally like to form 'tribes' where they experience a sense of belonging.
+* Studies have shown far greater collaboration when people are given a shot of oxytocin, through a nasal spray.
+* A handshake, swapping names and discussing something in common, be it just the weather, may increase feeling of closeness by causing the release of oxytocin.
+* The greater that people trust one another, the stronger the collaboration and the more information that is shared.
+
+#### Reducing threats from lack of relatedness
+
+* Increasing globalization highlights the importance managing relatedness threats. Collaboration between people from different cultures, who are unlikely to meet in person, can be especially hard work. 
+* A Gallup report showed that organizations that encourage water cooler conversations increased productivity.
+
+#### Increasing the rewards from relatedness
+
+* To increase the reward response from relatedness, the key is to find ways to increase safe connections between people. Some examples include setting up clearly defined buddy systems, mentoring or coaching programs, or small action learning groups. 
+
+### Fairness
+
+* Unfair exchanges generate a strong threat response. This sometimes includes activation of the insular, a part of the brain involved in intense emotions such as disgust. Unfair situations may drive people to die to right perceived injustices, such as in political struggles. People who perceive others as unfair don't feel empathy for their pain, and in some instances, will feel rewarded when unfair others are punished.
+
+#### Reducing the threat from unfairness and increasing the reward from fairness
+
+* The threat from perceived unfairness can be decrased by increasing transparency and increasing the level of communication and involvement about business issues. For example, organizations that allow employees to know details about financial processes may have an advantage here.
+* A sense of unfairness can result from a lack of clear ground rules, expectations or objectives. 
