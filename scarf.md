@@ -5,14 +5,26 @@
 Index of Contents
 
 * [Introduction](#introduction)
-  * [Foundations of the SCARF Model]()
-  * [The effects of approaching versus avoiding]()
-* [The SCARF Model]()
-  * [Status]()
-    * [Reducing status threat]()
-    * [Increasing status reward]()
-  * [Certainty]()
-  
+  * [Foundations of the SCARF Model](#foundations-of-the-scarf-model)
+  * [The effects of approaching versus avoiding](#the-effects-of-approaching-versus-avoiding)
+* [The SCARF Model](#the-scarf-model)
+  * [Status](#status)
+    * [Reducing status threat](#reducing-status-threat)
+    * [Increasing status reward](#increasing-status-reward)
+  * [Certainty](#certainty)
+    * [Reducing the threat from uncertainty](#reducing-the-threat-from-uncertaintiy)
+    * [Increasing the reward from certainty](#increasing-the-reward-from-certainty)
+  * [Autonomy](#autonomy)
+    * [Reducing autonomy threat](#reducing-autonomy-threat)
+  * [Relatedness](#relatedness)
+    * [Reducing threats from lack of relatedness](#reducing-threats-from-lack-of-relatedness)
+    * [Increasing the rewards from relatedness](#increasing-the-rewards-from-relatedness)
+  * [Fairness](#fairness)
+* [Education and Training](#education-and-training)
+* [Coaching](#coaching)
+* [Leadership Development](#leadership-development)
+* [Organizational Systems](#organizational-systems)
+* [Summary](#summary)
 
 ## Introduction
 
@@ -122,11 +134,11 @@ when the stimulus is associated with survival.
 * The threat from perceived unfairness can be decrased by increasing transparency and increasing the level of communication and involvement about business issues. For example, organizations that allow employees to know details about financial processes may have an advantage here.
 * A sense of unfairness can result from a lack of clear ground rules, expectations or objectives. 
 
-### Education and Training
+## Education and Training
 
 * Teaching children who feel threatened, disconnected, socially rejected or treated unfairly is an uphill battle. For example, the educators can create a nurturing learning environment by pointing out specifically how people are improving, which increases a sense of status.
 
-### Coaching
+## Coaching
 
 * Status can be increased through regular positive feedback, attention to incremental improvements, and the achievement of large goals.
 * Certainty can be increased by identifying central goals, and subsequently reducing the uncertainty inherent in maintaining multiple focuses.
@@ -135,7 +147,7 @@ when the stimulus is associated with survival.
 * Relatedness can be increased through the relationship with the coach. 
 * Fairness can be reduced through seeing situations from other perspectives. 
 
-### Leadership development
+## Leadership development
 
 * Many new leaders may negatively impact the domains of SCARF by accident. They may know how things should be done, and subsequently provide too much direction and not enough positive feedback, thereby affecting people's status.
 * They often don't provide clear expectations, impacting certainty. 
@@ -145,7 +157,7 @@ when the stimulus is associated with survival.
 * When the oppposite happens and you meet someone who makes you feel better about yourself, provides clear expectations, lets you make decisions, trusts yu and is fair, you will probably work harder for them as you feel intrinsically rewarded by the relationship itself. 
 * Spending time around a leader like this activates an approach response and opens up people's thinking, allowing others to see information they wouldn't see in an avoid state. 
 
-### Organizational Systems
+## Organizational Systems
 
 * Techniques for motivating and rewarding staff are largely based on the carrot and stick principle, with the carrot mostly involving money or promotion. 
 * The SCARF model points to more creative ways of motivating that may not just be cheaper, but also stronger and more sustainable. 
@@ -153,6 +165,6 @@ when the stimulus is associated with survival.
 * Or, rewards could be provided via increasing the opportunity for learning new skills, which can increase a sense of status. 
 * Or, people could be rewarded through increasing relatedness through allowing more time to network with peers during work hours. 
 
-### Summary 
+## Summary 
 
 * Understanding these drivers can help individuals and organizations to function more effectively reducing conflicts that occur so easily amongst people, and increasing the amount of time people spend in the approach state, a concept synonymous with good performance. 
