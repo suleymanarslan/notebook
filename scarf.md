@@ -121,3 +121,38 @@ when the stimulus is associated with survival.
 
 * The threat from perceived unfairness can be decrased by increasing transparency and increasing the level of communication and involvement about business issues. For example, organizations that allow employees to know details about financial processes may have an advantage here.
 * A sense of unfairness can result from a lack of clear ground rules, expectations or objectives. 
+
+### Education and Training
+
+* Teaching children who feel threatened, disconnected, socially rejected or treated unfairly is an uphill battle. For example, the educators can create a nurturing learning environment by pointing out specifically how people are improving, which increases a sense of status.
+
+### Coaching
+
+* Status can be increased through regular positive feedback, attention to incremental improvements, and the achievement of large goals.
+* Certainty can be increased by identifying central goals, and subsequently reducing the uncertainty inherent in maintaining multiple focuses.
+* Breaking down large goals into smaller steps increases certainty about how a goal can be reached. 
+* Finding ways to take action when challenges appear insurmountable can increase autonomy. 
+* Relatedness can be increased through the relationship with the coach. 
+* Fairness can be reduced through seeing situations from other perspectives. 
+
+### Leadership development
+
+* Many new leaders may negatively impact the domains of SCARF by accident. They may know how things should be done, and subsequently provide too much direction and not enough positive feedback, thereby affecting people's status.
+* They often don't provide clear expectations, impacting certainty. 
+* They micro manage, impacting autonomy.
+* They want to maintain a professional distance, impacting relatedness. 
+* They may impact fairness by not being transparent enough.
+* When the oppposite happens and you meet someone who makes you feel better about yourself, provides clear expectations, lets you make decisions, trusts yu and is fair, you will probably work harder for them as you feel intrinsically rewarded by the relationship itself. 
+* Spending time around a leader like this activates an approach response and opens up people's thinking, allowing others to see information they wouldn't see in an avoid state. 
+
+### Organizational Systems
+
+* Techniques for motivating and rewarding staff are largely based on the carrot and stick principle, with the carrot mostly involving money or promotion. 
+* The SCARF model points to more creative ways of motivating that may not just be cheaper, but also stronger and more sustainable. 
+* For example, success could be rewarded by increasing people's autonomy by allowing them to have greater flexibility in their work hours.
+* Or, rewards could be provided via increasing the opportunity for learning new skills, which can increase a sense of status. 
+* Or, people could be rewarded through increasing relatedness through allowing more time to network with peers during work hours. 
+
+### Summary 
+
+* Understanding these drivers can help individuals and organizations to function more effectively reducing conflicts that occur so easily amongst people, and increasing the amount of time people spend in the approach state, a concept synonymous with good performance. 
