@@ -120,6 +120,24 @@ synonyms:	inducement, motivation, motive, reason, stimulus, stimulant, spur, imp
 antonyms:	deterrent
 ```
 
+#### indicative
+
+```
+adjective
+1.
+serving as a sign or indication of something.
+"having recurrent dreams is not necessarily indicative of any psychological problem"
+synonyms:	symptomatic, expressive, suggestive, evocative, typical, characteristic, representative, symbolic, emblematic; archaicindicatory
+"the President's visit was indicative of improving diplomatic relations"
+2.
+GRAMMAR
+denoting a mood of verbs expressing simple statement of a fact.
+nounGRAMMAR
+1.
+a verb in the indicative mood.
+```
+
+
 #### indignation
 
 anger or annoyance provoked by what is perceived as unfair treatment.
