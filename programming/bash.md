@@ -52,6 +52,26 @@ Usage:
   fi
 ```
 
+#### Check if a string matches regex
+
+```bash
+if [[ "$date" =~ "[0-9]\{8\}" ]]; then
+    echo "Valid date"
+else
+    echo "Invalid date"
+fi
+```
+
+
+#### Negate if condition 
+
+```bash
+if ! [[ "$date" =~ "[0-9]\{8\}" ]]; then
+    echo "Invalid date"
+fi
+```
+
+
 ## Loops
 
 #### Iterate Files
