@@ -2,7 +2,10 @@
 
 ## Bicycle Stores
 
-* [The Gentle Jaunt](http://thegentlejaunt.com)
+* [Rad-Spannerei](https://rad-spannerei.de/): carries a large selection of steel frames
+* [Conrad](http://www.worldpacker.com/): carries some Fuji and Breezer frames 
+* [Zentralrad](https://www.zentralrad.de/): a wide selection of German brands (VSF, Patria, others)
+* [The Gentle Jaunt](http://thegentlejaunt.com): great for touring-related.
 * [Stadler](https://www.google.com/maps/place/Zweirad-Center+Stadler+GmbH/@52.5031609,13.4515225,13.3z/data=!4m5!3m4!1s0x0:0x5baacd3e22e7835!8m2!3d52.5227754!4d13.4631014?hl=en&shorturl=1): Lots of affordable options
 * [Schindelhauer](https://www.schindelhauerbikes.com/)
 
