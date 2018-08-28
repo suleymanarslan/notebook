@@ -32,6 +32,7 @@ Fasanenstraße 85, 10623 Berlin
 
 ## Cool Startups
 
+* [contentful](https://contentful.com)
 * [epiclist](https://angel.co/epiclist)
 * [eyeo](https://eyeo.com/)
 * [juniqe](https://www.juniqe.com/)
