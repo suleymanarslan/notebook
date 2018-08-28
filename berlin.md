@@ -7,6 +7,7 @@
 * [Zentralrad](https://www.zentralrad.de/): a wide selection of German brands (VSF, Patria, others)
 * [The Gentle Jaunt](http://thegentlejaunt.com): great for touring-related.
 * [Stadler](https://www.google.com/maps/place/Zweirad-Center+Stadler+GmbH/@52.5031609,13.4515225,13.3z/data=!4m5!3m4!1s0x0:0x5baacd3e22e7835!8m2!3d52.5227754!4d13.4631014?hl=en&shorturl=1): Lots of affordable options
+* [Brompton shop in Mitte](https://www.theurbanmobilitystore.com/?lang=en)
 * [Schindelhauer](https://www.schindelhauerbikes.com/)
 
 ## Bouldering
@@ -74,6 +75,12 @@ They'll start charging you monthly.
 ## Museums
 
 * [Planetarium](http://www.planetarium.berlin/)
+
+## Online Marketplaces
+
+* Ebay Kleinanzeigen
+* Sell Your Stuff Berlin
+* Wiggle.com
 
 ## Flea Markets
 
