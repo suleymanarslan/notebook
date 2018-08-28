@@ -12,6 +12,7 @@
 * [Bike-a-way](http://www.bikeawayberlin.com/): used bikes in Friedrichshain, nice service, (German and) English speaking. 6 month guarantee on all bikes
 * [Steel Vintage Bikes](http://steel-vintage.com)
 * [Kultrad](https://www.kultrad.de/pages/ueber-kultrad)
+* [boxbike](https://www.boxbike.de/)
 
 
 ## Bouldering
