@@ -2,6 +2,7 @@
 
 ## Bicycle Stores
 
+* [Bicycle Markets](http://berlinerfahrradmarkt.de/termine)
 * [Rad-Spannerei](https://rad-spannerei.de/): carries a large selection of steel frames
 * [Conrad](http://www.worldpacker.com/): carries some Fuji and Breezer frames 
 * [Zentralrad](https://www.zentralrad.de/): a wide selection of German brands (VSF, Patria, others)
@@ -13,6 +14,7 @@
 * [Steel Vintage Bikes](http://steel-vintage.com)
 * [Kultrad](https://www.kultrad.de/pages/ueber-kultrad)
 * [boxbike](https://www.boxbike.de/)
+
 
 
 ## Bouldering
