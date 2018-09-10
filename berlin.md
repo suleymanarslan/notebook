@@ -38,6 +38,12 @@ Fasanenstraße 85, 10623 Berlin
 
 [Sign up](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/anmelden/index_ger.html)
 
+## Ceramics Courses
+
+* [feuer zeug](http://www.feuer-zeug-keramik.de/toepferkurse.html)
+* [kulturwerk](https://www.bbk-kulturwerk.de/con/kulturwerk/front_content.php?idart=215&idartlang=377&idcat=46&changelang=7)
+* [ceramic kingdom](https://www.ceramickingdomberlin.com/classes/)
+
 ## Cool Startups
 
 * [contentful](https://contentful.com)
