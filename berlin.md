@@ -40,6 +40,7 @@ Fasanenstraße 85, 10623 Berlin
 
 ## Ceramics Courses
 
+* [brsg keramik](https://brsg-keramik.com/workshops/)
 * [feuer zeug](http://www.feuer-zeug-keramik.de/toepferkurse.html)
 * [kulturwerk](https://www.bbk-kulturwerk.de/con/kulturwerk/front_content.php?idart=215&idartlang=377&idcat=46&changelang=7)
 * [ceramic kingdom](https://www.ceramickingdomberlin.com/classes/)
