@@ -84,21 +84,6 @@ bugün gözlerime büyülü bir güzellik gibi geliyor.
 
 Dünyaya kalıcı güzelliklerini gösterdiği için şükürler olsun.
 
-## kıraathaneler
-
-Şu anda yaşadığın memleketin en ücra köyünde dahi bir kıraathane var, günün her vakti, 50 kuruşa demlik çay içebilirsin.
-
-Masalarında örtü, duvarlarında yapraklı takvim, "Work Hard Play Hard" gibi plaza propagandaları yerine Hacı Bektaş'tan, 
-Pir Sultan'dan, Mevlana'dan hümanist öğütler, bir de dükkan sahibinin 20 yıl önce çektirdiği vesikalık fotoğraflı
-vergi levhası olur.
-
-Kıraathanelerin ayakları anadoluya basar. Her kıraathane anadoluda bir kültürü temsil eder. İstanbul'da yaşayan 
-Çorum'luların gittiği kıraathane ayrıdır, Kars'ta aşıkların kıraathanesi, Mardin'de Süryanilerin gittiği kıraathane 
-ayrıdır. Gerçi ben hepsine de gider, sanki sadece oraya takılıyormuş numarası yaparım, o ayrı. 
-Çünkü bana göre hepsi kültürel bir değer. Tabii ki de bazı yanları pek hoşuma gitmiyor örneğin kadınların dahil
-edilmemesi gibi ama bu da kıraathane kültürünü yeryüzünden silmek için bir neden değil. Çünkü kıraathaneyle birlikte 
-kültürel değerlerimiz de yok olacak, örneğin ilgisizlikten kapanan, Kars'ın Aşıklar Kıraathanesi gibi.
-
 ##  Tanışacağın herkes senin bilmediğin birşeyi bilir
 
 > [Tanışacağın herkes senin bilmediğin birşeyi bilir.](quotes.md)
