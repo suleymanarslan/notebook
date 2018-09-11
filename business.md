@@ -67,13 +67,14 @@ Author: [Greg Wilson](http://third-bit.com/) - [Source](https://mobile.twitter.c
 
 * [frontline](http://frontline.vc) (info@frontline.vc)
 
-### Berlin
+### Germany
 
 * [Point Nine Capital](http://www.pointninecap.com/)
 * [Rocket Internet](https://www.rocket-internet.com/)
 * [Holtz Brinck](https://www.holtzbrinck-ventures.com/) (businessplan@holtzbrinck.net)
 * [early bird](https://www.earlybird.com)
 * [cherry](http://www.cherry.vc/) (investors@cherry.vc)
+* [sts](http://www.sts-ventures.de/)
 
 ### Singapore
 
