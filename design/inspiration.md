@@ -17,6 +17,7 @@
 
 ## Websites:
 
+* [animal](https://animal.cc/)
 * [celo](https://celo.org/)
 * [Majsan](http://majsanauvinen.com/)
 * [solvatten](https://solvatten.org/)
