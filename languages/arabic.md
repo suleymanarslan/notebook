@@ -17,13 +17,13 @@
 
 #### Useful Phrases
 
-* **We're walking** Ehna amşi
+* **We're walking** Ehna namşi
 * **God bless your hands** Yıslamo hedık
-* **Thanks (in a fancier way)** Yetiik alofiya
+* **Thanks (in a fancier way)** Yetiik alafiya
 * **Good Morning** Sabah Helhır
 * **How much?** Gadeş
 * **How are you?** Keyfe haluk?
-* **Hot water** Lime shun
-* **Nice to meet you** Met şerefin
+* **Hot water** Lime shun 
+* **Nice to meet you** tşerefit bmariftak
 * **How are you?** Jordan: keyfe haluk? Morocco: Labes?
 
