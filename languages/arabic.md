@@ -24,6 +24,6 @@
 * **How much?** Gadeş
 * **How are you?** Keyfe haluk?
 * **Hot water** Lime shun 
-* **Nice to meet you** tşerefit bmariftak
+* **Nice to meet you** Morocco: tşerefit bmariftak Iraq: tşerefit bmariftak
 * **How are you?** Jordan: keyfe haluk? Morocco: Labes?
 
