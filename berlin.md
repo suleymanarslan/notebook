@@ -55,6 +55,7 @@ Fasanenstraße 85, 10623 Berlin
 * [n26](https://n26.com)
 * [urlist](https://angel.co/urlist) (inactive)
 * [Pitch.io](https://pitch.com/)
+* [Transloadit](https://transloadit.com)
 * [World Brain](https://worldbrain.io/)
 
 ## Co-working Spaces
