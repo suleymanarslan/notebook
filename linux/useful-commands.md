@@ -176,10 +176,11 @@ To list packages by their size;
 ```
 
 ## fc-list
-Lists fonts available in the system.
+
+Lists font families available in the system:
 
 ```bash
-fc-list | grep Monaco
+fc-list : family
 ```
 
 ## file
