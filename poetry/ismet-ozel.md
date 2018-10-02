@@ -1,5 +1,13 @@
 # İsmet Özel
 
+
+* [Yıldızların Uzaklığına Övgü](#yildizlarin-uzakligina-ovgu)
+* [Şivekar'ın Yolculuğudur](#sivekar-in-yolculugudur)
+* [Yaşamak Umrumdadır - İsmet Özel](#yasamak-umrumdadir)
+* [Mazot - İsmet Özel](#mazot)
+* [Münacaat - İsmet Özel](#munacaat)
+* [Evet, İsyan - İsmet Özel](#evet-isyan)
+
 ## Yıldızların Uzaklığına Övgü
 
 ```
