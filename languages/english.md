@@ -50,6 +50,12 @@ verb
 2. study intensively over a short period of time just before an examination.
 ```
 
+#### cynics
+
+```
+a person who believes that people are motivated purely by self-interest rather than acting for honourable or unselfish reasons.
+```
+
 #### demystify
 
 ```
