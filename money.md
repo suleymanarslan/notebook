@@ -36,6 +36,16 @@
 * Leverage is a force multiplier for your judgement.
 * Judgement requires experience, but can be built faster by learning foundational skills.
 * There is no skill called “business.” Avoid business magazines and business classes.
+* Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.
+* Reading is faster than listening. Doing is faster than watching.
+* You should be too busy to “do coffee," while still keeping an uncluttered calendar.
+* Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.
+* Work as hard as you can. Even though who you work with and what you work on are more important than how hard you work.
+* Become the best in the world at what you do. Keep redefining what you do until this is true.
+* There are no get rich quick schemes. That's just someone else getting rich off you.
+* Apply specific knowledge, with leverage, and eventually you will get what you deserve.
+* When you're finally wealthy, you'll realize that it wasn't what you were seeking in the first place. But that's for another day.
+
 
 ## How to make money ?
 
