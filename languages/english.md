@@ -58,6 +58,13 @@ make (a difficult or esoteric subject) clearer and easier to understand.
 "this book attempts to demystify technology"
 ```
 
+#### elude
+
+```
+* escape from or avoid (a danger, enemy, or pursuer), typically in a skilful or cunning way.
+* (of an achievement or something desired) fail to be attained by (someone).
+```
+
 #### endure
 
 ```
