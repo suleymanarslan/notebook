@@ -4,7 +4,22 @@
 * [2016](#2016)
 * [2015](#2015)
 
+## 2018
+
+#### April 1
+
+I, Nova and Fuji moved to Berlin.
+
+#### January 13
+
+My son Fuji was born at 2:45am in Ubud / Bali. 
+
+
 ## 2017
+
+#### August 28
+
+My grandfather, Bahar Kemal Akın passed away.
 
 #### May 27
 
