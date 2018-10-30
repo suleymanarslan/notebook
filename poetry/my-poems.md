@@ -49,12 +49,11 @@ thinking if your shoes would untie somewhere
 
 ```
 Kapı kolunu anahtar yerine taşıdığımız olmadı mı bizim?
-Tanımadığımız insanlarla sokaklarda koşu yarışına giriştiğimiz,
+Tanımadığımız insanlarla koşu yarışına giriştiğimiz,
 Ağaç diplerine gömülen anahtarları kaybettiğimiz günler
-Sonbahardan mahrum kaldığımız olmadı mı?
+Çözülen bağcıklarımıza aldırmadan koştuğumuz olmadı mı?
 
-Bu sokaklarla, hatta polisle ve esnafla
-Yolculuk eden üç dosya kağıdı olabiliriz
+Polis ve esnafı ürperten bir dosya kağıdı
 Kanaatkar, gerektiğinde talihini onarabileceğine inanan
 Gene de sağı solu belli olmayan üç kum tanesi, ne de olsa
 Berlin, büyük bir muamma.
