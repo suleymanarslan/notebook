@@ -1,6 +1,32 @@
 # English
 
+## Idioms
+
+### to bat an eye
+
+[Source](https://www.quora.com/What-does-to-bat-an-eye-mean-literally)
+
+* A Stoic Reaction to someone has done something totally unexpected. More often than not, in the context where you will hear the expression, the event is negative or possibly threatening.
+
+*  to not show any surprise or shock at something (usually something rather than someone).
+
+## Words
+
 Words I looked up on dictionary;
+
+#### amp
+
+```
+past tense: amped; past participle: amped; adjective: amped
+
+1.
+play (music) through electric amplification.
+"their willingness to amp up traditional songs virtually began the folk-rock genre"
+
+2.
+full of nervous energy, especially through taking amphetamines or similar drugs.
+"I've got all this manic energy. I feel amped"
+```
 
 #### articulate
 
