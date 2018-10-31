@@ -76,6 +76,15 @@ verb
 2. study intensively over a short period of time just before an examination.
 ```
 
+
+#### cringe
+
+```
+verb
+1.
+bend one's head and body in fear or apprehension or in a servile manner.
+```
+
 #### cynics
 
 ```
