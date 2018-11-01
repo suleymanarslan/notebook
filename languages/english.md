@@ -2,7 +2,7 @@
 
 ## Idioms
 
-### to bat an eye
+#### to bat an eye
 
 [Source](https://www.quora.com/What-does-to-bat-an-eye-mean-literally)
 
@@ -270,6 +270,13 @@ the most successful point; the culmination.
 #### per-se
 
 by or in itself or themselves; intrinsically.
+
+
+#### procrastinate
+
+```
+delay or postpone action; put off doing something.
+```
 
 #### resentment
 
