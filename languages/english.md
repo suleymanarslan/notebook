@@ -262,6 +262,16 @@ Noun
 
 serving or intended as an ornament; decorative.
 
+#### orthogonal
+
+```
+1.
+of or involving right angles; at right angles.
+2.
+STATISTICS
+(of variates) statistically independent.
+```
+
 
 #### pinnacle
 
