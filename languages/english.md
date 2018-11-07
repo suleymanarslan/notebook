@@ -53,6 +53,19 @@ form a joint.
 "the mandible is a solid piece articulating with the head"
 ```
 
+
+#### blueprint
+
+```
+noun
+1.
+a design plan or other technical drawing.
+
+verb
+1.
+draw up (a plan or model).
+```
+
 #### buoyancy
 
 the ability or tendency to float in water or air or some other fluid.
