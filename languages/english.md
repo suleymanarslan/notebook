@@ -294,6 +294,21 @@ the most successful point; the culmination.
 
 by or in itself or themselves; intrinsically.
 
+#### premise
+
+```
+noun
+1.
+a previous statement or proposition from which another is inferred or follows as a conclusion.
+"if the premise is true, then the conclusion must be true"
+```
+
+```
+verb
+1.
+base an argument, theory, or undertaking on.
+"the reforms were premised on our findings"
+```
 
 #### procrastinate
 
