@@ -1,5 +1,13 @@
 # Paintings that I like
 
+#### Market in Piazza del Municipio - Giovanni Michele Graneri - 1740
+
+![](https://www.wallpaperup.com/uploads/wallpapers/2018/09/24/1293870/80b568430b5cbbcd36fe742243d41ace-1400.jpg)
+
+#### An Idle Moment - Daniel Ridgway Knight
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/63/Daniel_Ridgway_Knight_-_%27An_Idle_Moment%27%2C_c._1890-95%2C_High_Museum.JPG)
+
 #### View of the Naviglio Canal from the San Marco Bridge in Milan", Giuseppe Canella (1834)
 
 ![](http://i.imgur.com/IdOkczn.jpg)
