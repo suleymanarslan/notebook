@@ -1,5 +1,9 @@
 # Paintings that I like
 
+#### Solitude - Thomas Alexander Harrisın
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/90/Harrison_solitude.jpg)
+
 #### Market in Piazza del Municipio - Giovanni Michele Graneri - 1740
 
 ![](https://www.wallpaperup.com/uploads/wallpapers/2018/09/24/1293870/80b568430b5cbbcd36fe742243d41ace-1400.jpg)
