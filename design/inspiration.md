@@ -17,6 +17,7 @@
 
 ## Websites:
 
+* [lobe](https://lobe.ai/)
 * [Fathom](https://usefathom.com/)
 * [animal](https://animal.cc/)
 * [celo](https://celo.org/)
