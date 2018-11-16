@@ -7,8 +7,9 @@ thoughts come and go. here I keep some of them.
 ## Commitment vs Consensus
 
 #### Commitment
-* empowers teams/individuals who builds a solution
-* helps teams/individuals help them focus on the problem and develop creative solutions.
+* empowers teams
+* helps teams help them focus on the problem
+* helps teams develop creative solutions.
 * makes people feel comfortable to make quick decisions, experiment ideas, and learn from mistakes.
 
 #### Consensus
