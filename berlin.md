@@ -79,8 +79,9 @@ They'll start charging you monthly.
 
 ## Furniture
 
-* [made.com](https://made.com)
 * [home24](https://www.home24.de/)
+* [made.com](https://made.com)
+* [wayfair.de](https://www.wayfair.de/)
 
 ## Parks
 
