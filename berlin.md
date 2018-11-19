@@ -79,6 +79,7 @@ They'll start charging you monthly.
 
 ## Furniture
 
+* [BoConcept](https://www.boconcept.com/en-gb/)
 * [home24](https://www.home24.de/)
 * [made.com](https://made.com)
 * [stillwerk](https://stilwerk.com/de/berlin/)
