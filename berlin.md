@@ -84,6 +84,7 @@ They'll start charging you monthly.
 * [made.com](https://made.com)
 * [stillwerk](https://stilwerk.com/de/berlin/)
 * [wayfair.de](https://www.wayfair.de/)
+* [Habitat](https://www.habitat.de/)
 
 ## Parks
 
