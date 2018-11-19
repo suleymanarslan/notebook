@@ -77,6 +77,11 @@ They'll start charging you monthly.
 * [Jameda: Search engine for doctors](https://www.jameda.de/)
 * [TK's search engine for finding doctors](https://www.tk-aerztefuehrer.de/TK/start.htm)
 
+## Furniture
+
+* ![made.com](https://made.com)
+* ![home24](https://www.home24.de/)
+
 ## Parks
 
 * [Schlachtensee](https://de.m.wikipedia.org/wiki/Schlachtensee)
