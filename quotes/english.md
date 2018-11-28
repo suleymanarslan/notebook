@@ -8,6 +8,12 @@
   * [Mahatma Gandi](#mahatma-gandhi)
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
+  
+> Whereas most people think that capitalism and competition are synonyms, I think they are anthonyms.
+— Peter Thiel
+  
+> Freedom lies in being bold
+— Robert Frost
 
 > The great source of both misery and disorders of human life, seems to arise from over-rating the difference between one permanent situation and another. Avarice, over-rates the difference between powerty and riches: ambition, that between a private and a public station: vainglory, that between obscrurity and extensive reputation. The person under the influence of any of those extravagant passions is not only miserable in his actual situation, but is often disposed to disturb the peace of society, in order to arrive at that which he so foolishly admires.
 — Adam Smith, The Theory of Moral Sentiments
