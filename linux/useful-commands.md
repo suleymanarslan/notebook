@@ -39,8 +39,7 @@ Index of Contents:
 * [xdotool](#xdotool)
 * [xprop](#xprop)
 * [yes](#yes)
-
-
+* [youtube-dl](#youtube-dl)
 
 ## awk
 
@@ -106,7 +105,7 @@ Equalize column width of given file.
 
 ```
 $ cat > text.txt
-id name age                                                                                                               
+id name age
 1 azer 30
 2 fuji 1
 3 nova 27
@@ -114,8 +113,8 @@ id name age
 
 
 ```
-$ column -t col.txt                                                                                                    
-id  name  age                                                                                                             
+$ column -t col.txt
+id  name  age
 1   azer  30
 2   fuji  1
 3   nova  27
@@ -415,7 +414,7 @@ abhishek
 chitransh
 divyam
 harsh
-naveen 
+naveen
 rajan
 satish
 ```
@@ -519,7 +518,7 @@ Creates a window and lets you see the keyboard events. Useful when you modify ke
 
 ## xprop
 
-Gives information about window properties. 
+Gives information about window properties.
 
 ## ufw
 
@@ -552,4 +551,22 @@ Approve all confirmations
 
 ```bash
   yes | pacman -S yolo
+```
+
+## youtube-dl
+
+Download a Youtube video, convert it to mp3, cut between given durations:
+
+Example script:
+
+```bash
+# download.sh
+youtube-dl --extract-audio --audio-format mp3 --audio-quality 0 $1 --exec "ffmpeg -i {} -ss "$2" -to "$3" {}.trimmed.mp3 && rm {}"
+```
+
+Usage:
+
+
+```bash
+./download.sh "https://www.youtube.com/watch?v=9PxB6VuM_tg" "00:00:15" "00:00:30"
 ```
