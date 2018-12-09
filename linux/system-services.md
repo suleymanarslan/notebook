@@ -7,11 +7,9 @@ Index of Contents:
 
 ## systemd
 
-Use `systemctl` command to control the services. Example;
 
-```bash
-systemctl restart slim.service
-```
+
+### Control Systemd Services
 
 Some useful `systemctl` commands:
 * start
@@ -67,6 +65,57 @@ See boot units as chain:
 
 ```bash
 $ systemd-analyze critical-chain
+```
+
+### Create New Services
+
+Create a `service` file and save it to `/etc/system.d/system` folder.
+
+```
+[Unit]
+Description=Monitor battery
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /home/azer/.happy-desktop/bin/monitor-battery
+Environment=DISPLAY=:0
+Environment=XAUTHORITY=%h/.Xauthority
+Environment=DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+User=azer
+
+[Install]
+WantedBy=multi-user.target
+```
+
+Then enable & start it:
+
+```bash
+$ systemctl enable monitor-battery
+$ systemctl start monitor-battery
+```
+
+### Timers
+
+To run a service every 10 seconds, create a `.timer` file in same folder with same name;
+
+```
+[Timer]
+OnUnitInactiveSec=10
+
+[Install]
+WantedBy=timers.target
+```
+
+Enable & start the timer service:
+
+```bash
+$ systemctl enable foobar.service
+```
+
+Check the timers: 
+
+```bash
+$ sudo systemctl list-timers
 ```
 
 ## upstart
