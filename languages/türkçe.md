@@ -17,6 +17,7 @@
 * **Mübadele** Değişim
 * **Mücehhez**  1. Donanmış. 2. Hazırlıklı, hazırlanmış
 * **Müfredat**  1. Bir bütünü oluşturan bireyler, ayrıntılar. 
+* **Müşfik** Sevecen
 * **Mütefekkir** Düşünen insan
 * **Rabıta** Bağlayan şey, bağ
 * **Ümmi** Okuyup yazması olmayan
