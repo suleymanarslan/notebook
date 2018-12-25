@@ -16,6 +16,7 @@
 * **Musavvir** Tasvir eden, şekil ve suret veren. 
 * **Mübadele** Değişim
 * **Mücehhez**  1. Donanmış. 2. Hazırlıklı, hazırlanmış
+* **Mücrim** Suçlu
 * **Müfredat**  1. Bir bütünü oluşturan bireyler, ayrıntılar. 
 * **Müşfik** Sevecen
 * **Mütefekkir** Düşünen insan
