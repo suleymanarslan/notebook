@@ -57,5 +57,18 @@
 * Okyanus gibidir tanrı-özünüz; sonsuza kadar kirlenmeden kalır. Hava gibi ancak kanatlı olanları uçurur.
 * Nasıl tek bir yaprak bile sararmazsa bütün ağacın sessiz bilgisi olmadan, kusur işleyen de hepinizin gizli iradesi dışında kusur işleyemez.
 * Aranızdan biri düştüğünde, arkasındakiler için düşmüştür, taşa takılıp tökezlenmeye karşı bir uyarı...
+* Dürüst ve adil olan azade değildir kötünün ettiklerinden. Pirupak olana bulaşmamış değildir mücrimin pisliği. 
+* Suçtan ve suçlanmadan azade olanların yükünü taşır mahkumlar. Haklı←i haksızdan ve iyiyi kötüden ayıramazsınız.
+* Eğer aranızda doğruluk adına cezalandıracak ve kötü ağaca baltayı vuracak olan varsa, kökklerine baksın ağacın. Gerçekte iyi ile kötünün, meyve veren ile vermeyenin köklerini sarmaş dolaş görecektir toprağın sessiz bağrında.
 
+### Yasalara Dair
 
+* Onlar için güneş gölgeyi yaratandan başka ne ki ? Yasaları kabul etmek de, toprağa düşen gölgelerinin izini eğilip çizmekten başka ne ki?
+* Fakat siz yüzlerini güneşe döneren yürüyenler, toprağa çizili hangi imge sizi yolunuzdan alıkoyabilir ? Siz rüzgarla yolculuk edenler, rotanızı çizebielcek rüzgargülü var mıdır ? Boyunduruğunuzu kırarsanız kimsenin hucresinin kapısına ilişmeden, hangi insan yasası sizi bağlayabilir? 
+
+### Özgürlüğe Dair
+
+* Günleriniz dertsiz, geceleriniz eksiksiz ve hüzünsüz olduğu zaman değil. Tam tersine, bütün bunlar yaşamınızı kuşatmışken, çiıplak ve tüm bağlardan kurtulmuş olarak hepsinin üzerine yükseldiğiniz zaman özgürsünüz gerçekten.
+* Özgür olabilmek için çıkarıp atacağınız kendi özünüzün parçalarından başka nedir ki ? Kaldırmak istediğiniz adaletsiz bir yasaysa, o yasayı kendi alnıniza siz yazdınız kendi ellerinizle.
+* Ve tahtından indirmek istediğiniz bir despotsa söz konusu olan, önce onun içinizde kurulu olan tahtını ortadan kaldırın.
+* Defetmek istediğiniz bir korkuysa, o korku sizin yüreğinizi mesken tutmuş, korkuların elini değil.
