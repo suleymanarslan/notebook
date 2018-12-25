@@ -44,3 +44,18 @@
 * Kapılardan geçebilmek için kanatlarınızı kapamayacak, tavana vurmasın diye başınızı eğmeyecek, duvarlar çatlayıp çöker diye nefes almaktan korkmayacaksınız.
 * Sizin içinizde sınırsız olanın meskeni göklerin konağıdır; o konağın kapısı sabah pusu, pencereleri gecenin şarkıları ve sessizlikleridir. 
 
+### Giysilere Dair
+
+* Giyimde edep, ahlaksız olanın gözlerinden korunmak için bir kalkandır. Ahlaksız diye bir şey kalmadığında ise giyimde edep prangadan ve zihin kirliliğinden başka nedir ki ?
+
+### Almaya ve Satmaya Dair
+
+* Bolluğu yeryüzünün armağanlarını birbirinize alıp vermekte bulacak, hoşnut olacaksınız. Ancak sevgiyle ve müşfik bir adaletle yapılmazsa bu alışveriş, kimilerini açgözlülüğe sürükler, kimilerini de açlığa.
+
+### Suç ve Cezaya Dair
+
+* Okyanus gibidir tanrı-özünüz; sonsuza kadar kirlenmeden kalır. Hava gibi ancak kanatlı olanları uçurur.
+* Nasıl tek bir yaprak bile sararmazsa bütün ağacın sessiz bilgisi olmadan, kusur işleyen de hepinizin gizli iradesi dışında kusur işleyemez.
+* Aranızdan biri düştüğünde, arkasındakiler için düşmüştür, taşa takılıp tökezlenmeye karşı bir uyarı...
+
+
