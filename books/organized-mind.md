@@ -37,8 +37,26 @@ GoodReads: [Link](https://www.goodreads.com/book/show/18693669-the-organized-min
 * Many of the world’s preindustrial languages have only two terms for color, roughly dividing the world into light and dark colors.
 * When a language advances and adds a third term to its lexicon for color, the third term is always red. Various theories have been proposed, the dominant one being that red is important because it is the color of blood. When a
 * Those who were interested in acquiring knowledge—whose brains enjoyed learning new things—would have been at an advantage for survival, and so this love of learning would eventually become encoded in their genes through natural selection.
-* 
-
+* Some birds and rodents create boundaries around their nests, typically out of  rocks or leaves, that are ordered; if the order is disturbed, they know that an intruder has come by.
+* Some learning enhances our lives, some is irrelevant and simply distracts us—tabloid stories probably fall into this latter category (unless your profession is as a tabloid writer). Successful people are expert at categorizing useful versus distracting knowledge.
+* Active sorting is a powerful way to prevent yourself from being distracted. It creates and fosters great efficiencies, not just practical efficiencies but intellectual ones. After you have prioritized and you start working, knowing that what you are doing is the most important thing for you to be doing at that moment is surprisingly powerful. Other things can wait—this is what you can focus on without worrying that you’re forgetting something.
+* There is a deep and simple reason why active sorting facilitates this. The most fundamental principle of the organized mind, the one most critical to keeping us from forgetting or losing things, is to shift the burden of organizing from our brains to the external world. If we can remove some or all of the process from our brains and put it out into the physical world, we are less likely to make mistakes.
 
 
 ### How Attention and Memory Work
+
+* This distinctive and special brain state is marked by the flow of connections among disparate ideas and thoughts, and a relative lack of barriers between senses and concepts. It also can lead to great creativity and solutions to problems that seemed unsolvable.
+* The tendency for this system to take over is so powerful that its discoverer, Marcus Raichle, named it the default mode. This mode is a resting brain state, when your brain is not engaged in a purposeful task, when you’re sitting on a sandy beach or relaxing in your easy chair with a single malt Scotch, and your mind wanders fluidly from topic to topic. It’s not just that you can’t hold on to any one thought from the rolling stream, it’s that no single thought is demanding a response.
+* We pay attention to one thing, either through conscious decision or because our attentional filter deemed it important enough to push it to the forefront of attentional focus. When we pay attention to one thing, we are necessarily taking attention away from something else.
+* In the mind-wandering mode, our thoughts are mostly directed inward to our goals, desires, feelings, plans, and also our relationship with other people—the mind-wandering mode is active when people are feeling empathy toward one another.
+* Neuroscientists are increasingly appreciating that consciousness is not an all-or-nothing state; rather, it is a continuum of different states.
+* Consciousness itself is not a thing, and it is not localizable in the brain. Rather, it’s simply the name we put to ideas and perceptions that enter the awareness of our central executive, a system of very limited capacity that can generally attend to a maximum of four or five things at a time.
+* There are four components in the human attentional system: the mind-wandering mode, the central executive mode, the attentional filter, and the attentional switch, which directs neural and metabolic resources among the mind-wandering, stay-on-task, or vigilance modes.
+* The serotonin transporter gene SLC6A4 has been found to correlate with artistic behaviors as well as spirituality,
+* nicotine creates a state of vigilance that allows one to become more detail oriented and less dependent on top-down expectations.
+* Drugs, such as guanfacine (brand names Tenex and Intuniv) and clonidine, that are prescribed for hypertension, ADHD, and anxiety disorders can block noradrenaline release, and in turn block your alerting to warning signals.
+* “Our walls are filled with books, our file cabinets with papers, our notebooks with jottings, our homes with artifacts and souvenirs.”
+* our memory tends to be poor most of the time, not because of the limited capacity of our brains to store the information but because of the nature of memory retrieval, which can easily become distracted or confounded by other, similar items.
+
+
+
