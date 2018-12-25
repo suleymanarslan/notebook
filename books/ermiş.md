@@ -1,7 +1,6 @@
-# Prophet
+# Ermiş
 
-* Author: Khalil Gibran
-* GoodReads: [Link](https://www.goodreads.com/book/show/2547.The_Prophet)
+* Yazar: Halil Cibran
 
 ## Altını Çizdiğim Satırlar
 
