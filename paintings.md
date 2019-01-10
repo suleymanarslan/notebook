@@ -23,3 +23,7 @@
 #### Tarde em Toulon, Giovanni Battista Castagneto (1893)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/68/Giovanni_Battista_Castagneto_-_Tarde_em_Toulon.jpg)
+
+#### The Carpet Merchant, Jean-Léon Gérôme (1887)
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/27/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_015_Carpets.jpg)
