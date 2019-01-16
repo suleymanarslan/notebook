@@ -2,6 +2,7 @@
 
 ## Bicycle Stores
 
+* [ebay](https://www.ebay-kleinanzeigen.de/s-fahrraeder/10969/c217l9632r20)
 * [Bicycle Markets](http://berlinerfahrradmarkt.de/termine)
 * [Rad-Spannerei](https://rad-spannerei.de/): carries a large selection of steel frames
 * [Conrad](http://www.worldpacker.com/): carries some Fuji and Breezer frames 
