@@ -9,6 +9,10 @@
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
   
+  
+> Comparison is the death of joy.
+— Mark Twain
+  
 > Whereas most people think that capitalism and competition are synonyms, I think they are anthonyms.
 — Peter Thiel
   
