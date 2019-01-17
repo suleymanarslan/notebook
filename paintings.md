@@ -1,5 +1,22 @@
 # Paintings that I like
 
+
+#### Ivan Shishkin, View of Valaam Island
+
+![](https://cldup.com/rRb_OMuw4j.jpg)
+
+#### Ivan Shishkin, For Mushrooms
+
+![](https://cldup.com/YDV1FtHRAN.jpg)
+
+#### Ivan Shishkin, Swiss Landscape
+
+![](https://cldup.com/p0X5LoEd5E.jpg)
+
+#### HANS ANDREAS DAHL, Fjordlandskap med flicka.
+
+![](https://cldup.com/OJNUfDfoMx.jpg)
+
 #### Solitude - Thomas Alexander Harrisın
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/90/Harrison_solitude.jpg)
