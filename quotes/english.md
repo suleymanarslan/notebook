@@ -10,6 +10,10 @@
   * [Goethe](#goethe)
   
   
+  
+> Money is like gasoline during a road trip. You don’t want to run out of gas on your trip, but you’re not doing a tour of gas stations.
+— Tim O'Reilly 
+  
 > Comparison is the death of joy.
 — Mark Twain
   
