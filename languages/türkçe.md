@@ -27,6 +27,7 @@
 * **Telakki** 1. Anlayış 2. Kabul etme, sayma.
 * **Telmih**  Anlatılmak istenen şeyi söz arasında imalı olarak belli etme, açıkça söylememe
 * **tekebbür** Kibirlenme, büyüklenme, çalım, kurum.
+* **terennüm** Güzel ve alçak sesle şarkı söyleme, anlatma, ifade etme
 * **Temayüz**  Başkalarına göre üstün duruma gelme, sivrilme, seçkinleşme.
 * **Tevekkül** Herhangi bir işte elinden geleni yapıp daha sonrasını Allah'a bırakma: 
 * **Tevessül** Başlama, girişme.
