@@ -19,7 +19,7 @@
 * **Mücrim** Suçlu
 * **Müfredat**  1. Bir bütünü oluşturan bireyler, ayrıntılar. 
 * **Müşfik** Sevecen
-* **Mütefekkir** Düşünen insan
+* **Mütefekkir** Düşünen insan, düşünür, fikir adamı
 * **Rabıta** Bağlayan şey, bağ
 * **Ümmi** Okuyup yazması olmayan
 * **Tefekkür** Düşünme, düşünüş
