@@ -17,6 +17,7 @@
 
 ## Websites:
 
+* [faith](https://anxl.faith/)
 * [stripe books](https://press.stripe.com/)
 * [alex meub](https://alexmeub.com/)
 * [campfire labs](https://campfirelabs.co) | [about us](https://campfirelabs.co/about-us/)
