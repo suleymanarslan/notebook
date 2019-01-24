@@ -19,6 +19,8 @@
 * **Mücehhez**  1. Donanmış. 2. Hazırlıklı, hazırlanmış
 * **Mücrim** Suçlu
 * **Müfredat**  1. Bir bütünü oluşturan bireyler, ayrıntılar. 
+* **Müsemma** Ad verilmiş, adı olan
+* **Müsebbib** Yol açan, sebep olan.
 * **Müşfik** Sevecen
 * **Mütefekkir** Düşünen insan, düşünür, fikir adamı
 * **Rabıta** Bağlayan şey, bağ
