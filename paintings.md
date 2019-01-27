@@ -1,5 +1,8 @@
 # Paintings that I like
 
+#### The Delivery of Israel out of Egypt, Francis Danby	(1793–1861)
+
+![](https://cldup.com/W-dyoSXr_e.jpg)
 
 #### Ivan Shishkin, View of Valaam Island
 
