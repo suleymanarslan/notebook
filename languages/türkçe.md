@@ -10,6 +10,7 @@
 * **İntisap** a. (intisa:bı) esk. 1. Bağlanma. 2. Girme. 3. Kapılanma.
 * **İptila** Düşkünlük, tiryakilik
 * **İstidat** Yetenek
+* **İstihza**  Gizli veya kinayeli bir biçimde alay
 * **Kinaye**  Düşünüleni dolaylı olarak anlatan söz
 * **Mefhum** Kavram
 * **Muhteva** İçerik
