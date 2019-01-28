@@ -1,5 +1,9 @@
 # Paintings that I like
 
+#### Kirchgang, Otto Modersohn
+
+![](https://cldup.com/g1I19JBlIr.jpg)
+
 #### The Delivery of Israel out of Egypt, Francis Danby	(1793–1861)
 
 ![](https://cldup.com/W-dyoSXr_e.jpg)
