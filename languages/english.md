@@ -274,6 +274,12 @@ Noun
 (of a person or their behavior) primarily concerned with making money at the expense of ethics.
 ```
 
+### modesty
+
+```
+the quality or state of being unassuming in the estimation of one's abilities.
+```
+
 #### ornamental
 
 serving or intended as an ornament; decorative.
