@@ -70,6 +70,9 @@ draw up (a plan or model).
 
 the ability or tendency to float in water or air or some other fluid.
 
+#### callibrate
+
+mark (a gauge or instrument) with a standard scale of readings. carefully assess, set, or adjust (something abstract).
 
 #### cognition
 
