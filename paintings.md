@@ -1,5 +1,9 @@
 # Paintings that I like
 
+#### ANDERS ZORN, "Kaikroddare III" 
+
+![](https://cldup.com/N1tXMkbJcR.jpg)
+
 #### Kirchgang, Otto Modersohn
 
 ![](https://cldup.com/g1I19JBlIr.jpg)
