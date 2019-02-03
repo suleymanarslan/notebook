@@ -1,5 +1,14 @@
 # Paintings that I like
 
+#### Claude Monet, Kante der Steilküste bei Pourville (1882)
+
+![](https://cldup.com/sIqafwlWVD.jpg)
+
+#### Alfred Sisley – mein Favorit im Barberini
+
+
+![](https://cldup.com/BFSt1g_08A.jpg)
+
 #### Alfred Sisley - Winter at Louveciennes
 
 ![](https://cldup.com/lGH9twqUYj.jpg)
