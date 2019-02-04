@@ -118,6 +118,14 @@ They'll start charging you monthly.
 
 * [Berlin Hallenflohmarkt](https://goo.gl/7cfQWc): They are open several days of the week until 4pm. Quite big and lots of furniture. Some of the stuff maybe quite old and dusty but cheap (you've got to bargain though)
 
+## Family-friendly neighbors
+
+* Pankow
+* Lichtenberg
+* Steglitz
+* Halensee
+* Zehlendorf
+
 ## Repair Services
 
 * [My-hammer.de](https://www.my-hammer.de/)
