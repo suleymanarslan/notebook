@@ -115,6 +115,12 @@ make (a difficult or esoteric subject) clearer and easier to understand.
 "this book attempts to demystify technology"
 ```
 
+#### dense
+
+```
+closely compacted in substance.
+```
+
 #### elude
 
 ```
