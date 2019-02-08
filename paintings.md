@@ -1,5 +1,9 @@
 # Paintings that I like
 
+#### Fausto Zonaro - Kabak Taşıyan Genç Kız
+
+![](https://cldup.com/ANWXaX1STM.jpg)
+
 #### Claude Monet, Kante der Steilküste bei Pourville (1882)
 
 ![](https://cldup.com/sIqafwlWVD.jpg)
