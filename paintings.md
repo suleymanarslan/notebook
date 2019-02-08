@@ -1,5 +1,9 @@
 # Paintings that I like
 
+#### Fausto Zonaro - Hamam
+
+![](https://cldup.com/AYMlUKtwk4.jpg)
+
 #### Fausto Zonaro - Kabak Taşıyan Genç Kız
 
 ![](https://cldup.com/ANWXaX1STM.jpg)
