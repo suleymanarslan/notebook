@@ -63,7 +63,7 @@ fi
 ```
 
 
-#### Negate if condition 
+#### Negate if condition
 
 ```bash
 if ! [[ "$date" =~ "[0-9]\{8\}" ]]; then
@@ -98,6 +98,16 @@ lsblk | awk '{print $1,$4}' > input.txt
 while read col1 col2 ; do
   echo "$col1 $col2"
 done < input.txt
+```
+
+#### While loop
+
+```bash
+COUNTER=0
+while [  $COUNTER -lt 10 ]; do
+  echo The counter is $COUNTER
+  let COUNTER=COUNTER+1
+done
 ```
 
 ## Dialogs
