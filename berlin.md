@@ -124,6 +124,7 @@ They'll start charging you monthly.
 * Lichtenberg
 * Steglitz
 * Halensee
+* Spandau
 * Zehlendorf
 
 ## Repair Services
