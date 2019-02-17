@@ -15,6 +15,7 @@
 * [Steel Vintage Bikes](http://steel-vintage.com)
 * [Kultrad](https://www.kultrad.de/pages/ueber-kultrad)
 * [boxbike](https://www.boxbike.de/)
+* [bike-mailorder](https://www.bike-mailorder.de/)
 
 ## Bouldering
 
