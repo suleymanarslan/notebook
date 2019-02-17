@@ -4,16 +4,16 @@ List of colors I like.
 
 ![](https://cldup.com/FVARJ6EhWF.png)
 
-R: 172 G: 218 B: 207
+rgb(172, 218, 207)
 
 ![](https://cldup.com/_v4VwyDq6x.png)
 
-R: 254 G: 205 B: 109
+rgb(254, 205, 109)
 
 ![](https://cldup.com/riZ4EIAYrn.png)
 
-R: 239 G: 123 B: 136
+rgb(239, 123, 136)
 
 ![](https://cldup.com/C8ac2UParb.png)
 
-R: 0 G: 196 B: 126
+rgb(0, 196, 126)
