@@ -305,6 +305,10 @@ STATISTICS
 
 the most successful point; the culmination.
 
+#### pitfall
+
+a hidden or unsuspected danger or difficulty.
+
 #### per-se
 
 by or in itself or themselves; intrinsically.
