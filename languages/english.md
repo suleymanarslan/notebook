@@ -230,6 +230,11 @@ Proceeding in a gradual, subtle way, but with harmful effects.
 
 belonging naturally; essential.
 
+#### intuition
+
+the ability to understand something instinctively, without the need for conscious reasoning.
+
+
 #### lavish
 
 ```
