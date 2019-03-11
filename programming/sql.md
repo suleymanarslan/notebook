@@ -85,3 +85,7 @@ Remove a column:
 ```sql
 ALTER TABLE `page` DROP COLUMN `content_language`;
 ```
+
+### Grant Privileges
+
+GRANT ALL PRIVILEGES ON *.* TO 'user'@'%' IDENTIFIED BY 'password' WITH GRANT OPTION;

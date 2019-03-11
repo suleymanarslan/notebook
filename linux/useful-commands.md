@@ -258,6 +258,12 @@ Match patterns with text, print not matched;
 grep -oFf patterns.txt text.txt | grep -vFf - patterns.txt
 ```
 
+Check if a file has given string:
+
+```bash
+grep -q "# <distractions>" $hostsFile
+```
+
 ## htop
 
 Interactive process viewer. Useful keybindings:
@@ -383,6 +389,24 @@ Get value of a field from JSON file:
 
 ```bash
 sed -n 's/\s*\"foo":\s*"\(.*\)\"/\1/p' config.json
+```
+
+Add a prefix to every line:
+
+```bash
+sed -e 's/^/prefix/'
+```
+
+Remove between two matching lines:
+
+```bash
+sed -i '/# <distractions>/,/# <\/distractions>/d'
+```
+
+Remove trailing spaces at the end of the file:
+
+```bash
+sed -i -e :a -e '/^\n*$/{$d;N;};/\n$/ba'
 ```
 
 ## setxkbmap

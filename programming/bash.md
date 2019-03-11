@@ -15,6 +15,13 @@ Check if a variable is not empty:
 [[ -n "${foobar// }" ]]
 ```
 
+Check if a string has a substring:
+
+```bash
+[[ ${str:0:1} == "/" ]]
+```
+
+
 #### Check if a file exists:
 
 ```bash
@@ -71,6 +78,13 @@ if ! [[ "$date" =~ "[0-9]\{8\}" ]]; then
 fi
 ```
 
+#### Check if a file contains given string
+
+```bash
+if grep -q SomeString "$File"; then
+  Some Actions # SomeString was found
+fi
+```
 
 ## Loops
 
@@ -129,4 +143,24 @@ selected=$(dialog --stdout \
                   --menu "Select a continent or ocean from the menu:" \
                   20 50 30 \
                   "${regionsArray[@]}")
+```
+
+## Named Parameters
+
+Declare all parameters starting with `-` or `--` as variable with corresponding value:
+
+```bash
+while [ $# -gt 0 ]; do
+    if [[ $1 == *"--"* ]]; then
+        v="${1/--/}"
+        declare $v="$2"
+    fi
+
+    if [[ $1 == *"-"* ]]; then
+        v="${1/-/}"
+        declare $v="$2"
+    fi
+
+    shift
+done
 ```
