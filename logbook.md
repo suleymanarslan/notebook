@@ -151,3 +151,21 @@ Left the refugee camp, came back to Urfa and will head to Mardin tomorrow.
 
 #### January 1
 Woke up at about 4am in a refugee tent in a camp on Syria-Turkey border during the Kobani war. Expecting to see the sunrise on east, saw a huge explosion on the south.
+
+## 2011
+
+#### October 28
+
+I moved to US permanently.
+
+#### August 17
+
+I came back from my first trip to foreign country. It was a beautiful feeling to be back to Turkey.
+
+#### June 15
+
+I got a job offer from Zendesk. They're going to get me work visa, so I can move to SF.
+
+#### April 6
+
+I left Turkey for the first time in my life and flied to San Francisco. 
