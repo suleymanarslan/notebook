@@ -186,6 +186,10 @@ I'm in Peru for 9 days!
 
 ## 2012
 
+#### December 22
+
+I had a bar fight, broke the door, and ended up getting arrested. After spending 20~ hours in San Francisco Jail, I was released on 50.000 bail. I called a bail bond company to get me released, and paid them 10% of the bail next a few years with small installments.
+
 #### October 21
 
 I visited Tokyo for 10 days.
