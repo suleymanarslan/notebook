@@ -1,8 +1,30 @@
 # logbook
 
+* [2019](#2019)
+* [2018](#2018)
 * [2017](#2017)
 * [2016](#2016)
 * [2015](#2015)
+* [2014](#2014)
+* [2013](#2013)
+* [2012](#2012)
+* [2011](#2011)
+* [2010](#2010)
+* [2009](#2009)
+* [2007](#2007)
+* [2002](#2002)
+* [1999](#1999)
+* [1996](#1996)
+* [1995](#1995)
+* [1993](#1993)
+* [1992](#1992)
+* [1987](#1987)
+
+## 2019
+
+#### March 10
+
+My son started walking!
 
 ## 2018
 
@@ -152,6 +174,22 @@ Left the refugee camp, came back to Urfa and will head to Mardin tomorrow.
 #### January 1
 Woke up at about 4am in a refugee tent in a camp on Syria-Turkey border during the Kobani war. Expecting to see the sunrise on east, saw a huge explosion on the south.
 
+## 2014
+
+#### July 5
+
+Me and good friend Jak did 4 days Salkantay Trek to Machu Picchu.
+
+#### July 4
+
+I'm in Peru for 9 days! 
+
+## 2012
+
+#### October 21
+
+I visited Tokyo for 10 days.
+
 ## 2011
 
 #### October 28
@@ -169,3 +207,57 @@ I got a job offer from Zendesk. They're going to get me work visa, so I can move
 #### April 6
 
 I left Turkey for the first time in my life and flied to San Francisco. 
+
+## 2010
+
+I struggled a lot to find a place to stay in Izmir and afford food. I slept in a couch in the resting room in the library of the school, had a few fights with security (library manager sent them to remove me) and ended up with two investigations. 
+
+## 2009
+
+Life in Istanbul became quite depressing. I lost a lot of hair. And I decided to attend university so got in DGS exam, qualified for Physics in Izmir Institute of Technology.
+
+## 2007
+
+I moved to Istanbul and started working for a small agency. My salary was even less than minimum wage and I struggled a lot financially. After two months, I got a remote job at an American company and we began working on an online spreadsheets app. I learnt a lot but the pay was not good, so I moved to another position where I go to office, I get better pay, and benefits such as social security etc.
+
+## 2005 
+
+I graduated from High School and went to Egirdir Meslek Yuksekokulu for associate degree. In the second year of the school, they decided to shut down all majors except Water Products, so all teachers got relocated, they assigned an abusive & crazy fresh graduate to our class, who did not even do one class the whole year, just like all the other teachers.  
+
+## 2002
+
+I began high school; Isparta Anadolu Meslek Lisesi. My major was Computer Programming as I was quite interested in it. But this school was also a center of abusive, crazy male teachers who can't get a job in a good high school, so it was the worst 4 years of my life. I hated myself, lost my confidence, lost my trust for people. I got beaten by Math teacher once, because he was offended by me finding a weird math equation (something like; how 2+2 can result with 5, not 4), printing it out and showing him in the class. Most teachers had issues, we did not learn anything because they were not doing class.
+
+## 2001
+
+We moved to a bigger city, Isparta. My dad wasn't relocated, so he stayed in Yalvac for a year.
+
+## 1999
+
+We moved back from village to the city as my parents began teaching in the same school with me. But this time, I changed school, and began attending Kaymakam Abdurrahman Bey Ilkogretim Okulu. The teachers there were even more abusive and I was discriminated and beaten at least once a week by male teachers.
+
+## 1996
+
+My teacher (Asuman Cit - I called "mom" sometimes) was relocated and the school struggled to find a new teacher for long time. Than they found, but they were very abusive. They used violence on us quite often.
+
+## 1995
+
+After my younger brother had a surgery, we began struggling financially and my parents decided to move to a village called Baglarbasi (Elbengi) nearby Yalvac. I kept going to the same school in Yalvac.
+
+## 1994 
+
+I began primary school.
+
+## 1993 
+
+My parents solved the relocation problem and we all moved to a small peaceful town called Yalvac in Isparta. One of the best moments in my life was the moment my father took me to the empty room of kindergarden school and let me touch the turquise wooden toys. 
+
+## 1992
+
+My parents had trouble about relocation and I separated with them for a semester, went to school in Kalkan, lived with my grandparents. I had a lot of trouble in the school because of throwing Arabic words and not being peaceful.
+
+## 1987
+
+#### June 15
+
+I was born in the government hospital of Fethiye, at around 7:30am in the morning. We were in my mom's hometown (Kalkan) temporarily. My family actually were living in Mardin at that point. 
