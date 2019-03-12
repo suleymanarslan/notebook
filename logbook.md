@@ -153,6 +153,10 @@ I'm flying to Indonesia to see Nova. My right foot is still recovering, so I'm u
 #### April 7
 My left food is healed, so I don't have to be on wellchair anymore. I'll walk with crutches until June.
 
+#### March 25
+
+My mom flied to San Francisco by herself to help me out until I recover.
+
 #### March 4
 Got a surgery from right foot. Now I have someone else's joint in my foot, along with 8 screws and a big platinium plate.
 
