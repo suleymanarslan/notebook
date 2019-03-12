@@ -176,6 +176,10 @@ Woke up at about 4am in a refugee tent in a camp on Syria-Turkey border during t
 
 ## 2014
 
+#### December 24
+
+I flied to Istanbul to do Urfa - Mardin - Hasankeyf route one more time, after a year. 
+
 #### July 5
 
 Me and good friend Jak did 4 days Salkantay Trek to Machu Picchu.
@@ -183,6 +187,12 @@ Me and good friend Jak did 4 days Salkantay Trek to Machu Picchu.
 #### July 4
 
 I'm in Peru for 9 days! 
+
+## 2013
+
+#### December 26
+
+I flied to Istanbul for 2 weeks trip and did Mardin - Hasankeyf - Urfa route before visiting my parents.
 
 ## 2012
 
@@ -211,6 +221,10 @@ I got a job offer from Zendesk. They're going to get me work visa, so I can move
 #### April 6
 
 I left Turkey for the first time in my life and flied to San Francisco. 
+
+#### April 4
+
+I launched [multiplayerchess.com](https://multiplayerchess.com)
 
 ## 2010
 
