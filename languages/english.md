@@ -121,6 +121,24 @@ make (a difficult or esoteric subject) clearer and easier to understand.
 closely compacted in substance.
 ```
 
+#### ease 
+
+```
+noun
+1.
+absence of difficulty or effort.
+"she gave up smoking with ease"
+synonyms:	effortlessness, no difficulty, no trouble, no bother, facility, facileness, simplicity;
+
+verb
+1.
+make (something unpleasant or intense) less serious or severe.
+
+2.
+move carefully or gradually.
+
+```
+
 #### elude
 
 ```
