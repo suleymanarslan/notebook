@@ -9,5 +9,11 @@ xdpyinfo | grep -B 2 resolution
 ## Set DPI Manually
 
 ```
-xrandr --dpi
+xrandr --dpi 220
+```
+
+And update `.Xresources`:
+
+```
+Xft.dpi:                    220
 ```
