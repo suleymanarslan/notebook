@@ -2,6 +2,7 @@
 
 Index Of Contents:
 
+* [Children Books](#children-books)
 * [Education](#education)
 * [Newborn Baby](#newborn-baby)
   * [Feeding](#feeding)
@@ -13,9 +14,14 @@ Index Of Contents:
 * [Development of Baby](#development-of-baby)
 * [Stages of Pregnancy](#states-of-pregnancy)
 
-## Education
+## Children Books
 
-Schools teach math and science, and parents are expected to teach kids everything else. I'm collecting list of things I want to teach my kid(s);
+List of children book authors to follow:
+
+* [Marienne Dubuc](https://www.goodreads.com/author/show/4201388.Marianne_Dubuc)
+* [Oliver Jeffers](https://www.goodreads.com/author/show/173545.Oliver_Jeffers)
+
+## Education
 
 * Sports
   * Swimming
