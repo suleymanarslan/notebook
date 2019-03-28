@@ -1,5 +1,17 @@
 # business
 
+## Seven questions that every business must answer
+
+From [Zero to One](./books/zero-to-one.md)
+
+* The Engineering Question Can you create breakthrough technology instead of incremental improvements?
+* The Timing Question Is now the right time to start your particular business?
+* The Monopoly Question Are you starting with a big share of a small market?
+* The People Question Do you have the right team?
+* The Distribution Question Do you have a way to not just create but deliver your product?
+* The Durability Question Will your market position be defensible 10 and 20 years into the future?
+* The Secret Question Have you identified a unique opportunity that others don’t see?
+
 ## Meeting Culture
 
 Author: [Greg Wilson](http://third-bit.com/) - [Source](https://mobile.twitter.com/gvwilson/status/994553693772099589)
