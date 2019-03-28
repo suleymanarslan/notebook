@@ -8,18 +8,19 @@
   * [Mahatma Gandi](#mahatma-gandhi)
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
-  
-  
-  
+
+> All happy families are alike; each unhappy family is unhappy in its own way.
+— Leo Tolstoy
+
 > Money is like gasoline during a road trip. You don’t want to run out of gas on your trip, but you’re not doing a tour of gas stations.
-— Tim O'Reilly 
-  
+— Tim O'Reilly
+
 > Comparison is the death of joy.
 — Mark Twain
-  
+
 > Whereas most people think that capitalism and competition are synonyms, I think they are anthonyms.
 — Peter Thiel
-  
+
 > Freedom lies in being bold
 — Robert Frost
 
@@ -125,4 +126,3 @@ From [The Little Prince](https://en.wikipedia.org/wiki/The_Little_Prince)
 ## Omar Khayyám
 
 > Drink wine. This is life eternal. This is all that youth will give you. It is the season for wine, roses and drunken friends. Be happy for this moment. This moment is your life.
-

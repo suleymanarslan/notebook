@@ -151,12 +151,10 @@ Declare all parameters starting with `-` or `--` as variable with corresponding 
 
 ```bash
 while [ $# -gt 0 ]; do
-    if [[ $1 == *"--"* ]]; then
+    if [[ ${1:0:2} == "--" ]]; then
         v="${1/--/}"
         declare $v="$2"
-    fi
-
-    if [[ $1 == *"-"* ]]; then
+    elif [[ ${1:0:1} == "-" ]]; then
         v="${1/-/}"
         declare $v="$2"
     fi

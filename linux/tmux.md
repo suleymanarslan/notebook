@@ -1,14 +1,17 @@
 # Tmux
 
-On command-line:
+* `C-z :source-file ~/.tmux.conf` Reload config
+
+## Command-line
+
 * `tmux a -t [name]` Open a session
 * `tmux ls` List available sessions
 
-On session:
+## Sessions
 * `C-z $` Rename session
 * `C-z d` Detach session
 
-Windows
+## Windows
 
 * `S-[left]` Select the next window
 * `S-[right]` Select the previous window
@@ -22,10 +25,20 @@ Windows
 * `C-z n` Next window
 * `C-z p` Previous window
 
-Status Bar
+## Status Bar
 
 * `C-z b` Toggle status bar
 
-Other
+## Clients
 
-* `C-z :source-file ~/.tmux.conf` Reload config
+List clients:
+
+```
+$ tmux list-client
+```
+
+Detach a client:
+
+```
+$ tmux detach-client -s 0
+```
