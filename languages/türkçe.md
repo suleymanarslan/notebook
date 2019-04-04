@@ -35,3 +35,4 @@
 * **Temayüz**  Başkalarına göre üstün duruma gelme, sivrilme, seçkinleşme.
 * **Tevekkül** Herhangi bir işte elinden geleni yapıp daha sonrasını Allah'a bırakma: 
 * **Tevessül** Başlama, girişme.
+* **Teveccüh** Bir yana doğru yönelme, yüzünü çevirme
