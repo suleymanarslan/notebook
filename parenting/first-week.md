@@ -1,4 +1,12 @@
-## Birth
+# First Week
+
+* [Newborn Baby](#newborn-baby)
+* [Feeding](#feeding)
+* [Fever](#fever)
+* [Vomitting](#vomitting)
+* [Crying](#crying)
+
+## Newborn Baby
 
 Our baby is one week old by now. Here is what I learnt so far;
 
@@ -25,16 +33,16 @@ Infants ask for more food than they need. It's helpful to know the best amount a
 
 \** Depends on whether you've introduced any baby food.
 
-### Vomitting
+## Vomitting
 
 It's a sign for overfeeding (if there is no other issue). We started using a pacifier once our baby puked after drinking a lot of milk.
 
-### Fever
+## Fever
 
 Normal body temperature for a baby is 36.4°C, it can vary slightly. 38°C degree and above is considered as fewer.
 [Source](https://www.nhs.uk/conditions/pregnancy-and-baby/treating-high-temperature-children/?)
 
-### Crying
+## Crying
 
 * Crying increases at 2 or 3 weeks of age, peaks between 6 and 8 weeks, and then slows down after that, generally hitting its lowest level by around 4 months. 
 * When the baby cries a lot, try singing a lullaby. It works magically. 
