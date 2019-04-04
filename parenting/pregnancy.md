@@ -2,8 +2,8 @@
 
 Index of Contents:
 
-1. Stages of Pregnancy
-2. Pregnancy Diet
+1. [Stages of Pregnancy](#states-of-pregnancy)
+2. [Pregnancy Diet](#pregnancy-diet)
 
 ## Stages of Pregnancy
 
