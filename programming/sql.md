@@ -1,5 +1,11 @@
 ## SQL
 
+### Run SQL Query & Save Results to File
+
+```bash
+$ mysql -user -pass -e "select cols from table where cols not null" > /tmp/output
+```
+
 ### Store Emoji
 
 1) Database: Change Database default collation as utf8mb4.
