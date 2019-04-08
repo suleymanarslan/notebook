@@ -2,6 +2,26 @@
 
 [For English: random-thoughts.md](random-thoughts.md)
 
+## Çocuğun Gücü
+
+Babamla Kış Uykusu filmi üzerine konuşuyorduk.
+İkimiz de bu filmi defalarca izledik.
+
+"Çocuğun gücü" dedi.
+
+Bütün konsantrasyonum o iki kelimeye yoğunlaştı.
+
+Birazdan odamın ışığını kapatıp, kafamı yastığa
+koyduğumda bu iki kelime aklımda defalarca yankılanacak...
+
+Çocuğun gücü...
+Çocuğun adalet arayışı...
+Çocuğun isyanı...
+
+Tıpkı yürümeyi öğrenir gibi, öfkeyi, isyanı da öğrenmek istemesi...
+
+Bileğinin büküldüğündeki sessizliği...
+
 ## Daha Fazla Param Olunca Yapacaklarım
 
 $50.000
