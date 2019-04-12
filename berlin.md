@@ -80,6 +80,12 @@ They'll start charging you monthly.
 * [Jameda: Search engine for doctors](https://www.jameda.de/)
 * [TK's search engine for finding doctors](https://www.tk-aerztefuehrer.de/TK/start.htm)
 
+## Family Bicycles 
+
+* [Babboe](https://www.babboe.de/lastenraeder)
+* [Urban Arrow](https://www.urbanarrow.com/en)
+* [Larry vs Harry](https://www.larryvsharry.com/)
+
 ## Furniture
 
 * [BoConcept](https://www.boconcept.com/en-gb/)
