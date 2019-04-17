@@ -39,6 +39,10 @@ Fasanenstraße 85, 10623 Berlin
 
 [Sign up](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/anmelden/index_ger.html)
 
+#### Tenant Attorneys
+
+* [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/)
+
 ## Ceramics Courses
 
 * [brsg keramik](https://brsg-keramik.com/workshops/) [*](https://www.google.com/maps?ll=52.517418,13.465936&z=16&t=m&hl=en-US&gl=DE&mapclient=embed&cid=2275286225499420429)
