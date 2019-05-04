@@ -27,6 +27,22 @@ A list I crafted for friends planning to visit Turkey.
 * Doğubeyazıt https://en.wikipedia.org/wiki/Do%C4%9Fubeyaz%C4%B1t
 * Van https://en.wikipedia.org/wiki/Van
 
+## Kayaking Spots in Turkey
+
+* **Çoruh Nehri (Artvin)**: June - October
+* **Köprüçay (Antalya)**: April - October
+* **Dalaman Çayı (Antalya)**: April - October
+* **Zamantı Irmağı (Kayseri)**: June - October
+* **Göksu Nehri (Mersin)**: April - October
+* **Göksu Çayı (Adana)**: June - October
+* **Sarısu (Kandıra)**: December - May
+* **Melen Çayı (Bolu)**: December - May
+* **Fırtına Deresi (Rize)**: June - September
+* **Berta Çayı (Artvin)**: June - October
+* **Barhal Deresi (Rize)**: June - September
+* **Oltu Çayı (Erzurum)**: June - October
+* **Harşit Çayı (Gümüşhane)**: June - October
+
 ## Less known paradises in Turkey
 
 Original source: Saklı Cennetler Atlası / 2009
