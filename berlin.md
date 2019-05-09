@@ -28,8 +28,10 @@
 
 #### Address Registration
 
-First thing to do in Berlin is registering yourself. You can do it in the 6th floor of following building;
+First thing to do in Berlin is registering yourself. You can do it in the 6th floor of following building if it's your first time;
 Fasanenstraße 85, 10623 Berlin
+
+Or [get a  Bürgeramt appointment](https://service.berlin.de/dienstleistung/120686/).
 
 #### Language / Translation
 
