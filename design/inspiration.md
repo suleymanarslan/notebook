@@ -17,6 +17,7 @@
 
 ## Websites:
 
+* [humane by design](https://humanebydesign.com/)
 * [JT](https://jgthms.com/)
 * [airtext](https://airtext.xyz/landing)
 * [maekan](https://www.maekan.com/) | [post](https://www.maekan.com/article/without-an-agenda-a-trip-through-the-japanese-countryside-with-focus-hida)
