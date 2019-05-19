@@ -139,6 +139,18 @@ move carefully or gradually.
 
 ```
 
+#### elide
+
+```
+verb
+1.
+omit (a sound or syllable) when speaking.
+"English speakers often elide the vowel completely"
+2.
+join together; merge.
+"whole periods of time are elided into a few seconds of screen time"
+```
+
 #### elude
 
 ```
