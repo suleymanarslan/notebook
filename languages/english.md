@@ -210,6 +210,12 @@ catch fire or cause to catch fire.
 synonyms:	catch fire, catch, burst into flames, be set off, erupt, explode
 ```
 
+#### impure
+
+```
+mixed with foreign matter; adulterated.
+```
+
 #### incentive
 
 ```
