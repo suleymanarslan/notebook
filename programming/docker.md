@@ -24,8 +24,20 @@ $ docker restart $container_id
 $ docker run -it -p 8888:8888 tensorflow/tensorflow:0.10.0rc0
 ```
 
-## Clean all
+## Clean all container
 
+```bash
+$ docker rm $(docker ps -aq)
 ```
-docker rm $(docker ps -aq)
+
+## Run command
+
+```bash
+$ docker exec -it <container name> <command>
+```
+
+## Open up terminal
+
+```bash
+$ docker exec -it <container name> /bin/zsh
 ```
