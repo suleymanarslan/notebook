@@ -39,5 +39,5 @@ $ docker exec -it <container name> <command>
 ## Open up terminal
 
 ```bash
-$ docker exec -it <container name> /bin/zsh
+$ docker exec -it <container name> /bin/bash
 ```
