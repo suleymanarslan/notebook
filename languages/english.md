@@ -376,6 +376,12 @@ base an argument, theory, or undertaking on.
 delay or postpone action; put off doing something.
 ```
 
+#### propensity
+
+```
+an inclination or natural tendency to behave in a particular way.
+```
+
 #### resentment
 
 bitter indignation at having been treated unfairly.
