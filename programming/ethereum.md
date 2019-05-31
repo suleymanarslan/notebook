@@ -108,7 +108,7 @@ console.log("address:", ksw.getAddress().toString("hex"))
 ```js
 const Web3 = require("web3")
 const provider = new Web3.providers.HttpProvider(
-  "https://rinkeby.infura.io/v3/904887681c6c4f2d9f4a9ad99b3fa601"
+  "https://rinkeby.infura.io/v3/{key}"
 )
 const web3 = new Web3(provider)
 const BN = require("bn.js")
