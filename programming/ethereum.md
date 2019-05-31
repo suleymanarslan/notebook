@@ -7,6 +7,7 @@ $ sudo apt-get install software-properties-common
 $ sudo add-apt-repository -y ppa:ethereum/ethereum
 $ sudo apt-get update
 $ sudo apt-get install ethereum
+$ geth --datadir=~/.gophersland_ethereum_r1 --port=30304 --cache=2048 --rpc --rpcport=8546 --rpcapi=eth,web3,net,personal --syncmode=fast
 ```
 
 ## Create a new wallet
