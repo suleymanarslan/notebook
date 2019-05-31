@@ -102,3 +102,26 @@ const ksw = EthWallet.fromV3(v3, pwd)
 console.log("address:", ksw.getAddress().toString("hex"))
 
 ```
+
+### Get Balance
+
+```js
+const Web3 = require("web3")
+const provider = new Web3.providers.HttpProvider(
+  "https://rinkeby.infura.io/v3/904887681c6c4f2d9f4a9ad99b3fa601"
+)
+const web3 = new Web3(provider)
+const BN = require("bn.js")
+const big = n => new BN(n.toString(10))
+
+main()
+
+async function main() {
+  const balance = big(
+    await web3.eth.getBalance("0xBa7a6cf8E74789faa2E5F16dD1f6AEa0e5AE7728")
+  )
+
+  console.log("Balance:", balance.toString())
+}
+
+```
