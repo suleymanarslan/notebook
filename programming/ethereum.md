@@ -2,12 +2,47 @@
 
 ## Setup Node
 
+Install Ethereum:
+
 ```bash
 $ sudo apt-get install software-properties-common
 $ sudo add-apt-repository -y ppa:ethereum/ethereum
 $ sudo apt-get update
 $ sudo apt-get install ethereum
-$ geth --datadir=~/.gophersland_ethereum_r1 --port=30304 --cache=2048 --rpc --rpcport=8546 --rpcapi=eth,web3,net,personal --syncmode=fast
+```
+
+Create a shell script to start the node:
+
+```sh
+#!/bin/sh
+geth --datadir=~/.gophersland_ethereum_r1 --port=30304 --cache=2048 --rpc --rpcport=8546 --rpcapi=eth,web3,net,personal --syncmode=fast
+```
+
+Create a service:
+
+```systemctl
+[Unit]
+Description=Geth
+
+[Service]
+Type=simple
+ExecStart=/root/start.sh
+WorkingDirectory=/root
+
+[Install]
+WantedBy=multi-user.target
+```
+
+Enable and run the service:
+```bash
+$ systemctl enable geth
+$ systemctl start geth
+```
+
+Check if it's running:
+
+```bash
+$  systemctl status geth
 ```
 
 ## Create a new wallet
