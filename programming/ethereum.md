@@ -107,18 +107,20 @@ console.log("address:", ksw.getAddress().toString("hex"))
 
 ```js
 const Web3 = require("web3")
-const provider = new Web3.providers.HttpProvider(
-  "https://rinkeby.infura.io/v3/{key}"
-)
-const web3 = new Web3(provider)
 const BN = require("bn.js")
+
+const provider = new Web3.providers.HttpProvider(
+  `https://rinkeby.infura.io/v3/${key}`
+)
+
+const web3 = new Web3(provider)
 const big = n => new BN(n.toString(10))
 
 main()
 
 async function main() {
   const balance = big(
-    await web3.eth.getBalance("0xBa7a6cf8E74789faa2E5F16dD1f6AEa0e5AE7728")
+    await web3.eth.getBalance(address)
   )
 
   console.log("Balance:", balance.toString())
