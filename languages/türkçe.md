@@ -19,6 +19,7 @@
 * **Mübadele** Değişim
 * **Mücehhez**  1. Donanmış. 2. Hazırlıklı, hazırlanmış
 * **Mücrim** Suçlu
+* **Müdana** Yaranmaya, iyi görünmeye çalışma.
 * **Müfredat**  1. Bir bütünü oluşturan bireyler, ayrıntılar. 
 * **Müsemma** Ad verilmiş, adı olan
 * **Müsebbib** Yol açan, sebep olan.
