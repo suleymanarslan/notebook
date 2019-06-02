@@ -11,14 +11,14 @@ $ sudo apt-get update
 $ sudo apt-get install ethereum
 ```
 
-Create a shell script to start the node:
+Create a shell script to start the node, save it to `/root/start.sh`:
 
 ```sh
 #!/bin/sh
 geth --datadir=~/.gophersland_ethereum_r1 --port=30304 --cache=2048 --rpc --rpcport=8546 --rpcapi=eth,web3,net,personal --syncmode=fast
 ```
 
-Create a service:
+Create a service and save it as `/etc/systemd/system/geth.service`: 
 
 ```systemctl
 [Unit]
@@ -28,6 +28,7 @@ Description=Geth
 Type=simple
 ExecStart=/root/start.sh
 WorkingDirectory=/root
+Restart=always
 
 [Install]
 WantedBy=multi-user.target
@@ -42,7 +43,13 @@ $ systemctl start geth
 Check if it's running:
 
 ```bash
-$  systemctl status geth
+$ systemctl status geth
+```
+
+See logs:
+
+```bash
+$ journalctl -xu geth.service --since today
 ```
 
 ## Create a new wallet
