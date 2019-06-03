@@ -137,7 +137,7 @@ async function main() {
 
 ### Signed Transaction
 
-```
+```js
 const Web3 = require("web3")
 const Tx = require("ethereumjs-tx")
 
