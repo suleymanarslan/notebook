@@ -134,3 +134,67 @@ async function main() {
 }
 
 ```
+
+### Signed Transaction
+
+```
+const Web3 = require("web3")
+const Tx = require("ethereumjs-tx")
+
+const AMOUNT = 0.1
+const NODE = ""
+
+const privateKey = Buffer.from(
+  "",
+  "hex"
+)
+const fromAddr = ""
+const toAddr = ""
+
+const provider = new Web3.providers.HttpProvider(NODE)
+const network = new Web3(provider)
+
+transfer()
+
+async function transfer() {
+  const transactionCount = await network.eth.getTransactionCount(fromAddr)
+  const gasLimitNumber =
+    (await network.eth.estimateGas({ to: toAddr, data: "" })) * 5
+  const gasPriceNumber = await network.eth.getGasPrice()
+
+  console.log("transaction count:", transactionCount)
+  console.log("gas limit:", gasLimitNumber)
+  console.log("gas price:", gasPriceNumber)
+
+  const nonce = network.utils.numberToHex(transactionCount)
+  const gasPrice = network.utils.numberToHex(Number(gasPriceNumber))
+  const gasLimit = network.utils.numberToHex(gasLimitNumber)
+  const value = network.utils.numberToHex(
+    Number(network.utils.toWei(AMOUNT.toString(), "ether"))
+  )
+
+  const tx = new Tx({
+    nonce,
+    gasPrice,
+    gasLimit,
+    toAddr,
+    value,
+    data: ""
+  })
+
+  tx.sign(privateKey)
+
+  network.eth
+    .sendSignedTransaction("0x" + tx.serialize().toString("hex"))
+    .once("transactionHash", hash => {
+      console.log("hash", hash)
+    })
+    .once("receipt", receipt => {
+      console.log("receipt", receipt)
+    })
+    .once("error", error => {
+      console.log("error", error)
+    })
+}
+
+```
