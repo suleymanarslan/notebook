@@ -8,6 +8,9 @@
   * [Mahatma Gandi](#mahatma-gandhi)
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
+  
+> We have two lives, and the second begins when we realize we only have one.
+― Confucius
 
 > All happy families are alike; each unhappy family is unhappy in its own way.
 — Leo Tolstoy
