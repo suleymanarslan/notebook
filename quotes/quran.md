@@ -5,6 +5,33 @@ Sources:
 * [English](https://quran.com/)
 * [Turkish](http://acikkuran.com/)
 
+#### 53:39
+
+Original verse:
+
+```
+وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ - 53:39
+وَأَنَّ سَعْيَهُ سَوْفَ يُرَىٰ - 53:40
+ثُمَّ يُجْزَاهُ الْجَزَاءَ الْأَوْفَىٰ - 53:41
+```
+
+English:
+
+```
+53:39 And that there is not for man except that [good] for which he strives.
+53:40 And that his effort is going to be seen -
+53:41 Then he will be recompensed for it with the fullest recompense
+```
+
+Turkish:
+
+```
+53:39 Ve gerçek şu ki, insan için çalışmasından başka bir şey yoktur.
+53:40 Ve onun çalışması yakında görülecektir.
+53:41 Sonra karşılığı kendisine eksiksiz olarak verilecektir.
+```
+
+
 #### 5:8
 
 Original Verse:
@@ -64,28 +91,3 @@ Ey insanlar! Sizi bir erkek ve bir dişiden yarattık. Birbirinizle tanışmanı
 ```
 
 
-#### 53:39
-
-Original verse:
-
-```
-وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ - 53:39
-وَأَنَّ سَعْيَهُ سَوْفَ يُرَىٰ - 53:40
-ثُمَّ يُجْزَاهُ الْجَزَاءَ الْأَوْفَىٰ - 53:41
-```
-
-English:
-
-```
-53:39 And that there is not for man except that [good] for which he strives.
-53:40 And that his effort is going to be seen -
-53:41 Then he will be recompensed for it with the fullest recompense
-```
-
-Turkish:
-
-```
-53:39 Ve gerçek şu ki, insan için çalışmasından başka bir şey yoktur.
-53:40 Ve onun çalışması yakında görülecektir.
-53:41 Sonra karşılığı kendisine eksiksiz olarak verilecektir.
-```
