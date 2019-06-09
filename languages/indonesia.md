@@ -54,11 +54,11 @@ See also: [toba-batak-dictionary/dict.json](https://github.com/azer/toba-batak-d
 
 ## Balinese
 
-* **Thank you:** suksama
-* **You're welcome:** mauali
-* **How are you?:** puna pikadrı
-* **How much?:** kudısiki
-* **Good:** bıçik
-* **Yes:** Ingeh
+* **Thank you:** suksma
+* **You're welcome:** mawali
+* **How are you?:** punapi gatra
+* **How much?:** kuda siki
+* **Good:** becik
+* **Yes:** Inggih
 * **No:** Sing (Casual)
-* **Beautiful** Jıgik
+* **Beautiful** Jegeg
