@@ -33,6 +33,11 @@ Fasanenstraße 85, 10623 Berlin
 
 Or [get a  Bürgeramt appointment](https://service.berlin.de/dienstleistung/120686/).
 
+#### Driving License
+
+* [General Information](https://www.international.hu-berlin.de/en/wissenschaftler/international-scholar-services/living-and-working-in-berlin/drivers-licence/drivers-licence)
+* [Appointment for converting non-EU license to German](https://service.berlin.de/dienstleistung/121598/)
+
 #### Language / Translation
 
 [Red Tape Translation](https://www.redtapetranslation.com/) helps people make phone calls or attend meetings which happens only in German. 
