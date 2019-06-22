@@ -6,7 +6,7 @@
 $ docker ps -a
 ```
 
-or 
+or
 
 ```bash
 $ docker container ls -a
@@ -24,6 +24,12 @@ $ docker restart $container_id
 $ docker run -it -p 8888:8888 tensorflow/tensorflow:0.10.0rc0
 ```
 
+## List all images
+
+```bash
+$ docker image ls
+```
+
 ## Clean all container
 
 ```bash
@@ -39,5 +45,6 @@ $ docker exec -it <container name> <command>
 ## Open up terminal
 
 ```bash
+
 $ docker exec -it <container name> /bin/bash
 ```
