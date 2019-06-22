@@ -30,7 +30,7 @@ $ docker run -it -p 8888:8888 tensorflow/tensorflow:0.10.0rc0
 $ docker image ls
 ```
 
-## Clean all container
+## Clean all containers
 
 ```bash
 $ docker rm $(docker ps -aq)
@@ -47,4 +47,22 @@ $ docker exec -it <container name> <command>
 ```bash
 
 $ docker exec -it <container name> /bin/bash
+```
+
+## Stop all containers
+
+```bash
+$ docker stop $(docker ps -aq)
+```
+
+## Remove images matching pattern
+
+```bash
+$ docker images -a | grep "pattern" | awk '{print $3}' | xargs docker rmi
+```
+
+## Remove containers matching pattern
+
+```bash
+$ docker ps -a | grep "pattern" | awk '{print $1}' | xargs docker rm
 ```

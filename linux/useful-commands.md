@@ -20,6 +20,7 @@ Index of Contents:
 * [ip](#ip)
 * [ncdu](#ncdu)
 * [nethogs](#nethogs)
+* [netstat](#netstat)
 * [nl](#nl)
 * [mount](#mount)
 * [pidof](#pidof)
@@ -314,6 +315,14 @@ Disk usage analyzer with CLI UI with ncurses.
 ## nethogs
 
 htop for network. lists processes by their network traffic.
+
+## netstat
+
+Find the process using given port:
+
+```bash
+$ netstat -tulpn | grep :8888
+```
 
 ## nl
 Adds line numbers to beginning of each line.
