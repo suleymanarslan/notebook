@@ -64,6 +64,7 @@ Or [get a  Bürgeramt appointment](https://service.berlin.de/dienstleistung/1206
 * [epiclist](https://angel.co/epiclist)
 * [eyeo](https://eyeo.com/)
 * [foam.space](https://www.foam.space/)
+* [hasty](https://hasty.ai/)
 * [juniqe](https://www.juniqe.com/)
 * [kontist](https://angel.co/kontist)
 * [oscoin](http://oscoin.io)
