@@ -24,6 +24,34 @@ $ docker restart $container_id
 $ docker run -it -p 8888:8888 tensorflow/tensorflow:0.10.0rc0
 ```
 
+## `run`
+
+#### Run a command in a new named container
+
+```bash
+$ docker run --name [name] [options] [image]
+```
+
+#### Detached Container
+
+Run the container as a background process (a.k.a detached mode)
+
+```bash
+$ docker run -d [image]
+```
+
+#### Publish Port
+
+```bash
+$ docker run -p [host-port]:[container-port] [image]
+```
+
+#### Mount host volumes
+
+```bash
+$ docker run -v [host-path]:[container-path] [image]
+```
+
 ## List all images
 
 ```bash
