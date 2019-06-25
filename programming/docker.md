@@ -52,6 +52,13 @@ $ docker run -p [host-port]:[container-port] [image]
 $ docker run -v [host-path]:[container-path] [image]
 ```
 
+## Rename Image
+
+```bash
+$ docker tag docker.elastic.co/elasticsearch/elasticsearch:7.1.1  elastic
+$ docker rmi docker.elastic.co/elasticsearch/elasticsearch:7.1.1
+```
+
 ## List all images
 
 ```bash
