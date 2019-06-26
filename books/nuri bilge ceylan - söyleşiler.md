@@ -75,3 +75,8 @@
 #### Ocak 2000
 
 * Dayanışmanın zorunlu olduğu ilişkiler içeren bir durum ortaya çıktığında, insanın bu tür duyguları da biraz uyarılıyor. İbn-i Haldun'un bir sözü var, kent kültürünün bırakılıp dayanışmanın hala söz konusu olabildiği göçebe toplumlarına dönülmesini söylüyor. Gerçekten de koşular güçleştikçe insanların koltuk değneği gibi birbirine yaslanması zorunlu olan durumlar daha çok söz konusu olduğundan, insanın bu tür duyguları da gelişiyor olabilir. Yani ilkellik arttıkça belki, dayanışma duygusu gelişiyor.
+
+
+#### Ocak 2003
+
+* (Eskiden) Seyahat denen şey varoldukça mutsuz olmak herhalde mümkün değil gibi bir duygum vardı. Her yaz bisikletle ya da otostopla muhakkak gezerdim. Belki bu bir mucize beklentisi gibi bir şeydi. Kendimden, buradaki hayatımdan memnun değildim. Gezilerde başıma birşeyler gelmesini umuyordum. Hayatıma yeni ve güçlü bir yön verecek, anlam katacak birşeyle karşılaşmak istiyordum. Daha çok kendimden memnun olmamakla ilgili birşeydi. Hayata yeniden başlama fırsatı, kendini sıđırlamak, yeni bir kaarakterle yeni ilişkilere atılmak gibi duygulardı. Bu gezilerin çoğünu yayan, bisiklet ya da otostopla yaptığıma göre, kendimi biraz  kahraman gibi hissetmek de istiyor olmalıyım. Demek ki normal yaşantımda kendimi silik ve yavan hissediyordum. Ama yeni bir ülkenin yeni bir insan yaratmadığını öğrendim,
