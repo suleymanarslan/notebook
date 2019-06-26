@@ -18,3 +18,4 @@ Highlights from [Joe Rogan](tps://www.youtube.com/watch?v=3qHkcs3kG44) podcast.
 #### Wealth Creation
 
 * There are 3 things everybody wants; everybody wants to be wealthy, everybody wants to be happy, everybody wants to be fit.
+* You don't want to be the guy who succeeds in life while being high strong high stress and unhappy, leaving a trail of emotional wreckage with you and your loved ones.
