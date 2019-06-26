@@ -67,3 +67,11 @@
 #### Ekim 1999
 
 * Sadelik, alçakgönüllülük, kendinle alay edebilmek gibi özellikler bizim kültürde hiçbir zaman bir üst değer olamamıştır. Böbürlenmek, şişinmek, öğünmek her zaman daha çok onay görmüştür. Az gelişmiş ülkelere has çifte standardın en somut göstergelerinden biri de , kendi ülkesinde aşağılanan bir davranışı, bir batılı yaptığında bu davranışa hemen hayran olunmasıdır. 
+
+#### Aralık 1999
+
+* Tarkovski'nin deyişiyle, sanatçı, ya yeteneğini son damlasına kadar ve bütünüyle ortaya koymak ya da ruhunu üç kuruşa satmak arasında bir tercih yapmak zorunda.
+
+#### Ocak 2000
+
+* Dayanışmanın zorunlu olduğu ilişkiler içeren bir durum ortaya çıktığında, insanın bu tür duyguları da biraz uyarılıyor. İbn-i Haldun'un bir sözü var, kent kültürünün bırakılıp dayanışmanın hala söz konusu olabildiği göçebe toplumlarına dönülmesini söylüyor. Gerçekten de koşular güçleştikçe insanların koltuk değneği gibi birbirine yaslanması zorunlu olan durumlar daha çok söz konusu olduğundan, insanın bu tür duyguları da gelişiyor olabilir. Yani ilkellik arttıkça belki, dayanışma duygusu gelişiyor.
