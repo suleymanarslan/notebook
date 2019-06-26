@@ -21,3 +21,7 @@ Highlights from [Joe Rogan](tps://www.youtube.com/watch?v=3qHkcs3kG44) podcast.
 * You don't want to be the guy who succeeds in life while being high strong high stress and unhappy, leaving a trail of emotional wreckage with you and your loved ones. 
 * You want to be the person who gets there calmly. 
 * When there is a crisis, you want to be the calmest coolest person who still figures out the correct answer. 
+
+#### Happiness
+
+* Desire is a contract to be unhappy until you get what you want.
