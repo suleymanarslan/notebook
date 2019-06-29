@@ -9,6 +9,10 @@
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
   
+  
+> All of humanity’s problems stem from man’s inability to sit quietly in a room alone.
+― Pascal
+  
 > We have two lives, and the second begins when we realize we only have one.
 ― Confucius
 
