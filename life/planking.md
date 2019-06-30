@@ -10,3 +10,7 @@ I follow this simple planking workout to exercise;
 | 4 | 30+30 secs | Side plank (each side) |
 | 5 | 30 secs | Full plank |
 | 6 | 60 secs | Elbow plank |
+
+## Poster
+
+![](https://github.com/azer/notebook/blob/master/life/five-minute-plank-workout.jpg?raw=true)
