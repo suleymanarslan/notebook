@@ -280,6 +280,6 @@ My parents had trouble about relocation and I separated with them for a semester
 
 ## 1987
 
-#### June 15
+#### June
 
 I was born in the government hospital of Fethiye, at around 7:30am in the morning. We were in my mom's hometown (Kalkan) temporarily. My family actually were living in Mardin at that point. 
