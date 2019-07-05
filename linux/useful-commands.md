@@ -123,23 +123,35 @@ id  name  age
 
 Change delimiter to `:`:
 
-```
-column -t -s ':'
+```bash
+$ column -t -s ':'
 ```
 
 ## date
 
 Get unix timestamp:
 
-```
-date +%s
+```bash
+$ date +%s
 ```
 
 Get date & time nicely formatted;
 
-```
-date '+%d %h %H:%M'
+```bash
+$ date '+%d %h %H:%M'
 # 22 Jun 01:42
+```
+
+Get unix timestamp of when a file was saved last time:
+
+```bash
+$ date -r /the/file +%s
+```
+
+Get relative saved time of a file:
+
+```bash
+echo $((($(date +%s) - $(date -r ~/.distractions-session +%s))/60)) "minutes ago""
 ```
 
 ## dialog
