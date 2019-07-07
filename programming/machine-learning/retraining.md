@@ -55,3 +55,23 @@ SignatureDef key: "regress_x_to_y"
 SignatureDef key: "regress_x_to_y2"
 SignatureDef key: "serving_default"
 ```
+
+To show all available information in the SavedModel, use the --all option. For example:
+
+```bash
+$ saved_model_cli show --dir /tmp/saved_model_dir --all
+MetaGraphDef with tag-set: 'serve' contains the following SignatureDefs:
+
+signature_def['classify_x2_to_y3']:
+  The given SavedModel SignatureDef contains the following input(s):
+    inputs['inputs'] tensor_info:
+        dtype: DT_FLOAT
+        shape: (-1, 1)
+        name: x2:0
+  The given SavedModel SignatureDef contains the following output(s):
+    outputs['scores'] tensor_info:
+        dtype: DT_FLOAT
+        shape: (-1, 1)
+        name: y3:0
+  Method name is: tensorflow/serving/classify
+```
