@@ -30,3 +30,28 @@ python label_image.py \
 --output_layer=final_result \
 --image=$HOME/flower_photos/daisy/21652746_cc379e0eea_m.jpg
 ```
+
+## `saved_model_cli`
+
+ the following command shows all available MetaGraphDef tag-sets in the SavedModel:
+
+```bash
+$ saved_model_cli show --dir /tmp/saved_model_dir
+The given SavedModel contains the following tag-sets:
+serve
+serve, gpu
+```
+
+The following command shows all available SignatureDef keys in a MetaGraphDef:
+
+```bash
+$ saved_model_cli show --dir /tmp/saved_model_dir --tag_set serve
+The given SavedModel `MetaGraphDef` contains `SignatureDefs` with the
+following keys:
+SignatureDef key: "classify_x2_to_y3"
+SignatureDef key: "classify_x_to_y"
+SignatureDef key: "regress_x2_to_y3"
+SignatureDef key: "regress_x_to_y"
+SignatureDef key: "regress_x_to_y2"
+SignatureDef key: "serving_default"
+```
