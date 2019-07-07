@@ -15,6 +15,12 @@ Get metadata of a model:
 $ curl localhost:8501/v1/models/fuji/versions/0001/metadata
 ```
 
+### Links
+
+* [Serving with Docker](https://www.tensorflow.org/tfx/serving/docker)
+* [Serving Tutorial](https://github.com/tensorflow/serving/blob/master/tensorflow_serving/g3doc/serving_basic.md)
+* [Rest API Reference](https://www.tensorflow.org/tfx/serving/api_rest)
+
 ## Start a Jupyter Notebook Server
 
 ```
