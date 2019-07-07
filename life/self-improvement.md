@@ -23,7 +23,7 @@
     * Learn how to manage your time
     * If you can do something in less than a minute, do it now without delaying
 * Have goals, remember your them along the way. (p.s reach small goals first before the bigger ones)
-* Mediate
+* Medidate
 * Focus (own & deploy your attention to reach your goals)
 * Smile
 * Family matters
@@ -44,19 +44,6 @@ Noted from a [TED video](https://www.youtube.com/watch?v=l_NYrWqUR40)
 * Believe in your ability to improve. Have growth mindset.
 * Practice failure. Those who fail are better equipped to face challenges.
 * Be kind to yourself when you make mistakes.
-
-
-## Do When Stressed
-
-* Mediate
-* Do push-ups
-* Take photos
-* Sing your favorite songs
-* Take naps
-* Play cards, backgammon, 101 with friends
-* Listen podcasts
-* Watch movies
-* Go somewhere, take walk
 
 ## 5 ways to build lasting self-esteem
 
