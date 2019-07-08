@@ -26,6 +26,7 @@ Index of Contents:
 * [pidof](#pidof)
 * [pkill](#pkill)
 * [powertop](#powertop)
+* [printf](#printf)
 * [sed](#sed)
 * [setxkbmap](#setxkbmap)
 * [sort](#sort)
@@ -379,6 +380,14 @@ pkill -f pattern
 
 ## powertop
 Lists processes by their energy consume.
+
+## printf
+
+Lef-pad:
+
+```bash
+$ printf "%02d" "1" 
+```
 
 ## sed
 
