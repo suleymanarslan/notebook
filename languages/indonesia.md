@@ -1,6 +1,6 @@
 # Languages of Indonesia
 
-## Bahasa
+## Bahasa Indonesia | Bahasa only means language.
 
 * **yes** iya
 * **no** enggak/tidak | _type in enggak into google translate so you know hot it's should be pronounced_
@@ -21,10 +21,10 @@
 * **where** kemana
 * **mau kemana** where are you going to?
 * **more** tambah/lagi/lebih
-* **do you have water?** kamu ada air? | _aqua is a brand name, it doesn't mean water, **air** means water._
+* **do you have water?** kamu ada air? | _aqua is a brand name, it doesn't mean water, **air** means water._ | better to say "ada air"? or "Kamu punya air ?" 
 * **expensive** mahal
 * **take care** hati hati
-* **finish*** udah
+* **finish*** udah / selesai  |  not sure about udah, I've more used "sudah"
 * **ayo** lets'go
 
 Numbers:
