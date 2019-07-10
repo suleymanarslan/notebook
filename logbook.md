@@ -232,7 +232,9 @@ I launched [multiplayerchess.com](https://multiplayerchess.com)
 
 ## 2010
 
-I struggled a lot to find a place to stay in Izmir and afford food. I slept in a couch in the resting room in the library of the school, had a few fights with security (library manager sent them to remove me) and ended up with two investigations. 
+* I struggled a lot to find a place to stay in Izmir and afford food. I slept in a couch in the resting room in the library of the school, had a few fights with security (library manager sent them to remove me) and ended up with two investigations.
+
+* I didn't have an income and stayed in government dormitory; small rooms packed with 6 students. The dorm provided food tickets that was only enough for two meals a day, and only rice & salad excluding weekends. I had same food, rice and salad for months, got really skinny, sometimes felt quite hungry and couldn't fall in sleep because of my empty stomach. I remember not being able to sleep for almost 40 hours, and feeling very stressed in general.
 
 ## 2009
 
