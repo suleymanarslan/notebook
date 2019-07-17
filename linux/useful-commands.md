@@ -31,6 +31,7 @@ Index of Contents:
 * [setxkbmap](#setxkbmap)
 * [sort](#sort)
 * [uniq](#uniq)
+* [tac](#tac)
 * [tee](#tee)
 * [timedatectl](#timedatectl)
 * [tree](#tree)
@@ -392,7 +393,7 @@ Lists processes by their energy consume.
 Lef-pad:
 
 ```bash
-$ printf "%02d" "1" 
+$ printf "%02d" "1"
 ```
 
 ## sed
@@ -496,6 +497,14 @@ $ cat file.txt | uniq -c
 2 foo
 1 bar
 1 qux
+```
+
+## tac
+
+Reverse the order of input
+
+```bash
+$ cat file.txt | tac
 ```
 
 ## tee
