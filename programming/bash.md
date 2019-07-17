@@ -162,3 +162,18 @@ while [ $# -gt 0 ]; do
     shift
 done
 ```
+
+## Background Services
+
+Trap command allows the program to wait and receive signal from outside. Here is an example;
+
+```bash
+trap "echo bye; exit" SIGHUP SIGINT SIGTERM
+trap "echo 'received sigrtmin1 signal';" SIGRTMIN+1
+trap "echo 'received sigrtmin2 signal';" SIGRTMIN+2
+
+echo "this script will endlessly loop until you stop it"
+while true; do
+	  sleep 1
+done
+```
