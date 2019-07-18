@@ -12,7 +12,8 @@
 * C-f: Forwards history
 * C-x C-c: Quit
 
-## Search
+
+## Search in page
 
 * C-s s: Search for a Given Term: This command will place a red box next to every match on a given web-page.
 * C-s n: Next match: This command will move the next match to the top of the browser screen.
@@ -24,3 +25,10 @@
 * C-x C-=: Increase size
 * C-x C--: Decrease size
 * C-x C-0: Restore defaults
+
+
+## Jumping to links
+
+* C-g: Go to link in current tab
+* M-g: Create new tab with link, focus on new tab
+* C-u M-g: Create new tab with link, keep focus on current tab
