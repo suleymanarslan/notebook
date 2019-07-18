@@ -1,6 +1,6 @@
 # next
 
-* Download: [Github(https://github.com/atlas-engineer/next)
+* Download: [Github](https://github.com/atlas-engineer/next)
 * Manual: [Manual](https://github.com/atlas-engineer/next/blob/master/documents/MANUAL.org)
 
 ## Quickstart
