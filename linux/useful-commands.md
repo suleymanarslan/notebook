@@ -27,6 +27,7 @@ Index of Contents:
 * [pkill](#pkill)
 * [powertop](#powertop)
 * [printf](#printf)
+* [ps](#ps)
 * [sed](#sed)
 * [setxkbmap](#setxkbmap)
 * [sort](#sort)
@@ -394,6 +395,26 @@ Lef-pad:
 
 ```bash
 $ printf "%02d" "1"
+```
+
+## ps 
+
+List processes of given command;
+
+```bash
+$ ps -C surfer
+```
+
+List memory consumption of the processes matching selected command;
+
+```bash
+$ ps -C surfer --no-headers -o pmem
+```
+
+Find out total memory usage of a command;
+
+```bash
+$ ps -C surfer --no-headers -o pmem | xargs | sed -e 's/ /+/g' | bc
 ```
 
 ## sed
