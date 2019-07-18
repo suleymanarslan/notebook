@@ -32,3 +32,51 @@
 * C-g: Go to link in current tab
 * M-g: Create new tab with link, focus on new tab
 * C-u M-g: Create new tab with link, keep focus on current tab
+
+## Customize
+
+* Add customizations to ~/.config/next/init.lisp.
+* The first line of an init file should contain the following package declaration in order to modify Next-specific variables and functions: `(in-package :next)`
+
+#### Keybindings
+
+```lisp
+;; Bind multiple keys in root-mode using the default scheme.
+(define-key
+  "C-x o" 'example
+  "SPACE" 'scroll-page-down)
+
+;; Bind in root-mode using the vi-normal scheme.
+(define-key :scheme :vi-normal
+  "C-x o" 'example
+  "SPACE" 'scroll-page-down)
+
+;; Bind in document-mode using the vi-normal scheme.
+(define-key :mode document-mode :scheme :vi-normal
+  "C-x C-c s" 'save-history)
+
+;; Bind in current buffer's first mode.  This won't affect other buffers.
+(define-key :keymap (getf (keymap-scheme
+                           (first (modes (active-buffer *interface*))))
+                          :emacs)
+  "C-x C-c h" 'hello-local-world)
+```
+
+The following keys exist as special keys:
+
+* C: Control
+* S: Super (Windows key, Command Key)
+* M: Meta (Alt key, Option Key)
+* s: Shift key
+
+#### Keymaps and key binding schemes
+
+The currently active key binding scheme is selected by the current-key-scheme buffer slot.  When a key is hit, Next looks up the keymaps of the corresponding scheme for all active modes in the current buffer.
+
+```lisp
+(add-to-default-list 'vi-normal-mode 'buffer 'default-modes)
+```
+
+
+
+
