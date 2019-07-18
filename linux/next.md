@@ -18,3 +18,9 @@
 * C-s n: Next match: This command will move the next match to the top of the browser screen.
 * C-s p: Previous match: This command will move the previous match to the top of the browser screen.
 * C-s k: Clear Search: Remove the read search boxes from the screen.
+
+## Zoom
+
+* C-x C-=: Increase size
+* C-x C--: Decrease size
+* C-x C-0: Restore defaults
