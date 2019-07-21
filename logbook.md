@@ -22,6 +22,14 @@
 
 ## 2019
 
+#### July 21
+
+I tried doing yoga for the first time, really enjoyed it.
+
+#### May 5
+
+I started meditating! 
+
 #### March 10
 
 My son started walking!
