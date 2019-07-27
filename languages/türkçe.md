@@ -17,6 +17,7 @@
 * **Muktedir** Bir şeyi yapmaya, başarmaya gücü yeten, erkli.
 * **Musavvir** Tasvir eden, şekil ve suret veren. 
 * **Mübadele** Değişim
+* **Mirat** ayna
 * **Mücehhez**  1. Donanmış. 2. Hazırlıklı, hazırlanmış
 * **Mücrim** Suçlu
 * **Müdana** Yaranmaya, iyi görünmeye çalışma.
