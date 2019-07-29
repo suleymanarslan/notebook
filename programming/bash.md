@@ -124,6 +124,14 @@ while [  $COUNTER -lt 10 ]; do
 done
 ```
 
+#### Iterate a string
+
+```bash
+while read -r line; do
+  swaymsg $line
+done <<< "$config"
+```
+
 ## Dialogs
 
 #### Opening a menu with bunch of lines
