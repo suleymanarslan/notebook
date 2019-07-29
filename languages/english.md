@@ -315,6 +315,12 @@ Noun
 (especially in former times) a person of noble rank or birth.
 ```
 
+#### nudge
+
+```
+A gentle push.
+```
+
 #### mercenary
 
 ```
@@ -403,7 +409,16 @@ noun
 a talk on a religious or moral subject, especially one given during a church service and based on a passage from the Bible.
 "he preached a sermon"
 synonyms:	homily, address, speech, talk, discourse, oration; lesson
+```
 
+#### slope
+
+```
+noun
+a surface of which one end or side is at a higher level than another; a rising or falling surface.
+
+verb
+(of a surface or line) be inclined from a horizontal or vertical line; slant up or down.
 ```
 
 #### susceptible
