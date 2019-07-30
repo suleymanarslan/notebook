@@ -422,49 +422,55 @@ $ ps -C surfer --no-headers -o pmem | xargs | sed -e 's/ /+/g' | bc
 Display nth line in a large file:
 
 ```bash
-sed '26577519q;d'
+$ sed '26577519q;d'
 ```
 
 Replace nth line in a large file:
 
 ```bash
-sed -i '26577519s/ &#3;/ /' content.rdf.u8
+$ sed -i '26577519s/ &#3;/ /' content.rdf.u8
 ```
 
 Uncomment matching line:
 
 ```bash
-sed -i -e '/^#en_US/s/^#//' /etc/locale.
+$ sed -i -e '/^#en_US/s/^#//' /etc/locale.
 ```
 
 Slugify a string:
 
 ```bash
-sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z
+$ sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z
 ```
 
 Get value of a field from JSON file:
 
 ```bash
-sed -n 's/\s*\"foo":\s*"\(.*\)\"/\1/p' config.json
+$ sed -n 's/\s*\"foo":\s*"\(.*\)\"/\1/p' config.json
 ```
 
 Add a prefix to every line:
 
 ```bash
-sed -e 's/^/prefix/'
+$ sed -e 's/^/prefix/'
 ```
 
 Remove between two matching lines:
 
 ```bash
-sed -i '/# <distractions>/,/# <\/distractions>/d'
+$ sed -i '/# <distractions>/,/# <\/distractions>/d'
 ```
 
 Remove trailing spaces at the end of the file:
 
 ```bash
-sed -i -e :a -e '/^\n*$/{$d;N;};/\n$/ba'
+$ sed -i -e :a -e '/^\n*$/{$d;N;};/\n$/ba'
+```
+
+Remove all lines after matching line:
+
+```bash
+$ sed -n '/Retrieve/q;p'
 ```
 
 ## setxkbmap
@@ -526,6 +532,14 @@ Reverse the order of input
 
 ```bash
 $ cat file.txt | tac
+```
+
+## tail
+
+Skip first 2 lines of a file:
+
+```bash
+$ tail -n +2
 ```
 
 ## tee
