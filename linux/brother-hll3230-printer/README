@@ -7,3 +7,4 @@ Then follow these steps to finish the installation using CUPS;
 * Open http://localhost:631/admin and Add New Printer
 * Choose `HL-L3230CDW series - IPP Everywhere` as driver
 * Find out IP address of the printer by running `sudo avahi-browse -alr`
+* Set printer connection to `ipp://$IPADDR/ipp`
