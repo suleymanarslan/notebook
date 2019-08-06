@@ -90,7 +90,7 @@ example> create index on example.tweet(timeline);
 
 Create `main.go` file:
 
-```
+```go
 package main
 
 import (
