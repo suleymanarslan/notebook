@@ -68,6 +68,30 @@ CREATE TABLE mydb.books (
 mydb>
 ```
 
+## Primary Keys
+
+There are two parts to a PRIMARY KEY in Cassandra:
+
+* partition key(s)
+* clustering key(s)
+
+```cql
+PRIMARY KEY (partitionKey1,clusteringKey1,clusteringKey2)
+```
+
+or
+
+```cql
+PRIMARY KEY ((partitionKey1,partitionKey2),clusteringKey1,clusteringKey2)
+```
+
+Some notes on this:
+
+* The partition key determines which node(s) your data is stored on. The clustering key determines the order of the data within your partition key.
+* The recommended maximum size of rows inside of a partition is 200k.
+* Cassandra achieves performance by using the clustering keys to sort your data on-disk, thereby only returning ordered rows in a single read (no random reads).
+* `ORDER BY` is only supported when the partition key is restricted by an `EQ` or an `IN`.
+
 ## Example Go Program
 
 Bootstrap a new Go Project:
