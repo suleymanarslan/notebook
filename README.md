@@ -6,7 +6,7 @@ This is my personal and public notes. I'm hoping to grow it by the time, adding 
 
 I had a physical notebook, it got lost during my 1 year hitchhiking trip.
 
-![](https://cldup.com/Z9BIqltd2S.jpg)]
+![](https://cldup.com/Z9BIqltd2S.jpg)
 
 ## See Also
 
