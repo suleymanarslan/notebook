@@ -1,4 +1,3 @@
-
 # Neural Networks
 
 ## What is a neural network?
@@ -44,3 +43,18 @@
   ```
   a⁽¹⁾ = σ(Wa⁽⁰⁾+b)
   ```
+## Gradient Descent: How Neural Networks Learn?
+
+* To start, we'll take the example network in previous chapther, initialize all weights and biases randomly and the output layer will look like a mess.
+* Now, we define a cost function to tell computer "that output should have activations zero for these neurons, but one for this neuron".
+
+![](./images/neural-network-07.png)
+
+* To express this mathematically, we add up the squares of the differences between each of those wrong output activations and the value you want them to have. This is what we call "cost of a single training example".
+
+* This sum is small when network confidently classifies an image correctly, but it's high, when the network doesn't know what it's doing.
+
+![](./images/neural-network-08.png)
+
+* Then what we do is to consider the average cost over all of the thousands of training examples. This average cost is our measure for how lousy our network is.
+* To tell the network what a lousy job its doing isn't helpful, we want to tell it how to change its weights and biases, so it gets better.
