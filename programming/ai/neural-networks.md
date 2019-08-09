@@ -31,3 +31,16 @@
 * We need neurons to light up only when they have a meaningfully high number, not just when they're higher than zero. We'll add bias -another number e.g (-10)- to set how high the weighted sum needs to be, before the neuron starts getting meaningfully active, before passing the sum to sigmoid function.
 
 ![](./images/neural-network-05.png)
+
+* The connection between other layers will also have weights and biases. The example network will have 784x16+16x16+16x10 weights and 16+16+10 biases in total.
+* The actual function can be organized in a more notationally compact way; organize all activations from one layer into a column as a vector, then organize all weights as a matrix, and each row of this matrix corresponds to the connections between one layer and particular neuron in the next layer.
+* Instead of adding bias to each value independently, we represent it by organizing all those biases into a vector, and adding the entire vector to previous matrix vector product.
+* As a final step, we'll wrap a sigmoid around the outside here. That represents applying sigmoid function to each specific component of the resulting vector inside.
+
+![](./images/neural-network-06.png)
+
+* Once you write down the weight matrix (W) and these vectors as their own symbols, you can communicate the full transition of layers from one layer to the next in an extremely tight & neat little expression;
+
+  ```
+  a⁽¹⁾ = σ(Wa⁽⁰⁾+b)
+  ```
