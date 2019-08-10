@@ -14,4 +14,4 @@
 * Refined carbs cause rapid spikes in blood sugar and insulin levels, and only make you feel full for a short time. This is followed by a drop in blood sugar, hunger and cravings.
 * Because they are low in fiber and digested quickly, eating refined carbs can cause major swings in blood sugar levels. This can contribute to overeating
 
-![](./whole-grains-explained.jpg)
+![](./whole-grains-explained.png)
