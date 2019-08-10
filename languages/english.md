@@ -101,6 +101,16 @@ verb
 bend one's head and body in fear or apprehension or in a servile manner.
 ```
 
+#### cumulative
+
+```
+Adjective
+
+   cumulative (comparative more cumulative, superlative most cumulative)
+    1. Incorporating all current and previous data up to the present or at
+       the time of measuring or collating
+```
+
 #### cynics
 
 ```
