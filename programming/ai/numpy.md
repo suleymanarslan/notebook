@@ -82,9 +82,10 @@ def normalizeRows(x):
 
 ## softmax
 
+```py
 # GRADED FUNCTION: softmax
 
-```py
+
 def softmax(x):
     """Calculates the softmax for each row of the input x.
 
