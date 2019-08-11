@@ -1,6 +1,35 @@
 # Docker
 
-## List All Processes
+## Images
+
+#### Pull and run an image
+
+```bash
+$ docker run -it -p 8888:8888 tensorflow/tensorflow:0.10.0rc0
+```
+
+#### Rename Image
+
+```bash
+$ docker tag docker.elastic.co/elasticsearch/elasticsearch:7.1.1  elastic
+$ docker rmi docker.elastic.co/elasticsearch/elasticsearch:7.1.1
+```
+
+#### List all images
+
+```bash
+$ docker image ls
+```
+
+#### Remove images matching pattern
+
+```bash
+$ docker images -a | grep "pattern" | awk '{print $3}' | xargs docker rmi
+```
+
+## Containers
+
+#### List All Processes
 
 ```bash
 $ docker ps -a
@@ -17,14 +46,6 @@ Now you can restart a stopped container:
 ```bash
 $ docker restart $container_id
 ```
-
-## Pull and run an image
-
-```bash
-$ docker run -it -p 8888:8888 tensorflow/tensorflow:0.10.0rc0
-```
-
-## `run`
 
 #### Run a command in a new named container
 
@@ -52,51 +73,32 @@ $ docker run -p [host-port]:[container-port] [image]
 $ docker run -v [host-path]:[container-path] [image]
 ```
 
-## Rename Image
-
-```bash
-$ docker tag docker.elastic.co/elasticsearch/elasticsearch:7.1.1  elastic
-$ docker rmi docker.elastic.co/elasticsearch/elasticsearch:7.1.1
-```
-
-## List all images
-
-```bash
-$ docker image ls
-```
-
-## Clean all containers
+#### Clean all containers
 
 ```bash
 $ docker rm $(docker ps -aq)
 ```
 
-## Run command
+#### Run command
 
 ```bash
 $ docker exec -it <container name> <command>
 ```
 
-## Open up terminal
+#### Open up terminal
 
 ```bash
 
 $ docker exec -it <container name> /bin/bash
 ```
 
-## Stop all containers
+#### Stop all containers
 
 ```bash
 $ docker stop $(docker ps -aq)
 ```
 
-## Remove images matching pattern
-
-```bash
-$ docker images -a | grep "pattern" | awk '{print $3}' | xargs docker rmi
-```
-
-## Remove containers matching pattern
+#### Remove containers matching pattern
 
 ```bash
 $ docker ps -a | grep "pattern" | awk '{print $1}' | xargs docker rm
