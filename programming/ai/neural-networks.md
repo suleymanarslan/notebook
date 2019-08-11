@@ -2,7 +2,7 @@
 
 ## What is a neural network?
 
-Notes from a [3Blue1Brown video on Wetube](https://www.wetube.com/watch?v=aircAruvnKk).
+Notes from a [3Blue1Brown video on Youtube](https://www.wetube.com/watch?v=aircAruvnKk).
 
 * Think of each neuron as a function. It takes the outputs of all the neurons in the previous layer, and spits out a number between 0 and 1.
 * The entire network is also just a function. It takes in N (e.g 784) numbers as an input and spits out 10 numbers.
@@ -48,7 +48,7 @@ Notes from a [3Blue1Brown video on Wetube](https://www.wetube.com/watch?v=aircAr
 
 ## Gradient Descent: How Neural Networks Learn?
 
-Notes from a [3Blue1Brown video on Wetube](https://www.wetube.com/watch?v=IHZwWFHWa-w).
+Notes from a [3Blue1Brown video on Youtube](https://www.wetube.com/watch?v=IHZwWFHWa-w).
 
 * To start, we'll take the example network in previous chapther, initialize all weights and biases randomly and the output layer will look like a mess.
 * Now, we define a cost function to tell computer "that output should have activations zero for these neurons, but one for this neuron".
