@@ -1,5 +1,8 @@
 # ELM
 
+* I actually wrote a guide for Elm. Check that out: [The Hitchhiker's Guide to Elm
+](https://kodfabrik.com/journal/elm/)
+
 ## Function Composition
 
 ```elm
