@@ -4,7 +4,7 @@ I'm trying to build my body at home, currently without any weights. Following is
 
 | Date | Planking | Push ups | Inclining Push ups | Declining Push ups | Atomic Push ups | Sit ups |
 | --- | --- | --- | --- | --- | --- | --- |
-| 11.08.2018 | 5 mins | 40 | 40 | 20 | 30 | 40 |
+| 11.08.2018 | 5 mins | 40 | 40 | 20 | 50 | 40 |
 | 08.08.2018 | 5 mins | 50 | 40 | 20 | 30 | 50 | 
 | 04.08.2018 | - | 40 | 40 | 20 | 40 | | 
 | 03.08.2018 | 5 mins | 40 | 40 | 20 | 40 | | 
