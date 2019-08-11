@@ -1,6 +1,5 @@
 # Workout Log
 
-I'm trying to build my body at home, currently without any weights. Following is my logs;
 
 | Date | Planking | Push ups | Inclining Push ups | Declining Push ups | Atomic Push ups | Sit ups |
 | --- | --- | --- | --- | --- | --- | --- |
