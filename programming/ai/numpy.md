@@ -52,6 +52,8 @@ def sigmoid_derivative(x):
 
 ## normalize matrix
 
+Another common technique we use in Machine Learning and Deep Learning is to normalize our data. It often leads to a better performance because gradient descent converges faster after normalization.
+
 ```py
 # GRADED FUNCTION: normalizeRows
 
