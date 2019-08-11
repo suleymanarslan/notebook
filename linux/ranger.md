@@ -16,3 +16,4 @@
 | A | Rename from the end |
 | mX | Create a bookmark |
 | `X | Go to bookmark |
+| zf | Filter the file list |
