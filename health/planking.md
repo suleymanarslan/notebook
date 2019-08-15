@@ -13,4 +13,4 @@ I follow this simple planking workout to exercise;
 
 ## Poster
 
-![](https://github.com/azer/notebook/blob/master/life/five-minute-plank-workout.jpg?raw=true)
+![](./five-minutes-plank-workout.jpg)
