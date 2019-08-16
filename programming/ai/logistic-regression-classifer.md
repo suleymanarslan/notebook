@@ -5,6 +5,17 @@ Build a logistic regression classifier to recognize cats by;
 * Using an optimization algorithm (gradient descent)
 * Creating a model function
 
+## Implementation Steps
+
+* Flatten the data to convert the dataset to a single vector of shape: `width * height * 3, 1`
+* Center and standardize the dataset. In this example, we divide the vector by 255
+* Set initial weight and bias (basically to zeros)
+* Define `propagate` function to find out the cost of given weights and bias, and gradient of the loss with respect to weights and bias
+* Define `optimize` function that learns the best weights and bias by minimizing the cost function. It calls `propagate` internally, updates weights and bias by multiplying the derivates with learning rate and subtracts this value from the current weights and bias.
+* Define `predict` function that takes final weights and biases computed earlier by `optimize`, creates an `A` vector with the probabilities of a cat being present in given dataset: `A = σ(wᵗX+b)`. Finally, normalize the entries of the vector to 1 or 0, depending on whether if they pass the threshold set (0.5)
+* Define `model` function that takes the train and test data and returns a dictionary containing information about the model. Internally, It'll call `optimize` function to find the best weights and bias, then run a prediction on test and train data.
+
+
 ## Packages
 
 Following Python packages is needed:
