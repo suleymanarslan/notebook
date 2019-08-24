@@ -28,6 +28,7 @@ Index of Contents:
 * [powertop](#powertop)
 * [printf](#printf)
 * [ps](#ps)
+* [rsync](#rsync)
 * [sed](#sed)
 * [setxkbmap](#setxkbmap)
 * [sort](#sort)
@@ -415,6 +416,20 @@ Find out total memory usage of a command;
 
 ```bash
 $ ps -C surfer --no-headers -o pmem | xargs | sed -e 's/ /+/g' | bc
+```
+
+## rsync
+
+Syncronize remote folders;
+
+```bash
+$ rsync -avz -e ssh /local/path user@host:/remote/dir
+```
+
+Remove source files if preferred:
+
+```bash
+rsync -avz --remove-source-files -e ssh /local/path user@host:/remote/dir 
 ```
 
 ## sed
