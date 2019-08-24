@@ -13,6 +13,7 @@ Index of Contents:
 * [fc-list](#fc-list)
 * [ffmpeg](#ffmpeg)
 * [file](#file)
+* [find](#find)
 * [grep](#grep)
 * [htop](#htop)
 * [hwclock](#hwclock)
@@ -212,6 +213,14 @@ Returns file info. It's especially useful on images;
 ```bash
 file logo.png
 # PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+```
+
+## find
+
+Find and delete empty directories;
+
+```bash
+$ find . -depth -type d -empty -delete
 ```
 
 ## ffmpeg
