@@ -311,7 +311,7 @@ cost = 0.6930587610394646
 
 Equation:
 
-![](./images/impl-neural-network-04.png)
+![](./images/impl-neural-network-05.png)
 
 Implementation:
 
