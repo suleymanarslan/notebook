@@ -1,5 +1,7 @@
 ## Quran
 
+**Note:** Please refer to [my GoodReads review](https://www.goodreads.com/review/show/295223244) to get my view on Quran.
+
 Sources: 
 
 * [English](https://quran.com/)
