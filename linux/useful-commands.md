@@ -7,6 +7,7 @@ Index of Contents:
 * [column](#column)
 * [convert](#convert)
 * [date](#date)
+* [df](#df)
 * [dialog](#dialog)
 * [du](#du)
 * [expac](#expac)
@@ -163,6 +164,14 @@ Get relative saved time of a file:
 
 ```bash
 echo $((($(date +%s) - $(date -r ~/.distractions-session +%s))/60)) "minutes ago""
+```
+
+## df
+
+List information about filesystems (type, usage, etc.)
+
+```bash
+$ df -Th
 ```
 
 ## dialog
@@ -407,7 +416,7 @@ Lef-pad:
 $ printf "%02d" "1"
 ```
 
-## ps 
+## ps
 
 List processes of given command;
 
@@ -438,7 +447,7 @@ $ rsync -avz -e ssh /local/path user@host:/remote/dir
 Remove source files if preferred:
 
 ```bash
-rsync -avz --remove-source-files -e ssh /local/path user@host:/remote/dir 
+rsync -avz --remove-source-files -e ssh /local/path user@host:/remote/dir
 ```
 
 ## sed
