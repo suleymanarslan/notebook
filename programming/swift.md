@@ -18,4 +18,15 @@ Short equivalent:
 emojis[card.identifier] ?? "?"
 ```
 
+## Optionals
 
+```swift
+var indexOfOpenCard: Int?
+```
+
+Terminate the execution if the optional is empty using `!`:
+
+```swift
+print(indexOfOpenCard) // It'll never terminate
+print(indexOfOpenCard!) // It might terminate
+```
