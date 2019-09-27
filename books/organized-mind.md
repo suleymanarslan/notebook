@@ -1,7 +1,7 @@
 # The Organized Mind: Thinking Straight in the Age of Information Overload
 
-Author: Daniel J. Levitin
-GoodReads: [Link](https://www.goodreads.com/book/show/18693669-the-organized-mind)
+* Author: Daniel J. Levitin
+* GoodReads: [Link](https://www.goodreads.com/book/show/18693669-the-organized-mind)
 
 ## Highlights
 
