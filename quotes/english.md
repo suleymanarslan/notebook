@@ -8,11 +8,34 @@
   * [Mahatma Gandi](#mahatma-gandhi)
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
-  
-  
+
+> A camel is a horse put together by a committee.
+― Anonymous
+
+> Majority rule is four wolves and a sheep voting on what’s for dinner.
+― Anonymous
+
+> We tend to see ourselves primarily in the light of our intentions, which are invisible to others, while we see others mainly in the light of their actions, which are visible to us.
+― J.G. Bennett
+
+> Men are born soft and supple; dead, they are stiff and hard. Plants are both tender and pliant; dead, they are brittle and dry. Thus whoever is stiff and inflexible is a disciple of death. Whoever is soft and yielding is a disciple of life. The hard and stiff will be broken. The soft and supple will prevail.
+― Lao Tzu, Tao Te Ching
+
+> Beauty in things exists in the mind which contemplates them.
+― David Hume
+
+> We do not see things as they are. We see things as we are.
+― The Talmud
+
+> The basic difference between an ordinary man and a warrior is that a warrior takes everything as a challenge, while an ordinary man takes everything as a blessing or a curse.
+― Don Juan , Yaqui Shaman
+
+> The worst leader is he who people despise. A good leader is he who people worship. A great leader is he who makes people say: “We ourselves did it.”
+― Lao Tzu, Tao Te Ching
+
 > All of humanity’s problems stem from man’s inability to sit quietly in a room alone.
 ― Pascal
-  
+
 > We have two lives, and the second begins when we realize we only have one.
 ― Confucius
 

@@ -1,5 +1,9 @@
 # Jalāl ad-Dīn Muhammad Rūmī
 
+> This being human is a guest house. Every morning a new arrival. A joy, a depression, a meanness, some momentary awareness comes as an unexpected visitor. Welcome and entertain them all! Even if they’re a crowd of sorrows, who violently sweep your house empty of its furniture, still, treat each guest honorably. He may be clearing you out for some new delight. The dark thought, the shame, the malice, meet them at the door laughing, and invite them in. Be grateful for whoever comes, because each has been sent as a guide from beyond.
+
+> This is how a human being can change: span there’s a worm addicted to eating grape leaves. Suddenly, he wakes up, Call it grace, whatever, something wakes him, and he’s no longer a worm. He’s the entire vineyard, and the orchard too, the fruit, the trunks, a growing wisdom and joy that doesn’t need to devour.
+
 On difficulty;
 
 > As you start to walk out on the way, the way appears.
