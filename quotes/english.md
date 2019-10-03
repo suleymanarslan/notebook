@@ -8,6 +8,9 @@
   * [Mahatma Gandi](#mahatma-gandhi)
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
+  
+> In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.
+― Ralph Waldo Emerson, Self-Reliance
 
 > A camel is a horse put together by a committee.
 ― Anonymous
