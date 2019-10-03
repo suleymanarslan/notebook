@@ -4,7 +4,6 @@
   * [Johann Wolfgang von Goethe](#johann-wolfgang-von-goethe )
   * [Haruki Murakami](#haruki-murakami)
   * [Antoine de Saint-Exupery](#antoine-de-saint-exupery)
-  * [Jalāl ad-Dīn Muhammad Rūmī](#jalāl-ad-dīn-muhammad-rūmī)
   * [Mahatma Gandi](#mahatma-gandhi)
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
