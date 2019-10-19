@@ -162,6 +162,7 @@ They'll start charging you monthly.
 * [Capnamic](https://capnamic.com/)
 * [Early Bird](https://earlybird.com/)
 * [Endeit](https://endeit.com/)
+* [Global Founders Capital](https://www.globalfounderscapital.com/)
 * [Innogy](https://www.innogy.ventures/)
 * [Outlier](https://outlierventures.io/)
 * [QLV](http://www.qlv.berlin/)
