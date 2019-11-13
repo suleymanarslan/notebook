@@ -42,9 +42,3 @@ The feedback kind requesting to stop X and start Y from the receiver. Redirectin
   * Active listening: Let the other person talk until done. Pay good attention, look at the person talking.
   * Reflection: Verify and build up reasoning. Ask "Why?". 
   * Action: ask the question "Is there something I can do to improve?"
-  
-  
-  
-
-
-
