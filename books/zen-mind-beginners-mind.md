@@ -1,7 +1,7 @@
-# Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice
+# Zen Mind, Beginner's Mind
 
-Author: Shunryu Suzuki
-GoodReads: [Link](https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind)
+* Author: Shunryu Suzuki
+* GoodReads: [ Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice](https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind)
 
 ## Highlights
 
