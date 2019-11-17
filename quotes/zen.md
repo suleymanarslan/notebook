@@ -1,9 +1,15 @@
 # Zen Quotes
 
+> Miracles are nothing other than fetching water and carrying firewood.
+— Layman Pangyun
+
+> An enlightened person is someone who embodies the deep understanding of nonduality while acting in accordance with ordinary boundaries, not being bound to either realm but acting freely and harmoniously.
+— Dōgen-zenji
+
 > Before the rain stops we can hear a bird. Even under the heavy snow we see snowdrops and some new growth.
 
 > A flower falls, even though we love it; and a weed grows, even though we do not love it.
-— Dogen-zenji
+— Dōgen-zenji
 
 > In calmness there should be activity; in activity there should be calmness. This harmony is the quality of being.
 — Shunryu Suzuki
@@ -14,7 +20,7 @@
 — Shunryu Suzuki
 
 > When you say something to someone, he may not accept it, but do not try to make him understand it intellectually. Do not argue with him; just listen to his objections until he himself finds something wrong with them.
-— Dogen-zenji
+— Dōgen-zenji
 
 > “Big mind is something to express, not something to figure out. Big mind is something you have, not something to seek for.”
 
@@ -23,8 +29,9 @@
 > People who know the state of emptiness will always be able to dissolve their problems by constancy.
 
 > To study Buddhism is to study ourselves. To study ourselves is to forget ourselves.
-— Dogen-zenji
+— Dōgen-zenji
+
 > Time goes from present to past.
-— Dogen-zenji
+— Dōgen-zenji
 
 > To give your sheep or cow a large, spacious meadow is the way to control him.
