@@ -26,6 +26,7 @@ There are 3 kinds of creation:
 * When we practice zazen we limit our activity to the smallest extent.
 * When you bow, you should just bow; when you sit, you should just sit; when you eat, you should just eat. If you do this, the universal nature is there.
 * Pleasure is not different from difficulty. Good is not different from bad. Bad is good; good is bad.
+* In activity there should be calmness, and in calmness there should be activity. Calmness and activity are not different.
 
 ## Communication
 
