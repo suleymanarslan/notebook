@@ -25,8 +25,10 @@ There are 3 kinds of creation:
 
 ## Practice
 
-> We should find perfect existence through imperfect existence.
+> Miracles are nothing other than fetching water and carrying firewood.
+— Layman Pangyun
 
+* We should find perfect existence through imperfect existence.
 * When we practice zazen we limit our activity to the smallest extent.
 * When you bow, you should just bow; when you sit, you should just sit; when you eat, you should just eat. If you do this, the universal nature is there.
 * Pleasure is not different from difficulty. Good is not different from bad. Bad is good; good is bad.
