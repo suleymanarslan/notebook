@@ -17,6 +17,10 @@ There are 3 kinds of creation:
 > Time goes from present to past.
 — Dōgen-zenji
 
+* Time is experienced in a paradoxical way in meditation. Dogen’s investigation of time was unique in ancient times. It is also useful for everyday life in the contemporary world. For Dogen, time is inseparable from self, from existence, and from space. Time is being. Time is no other than “time being.”
+* The reason you do not clearly understand the time being is that you think of time only as passing.
+* At the time the mountains were climbed and the rivers crossed, you were present. Time is not separate from you, and as you are present, time does not go away.
+* Mountains are time. Oceans are time. If they were not time, there would be no mountains or oceans.
 * Moment after moment each one of us repeats this activity. Here there is no idea of time or space. Time and space are one. You may say, “I must do something this afternoon,” but actually there is no “this afternoon.” We do things one after the other. That is all.
 
 ## Practice
