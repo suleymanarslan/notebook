@@ -1,8 +1,8 @@
-# Conscious Business: How to Build Value Through Values
+# Conscious Business
 
 
 * Author: Fred Kofman
-* GoodReads: [Link](https://www.goodreads.com/book/show/1169674.Conscious_Business)
+* GoodReads: [Conscious Business: How to Build Value Through Values](https://www.goodreads.com/book/show/1169674.Conscious_Business)
 
 ## Highlights
 
