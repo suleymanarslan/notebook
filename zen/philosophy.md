@@ -21,8 +21,11 @@ There are 3 kinds of creation:
 
 ## Practice
 
+> We should find perfect existence through imperfect existence.
+
 * When we practice zazen we limit our activity to the smallest extent.
 * When you bow, you should just bow; when you sit, you should just sit; when you eat, you should just eat. If you do this, the universal nature is there.
+* Pleasure is not different from difficulty. Good is not different from bad. Bad is good; good is bad.
 
 ## Communication
 
@@ -31,3 +34,7 @@ There are 3 kinds of creation:
 
 * When you listen to someone, you should give up all your preconceived ideas and your subjective opinions; you should just listen to him, just observe what his way is. We put very little emphasis on right and wrong or good and bad. We just see things as they are with him, and accept them.
 * Usually when you listen to some statement, you hear it as a kind of echo of yourself. You are actually listening to your own opinion.
+
+## Mindfulness 
+
+* The important thing in our understanding is to have a smooth, free-thinking way of observation. We have to think and to observe things without stagnation. We should accept things as they are without difficulty. Our mind should be soft and open enough to understand things as they are. When our thinking is soft, it is called imperturbable thinking. This kind of thinking is always stable. It is called mindfulness. Thinking which is divided in many ways is not true thinking. Concentration should be present in our thinking. This is mindfulness.
