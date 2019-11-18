@@ -7,6 +7,8 @@
 * **genchi gembutsu**: real location, real thing
 * **gyo**: practice
 * **hosshin (hotsu bodai shin)**: Aspiration for enlightenment
+* **ichigyo**: one practice.
+* **ichigyo-zammai**: one-act samadhi (concentration).
 * **kyo**: teaching
 * **nin** constancy, patience
 * **shimmitsu or shinsetsu**: intimate (used by Dogen)
