@@ -39,3 +39,14 @@ There are 3 kinds of creation:
 ## Mindfulness 
 
 * The important thing in our understanding is to have a smooth, free-thinking way of observation. We have to think and to observe things without stagnation. We should accept things as they are without difficulty. Our mind should be soft and open enough to understand things as they are. When our thinking is soft, it is called imperturbable thinking. This kind of thinking is always stable. It is called mindfulness. Thinking which is divided in many ways is not true thinking. Concentration should be present in our thinking. This is mindfulness.
+
+## Freedom
+
+* Freedom in Zen practice is not to do whatever one wants but to break through the seeming boundaries of subject and object as well as the distinctions between delusion and enlightenment that hinder us from the realization of things as they are.
+
+
+## Enlightenment
+
+* Enlightenment is like the moon reflected on the water. The moon does not get wet, nor is the water broken. Although its light is wide and great, the moon is reflected even in a puddle an inch wide.
+* Enlightenment does not divide you, just as the moon does not break the water.
+* Great enlightenment is the tea and rice of daily activity.
