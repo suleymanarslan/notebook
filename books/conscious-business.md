@@ -1,4 +1,10 @@
-# Conscious Business
+# Conscious Business: How to Build Value Through Values
+
+
+* Author: Fred Kofman
+* GoodReads: [Link](https://www.goodreads.com/book/show/1169674.Conscious_Business)
+
+## Highlights
 
 * We then must choose what matters more to each of us—knowing or learning. Real learning opens us to the fear of uncertainty and the embarrassment of incompetence, as well as the vulnerability of needing one another.
 * We begin to see day-to-day work as a continual dance of learning with and from one another, where what we achieve rests on the quality of our conversations—because our working together centers on how we talk, relate, and commit to one another and to our aims.
