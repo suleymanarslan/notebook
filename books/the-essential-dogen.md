@@ -1,4 +1,4 @@
-# The Essential Dogen: Writings of the Great Zen Master
+# The Essential Dōgen: Writings of the Great Zen Master
 
 * Author: Dōgen Zenji
 * Editors: Kazuaki Tanahashi and Peter Levitt
