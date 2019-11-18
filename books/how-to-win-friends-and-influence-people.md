@@ -1,5 +1,10 @@
 # How To Win Friends and Influence People
 
+* Author:  Mariya Yao, Adelyn Zhou, Marlene Jia
+* GoodReads: [How To Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+
+## Highlights
+
 * highest-paid personnel in engineering are frequently not those who know the most about engineering. One can, for example, hire mere technical ability in engineering, accountancy, architecture or any other profession at nominal salaries. But the person who has technical knowledge plus the ability to express ideas, to assume leadership, and to arouse enthusiasm among people—that person is headed for higher earning power.
 * “Education,” said Dr. John G. Hibben, former president of Princeton University, “is the ability to meet life’s situations.”
 * Bernard Shaw once remarked: “If you teach a man anything, he will never learn.” Shaw was right. Learning is an active process. We learn by doing.
