@@ -1,5 +1,10 @@
 # Applied AI: A Handbook For Business Leaders
 
+* Author:  Mariya Yao, Adelyn Zhou, Marlene Jia
+* GoodReads: [Applied Artificial Intelligence: A Handbook For Business Leaders](https://www.goodreads.com/book/show/40479164-applied-artificial-intelligence?ac=1&from_search=true&qid=ZGo7vB7G69&rank=1)
+
+## Highlights
+
 * experts in the field of AI prefer to use the term Artificial General Intelligence (AGI) to refer to machines with human-level or higher intelligence, capable of abstracting concepts from limited experience and transferring knowledge between domains. AGI is also called “Strong AI” to differentiate from “Weak AI” or “Narrow AI," which refers to systems designed for one specific task and whose capabilities are not easily transferable to other systems.
 * Differentiating between methods that are AI and those that are not can be tricky, and there is often overlap. You will find that simpler approaches often outperform complex ones in the wild, even if they’re intellectually less “advanced."
 * Inferential statistics is used to draw conclusions that apply to more than just the data being studied.
