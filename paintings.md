@@ -1,5 +1,9 @@
 # Paintings that I like
 
+#### Le petit talibé, Paul Alexandre Leroy 
+
+![](https://cldup.com/cSzWxaf0O6.jpg)
+
 #### Ludwig Deutsch (1855–1935)
 
 The Arab Teacher:
