@@ -1,5 +1,20 @@
 # Paintings that I like
 
+#### Ludwig Deutsch (1855–1935)
+
+The Arab Teacher:
+![](https://cldup.com/KnwGjaSOzI.jpg)
+
+Furniture Maker:
+![](https://cldup.com/_c6-ppG2Jj.jpg)
+
+The Smoker:
+![](https://cldup.com/WOOeTz20PK.jpg)
+
+The Chess Game:
+
+![](https://cldup.com/f4r-xm1aUm.jpg)
+
 #### Fausto Zonaro - Hamam
 
 ![](https://cldup.com/AYMlUKtwk4.jpg)
