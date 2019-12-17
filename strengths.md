@@ -25,7 +25,7 @@ They are good at figuring out what is wrong and resolving it.
 * **8. Self-Assurance**: People who are especially talented in the Self-Assurance theme feel confident in their ability to
 manage their own lives. They possess an inner compass that gives them confidence that their
 decisions are right.
-**9. Focus**: People who are especially talented in the Focus theme can take a direction, follow through, and
+* **9. Focus**: People who are especially talented in the Focus theme can take a direction, follow through, and
 make the corrections necessary to stay on track. They prioritize, then act.
 * **10. Responsibility**: People who are especially talented in the Responsibility theme take psychological ownership of
 what they say they will do. They are committed to stable values such as honesty and loyalty.
