@@ -58,6 +58,7 @@
 * If voices and visions pop up, just notice them and let them go. Don’t get involved.
 
 **Misconception 5: Meditation is dangerous, and a prudent person should avoid it.**
+
 **Misconception 6: Meditation is for saints and sadhus, not for regular people.**
 
 * Let us propose that there are levels of morality. The lowest level is adherence to a set of rules and regulations laid down by somebody else.
