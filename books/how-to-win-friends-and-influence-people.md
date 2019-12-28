@@ -1,6 +1,6 @@
 # How To Win Friends and Influence People
 
-* Author:  Mariya Yao, Adelyn Zhou, Marlene Jia
+* Author:  Dale Carnegie
 * GoodReads: [How To Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
 ## Highlights
