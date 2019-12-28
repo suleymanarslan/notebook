@@ -8,6 +8,9 @@
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
   
+> Strength is not born from strength. Strength can be born only from weakness. So be glad of your weaknesses now, they are the beginnings of your strength.
+―  Claire Weekes 
+  
 > In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.
 ― Ralph Waldo Emerson, Self-Reliance
 
