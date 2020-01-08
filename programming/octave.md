@@ -332,5 +332,3 @@ predictions =
 
 J = 0
 ```
-
-Example cost function:
