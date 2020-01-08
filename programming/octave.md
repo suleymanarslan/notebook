@@ -199,3 +199,41 @@ ans =
 % or, simply
 > v + 1
 ```
+
+## Plotting Data
+
+```octave
+> t = [0:0.01:0.98]
+> y1 = sin(2*pi*4*t)
+> y2 = cos(2*pi*4*t)
+> plot(t,y2)
+
+% update the plot while it's open
+> hold on;
+> plot(t, y1, 'b')
+> plot(t, y2, 'r')
+> xlabel('time')
+> ylabel('value')
+> legend('sin', 'cos')
+
+% Save it as PNG
+> print -dpng 'myplot.png'
+```
+
+Multiple plots;
+
+```octave
+> subplot(1,2,1)
+> plot(t,y1, 'b')
+> subplot(1,2,2)
+> plot(t,y1, 'r')
+```
+
+Color map;
+
+```octave
+> A = magic(5)
+> imagesc(A)
+
+> imagesc(A), colorbar, colormap gray
+```
