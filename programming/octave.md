@@ -237,3 +237,100 @@ Color map;
 
 > imagesc(A), colorbar, colormap gray
 ```
+
+## Control Statements
+
+For loops:
+
+```octave
+> v=zeros(10,1)
+> for i=1:10,
+    v(i) = 2^i;
+  end;
+> v
+v =
+
+      2
+      4
+      8
+     16
+     32
+     64
+    128
+    256
+    512
+   1024
+```
+
+While loops:
+
+```octave
+> i = 1
+> while i <= 5;
+    v(i) = 100;
+    i = i+1
+  end
+```
+
+If statements:
+
+```octave
+> v(1) = 2
+> if v(1)==1,
+    disp('the value is one')
+  elseif v(1) == 2,
+    disp('the value is two')
+  else
+    disp('the value is not one or two')
+  end
+```
+
+## Functions
+
+Create a file for the function defined;
+
+```octave
+% /home/azer/squareThisNumber.m
+
+function y = squareThisNumber(x)
+
+y = x^2;
+```
+
+```octave
+> cd '/home/azer'
+> squareThisNumber(5)
+25
+```
+
+### Example Cost Function
+
+Definition:
+
+```octave
+function J = costFunction(X, y, theta)
+
+  m = size(X, 1);
+  predictions = X*theta
+  sqrErrors = (predictions-y).^2;
+
+  J = 1/(2*m) * sum(sqrErrors)
+```
+
+Usage:
+
+```octave
+> X = [1 1; 1 2; 1 3]
+> y = [1;2;3]
+> theta = [0;1]
+> costFunction(X,y,theta)
+predictions =
+
+   1
+   2
+   3
+
+J = 0
+```
+
+Example cost function:
