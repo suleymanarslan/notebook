@@ -167,3 +167,35 @@ Saving changes:
 % save in human readable format;
 > save('hello.txt') -ascii
 ```
+
+## Computing on data
+
+```octave
+> A = [ 1 2; 3 4; 5 6; ]
+> A'
+ans =
+
+   1   3   5
+   2   4   6
+> B = [11 12; 13 14; 15 16]
+> C = [1 1; 2 2]
+> A*C
+ans =
+
+    5    5
+   11   11
+   17   17
+
+> v = [1; 2; 3]
+> 1 ./ v
+ans =
+
+   1.00000
+   0.50000
+   0.33333
+
+% increment every element of v by 1
+> v + ones(length(v), 1)
+% or, simply
+> v + 1
+```
