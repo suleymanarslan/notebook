@@ -1,7 +1,7 @@
 # Nonviolent Communication: A Language of Life
 
 * Author: Marshall B. Rosenberg
-* GoodReads: [Nonviolent Communication: A Language of Life](https://www.goodreads.com/book/show/71730.Nonviolent_Communication)
+* GoodReads: [Nonviolent Communication: A Language of Life](https://www.goodreads.com/book/show/26203640-nonviolent-communication)
 
 ## Highlights
 
