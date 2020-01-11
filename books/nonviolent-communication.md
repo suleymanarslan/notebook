@@ -5,10 +5,155 @@
 
 ## Highlights
 
-*[Unfortunately Kindle lost all my highlights until the middle of the book]*
+### 1. Giving From the Heart
+
+* NVC guides us in reframing how we express ourselves and hear others. Instead of habitual, automatic reactions, our words become conscious responses based firmly on awareness of what we are perceiving, feeling, and wanting.
+* We are led to express ourselves with honesty and clarity, while simultaneously paying others a respectful and empathic attention.
+* NVC trains us to observe carefully, and to be able to specify behaviors and conditions that are affecting us. We learn to identify and clearly articulate what we are concretely wanting in any given situation.
+* As NVC replaces our old patterns of defending, withdrawing, or attacking in the face of judgment and criticism, we come to perceive ourselves and others, as well as our intentions and relationships, in a new light.
+* When we focus on clarifying what is being observed, felt, and needed rather than on diagnosing and judging, we discover the depth of our own compassion.
+* There is a story of a man on all fours under a street lamp, searching for something. A policeman passing by asked what he was doing. “Looking for my car keys,” replied the man, who appeared slightly drunk. “Did you drop them here?” inquired the officer. “No,” answered the man, “I dropped them in the alley.” Seeing the policeman’s baffled expression, the man hastened to explain, “But the light is much better here.”
+* First, we observe what is actually happening in a situation: what are we observing others saying or doing that is either enriching or not enriching our life? The trick is to be able to articulate this observation without introducing any judgment or evaluation—to simply say what people are doing that we either like or don’t like. Next, we state how we feel when we observe this action: are we hurt, scared, joyful, amused, irritated? And thirdly, we say what needs of ours are connected to the feelings we have identified.
+* Four components of NVC:
+   1. observations
+   2. feelings
+   3. needs
+   4. requests
+* NVC Process The concrete actions we observe that affect our well-being How we feel in relation to what we observe The needs, values, desires, etc. that create our feelings The concrete actions we request in order to enrich our lives
+* NVC helps us connect with each other and ourselves in a way that allows our natural compassion to flourish. It guides us to reframe the way we express ourselves and listen to others by focusing our consciousness on four areas: what we are observing, feeling, and needing, and what we are requesting to enrich our lives.
+
+### 2. Communication That Blocks Compassion
+
+* One kind of life-alienating communication is the use of moralistic judgments that imply wrongness or badness on the part of people who don’t act in harmony with our values.
+* The Sufi poet Rumi once wrote, “Out beyond ideas of wrongdoing and right-doing, there is a field. I’ll meet you there.” Life-alienating communication, however, traps us in a world of ideas about rightness and wrongness—a world of judgments.
+* When we speak this language, we judge others and their behavior while preoccupying ourselves with who’s good, bad, normal, abnormal, responsible, irresponsible, smart, ignorant, etc.
+* In the world of judgments, our concern centers on “who is what.”
+* Our attention is focused on classifying, analyzing, and determining levels of wrongness rather than on what we and others need and are not getting.
+* If my colleague is more concerned about details than I am, he is “picky and compulsive.” On the other hand, if I am more concerned about details than he is, he is “sloppy and disorganized.”
+* Analyses of others are actually expressions of our own needs and values.
+* All of us make value judgments as to the qualities we value in life; for example, we might value honesty, freedom, or peace. Value judgments reflect our beliefs of how life can best be served.
+* We make moralistic judgments of people and behaviors that fail to support our value judgments;
+* The relationship between language and violence is the subject of psychology professor O.J. Harvey’s research at the University of Colorado. He took random samples of pieces of literature from many countries around the world and tabulated the frequency of words that classify and judge people. His study shows a high correlation between frequent use of such words and frequency of incidents.
+* There is considerably less violence in cultures where people think in terms of human needs than in cultures where people label one another as “good” or “bad” and believe that the “bad” ones deserve to be punished.
+* In 75 percent of the television programs shown during hours when American children are most likely to be watching, the hero either kills people or beats them up. This violence typically constitutes the “climax” of the show. Viewers, having been taught that bad guys deserve to be punished, take pleasure in watching this violence.
+* Classifying and judging people promotes violence.
+* He suggests that if readers have a sincere desire to make life miserable for themselves, they might learn to compare themselves to other people.
+* Comparisons are a form of judgment.
+* Denial of Responsibility Another kind of life-alienating communication is denial of responsibility. Communication is life-alienating when it clouds our awareness that we are each responsible for our own thoughts, feelings, and actions. The use of the common expression have to, as in “There are some things you have to do, whether you like it or not,” illustrates how personal responsibility for our actions can be obscured in speech.
+* Our language obscures awareness of personal responsibility.
+* We deny responsibility for our actions when we attribute their cause to factors outside ourselves: Vague, impersonal forces—“I cleaned my room because I had to.” Our condition, diagnosis, or personal or psychological history—“I drink because I am an alcoholic.” The actions of others—“I hit my child because he ran into the street.” The dictates of authority—“I lied to the client because the boss told me to.” Group pressure—“I started smoking because all my friends did.” Institutional policies, rules, and regulations—“I have to suspend you for this infraction because it’s the school policy.” Gender roles, social roles, or age roles—”I hate going to work, but I do it because I am a husband and a father.” Uncontrollable impulses—“I was overcome by my urge to eat the candy bar.”
+* We are dangerous when we are not conscious of our responsibility for how we behave, think, and feel.
+* Communicating our desires as demands is yet another form of language that blocks compassion. A demand explicitly or implicitly threatens listeners with blame or punishment if they fail to comply. It is a common form of communication in our culture, especially among those who hold positions of authority.
+* We can never make people do anything.
+* The concept that certain actions merit reward while others merit punishment is also associated with life-alienating communication.
+* I believe it is in everyone’s interest that people change, not in order to avoid punishment, but because they see the change as benefiting themselves.
+* Thinking based on “who deserves what” blocks compassionate communication.
+* Life-alienating communication has deep philosophical and political roots.
+* Life-alienating communication both stems from and supports hierarchical or domination societies, where large populations are controlled by a small number of individuals to those individuals, own benefit.
+* The language of wrongness, should, and have to is perfectly suited for this purpose: the more people are trained to think in terms of moralistic judgments that imply wrongness and badness, the more they are being trained to look outside themselves—to outside authorities—for the definition of what constitutes right, wrong, good, and bad.
+
+### Observing Without Evaluating
+
+* The first component of NVC entails the separation of observation from evaluation. We need to clearly observe what we are seeing, hearing, or touching that is affecting our sense of well-being, without mixing in any evaluation.
+* When we combine observation with evaluation, we decrease the likelihood that others will hear our intended message. Instead, they are apt to hear criticism and thus resist whatever we are saying.
+* Semanticist Wendell Johnson pointed out that we create many problems for ourselves by using static language to express or capture a reality that is ever changing: “Our language is an imperfect instrument created by ancient and ignorant men. It is an animistic language that invites us to talk about stability and constants, about similarities and normal and kinds, about magical transformations, quick cures, simple problems, and final solutions. Yet the world we try to symbolize with this language is a world of process, change, differences, dimensions, functions, relationships, growths, interactions, developing, learning, coping, complexity. And the mismatch of our ever-changing world and our relatively static language forms is part of our problem.”
+* When we combine observation with evaluation, people are apt to hear criticism.
+* The Indian philosopher J. Krishnamurti once remarked that observing without evaluating is the highest form of human intelligence.
+* The first component of NVC is to observe without evaluating; the second component is to express how we are feeling.
+
+### 4. Identifying and Expressing Feelings
+
+* The first component of NVC is to observe without evaluating; the second component is to express how we are feeling.
+* Expressing our vulnerability can help resolve conflicts.
+* Distinguish feelings from thoughts.
+* Conversely, in the English language, it is not necessary to use the word feel at all when we are actually expressing a feeling: we can say, “I’m feeling irritated,” or simply, “I’m irritated.”
+* Distinguish between what we feel and what we think we are.
+* Distinguish between what we feel and how we think others react or behave toward us.
+* Words like ignored express how we interpret others, rather than how we feel. Here is a sampling of such words: abandoned, abused, attacked, betrayed, boxed-in, bullied, cheated, coerced, co-opted, cornered, diminished, distrusted, interrupted, intimidated, let down, manipulated, misunderstood, neglected, overworked, patronized, pressured, provoked, put down, rejected, taken for granted, threatened, unappreciated, unheard, unseen, unsupported, unwanted, used
+* How we are likely to feel when our needs are being met: absorbed, adventurous, affectionate, alert, alive, amazed, amused, animated, appreciative, ardent, aroused, astonished, blissful, breathless, buoyant, calm, carefree, cheerful, comfortable, complacent, composed, concerned, confident, contented, cool, curious, dazzled, delighted, eager, ebullient, ecstatic, effervescent, elated, enchanted, encouraged, energetic, engrossed, enlivened, enthusiastic, excited, exhilarated, expansive, expectant, exultant, fascinated, free, friendly, fulfilled, glad, gleeful, glorious, glowing, good,humored, grateful, gratified, happy, helpful, hopeful, inquisitive, inspired, intense, interested, intrigued, invigorated, involved, joyous, joyful, jubilant, keyed-up, loving, mellow, merry, mirthful, moved, optimistic, overjoyed, overwhelmed, peaceful, perky, pleasant, pleased, proud, quiet, radiant, rapturous, refreshed, relaxed, relieved, satisfied, secure, sensitive, serene, spellbound, splendid, stimulated, surprised, tender, thankful, thrilled, touched, tranquil, trusting, upbeat, warm, wide-awake, wonderful, zestful
+* How we are likely to feel when our needs are not being met: afraid, aggravated, agitated, alarmed, aloof, angry, anguished, annoyed, anxious, apathetic, apprehensive, aroused, ashamed, beat, bewildered, bitter, blah, blue, bored, brokenhearted, chagrined, cold, concerned, confused, cool, cross, dejected, depressed, despairing, despondent, detached, disaffected, disappointed, discouraged, disenchanted, disgruntled, disgusted, disheartened, dismayed, displeased, disquieted, distressed, disturbed, downcast, downhearted, dull, edgy, embarrassed, embittered, exasperated, exhausted, fatigued, fearful, fidgety, forlorn, frightened, frustrated, furious, gloomy, guilty, harried, heavy, helpless, hesitant, horrible, horrified, hostile, hot, humdrum, hurt, impatient, indifferent, intense, irate, irked, irritated, jealous, jittery, keyed-up, lazy, leery, lethargic, listless, lonely, mad, mean, miserable, mopey, morose, mournful, nervous, nettled, numb, overwhelmed, panicky, passive, perplexed, pessimistic, puzzled, rancorous, reluctant, repelled, resentful, restless, sad, scared, sensitive, shaky, shocked, skeptical, sleepy, sorrowful, sorry, spiritless, startled, surprised, suspicious, tepid, terrified, tired, troubled, uncomfortable, unconcerned, uneasy, unglued, unhappy, unnerved, unsteady, upset, uptight, vexed, weary, wistful, withdrawn, woeful, worried, wretched.
+* By developing a vocabulary of feelings that allows us to clearly and specifically name or identify our emotions, we can connect more easily with one another. Allowing ourselves to be vulnerable by expressing our feelings can help resolve conflicts.
+* NVC distinguishes the expression of actual feelings from words and statements that describe thoughts, assessments, and interpretations.
 
 ### 5. Taking Responsibility for Our Feelings
+* People are disturbed not by things, but by the view they take of them. —Epictetus
+* NVC heightens our awareness that what others say and do may be the stimulus, but never the cause, of our feelings.
+* What others do may be the stimulus of our feelings, but not the cause.
+* When someone gives us a negative message, whether verbally or nonverbally, we have four options as to how to receive it. One option is to take it personally by hearing blame and criticism.
+* We accept the other person’s judgment and blame ourselves. We choose this option at great cost to our self-esteem, for it inclines us toward feelings of guilt, shame, and depression.
+* Four options for receiving negative messages: 1. blame ourselves.
+* 2. blame others. Second option is to fault the speaker.
+* When we receive messages this way, and blame the speaker, we are likely to feel anger.
+* Our third option would be to shine the light of consciousness on our own feelings and needs.
+* Thus, we might reply, “When I hear you say that I am the most self-centered person you’ve ever met, I feel hurt, because I need some recognition of my efforts to be considerate of your preferences.”
+* 3. sense our own feelings and needs. Finally, a fourth option on receiving a negative message is to shine the light of consciousness on the other person’s feelings and needs as they are currently expressed. We might for example ask, “Are you feeling hurt because you need more consideration for your preferences?”
+* 4. sense others’ feelings and needs. We accept responsibility for our feelings, rather than blame other people, by acknowledging our own needs, desires, expectations, values, or thoughts.
+* The basic mechanism of motivating by guilt is to attribute the responsibility for one’s own feelings to others.
+* Distinguish between giving from the heart and being motivated by guilt.
+* Judgments, criticisms, diagnoses, and interpretations of others are all alienated expressions of our needs.
+* When we express our needs indirectly through the use of evaluations, interpretations, and images, others are likely to hear criticism. And when people hear anything that sounds like criticism, they tend to invest their energy in self-defense or counterattack.
+* If we wish for a compassionate response from others, it is self-defeating to express our needs by interpreting or diagnosing their behavior. Instead, the more directly we can connect our feelings to our own needs, the easier it is for others to respond to us compassionately.
+* If we express our needs, we have a better chance of getting them met.
+* Unfortunately, most of us have never been taught to think in terms of needs. We are accustomed to thinking about what’s wrong with other people when our needs aren’t being fulfilled.
+* Here were people who had come together to build trust and harmony, but after only one interchange, matters were worse than before they began. This happens often when people are used to analyzing and blaming one another rather than clearly expressing what they need.
+* It has been my experience over and over again that from the moment people begin talking about what they need rather than what’s wrong with one another, the possibility of finding ways to meet everybody’s needs is greatly increased.
+* The following are some of the basic human needs we all share:
 
+  **Autonomy**
+  to choose one’s dreams, goals, values
+  to choose one’s plan for fulfilling one’s dreams, goals, values
+
+  **Celebration**
+  to celebrate the creation of life and dreams fulfilled
+  to celebrate losses: loved ones, dreams, etc. (mourning)
+
+  **Integrity**
+  authenticity
+  creativity
+  meaning
+  self-worth
+
+  **Interdependence**
+  acceptance
+  appreciation
+  closeness
+  community
+  consideration
+  contribution to the enrichment of life (to exercise one’s power by giving that which contributes to life)
+  emotional safety
+  empathy
+  honesty (the empowering honesty that enables us to learn from our limitations)
+  love
+  reassurance
+  respect
+  support
+  trust
+  understanding
+  warmth
+
+  **Play**
+  fun
+  laughter
+
+  **Spiritual**
+  Communion
+  beauty
+  harmony
+  inspiration
+  order
+  peace
+
+  **Physical**
+  Nurturance
+  air
+  food
+  movement, exercise
+  protection from life-threatening forms of life: viruses, bacteria, insects, predatory animals
+  rest
+  sexual expression
+  shelter
+  touch
+  water
 * For centuries, the image of the loving woman has been associated with sacrifice and the denial of one’s own needs to take care of others. Because women are socialized to view the caretaking of others as their highest duty, they often learn to ignore their own needs.
 * If we don’t value our needs, others may not either.
 * Stage 1: In this stage, which I refer to as emotional slavery, we believe ourselves responsible for the feelings of others. We think we must constantly strive to keep everyone happy. If they don’t appear happy, we feel responsible and compelled to do something about it. This can easily lead us to see the very people who are closest to us as burdens.
