@@ -87,15 +87,12 @@
 * People are disturbed not by things, but by the view they take of them. —Epictetus
 * NVC heightens our awareness that what others say and do may be the stimulus, but never the cause, of our feelings.
 * What others do may be the stimulus of our feelings, but not the cause.
-* When someone gives us a negative message, whether verbally or nonverbally, we have four options as to how to receive it. One option is to take it personally by hearing blame and criticism.
-* We accept the other person’s judgment and blame ourselves. We choose this option at great cost to our self-esteem, for it inclines us toward feelings of guilt, shame, and depression.
-* Four options for receiving negative messages: 1. blame ourselves.
-* 2. blame others. Second option is to fault the speaker.
-* When we receive messages this way, and blame the speaker, we are likely to feel anger.
-* Our third option would be to shine the light of consciousness on our own feelings and needs.
-* Thus, we might reply, “When I hear you say that I am the most self-centered person you’ve ever met, I feel hurt, because I need some recognition of my efforts to be considerate of your preferences.”
-* 3. sense our own feelings and needs. Finally, a fourth option on receiving a negative message is to shine the light of consciousness on the other person’s feelings and needs as they are currently expressed. We might for example ask, “Are you feeling hurt because you need more consideration for your preferences?”
-* 4. sense others’ feelings and needs. We accept responsibility for our feelings, rather than blame other people, by acknowledging our own needs, desires, expectations, values, or thoughts.
+* When someone gives us a negative message, whether verbally or nonverbally, we have four options as to how to receive it. 
+  1. **Option 1: Blame ourselves.** One option is to take it personally by hearing blame and criticism. We accept the other person’s judgment and blame ourselves. We choose this option at great cost to our self-esteem, for it inclines us toward feelings of guilt, shame, and depression.
+  2. **Option 2: Blame others.** Second option is to fault the speaker. When we receive messages this way, and blame the speaker, we are likely to feel anger.
+  3. **Option 3: Sense our own feelings and needs.** Our third option would be to shine the light of consciousness on our own feelings and needs. Thus, we might reply, “When I hear you say that I am the most self-centered person you’ve ever met, I feel hurt, because I need some recognition of my efforts to be considerate of your preferences.”
+  4. **Option 4: Sense others’ feelings and needs.** a fourth option on receiving a negative message is to shine the light of consciousness on the other person’s feelings and needs as they are currently expressed. We might for example ask, “Are you feeling hurt because you need more consideration for your preferences?”
+* We accept responsibility for our feelings, rather than blame other people, by acknowledging our own needs, desires, expectations, values, or thoughts.
 * The basic mechanism of motivating by guilt is to attribute the responsibility for one’s own feelings to others.
 * Distinguish between giving from the heart and being motivated by guilt.
 * Judgments, criticisms, diagnoses, and interpretations of others are all alienated expressions of our needs.
@@ -250,12 +247,12 @@
 * After having acknowledged that you choose to do a particular activity, get in touch with the intention behind your choice by completing the statement, I choose to … because I want ….
 * With every choice you make, be conscious of what need it serves.
 * For some items on your list, however, you might uncover one or several of the following motivations:
-* FOR MONEY: Money is a major form of extrinsic reward in our society.
-* FOR APPROVAL: As adults, we easily trick ourselves into believing that life consists of doing things for reward; we are addicted to getting a smile, a pat on the back, and people’s verbal judgments that we are a “good person,” “good parent,” “good citizen,” “good worker,” “good friend,” and so forth. We do things to get people to like us and avoid things that may lead people to dislike or punish us.
-* I find it tragic that we work so hard to buy love and assume that we must deny ourselves and do for others in order to be liked.
-* In fact, when we do things solely in the spirit of enhancing life, we will find others appreciating us.
-* TO ESCAPE PUNISHMENT, TO AVOID SHAME
-* TO AVOID GUILT: There is a world of difference between doing something for others in order to avoid guilt and doing it out of a clear awareness of our own need to contribute to the happiness of other human beings. The first is a world filled with misery; the second is a world filled with play.
+  * **For money:** Money is a major form of extrinsic reward in our society.
+  * **For approval:** As adults, we easily trick ourselves into believing that life consists of doing things for reward; we are addicted to getting a smile, a pat on the back, and people’s verbal judgments that we are a “good person,” “good parent,” “good citizen,” “good worker,” “good friend,” and so forth. We do things to get people to like us and avoid things that may lead people to dislike or punish us.
+  * I find it tragic that we work so hard to buy love and assume that we must deny ourselves and do for others in order to be liked.
+  * In fact, when we do things solely in the spirit of enhancing life, we will find others appreciating us.
+  * **To escape punishment, to avoid shame**
+  * **To avoid guilt:** There is a world of difference between doing something for others in order to avoid guilt and doing it out of a clear awareness of our own need to contribute to the happiness of other human beings. The first is a world filled with misery; the second is a world filled with play.
 * Be conscious of actions motivated by the desire for money or approval, and by fear, shame, or guilt. Know the price you pay for them.
 * The most dangerous of all behaviors may consist of doing things “because we’re supposed to.”
 
