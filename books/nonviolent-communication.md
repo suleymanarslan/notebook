@@ -41,7 +41,15 @@
 * Comparisons are a form of judgment.
 * Denial of Responsibility Another kind of life-alienating communication is denial of responsibility. Communication is life-alienating when it clouds our awareness that we are each responsible for our own thoughts, feelings, and actions. The use of the common expression have to, as in “There are some things you have to do, whether you like it or not,” illustrates how personal responsibility for our actions can be obscured in speech.
 * Our language obscures awareness of personal responsibility.
-* We deny responsibility for our actions when we attribute their cause to factors outside ourselves: Vague, impersonal forces—“I cleaned my room because I had to.” Our condition, diagnosis, or personal or psychological history—“I drink because I am an alcoholic.” The actions of others—“I hit my child because he ran into the street.” The dictates of authority—“I lied to the client because the boss told me to.” Group pressure—“I started smoking because all my friends did.” Institutional policies, rules, and regulations—“I have to suspend you for this infraction because it’s the school policy.” Gender roles, social roles, or age roles—”I hate going to work, but I do it because I am a husband and a father.” Uncontrollable impulses—“I was overcome by my urge to eat the candy bar.”
+* We deny responsibility for our actions when we attribute their cause to factors outside ourselves: 
+  * Vague, impersonal forces—“I cleaned my room because I had to.” 
+  * Our condition, diagnosis, or personal or psychological history—“I drink because I am an alcoholic.” 
+  * The actions of others—“I hit my child because he ran into the street.” 
+  * The dictates of authority—“I lied to the client because the boss told me to.” 
+  * Group pressure—“I started smoking because all my friends did.” 
+  * Institutional policies, rules, and regulations—“I have to suspend you for this infraction because it’s the school policy.” 
+  * Gender roles, social roles, or age roles—”I hate going to work, but I do it because I am a husband and a father.” 
+  * Uncontrollable impulses—“I was overcome by my urge to eat the candy bar.”
 * We are dangerous when we are not conscious of our responsibility for how we behave, think, and feel.
 * Communicating our desires as demands is yet another form of language that blocks compassion. A demand explicitly or implicitly threatens listeners with blame or punishment if they fail to comply. It is a common form of communication in our culture, especially among those who hold positions of authority.
 * We can never make people do anything.
