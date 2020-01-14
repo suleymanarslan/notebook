@@ -35,7 +35,7 @@ Or [get a  Bürgeramt appointment](https://service.berlin.de/dienstleistung/1206
 
 #### Blue Card
 
-* [Change of Employer](https://service.berlin.de/dienstleistung/326856/standort/121885/en/)
+* [Change of Employer](https://service.berlin.de/dienstleistung/326856/standort/121885/en/) / [Appointment](https://formular.berlin.de/jfs/findform?shortname=OTVBerlin&formtecid=4&areashortname=LABO)
 
 #### Driving License
 
