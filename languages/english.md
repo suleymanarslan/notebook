@@ -111,11 +111,19 @@ Adjective
        the time of measuring or collating
 ```
 
+
+#### cynical
+
+```
+believing that people are motivated purely by self-interest; distrustful of human sincerity or integrity.
+```
+
 #### cynics
 
 ```
 a person who believes that people are motivated purely by self-interest rather than acting for honourable or unselfish reasons.
 ```
+
 
 #### demystify
 
