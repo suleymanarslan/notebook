@@ -2,6 +2,7 @@
 
 | Date | Planking | Push ups | Inclining Push ups | Declining Push ups | Atomic Push ups | Sit ups | Knee Raise |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 24.01.2020 | - | 20 | - | - | - | - | 10 | 
 | 18.01.2020 | 5 mins | 20 | 20 | 0 | 20 | - | 20 |
 | 12.01.2020 | 5 mins | - | - | - | 30 | - | - |
 | 08.09.2019 | 5 mins | 50 | 60 | 20 | 40 | - | 40 |
