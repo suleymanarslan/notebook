@@ -22,3 +22,4 @@
 | zh    | View hidden files          |
 | /     | Search                     |
 | cd    | Change directory           |
+| 1l    | unzip selected file        |
