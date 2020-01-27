@@ -258,13 +258,14 @@ INDEXLER
     devrimin gonderecegi notlarda istatistigi sorgulamak icin gerekli sorgular var.
   
   * BIR TEST VE SONUCU:
-      pagila2=# EXPLAIN select * from rental where rental_id < 10;
+  ```
+      pagila2=EXPLAIN select * from rental where rental_id < 10;
                                       QUERY PLAN                                 
       ---------------------------------------------------------------------------
        Index Scan using rental_pkey on rental  (cost=0.00..8.32 rows=4 width=36)
          Index Cond: (rental_id < 10)
       (2 rows)
-
+  ```
   * FILLFACTOR KAVRAMI
     postgres verileri 8k lik bloklarda saklar.insert agirlikli islemler icin blogun fillfactor
     degeri %90 (varsayilan deger budur), update agirlikli ise %30 iyidir.hic insert yoksa 10% daha iyidir.
