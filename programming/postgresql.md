@@ -281,7 +281,8 @@ INHERITANCE
  ogrencileri listeleyince, baskanlardaki data da listelenir, mantik class inheritance dan biraz farkli.
  - ALTER TABLE ogrenciler ALTER COLUMN ad TYPE varchar(120);
  - baskanlarla ogrencilerin column tipi ayni anda degisir.
- # super table uzerinden insert yapmak mumkun mu?
+ 
+ - super table uzerinden insert yapmak mumkun mu?
 
 
 PARTITIONING (CONSTRAINT EXCLUSION) (BOLUMLEME!)
@@ -316,8 +317,8 @@ haydi bir rule olusturalim:
     DO INSTEAD
     INSERT INTO log_a VALUES(NEW.id,NEW.logdate,NEW.log);
   - her bir rule'a bir do instead yaziliyor.
-    # new operator insert yerine select veya update yazilirsa nolur? 
-    # OLD DA VAR.
+    - new operator insert yerine select veya update yazilirsa nolur? 
+    - OLD DA VAR.
 
 partition ozelligini acmak icin:
 SET constraint_exclusion TO on;
