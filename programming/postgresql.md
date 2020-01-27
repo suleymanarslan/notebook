@@ -1,6 +1,6 @@
 # PostgreSQL
 
-These notes were taken 
+These notes were taken in 2009 in a session organized by [Devrim Gündüz](https://people.planetpostgresql.org/devrim/).
 
 
 YARDIM ALMAK
