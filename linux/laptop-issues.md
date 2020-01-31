@@ -49,3 +49,28 @@ $ systemctl start suspend-fix.service
 ```
 
 Disabling only XHC1 is not recommended if you have this bug, since it may result in glitchy behavior.
+
+## Restart Network After Suspend
+
+restart-network.sh
+
+```
+echo "Restarting network"
+
+modprobe -r brcmfmac
+modprobe brcmfmac
+systemctl restart NetworkManager
+```
+
+service:
+
+```
+[Unit]
+Description=Restart network when resumed
+
+[Service]
+ExecStart=/bin/bash /home/azer/localbin/restart-network.sh
+
+[Install]
+WantedBy=suspend.target
+```
