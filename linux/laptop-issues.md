@@ -1,5 +1,14 @@
 # Laptop Issues
 
+## Debugging 
+
+Get logs to see what happens after closing the lid:
+
+```
+$ journalctl -b -1 -p3
+```
+
+
 ## Wake Up After Suspend
 
 Source: [Arch Linux Wiki](https://wiki.archlinux.org/index.php/Mac#Wake_Up_After_Suspend)
