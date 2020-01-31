@@ -2,6 +2,20 @@
 
 See also [filesystems.md](./filesystems.md)
 
+## Mounting as user
+
+Get id of the current user:
+
+```
+$ id `whoami`
+```
+
+Mount with the id:
+
+```
+sudo mount -o umask=0022,gid=$id,uid=$id /dev/sdX /media/external
+```
+
 ## List
 
 Using `fdisk`:
