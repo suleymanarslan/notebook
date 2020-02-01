@@ -1,6 +1,48 @@
-# Laptop Issues
+# Linux on Macbook Pro
 
-## Debugging 
+## Wireless Issues
+
+#### Debugging
+
+Check the network driver:
+
+```
+$ lspci | grep Network
+```
+
+Enabled devices:
+
+```
+$ iwconfig
+```
+
+#### Reloading Modules
+
+You may need to load an alternative Broadcom driver. To do this, begin by ensuring that all Broadcom drivers have been unloaded.
+
+```
+$ rmmod ssb
+$ rmmod bcma
+$ rmmod b43
+$ rmmod wl
+```
+
+Then try loading brcmfmac again.
+
+```
+$ rmmod bcma
+```
+
+Wait a few seconds and then list your network interfaces again. If you still can't see your wireless interface, unload brcmfmac again and try reloading wl.
+
+```
+$ rmmod bcma
+$ modprobe wl
+```
+
+## Lid Issues
+
+#### Debugging 
 
 Get logs to see what happens after closing the lid:
 
@@ -9,7 +51,7 @@ $ journalctl -b -1 -p3
 ```
 
 
-## Wake Up After Suspend
+#### Wake Up After Suspend
 
 Source: [Arch Linux Wiki](https://wiki.archlinux.org/index.php/Mac#Wake_Up_After_Suspend)
 
@@ -50,7 +92,7 @@ $ systemctl start suspend-fix.service
 
 Disabling only XHC1 is not recommended if you have this bug, since it may result in glitchy behavior.
 
-## Restart Network After Suspend
+#### Restart Network After Suspend
 
 restart-network.sh
 
