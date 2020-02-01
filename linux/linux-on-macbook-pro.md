@@ -22,6 +22,12 @@ or
 $ iwconfig
 ```
 
+Check dmesg logs:
+
+```
+$ dmesg | grep wl
+```
+
 #### Reloading Modules
 
 You may need to load an alternative Broadcom driver. To do this, begin by ensuring that all Broadcom drivers have been unloaded.
