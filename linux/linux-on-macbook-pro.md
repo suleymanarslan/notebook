@@ -10,7 +10,13 @@ Check the network driver:
 $ lspci | grep Network
 ```
 
-Enabled devices:
+List enabled network adapters:
+
+```
+$ ip link
+```
+
+or 
 
 ```
 $ iwconfig
