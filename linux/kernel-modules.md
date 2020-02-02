@@ -24,10 +24,22 @@ Load a kernel module:
 $ modprobe foobar
 ```
 
+To load a module in the boot;
+
+```
+$ echo "foobar" > /etc/modules-load.d/foobar.conf
+```
+
 ## Blacklisting
 
 Example: `/etc/modprobe.d/nobeep.conf`
 
 ```
 blacklist pcspkr
+```
+
+To verify if a module is blacklisted;
+
+```
+journalctl -b | grep foobar
 ```
