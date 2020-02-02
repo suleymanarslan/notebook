@@ -106,24 +106,15 @@ Disabling only XHC1 is not recommended if you have this bug, since it may result
 
 #### Restart Network After Suspend
 
-restart-network.sh
-
-```
-echo "Restarting network"
-
-modprobe -r brcmfmac
-modprobe brcmfmac
-systemctl restart NetworkManager
-```
 
 service:
 
 ```
 [Unit]
-Description=Restart network when resumed
+Description=Restart network when resumed after suspend
 
 [Service]
-ExecStart=/bin/bash /home/azer/localbin/restart-network.sh
+ExecStart=/bin/sh -c "modprobe -r brcmfmac && modprobe brcmfmac && sleep 1 && systemctl restart netctl"
 
 [Install]
 WantedBy=suspend.target
