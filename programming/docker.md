@@ -1,5 +1,14 @@
 # Docker
 
+## Setting it up
+
+Get rid of `sudo`:
+
+```
+$ sudo groupadd docker # if necessary
+$ sudo usermod -aG docker $USER
+```
+
 ## Images
 
 #### Pull and run an image
