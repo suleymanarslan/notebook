@@ -1,5 +1,31 @@
 ## SQL
 
+### Emoji Support
+
+Enable in entire DB:
+
+```sql
+ALTER DATABASE
+    database_name
+    CHARACTER SET = utf8mb4
+    COLLATE = utf8mb4_unicode_ci;
+```
+
+Only in selected table:
+
+```sql
+ALTER TABLE
+    table_name
+    CONVERT TO CHARACTER SET utf8mb4
+    COLLATE utf8mb4_unicode_ci;
+```
+
+Update the DB driver: 
+
+```
+root:root@tcp(127.0.0.1 :3306)/DB_NAME?parseTime=1&charset=utf8mb4&collation=utf8mb4_unicode_ci
+```
+
 ### Run SQL Query & Save Results to File
 
 ```bash
