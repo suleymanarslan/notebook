@@ -1,5 +1,8 @@
 ## Türkçe
 
+> Hepimiz kendi masallarımızın kurbanıyız.
+— Saatleri Ayarlama Enstitüsü, Ahmet Hamdi Tanpınar
+
 > Dermân arardım derdime derdim bana dermân imiş, Bürhân sorardım aslıma aslım bana bürhân imiş
 — Niyazı-i Mısri
 
