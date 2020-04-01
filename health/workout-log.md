@@ -2,6 +2,7 @@
 
 | Date | Planking | Push ups | Inclining Push ups | Declining Push ups | Atomic Push ups | Sit ups | Knee Raise |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 01.04.2020 | - | - | - | - | 20 | - | 20 | 
 | 31.03.2020 | - | 20 | - | - | 20 | - | 40 | 
 | 27.03.2020 | - | 40 | - | - | - | - | 40 | 
 | 26.03.2020 | - | - | - | - | - | - | 10 | 
