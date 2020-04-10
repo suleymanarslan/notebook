@@ -133,10 +133,28 @@ make (a difficult or esoteric subject) clearer and easier to understand.
 "this book attempts to demystify technology"
 ```
 
+#### dendritic
+
+```
+having a branched form resembling a tree.
+```
+
 #### dense
 
 ```
 closely compacted in substance.
+```
+
+#### detrimental
+
+```
+tending to cause harm.
+```
+
+#### dissuade
+
+```
+persuade (someone) not to take a particular course of action.
 ```
 
 #### ease 
@@ -195,9 +213,17 @@ lend greater dignity or nobility of character to.
 "the theater is a moral instrument to ennoble the mind"
 ```
 
+#### frown
+
+```
+furrow one's brows in an expression indicating disapproval, displeasure, or concentration.
+```
+
 #### fulfillment
 
+```
 the achievement of something desired, promised, or predicted
+```
 
 #### gloomy
 
@@ -333,6 +359,13 @@ Noun
 (especially in former times) a person of noble rank or birth.
 ```
 
+#### nourish
+
+```
+provide with the food or other substances necessary for growth, health, and good condition.
+keep (a feeling or belief) in one's mind, typically for a long time.
+```
+
 #### nudge
 
 ```
@@ -365,6 +398,12 @@ STATISTICS
 (of variates) statistically independent.
 ```
 
+#### palatable
+
+```
+(of food or drink) pleasant to taste.
+(of an action or proposal) acceptable or satisfactory.
+```
 
 #### pinnacle
 
