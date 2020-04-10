@@ -39,10 +39,6 @@ Resillience is the ability to bounce back.
 * Blame
 * Learned helplesness
 
-## Proactive Thinking
-
-
-
 ## Self-distancing
 
 5 self-distancing techniques:
@@ -61,6 +57,19 @@ Resillience is the ability to bounce back.
 | Lack of acceptance             | Acceptance                          |
 | Spreading sense of less        | Pain becomes less intense over time |
 | Self hatred & blame            | Moving on                           |
+
+
+
+## Changing Our Mindset
+
+> People are not disturbed by things, but by the views they take of them.
+―  Epictetus
+
+* Our mindset - the way we view or approach the world and life's problems - often determines our level of resilience, and thus how we cope with change and loss.
+* The psychologist Carol Dweck suggests that developing more of a growth mindset can help us make fundamental  changes in our lives.
+* A "Growth Mindset" is the belief that you have, or can gain, the tools to support you and help you move forward even in those times when you have no control over events.
+* This way of thinking can be cultivated.
+* A key step is to take responsibility without being too hard on ourselves: feeling bad about something can motivate us to rectify the situation or to change for better, whilst being too hard on ourselves can actually hold us back from acting.
 
 ## Understanding Your Resources
 
