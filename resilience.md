@@ -71,11 +71,10 @@ Resillience is the ability to bounce back.
 
 ## Fixed Mindset vs. Growth Mindset
 
-|            | Fixed Mindset                                                          | Growth Mindset                                                    |
-| ---        | ----                                                                   | ---                                                               |
-| Skills     | Something you're born with, fixed                                      | Comes from hard work, can always improve                          |
-| Challenges | Something to avoid, could reveal lack of skill, tend to give up easily | Should be embraced, an opportunity to grow, more persistant       |
-| Effort     | Unnecessary, something you do when you are not good enough             | Essential, a path to mastery                                      |
-| Feedback   | Get defensive, take it personally                                      | Useful, something to learn from others, identify areas to improve |
-| Setbacks   | Blame others, get discouraged                                          | Use as a wake up call to use a different approach next time       |
-|            |
+|   | Fixed Mindset  | Growth Mindset  |
+| --- | ---- | --- |
+| **Skills**     | Something you're born with, fixed  | Comes from hard work, can always improve                          |
+| **Challenges** | Something to avoid, could reveal lack of skill, tend to give up easily | Should be embraced, an opportunity to grow, more persistant  |
+| **Effort**     | Unnecessary, something you do when you are not good enough  | Essential, a path to mastery                                      |
+| **Feedback**   | Get defensive, take it personally  | Useful, something to learn from others, identify areas to improve |
+| **Setbacks**   | Blame others, get discouraged  | Use as a wake up call to use a different approach next time       |
