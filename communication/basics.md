@@ -61,9 +61,9 @@ The other person:
 ## The Line
 
 ```
-open        curious           willing to learn
---------------------------------------------------------
-closed      defensive         concerned with being right
+open                      curious                     willing to learn
+-----------------------------------------------------------------------------------
+closed                    defensive                   concerned with being right
 ```
 
 
@@ -74,8 +74,13 @@ closed      defensive         concerned with being right
 | ---                                                 | ---            |
 | Allow the other person to say what they want to say | Blame, sarcasm |
 | Paraphrasing                                        | Exaggeration   |
-| Come back with question                             | Labelling, Interpretation |
-| Create a safe space                                 | Gossip, insults, threats |
+| Come back with question                             | Labelling |
+| Create a safe space                                 | Interpretation  |
+| Bring emotions int o conversations by describing your own feelings and suggestiong what the other person might be experiencing | Old stories |
+| Distinguish between the facts and the story | Interpretation | 
+| Pick appropriate time and location | Gossip |
+|  | Insults |
+| | Threats |
 
 ## 3 Different Conversations
 
