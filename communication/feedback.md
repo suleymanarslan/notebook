@@ -1,10 +1,3 @@
-# Grice's Maxims
-
-* **The maxim of quantity**, where one tries to be as informative as one possibly can, and gives as much information as is needed, and no more.
-* **The maxim of quality**, where one tries to be truthful, and does not give information that is false or that is not supported by evidence.
-* **The maxim of relation**, where one tries to be relevant, and says things that are pertinent to the discussion.
-* **The maxim of manner**, when one tries to be as clear, as brief, and as orderly as one can in what one says, and where one avoids obscurity and ambiguit
-
 # Feedback
 
 ## Giving Feedback
@@ -40,5 +33,5 @@ The feedback kind requesting to stop X and start Y from the receiver. Redirectin
 * Control your defensiveness. Let other side feel welcomed to give feedback.
 * Framework:
   * Active listening: Let the other person talk until done. Pay good attention, look at the person talking.
-  * Reflection: Verify and build up reasoning. Ask "Why?". 
+  * Reflection: Verify and build up reasoning. Ask "Why?".
   * Action: ask the question "Is there something I can do to improve?"
