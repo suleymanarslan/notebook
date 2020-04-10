@@ -58,10 +58,10 @@ The other person:
 * Exaggerated friendliness, does everything to be liked
 * Disputes everything you say
 
-The line:
+## The Line
 
 open        curious           willing to learn
---------------------------------------------------------
+________________________________________________________
 closed      defensive         concerned with being right
 
 ## Do / Don't
