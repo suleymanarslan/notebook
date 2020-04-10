@@ -60,9 +60,12 @@ The other person:
 
 ## The Line
 
+```
 open        curious           willing to learn
 ________________________________________________________
 closed      defensive         concerned with being right
+```
+
 
 ## Do / Don't
 
