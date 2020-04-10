@@ -75,10 +75,10 @@ closed                    defensive                   concerned with being right
 | Allow the other person to say what they want to say | Blame, sarcasm |
 | Paraphrasing                                        | Exaggeration   |
 | Come back with question                             | Labelling |
-| Create a safe space                                 | Interpretation  |
-| Describe your feelings | Old stories |
+| Create a safe space                                 | Interpretation: You've done this because...  |
+| Describe your feelings | Old stories: I remember a simiular situation... |
 | Distinguish between the facts and the story | Interpretation | 
-| Pick appropriate time and location | Gossip |
+| Pick appropriate time and location | Gossip: I heard from others that you react this way... |
 |  | Insults |
 | | Threats |
 
