@@ -62,7 +62,7 @@ The other person:
 
 ```
 open        curious           willing to learn
-________________________________________________________
+--------------------------------------------------------
 closed      defensive         concerned with being right
 ```
 
