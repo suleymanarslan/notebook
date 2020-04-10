@@ -76,7 +76,7 @@ closed                    defensive                   concerned with being right
 | Paraphrasing                                        | Exaggeration   |
 | Come back with question                             | Labelling |
 | Create a safe space                                 | Interpretation  |
-| Bring emotions int o conversations by describing your own feelings and suggestiong what the other person might be experiencing | Old stories |
+| Describe your feelings | Old stories |
 | Distinguish between the facts and the story | Interpretation | 
 | Pick appropriate time and location | Gossip |
 |  | Insults |
