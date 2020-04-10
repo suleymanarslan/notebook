@@ -1,6 +1,6 @@
 # Resilience
 
-* Notes from School of Life training I attended in 2019.*
+*Notes from School of Life training I attended in 2019.*
 
 Resillience is the ability to bounce back.
 
