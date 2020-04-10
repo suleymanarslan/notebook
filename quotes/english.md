@@ -8,6 +8,10 @@
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
   
+  
+> People are not disturbed by things, but by the views they take of them.
+―  Epictetus
+  
 > Strength is not born from strength. Strength can be born only from weakness. So be glad of your weaknesses now, they are the beginnings of your strength.
 ―  Claire Weekes 
   
