@@ -2,7 +2,7 @@
 
 ## Simple Worker Pool
 
-```
+```go
 package main
 
 import (
