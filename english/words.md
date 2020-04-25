@@ -510,6 +510,12 @@ verb
 
 likely or liable to be influenced or harmed by a particular thing.
 
+#### suspense
+
+```
+a state or feeling of excited or anxious uncertainty about what may happen.
+```
+
 #### stick out 
 
 ```
