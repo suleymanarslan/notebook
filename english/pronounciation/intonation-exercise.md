@@ -11,3 +11,4 @@
 * Now let's add in technology.
 * We know that engagement with social media and our cell phones releases a chemical called dopamine.
 * That's why when you get a text, it feels good.
+* It's as if they're standing in the foot of a mountain.
