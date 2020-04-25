@@ -314,6 +314,12 @@ Proceeding in a gradual, subtle way, but with harmful effects.
 
 belonging naturally; essential.
 
+#### intrude
+
+```
+put oneself deliberately into a place or situation where one is unwelcome or uninvited.
+```
+
 #### intuition
 
 the ability to understand something instinctively, without the need for conscious reasoning.
