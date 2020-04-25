@@ -2,9 +2,6 @@
 
 ## Past Tense
 
-* `planned` -> `plann/d/`
-
-
 #### `did` / `dıd`
 
 When the word ends with `t` or `d`, pronounce it as `dıd`:
@@ -19,6 +16,8 @@ When the word ends with `t` or `d`, pronounce it as `dıd`:
 
 #### `t`
 
+* `walked` -> `waakt`
+* `talked` -> `taakt` 
 * `watched` -> `watch/t/` (voiceless)
 * `asked` -> `askt` 
 * `shopped` -> `shopp/t/`
@@ -28,6 +27,7 @@ When the word ends with `t` or `d`, pronounce it as `dıd`:
 
 * `rained` -> `rain/d/`
 * `showed` -> `show/d/`
+* `planned` -> `plann/d/`
 
 #### `ıd`
 
