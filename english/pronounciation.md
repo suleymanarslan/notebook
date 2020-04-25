@@ -2,6 +2,13 @@
 
 ## Basics
 
+#### the
+
+If the following word starts with a consonant, it's pronounced as `dı`, if not, `di`. 
+
+* `the office` -> `di office`
+* `the country` -> `dı country`
+
 #### H-Droppping
 
 Native English speakers connect their speech by deleting the [h] sound at the beginning of function words.
@@ -42,6 +49,10 @@ A `t` between an `n` and a vowel gets removed.
 
 * `dentist` -> `dendist` 
 * `international` -> `inernational`
+* `twenty` -> `twenii`
+* `interstate` -> `inerstate`
+* `don't know` -> `donnow`
+
 
 #### C + V
 
