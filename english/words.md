@@ -217,6 +217,12 @@ lend greater dignity or nobility of character to.
 "the theater is a moral instrument to ennoble the mind"
 ```
 
+#### entitled
+
+```
+believing oneself to be inherently deserving of privileges or special treatment.
+```
+
 #### frown
 
 ```
