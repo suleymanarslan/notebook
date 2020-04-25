@@ -1,5 +1,24 @@
 # Pronounciation
 
+## C + V
+
+When a word ends with a consanant and is followed by a word that starts with a vowel sound, the speaker should push that consonant forward and connect it to the next word. 
+
+* `drop it` -> `dro pit`
+* `stop it` -> `STA pit`
+* `I need it` -> `I nee dit` 
+* `Play a song` -> `Pla ya song`
+* `Read a book` -> `Rea da book`
+
+### C + C
+
+When a word ends with a consonant and the following word begins with a same or similar consonant sound, you'll only pronounce that sound once, by lenghening or holding the sound.
+
+* `book club` -> `booklub`
+* `best time` -> `bestime`
+* `good day` -> `gooday`
+* `sit down` -> `sidow
+
 ## Linking
 
 * `this orange` -> `thissorange`
