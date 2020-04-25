@@ -17,7 +17,7 @@ When a word ends with a consonant and the following word begins with a same or s
 * `book club` -> `booklub`
 * `best time` -> `bestime`
 * `good day` -> `gooday`
-* `sit down` -> `sidow
+* `sit down` -> `sidown`
 
 ## Linking
 
