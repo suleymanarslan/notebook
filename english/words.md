@@ -185,6 +185,12 @@ join together; merge.
 "whole periods of time are elided into a few seconds of screen time"
 ```
 
+#### elision
+
+```
+the omission of a sound or syllable when speaking (as in I'm, let's ).
+```
+
 #### elude
 
 ```
@@ -392,6 +398,12 @@ A gentle push.
 
 ```
 the quality or state of being unassuming in the estimation of one's abilities.
+```
+
+#### omission
+
+```
+someone or something that has been left out or excluded.
 ```
 
 #### ornamental
