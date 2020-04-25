@@ -183,3 +183,8 @@ Words ending with unvoiced consanants cause `ed` ending to be pronounced as `t`:
 * `demanded` -> `deman/ded`
 * `waited` -> `wai/ded`
 * `wanted` -> `wan/ded`
+
+## Links
+
+* [American Intonation](https://www.youtube.com/watch?v=FStyKn4V8cE)
+* [Çilem Akar - Amerikan Aksanı](https://www.youtube.com/watch?v=YOhqEAs935o)
