@@ -52,6 +52,12 @@ verb
 draw up (a plan or model).
 ```
 
+#### bob
+
+```
+(of a thing) make a quick short movement up and down.
+```
+
 #### buoyancy
 
 the ability or tendency to float in water or air or some other fluid.
