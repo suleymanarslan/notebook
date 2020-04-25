@@ -80,6 +80,7 @@ When a word ends with a consonant and the following word begins with a same or s
 * `is he busy?`  -> `izibizi?`
 * `cats or dogs?`  -> `catserdogs?`
 * `what are you going to do?` -> `whaddya gonna do?`
+* `the glass is in the table` -> `th'glass'z'n'th'table`
 
 Turn `T` into `D` sound when it becomes between two vowels:
 
