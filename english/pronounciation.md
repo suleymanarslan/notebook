@@ -1,7 +1,36 @@
 # Pronounciation
 
-### Past Tense
+## Past Tense
+
+* `planned` -> `plann/d/`
+
+
+#### `did` / `dıd`
+
+When the word ends with `t` or `d`, pronounce it as `dıd`:
+
+* `started` -> `star/dıd/`
+* `invited` -> `invite/dıd`
+* `expected` -> `expec/did`
+
+* `ended` -> `en/did`
+* `decided` -> `deci/dıd`
+* `needed` -> `nee/did`
+
+#### `t`
 
 * `watched` -> `watch/t/` (voiceless)
-* `planned` -> `plann/d/`
-* `started` -> `stard/ıd/` (`ed` is pronounced as `ıd` when the word ends with `t`)
+* `asked` -> `askt` 
+* `shopped` -> `shopp/t/`
+* `coughed` -> `cough/t/`
+
+#### `d`
+
+* `rained` -> `rain/d/`
+* `showed` -> `show/d/`
+
+#### `ıd`
+
+* `demanded` -> `deman/ded`
+* `waited` -> `wai/ded`
+* `wanted` -> `wan/ded`
