@@ -2,6 +2,17 @@
 
 ## Basics
 
+#### H-Droppping
+
+Native English speakers connect their speech by deleting the [h] sound at the beginning of function words.
+
+* `Did he get it?` -> `Diddy get it?`
+* `I want him to call me` -> `I wanim to call me`
+* `That's his choice` -> `Thatsiz choice`
+* `She asked her to leave` -> `She astur to leave`
+* `It has 8 legs` -> `Idaz 8 legs`
+* `We have a lot to do today` -> `Wiyav a lot to do today`
+
 #### R-colored vowels
 
 A vowel before an `R` becomes `err`:
@@ -93,6 +104,7 @@ Usually `/t/` or `/d/` phoneme sound.
 * `most common` -> `moscommon`
 * `old man` -> `olman` 
 * `kept going` -> `kep going` 
+* `not at all` -> `nodadall`
 
 ## Assimilation
 
