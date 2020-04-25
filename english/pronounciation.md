@@ -16,7 +16,8 @@ When the word ends with `t` or `d`, pronounce it as `dıd`:
 * `started` -> `star/dıd/`
 * `invited` -> `invite/dıd`
 * `expected` -> `expec/did`
-
+* `visited` -> `visi/dıd`
+* `edited` -> `edi/dıd` 
 * `ended` -> `en/did`
 * `decided` -> `deci/dıd`
 * `needed` -> `nee/did`
