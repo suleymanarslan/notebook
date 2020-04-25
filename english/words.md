@@ -58,6 +58,12 @@ draw up (a plan or model).
 (of a thing) make a quick short movement up and down.
 ```
 
+#### bread
+
+```
+coat (food) with breadcrumbs before cooking.
+```
+
 #### buoyancy
 
 the ability or tendency to float in water or air or some other fluid.
