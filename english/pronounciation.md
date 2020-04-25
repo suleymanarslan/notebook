@@ -2,6 +2,18 @@
 
 ## Basics
 
+#### R-colored vowels
+
+A vowel before an `R` becomes `err`:
+
+* `first`: `ör` (Monothong)
+* `fever`: `ır` / `er` (Monothong)
+* `fear`: `iır` (Diphthong)
+* `fare`: `air` (Diphthong)
+* `far`: `ar` (Diphthong)
+* `for`: `or` (Diphthong)
+* `fire`: `ayr` (Triphtong)
+
 #### Syllables
 
 When a word has more than two syllables, one of them is going to be stressed. 
@@ -20,7 +32,7 @@ A `t` between an `n` and a vowel gets removed.
 * `dentist` -> `dendist` 
 * `international` -> `inernational`
 
-## C + V
+#### C + V
 
 When a word ends with a consanant and is followed by a word that starts with a vowel sound, the speaker should push that consonant forward and connect it to the next word. 
 
@@ -30,7 +42,7 @@ When a word ends with a consanant and is followed by a word that starts with a v
 * `Play a song` -> `Pla ya song`
 * `Read a book` -> `Rea da book`
 
-### C + C
+#### C + C
 
 When a word ends with a consonant and the following word begins with a same or similar consonant sound, you'll only pronounce that sound once, by lenghening or holding the sound.
 
@@ -79,6 +91,8 @@ Usually `/t/` or `/d/` phoneme sound.
 * `dad take me to school` -> `datakeme` 
 * `diamond ring` -> `diamonring` 
 * `most common` -> `moscommon`
+* `old man` -> `olman` 
+* `kept going` -> `kep going` 
 
 ## Assimilation
 
