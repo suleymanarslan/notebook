@@ -1,5 +1,9 @@
 # Pronounciation
 
+## Syllables
+
+When a word has more than two syllables, one of them is going to be stressed. 
+
 ## C + V
 
 When a word ends with a consanant and is followed by a word that starts with a vowel sound, the speaker should push that consonant forward and connect it to the next word. 
