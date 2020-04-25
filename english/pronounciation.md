@@ -23,6 +23,8 @@ When the word ends with `t` or `d`, pronounce it as `dıd`:
 
 #### `t`
 
+Words ending with unvoiced consanants cause `ed` ending to be pronounced as `t`:
+
 * `walked` -> `waakt`
 * `talked` -> `taakt` 
 * `watched` -> `watch/t/` (voiceless)
