@@ -37,6 +37,10 @@ Words ending with unvoiced consanants cause `ed` ending to be pronounced as `t`:
 * `rained` -> `rain/d/`
 * `showed` -> `show/d/`
 * `planned` -> `plann/d/`
+* `bobbed` -> `bob/d/`
+* `loved` -> `lov/d/`
+* `begged` -> `beg/d/`
+* `breathed` -> `breet/d/`
 
 #### `ıd`
 
