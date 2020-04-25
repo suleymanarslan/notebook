@@ -4,4 +4,4 @@
 
 * `watched` -> `watch/t/` (voiceless)
 * `planned` -> `plann/d/`
-* `started` -> `start/ıd/`
+* `started` -> `stard/ıd/` (`ed` is pronounced as `ıd` when the word ends with `t`)
