@@ -51,6 +51,12 @@ Two sounds blend together.
 * `wouldn't` -> `wouldnchu` 
 * `meet you` -> `meetchu` 
 * `did you` -> `didja` 
+* `would you` -> `wouldja` 
+
+## Gemenese 
+
+* `social life` -> `socialife`
+* `pet turtle` -> `peturtle`
 
 ## Voiced / Unvoiced Consonants
 
