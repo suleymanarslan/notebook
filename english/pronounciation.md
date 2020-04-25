@@ -1,8 +1,24 @@
 # Pronounciation
 
-## Syllables
+## Basics
+
+#### Syllables
 
 When a word has more than two syllables, one of them is going to be stressed. 
+
+#### `t` -> `d`
+
+`T` between two vowels are pronounced as `d`:
+
+* `water` -> `waadr`
+* `butter` -> `budr`
+
+#### `[n] t [vowel]`
+
+A `t` between an `n` and a vowel gets removed.
+
+* `dentist` -> `dendist` 
+* `international` -> `inernational`
 
 ## C + V
 
