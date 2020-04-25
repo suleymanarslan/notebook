@@ -205,6 +205,12 @@ lend greater dignity or nobility of character to.
 furrow one's brows in an expression indicating disapproval, displeasure, or concentration.
 ```
 
+#### froth
+
+```
+form or contain a rising or overflowing mass of small bubbles.
+```
+
 #### fulfillment
 
 ```
