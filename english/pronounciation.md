@@ -4,8 +4,9 @@
 
 * `this orange` -> `thissorange`
 * `this afternoon` -> `thissafternoon`
-* `is he busy?` `izibizi?`
-* `cats or dogs?` `catserdogs?`
+* `is he busy?`  -> `izibizi?`
+* `cats or dogs?`  -> `catserdogs?`
+* `what are you going to do?` -> `whaddya gonna do?`
 
 Turn `T` into `D` sound when it becomes between two vowels:
 
