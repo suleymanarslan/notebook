@@ -1,5 +1,12 @@
 # Pronounciation
 
+## Voiced / Unvoiced Consonants
+
+Voiced consonants would vibrate your throat when pronounced, while unvoiced not. 
+
+* **Unvoiced:** Ch, F, K, P, S, Sh, T, and Th (as in "thing")
+* **Voiced:** B, D, G, J, L, M, N, Ng, R, Sz, Th (as in the word "then"), V, W, Y, and Z.
+
 ## Past Tense
 
 #### `did` / `dıd`
