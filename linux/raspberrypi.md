@@ -1,5 +1,9 @@
 # Raspberry PI
 
+#### General Configuration
+
+Run `raspi-config`
+
 #### Vertical Screen
 
 Add to `/boot/config.txt`:
