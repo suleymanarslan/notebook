@@ -76,6 +76,10 @@ mark (a gauge or instrument) with a standard scale of readings. carefully assess
 
 the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.
 
+#### comprehend
+
+grasp mentally; understand.
+
 #### confine
 
 keep or restrict someone or something within certain limits of (space, scope, quantity, or time).
