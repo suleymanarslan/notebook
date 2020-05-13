@@ -1,5 +1,13 @@
 # Go
 
+## Debugging
+
+* Install `delve`. 
+* `dlv debug main.go`
+* `break filename.go:123`
+* `continue`
+* `print $variable`
+
 ## Simple Worker Pool
 
 ```go
