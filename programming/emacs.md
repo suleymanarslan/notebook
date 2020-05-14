@@ -1,5 +1,12 @@
 # Emacs
 
+Debugging:
+
+```
+pkill -USR2 emacs 
+```
+
+
 ## `eval-expression`
 
 Shortcut: `M-:`
