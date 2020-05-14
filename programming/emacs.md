@@ -1,5 +1,9 @@
 # Emacs
 
+## `eval-expression`
+
+Shortcut: `M-:`
+
 ## `describe-font`
 
 It shows font is being used.
