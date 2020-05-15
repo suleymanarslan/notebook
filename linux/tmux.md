@@ -24,6 +24,7 @@
 * `C-z ,` Rename window
 * `C-z n` Next window
 * `C-z p` Previous window
+* `C-z /` + `C-s`: open copy mode + start search
 
 ## Status Bar
 
