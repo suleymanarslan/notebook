@@ -2,6 +2,20 @@
 
 [For English: random-thoughts.md](random-thoughts.md)
 
+## Doğanın Düzeni ve İnsanın Düzeni
+
+İnsan, dünyanın güneşin etrafında dönüşlerine sayısal bir değer atfedip, bu sayıların peşinde, iddialı, hırslı bir serüvene müdahil oluyor. Geçen her bir yılın öncekinden daha üstün, hatırladıklarımız veya yeni öğrendiklerimizin, unuttuklarımızdan, sistem ve düzenin kaostan, hayatın ölümden, konforun acıdan, varlığın yokluktan daha üstün olduğunu öğreniyor. Daha da ileriye gidip, kendilerinden sonra gelen nesle bu ezberi aktarmak için ellerinden geleni yapıyorlar.
+
+## Zaman
+
+Yağmurun bastırdığı bir gece, etrafı uzun otluklarla çevrili bir petrol ofisinin önünde, "acaba çadır mı kursak, yoksa otostop şansımızı biraz daha zorlasak mı?" diye düşünürken bulduk kendimizi. Şansımız varmış, birkaç dakika sonra bir kamyon durdu ve gittiğimiz istikameti sordu. Atladık. Hayatımın en anlamlı yolculuklarından biriydi.
+
+Ertesi sabah gözlerimi sanki açtığımda bir hurma pazarının ortasında, güneş ışığının altında parlayan bir Fas kalesine bakarken buldum kendimi. Sanki bir zaman yolculuğu yapmıştık. Arabaları saymazsanız, etrafta bu yüzyıla dair hiçbir iz yoktu.
+
+Bu pazarın, bu kasabanın insanları sanki bambaşka bir zaman dilimindelerdi. Onlar için zaman, birbiri ardına gelen, birbirinden üstün olan ardışık sayısal referanslar değildi. Bambaşka bir zaman algısı yaşanıyordu bu kasabada.
+
+Dünyanın güneşin etrafında dönüşüne atfettikleri mana, her bir dönüşün birbirinden daha üstün olması gerektiği değil, hemen hemen aynı olmasında hiçbir sakınca olmadığıydı. Tıpkı 1.5 milyon yıldır aynı hayatı süren Bushmen kabileleri gibi.
+
 ## Dışa Dönmek
 
 İnsanın vurabileceği en dip durumlardan biri, önemsediği ve etki yaratmak istediği bir konuda kendini ifade etmeye çalışırken, bir grup insanın can sıkıntılarına kısa bir süreliğine merhem oluvermesi.
@@ -12,8 +26,8 @@ Sanki bunu hissediyorum internette. Bir yandan kendimi anlatma, yaptığım işi
 
 Geçen hafta bir gemi resmi gördüm, suyun olmadığı, kayaların üzerine çakılmış bir gemi getir aklına. Resmi anlatan Martin "Geminin yol alması için su seviyesinin kayalardan yüksek olması şart" diyordu. Kendimizi bir gemi olarak düşünürsek, bizi bir yerlere götürecek olan su seviyesi, bizim kendimiz ve dış dünya ile olan ilişkimize bağlı. Manevi değerlerin toplamı, maddi değerlerin ise sade, makul bir seviyesi, insanın bir gemi gibi yürümesini sağlıyor...
 
-Bir şiir mesela, su seviyesini artırıyor. 
-Aile, su seviyesini artırıyor. 
+Bir şiir mesela, su seviyesini artırıyor.
+Aile, su seviyesini artırıyor.
 Oğlumun bana sarılması, gülümsemesi, dans etmesi, şaka yapması, şakalarıma gülmesi, koşması, uykusunda kahkaha atması su seviyesini artırıyor.
 
 Yaşamı sevmek, tevekkül, hoşgörü, su seviyesini artırıyor.
@@ -59,7 +73,7 @@ $1.000.000
 * Devasa boyutlarda güvercin, turna ve keklik heykelleri yaptırıp uygun parkların ortasına yerleştirmek.
 
 $2.000.000
-* İçinde kütüphanesi ve müzesi de olan kapsamlı bir kuş gözlemevi açmak ve burada kuşlar üzerine araştırmaları teşvik etmek. 
+* İçinde kütüphanesi ve müzesi de olan kapsamlı bir kuş gözlemevi açmak ve burada kuşlar üzerine araştırmaları teşvik etmek.
 * Toplumun geçirdiği değişimden kuşların nasıl etkilendiğine dair farkındalık oluşturan yayınlar çıkarmak.
 
 $5.000.000
@@ -85,7 +99,7 @@ aylar sonra ankara'da kitapçıları gezerken alıp okuduğum "hayvanlardan tanr
 
 ## otostop ve zaman
 
-6 saatlik El Hosima - Fez mesafesi, dağ yolundan otostopla üç gün sürdü. Bazı köylerde günboyu saatlerce beklediğimiz oldu, genellikle yol kenarında karşılaştığımız çocuklarla arapça pratik yaparak, varsa top oynayarak, yoksa yanımızdaki bisiklet hoparlöründen rap dinleyerek zaman geçirdik. 
+6 saatlik El Hosima - Fez mesafesi, dağ yolundan otostopla üç gün sürdü. Bazı köylerde günboyu saatlerce beklediğimiz oldu, genellikle yol kenarında karşılaştığımız çocuklarla arapça pratik yaparak, varsa top oynayarak, yoksa yanımızdaki bisiklet hoparlöründen rap dinleyerek zaman geçirdik.
 
 İnsanlar epey arkadaş canlısıydı, mesela yaklaşık 6-7 saat araç beklediğimiz bir dağ köyünde, köylüler yol kenarında bir ağacın altına halı serip bizimle birlikte öğle yemeği yedi :)
 
@@ -99,24 +113,24 @@ Kendilerini acemi gösteren heyecanla bir panzerin etrafında koşuşturan polis
 
 ## yirmili yaşlar
 
-Bir sabah uyanacağız, etrafımızdaki herkes bizden daha genç yaşta olacaklar. Yeni çıkan bi şarkının muhteşem ahenginden bahsedecekler ama kulaklarımız pek iyi duyamayacak. Bir kitabın nasıl da ufuk açıcı, nasıl da ters köşeye yatırıcı yepyeni fikirlerle dolup taştığından sözedecekler ama gözlerimiz kitap okuyacak kadar iyi göremeyecek. Görseler de çabucak yorulacaklar. En korkuncu da, artık ne kendimizi geliştirmek için, ne de değişmek için fırsatımız olacak. İleriye baktığımızda ölüm göreceğiz. Dünyadan geçip gideceğiz ve bu geçişin en güzel döneminin, 20'li yaşların kıymetini çok iyi bilmeliyiz. 
+Bir sabah uyanacağız, etrafımızdaki herkes bizden daha genç yaşta olacaklar. Yeni çıkan bi şarkının muhteşem ahenginden bahsedecekler ama kulaklarımız pek iyi duyamayacak. Bir kitabın nasıl da ufuk açıcı, nasıl da ters köşeye yatırıcı yepyeni fikirlerle dolup taştığından sözedecekler ama gözlerimiz kitap okuyacak kadar iyi göremeyecek. Görseler de çabucak yorulacaklar. En korkuncu da, artık ne kendimizi geliştirmek için, ne de değişmek için fırsatımız olacak. İleriye baktığımızda ölüm göreceğiz. Dünyadan geçip gideceğiz ve bu geçişin en güzel döneminin, 20'li yaşların kıymetini çok iyi bilmeliyiz.
 
 ## sahara çölü
 
-Bir yanda güneş batarken, diğer yanda ay beliriyor. Çöl, tabiatın müsade isteyip insanla gökyüzünü başbaşa bıraktığı yer. Etrafta ne bir karınca, ne de yaprak hışırtısı var. Karanlık çöküp ay yörüngesinde ilerlerken, rüzgar da şiddetlenmeye başlayıp kum taneciklerini tek tek istediği noktalara bırakıyor. Rüzgar, bu başyapıtın ardındaki sanatçının fırçası adeta; her akşam ortaya çıkıp gündoğumuna dek çölün her milimetre karesini, bütün kum tepelerini en ince detaylarına kadar geometrik oyunlarla nakış gibi işliyor. Rüzgarın şiddetli olmadığı bir kuytuya uyku tulumlarımızı serip yatıyoruz, üç gün iki gece buradayız, erzağımız elma, mandalina, soğan, domates, ekmek ve birkaç litre su. 
+Bir yanda güneş batarken, diğer yanda ay beliriyor. Çöl, tabiatın müsade isteyip insanla gökyüzünü başbaşa bıraktığı yer. Etrafta ne bir karınca, ne de yaprak hışırtısı var. Karanlık çöküp ay yörüngesinde ilerlerken, rüzgar da şiddetlenmeye başlayıp kum taneciklerini tek tek istediği noktalara bırakıyor. Rüzgar, bu başyapıtın ardındaki sanatçının fırçası adeta; her akşam ortaya çıkıp gündoğumuna dek çölün her milimetre karesini, bütün kum tepelerini en ince detaylarına kadar geometrik oyunlarla nakış gibi işliyor. Rüzgarın şiddetli olmadığı bir kuytuya uyku tulumlarımızı serip yatıyoruz, üç gün iki gece buradayız, erzağımız elma, mandalina, soğan, domates, ekmek ve birkaç litre su.
 
 ## varlık ve güzellik
 
-Temmuz ayında yola çıkışımızdan beri sayısız eve misafir olduk, bunlardan bazılarında elektrik bağlı değildi. 
+Temmuz ayında yola çıkışımızdan beri sayısız eve misafir olduk, bunlardan bazılarında elektrik bağlı değildi.
 Bu da tek haneli bir köy evi, Türkiye'de bir yerde ama neresi olduğu mühim değil. Bu gözler Alaska'da plazma tv'den NBA maçı
 izleyen kızılderililerin köyünü de gördü ama anadoludaki köyler kadar güzeline ve zenginine rastlamadı.
 
 Zenginlik zamana karşı cılızsa, ondan bir hayır gelmez. Son model elektronik cihazları alırsınız eve, üç beş
-yıllığına zenginsiniz. Ama bir evde öyle detaylar olur ki, sizi ömür boyu zengin kılar. O detayların bulunduğu yer kadar, 
+yıllığına zenginsiniz. Ama bir evde öyle detaylar olur ki, sizi ömür boyu zengin kılar. O detayların bulunduğu yer kadar,
 gören gözler de zenginleşir.
 
-Bu gezinin katkılarından biri, varlığın ve yokluğun manasına yaklaşmak oldu. Eskiden toplumdan farklı düşündüğümü sanıp 
-esasında aynı formüllerle farklı sonuç çıkardığımı farkettim. Eskiden yokluk olduğunu sandığım şimdi gördüğüm 
+Bu gezinin katkılarından biri, varlığın ve yokluğun manasına yaklaşmak oldu. Eskiden toplumdan farklı düşündüğümü sanıp
+esasında aynı formüllerle farklı sonuç çıkardığımı farkettim. Eskiden yokluk olduğunu sandığım şimdi gördüğüm
 varlıklar arasında kaybolan değersiz bir detaya bürünüyor, eskiden gözüme yaş tanecikleri konduracak bir görüntü,
 bugün gözlerime büyülü bir güzellik gibi geliyor.
 
@@ -127,19 +141,19 @@ Dünyaya kalıcı güzelliklerini gösterdiği için şükürler olsun.
 > [Tanışacağın herkes senin bilmediğin birşeyi bilir.](quotes.md)
 — Bill Nye
 
-Herkes -eğitimi, işi, parası, yaşı, dini inancı, hayata bakışı ne olursa olsun- senin bilmediğin en az birşeyi biliyor. 
+Herkes -eğitimi, işi, parası, yaşı, dini inancı, hayata bakışı ne olursa olsun- senin bilmediğin en az birşeyi biliyor.
 İçindeki dünyanın bereketi, karşılaştığın, tanıştığın, birlikte yaşadığın insanlardan öğrendiklerine bağlı.
 
-Herkesten yeni birşey öğrenebilirsin. İşin ilmi, doğru insana doğru soruları sormaktan, diyalogların süratini ve 
-şiddetini düşürüp, ucunu açık bırakmaktan geçiyor. Bunu yaptın mı eğer, sade bir öğretmenden değil, bir esnaftan da, 
-tır şoföründen de, sivil polisten de, siyasetçiden de, bir çobandan da hayat ve dünya hakkında birçok değerli bilgi 
+Herkesten yeni birşey öğrenebilirsin. İşin ilmi, doğru insana doğru soruları sormaktan, diyalogların süratini ve
+şiddetini düşürüp, ucunu açık bırakmaktan geçiyor. Bunu yaptın mı eğer, sade bir öğretmenden değil, bir esnaftan da,
+tır şoföründen de, sivil polisten de, siyasetçiden de, bir çobandan da hayat ve dünya hakkında birçok değerli bilgi
 alabilirsin.
 
 ## Isparta'dan Doğubeyazıt'a...
 
 Hayat sen plan yaparken başına gelenlerdir diye boşuna dememişler.
 
-Isparta'da bir gün otururken dedemi görmeye Fethiye'ye yola çıktık sırt çantamıza üç tane tişört bir iki çorap atarak. Fethiye'de birden bastıran can sıkıntısıyla, Ankara'ya, oradan trenle Kars'a geldik. 
+Isparta'da bir gün otururken dedemi görmeye Fethiye'ye yola çıktık sırt çantamıza üç tane tişört bir iki çorap atarak. Fethiye'de birden bastıran can sıkıntısıyla, Ankara'ya, oradan trenle Kars'a geldik.
 Ve bu sabah Kars - Tiflis otobüsüne binip Gürcistan'a doğru yola çıktık. Amacımız hem Nova biten vizesini yenilesin, hem de Kars'a kadar gelmişken, Gürcistan'ı da görmeden gitmeyelim. .
 
 Otobüsten indik, sınır kapısından geçeceğiz. Benim işlemler çabucak yapıldı, ama Nova Gürcistan sınırını vize problemi nedeniyle geçemedi. Bizim polisler eğer Nova'nın çıkışını yapsa, Nova hem Gürcistan'a giremeyecek, hem de Türkiye'ye geri almayacaklar. Sınır kapısında kalacak garibim. Bu arada ben de sınırı geçtim Gürcistan'a girmiş görünüyorum. 5 Dakika falan Gürcistan tarafında Türkçe bilen Gürcü polisle mubabbet edip tekrar Türkiye'ye geri dönerek belki de dünyanın en kısa uluslararası seyahatini gerçekleştirmiş oldum..
