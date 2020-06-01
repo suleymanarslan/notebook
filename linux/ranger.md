@@ -18,8 +18,13 @@
 | `X    | Go to bookmark             |
 | zf    | Filter the file list       |
 | o     | Change sort order          |
-|       |                            |
 | zh    | View hidden files          |
 | /     | Search                     |
 | cd    | Change directory           |
 | 1l    | unzip selected file        |
+
+## Reload config
+
+```
+:eval fm.source(fm.confpath('rc.conf'))
+```
