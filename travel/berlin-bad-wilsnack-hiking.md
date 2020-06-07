@@ -97,7 +97,11 @@ or turn LEFT to go west again on a concrete slab path
 * After approx. 2 km your way ends at a crossroad, you go to the right and see now
 Garz already
 * After about 1 km you will reach the town.
-4th stage Protzen via Garz - Wusterhausen (approx. 22 km)
+
+
+#### 4th stage Protzen via Garz - Wusterhausen (approx. 22 km)
+
+
 * from Protzen via Manker to Garz on the country road
 by Garz
 * at the church westwards over the small stream Temnitz to the country road
