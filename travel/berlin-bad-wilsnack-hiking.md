@@ -1,5 +1,7 @@
 # Berlin - Bad Wilsnack Pilgrimage Route
 
+Source: [wegenachwilsnack.de](https://www.wegenachwilsnack.de/)
+
 ## Directions
 
 Note:
