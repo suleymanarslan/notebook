@@ -20,6 +20,16 @@
 * [1992](#1992)
 * [1987](#1987)
 
+## 2020
+
+#### June 12
+
+I took a 3 days long walking trip to country side. 
+
+#### February 3
+
+I joined a new startup called HiPeople in Berlin.
+
 ## 2019
 
 #### July 21
