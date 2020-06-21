@@ -1,5 +1,13 @@
 # Idioms
 
+#### I think our wires are crossed
+
+informal, of two people. : to fail to understand each other
+
+#### this is all greek to me
+
+I don't understand anything about it
+
 #### to bat an eye
 
 [Source](https://www.quora.com/What-does-to-bat-an-eye-mean-literally)
