@@ -60,3 +60,11 @@ Two sounds blend together.
 
 * `social life` -> `socialife`
 * `pet turtle` -> `peturtle`
+
+
+## More Examples
+
+* `what do you do?` -> `whudduhhyuh du?`
+* `I'm going to do some shopping` -> `Aymgannadosomesaapping` -> `Aymmadosaapping`
+* `you` -> `yuh` -> `do you want to go?` `duyuhwannago?`
+* `What do you do?` -> `Whutchuhyuh do?`
