@@ -14,6 +14,7 @@ Index of Contents:
 * [fc-list](#fc-list)
 * [ffmpeg](#ffmpeg)
 * [file](#file)
+* [fd](#fd)
 * [find](#find)
 * [grep](#grep)
 * [htop](#htop)
@@ -213,6 +214,14 @@ Lists font families available in the system:
 
 ```bash
 fc-list : family
+```
+
+## fd
+
+List files matching extension:
+
+```
+$ fd -e go
 ```
 
 ## file
@@ -448,6 +457,14 @@ Remove source files if preferred:
 
 ```bash
 rsync -avz --remove-source-files -e ssh /local/path user@host:/remote/dir
+```
+
+## sd
+
+Search and replace matching patterns in all files with specified extension: 
+
+```
+sd 'from "react"' 'from "preact"' $(fd -e js)
 ```
 
 ## sed
