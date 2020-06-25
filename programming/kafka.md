@@ -47,3 +47,111 @@ List Topics:
 $ bin/kafka-topics.sh --list --zookeeper z-1.kafka-prod.jra9w9.c4.kafka.eu-central-1.amazonaws.com:2181
 ```
 
+# Go Example w/ TLS
+
+producer.go
+```go
+package main
+
+import (
+	"context"
+	"crypto/tls"
+	"fmt"
+	"github.com/segmentio/kafka-go"
+	"time"
+)
+
+// producer
+func main() {
+	go reader()
+
+	dialer := &kafka.Dialer{
+		Timeout:   10 * time.Second,
+		DualStack: true,
+		TLS:       &tls.Config{},
+	}
+
+	w := kafka.NewWriter(kafka.WriterConfig{
+		Brokers: []string{
+			"b-1.*****.kafka.eu-central-1.amazonaws.com:9094",
+			"b-2.*****.kafka.eu-central-1.amazonaws.com:9094",
+			"b-3.*****.kafka.eu-central-1.amazonaws.com:9094",
+		},
+		Topic:        "Webhooks",
+		Balancer:     &kafka.LeastBytes{},
+		RequiredAcks: 0,
+		Dialer:       dialer,
+	})
+
+	fmt.Println("writing...")
+	err := w.WriteMessages(context.Background(),
+		kafka.Message{
+			Key:   []byte("Key-A"),
+			Value: []byte("Hello World!"),
+		},
+		kafka.Message{
+			Key:   []byte("Key-B"),
+			Value: []byte("One!"),
+		},
+		kafka.Message{
+			Key:   []byte("Key-C"),
+			Value: []byte("Two!"),
+		},
+	)
+
+	if err != nil {
+		panic(err)
+	}
+
+	fmt.Println("Done!")
+
+	w.Close()
+}
+```
+
+consumer.go
+```go
+package main
+
+import (
+	"context"
+	"crypto/tls"
+	"fmt"
+	"github.com/segmentio/kafka-go"
+	"time"
+)
+
+
+func main() {
+	dialer := &kafka.Dialer{
+		Timeout:   10 * time.Second,
+		DualStack: true,
+		TLS:       &tls.Config{},
+	}
+
+	r := kafka.NewReader(kafka.ReaderConfig{
+		Brokers: []string{
+			"b-1.*****.kafka.eu-central-1.amazonaws.com:9094",
+			"b-2.*****.kafka.eu-central-1.amazonaws.com:9094",
+			"b-3.*****.kafka.eu-central-1.amazonaws.com:9094",
+		},
+		Topic:  "Webhooks",
+		Dialer: dialer,
+	})
+
+	fmt.Println("reading")
+
+	for {
+		m, err := r.ReadMessage(context.Background())
+		if err != nil {
+			break
+		}
+		fmt.Printf("message at offset %d: %s = %s\n", m.Offset, string(m.Key), string(m.Value))
+	}
+
+	fmt.Println("reading closed")
+
+	r.Close()
+
+}
+```
