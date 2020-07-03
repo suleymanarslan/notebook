@@ -49,7 +49,7 @@
 
 ## Stopping the Webcam Stream
 
-```
+```js
 function stop(e) {
   var stream = video.srcObject;
   var tracks = stream.getTracks();
