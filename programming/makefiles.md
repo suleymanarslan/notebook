@@ -1,9 +1,18 @@
 # Makefiles
 
-## Defining Variables
+## Defining Variables inside Targets
 
 ```make
-$(eval missingPackages := `grep -oFf /tmp/.snt-go-pkgs Gopkg.lock`)
+foobar:
+	$(eval missingPackages := `grep -oFf /tmp/.snt-go-pkgs Gopkg.lock`)
+```
+
+## Target-specific Variables
+
+```make
+foobar : VAR1 = "xyz"
+foobar:
+	echo $(VAR1)
 ```
 
 ## Conditions
