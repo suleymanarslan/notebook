@@ -132,6 +132,20 @@ while read -r line; do
 done <<< "$config"
 ```
 
+## String Manipulation
+
+#### Slugify text
+
+```bash
+echo -n "hello world" | sed -e "s/[^[:alnum:]]/_/g" | tr -s "_" | tr A-Z a-z
+```
+
+#### Title-case
+
+```bash
+sed 's/.*/\L&/; s/[a-z]*/\u&/g' <<<"$1"    
+```
+
 ## Dialogs
 
 #### Opening a menu with bunch of lines
