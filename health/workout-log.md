@@ -2,6 +2,11 @@
 
 ## 2020
 
+| Date | Push Ups | Swimming | High Pull |
+| ---- | -------- | -------- | --------- |
+| 04.08.2020 | 40 | 150m | 40 |
+| 06.08.2020 | 20 | 225m | - | 
+
 | Date | Planking | Push ups | Atomic Push ups | Sit ups | Knee Raise | Single Bar Vertical Row |
 | --- | --- | --- | --- | --- | --- | --- |
 | 25.04.2020 | - | 40 | - | - | 40 | 40 |
