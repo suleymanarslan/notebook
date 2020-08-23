@@ -5,9 +5,9 @@
 * Author:  Alain de Botton
 * GoodReads: [The School of Life: An Emotional Education ](https://www.goodreads.com/en/book/show/43264830)
 
-## Highlights
+# Highlights
 
-### I. Introduction
+## I. Introduction
 
 * We are not individually much cleverer than the average animal, a heron or a mole, but the knack of our species lies in our capacity to transmit our accumulated knowledge down the generations.
 * The slowest among us can, in a few hours, pick up ideas that it took a few rare geniuses a lifetime to acquire.
@@ -56,9 +56,9 @@
 * Simplicity should never insult our intelligence; it should remind us to be nimble in our understanding of what intelligence comprises.
 * We need to be sophisticated enough not to reject a truth because it sounds like something we already know. We need to be mature enough to bend down and pick up governing ideas in their simplest guises. We need to remain open to vast truths that can be stated in the language of a child.
 
-### II. Self
+## II. Self
 
-#### Strangers to Ourselves
+### Strangers to Ourselves
 
 * We suffer because there is no easy route to introspection. We cannot open a hatch and locate “ourselves.” We are not a fixed destination, but an eternally mobile, boundless, unfocused, vaporous specter whose full nature can only be retrospectively deduced from painfully recollected glimpses and opaque hints.
 * We pay a very high price for our self-ignorance. Feelings and desires that haven’t been examined linger and distribute their energy randomly across our lives. Ambition that doesn’t know itself re-emerges as panic; envy transforms itself into bitterness; anger turns into rage; sadness into depression.
@@ -69,7 +69,7 @@
 * We take the first steps toward maturity by determining some of the ways in which our emotional minds deny, lie, evade, forget, and obsess, steering us toward goals that won’t deliver the satisfaction of which we’re initially convinced. A readiness to mitigate the worst of our everyday foolishness contributes to the highest kind of emotional intelligence of which we may ever be capable.
 * Maturity involves accepting with good grace that we are all—like marionettes—manipulated by the past. And, when we can manage it, it may also require that we develop our capacity to judge and act in the ambiguous here and now with somewhat greater fairness and neutrality.
 
-#### Knowing the Past
+### Knowing the Past
 
 * Even if we were sensitively cared for and lovingly handled, even if parental figures approached their tasks with the highest care and commitment, we can be counted upon not to have passed through our young years without sustaining some form of deep psychological injury—what we can term a set of “primal wounds.”
 * Across the long summers and winters of childhood, we are intimately shaped by the ways of the big people around us.
@@ -176,9 +176,9 @@ Ludolf Bakhuysen, Warships in a Heavy Storm, c. 1695
 * Our crisis, if we can get through it, is an attempt to dislodge us from a toxic status quo and constitutes an insistent call to rebuild our lives on a more authentic and sincere basis.
 * It belongs, in the most acute and panicked way, to the search for self-knowledge.
 
-### II. Others
+## II. Others
 
-#### Kindness
+### Kindness
 
 * At its most basic, charity means offering someone something they need but can’t get for themselves.
 * Charity involves offering someone something that they may not entirely deserve and that it is a long way beyond the call of duty for us to provide: sympathy.
@@ -232,7 +232,7 @@ Ludolf Bakhuysen, Warships in a Heavy Storm, c. 1695
 * There’s a financial aspect to the dichotomy too. Kind people do not seem well cut out to win in the game of capitalism. Business success appears to demand an ability not to listen to excuses, not to forgive, not to be detained by sentiment.
 * Semi-consciously, kindness also seems incompatible with sexual desirability. Being erotic appears to be connected with a degree of heedless disregard and selfishness. We want our friends to be nice, but appreciate our lovers as a touch dangerous.
 
-#### Charm
+### Charm
 
 **Shyness**
 
@@ -270,7 +270,7 @@ Ludolf Bakhuysen, Warships in a Heavy Storm, c. 1695
 * A key move of the good listener is not always to follow every byway or subplot introduced by the speaker, for they may be getting lost and further from their own point than they would wish. The good listener is always looking to take the speaker back to their last reasonable idea, saying, “Yes, yes, but you were saying just a moment ago …” or “So, ultimately, what do you think it was about?” The good listener is, paradoxically, a skilled interrupter.
 * When we’re in the company of people who listen well, we experience a very powerful pleasure, but too often we don’t really realize what it is about what this person is doing that is so welcome.
 
-#### Calm
+### Calm
 
 **Pessimism**
 
@@ -319,9 +319,9 @@ Self Esteem = ————————————
 * Furthermore, it is a psychological law that those who are most attracted to calm will almost certainly also be especially irritable and by nature prone to particularly high levels of anxiety.
 * Typically, lovers of something are not the people who already possess it but those who are hugely aware of how much they lack it—and are therefore especially humble before, and committed to, the task of securing it.
 
-### III. Relationships
+## III. Relationships
 
-#### Getting Together
+### Getting Together
 
 **Beyond Romanticism**
 
@@ -369,6 +369,10 @@ Self Esteem = ————————————
 | A. Partner’s tricky behaviour | B. Childlike response |  C More adult response |
 | --- | --- | --- |
 | Raising voice | "It's all my fault" | "This is their issue. I don't have to feel bad." |
+| Patronizing | "I'm stupid" | "There are lots of kinds of intelligence. Mine is fine." |
+| Morose | "I have to fix you" | "I'll do my best, but I'm not ultimately responsible for your mindset - and this doesn't have to impact on my self-esteem" |
+| Overbearing | "I deserve this" | "I'm not intimidated by you" |
+| Distracted, preoccupied | "Attention-seeking "Notice me" | "You're busy, I'm busy, that's ok" | 
 
 #### The Importance of Sex
 #### Dealing with Problems
