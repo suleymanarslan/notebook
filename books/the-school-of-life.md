@@ -366,7 +366,7 @@ Self Esteem = ————————————
 * Many of us are highly likely to end up with somebody with a particularly knotty set of issues that trigger our desires as well as our childlike defensive responses.
 * The answer isn’t usually to shut down the relationship, but to strive to deal with the compelling challenges it throws up with some of the wisdom we weren’t capable of when we first encountered these in a parent or caregiver.
 
-| A. Partner’s tricky behaviour | B. Childlike response |  C More adult response |
+| A. Partner’s tricky behaviour | B. Childlike response |  C. More adult response |
 | --- | --- | --- |
 | Raising voice | "It's all my fault" | "This is their issue. I don't have to feel bad." |
 | Patronizing | "I'm stupid" | "There are lots of kinds of intelligence. Mine is fine." |
