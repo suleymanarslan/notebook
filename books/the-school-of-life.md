@@ -110,7 +110,9 @@
 * In an emotionally healthy childhood, the child learns that things that break can be fixed.
 * Bakhuysen wanted us to feel proud of humanity’s resilience in the face of apparently dreadful challenges. His painting implies that we can all cope far better than we think; that what appears immensely threatening may be highly survivable.
 
-![](../paintings/Ludolf Bakhuysen, Warships in a Heavy Storm, c. 1695.jpg)
+![](https://raw.githubusercontent.com/azer/notebook/master/paintings/Ludolf%20Bakhuysen%2C%20Warships%20in%20a%20Heavy%20Storm%2C%20c.%201695.jpg)
+
+Ludolf Bakhuysen, Warships in a Heavy Storm, c. 1695
 
 * Importantly, in an emotionally healthy childhood, plenty goes wrong. No one has staked their reputation on rendering the whole story perfect.
 * The carer does not see it as their role to remove every frustration.
@@ -280,7 +282,7 @@
               Success
 Self Esteem = ————————————
               Expectations"
-`****
+```
 
 * The problem with our world is that it does not stop emphasizing that success, calm, happiness, and fulfillment could, somehow, one day be ours. And in this way it never ceases to torture us.
 * We aren’t overwhelmed by anger whenever we are frustrated; only when we first believed ourselves entitled to a particular satisfaction and then did not receive it. Our furies spring from events that violate a background sense of the rules of existence.
