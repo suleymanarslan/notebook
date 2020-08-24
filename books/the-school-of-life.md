@@ -770,7 +770,7 @@ Self Esteem = ————————————
 * Netscher isn’t lecturing us about respecting the low-paid; we hear this often enough and the lesson rarely sinks in. He’s not trying to use guilt, which is rarely an effective tactic. He’s helping us, in a representative instance, to actually feel respect for his worker rather than just know it might be her due.
 * His picture isn’t nagging, grim, or forbidding, it’s an appealing and pleasurable mechanism for teaching us a very unfamiliar but critically important supra-political emotion.
 
-![](https://raw.githubusercontent.com/azer/notebook/master/paintings/the-lacemaker.png**
+![](https://raw.githubusercontent.com/azer/notebook/master/paintings/the-lacemaker.png)
 
 * If lots of people saw the lacemaker in the way the artist did, took the lesson properly to heart, and applied it widely and imaginatively at every moment of their lives, it is not an exaggeration to say that the psychological burden of poverty would substantially be lifted.
 
