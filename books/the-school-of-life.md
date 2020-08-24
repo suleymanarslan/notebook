@@ -736,7 +736,40 @@ Self Esteem = ————————————
 * The idea that capitalism can give us what we need has always been central to its defense.
 * More efficiently than any other system, capitalism has, in theory, been able to identify what we’re lacking and deliver it to us with unparalleled efficiency. Capitalism is the most skilled machine we have ever yet constructed for satisfying human needs.
 * Yet, despite its evident successes, consumer capitalism cannot in truth realistically be credited with having fulfilled a mission of accurately satisfying our needs, because of one evident failing: We aren’t happy.
-* Abraham Maslow’s Pyramid of Needs.
+
+![](https://raw.githubusercontent.com/azer/notebook/master/health/maslows-hierarchy-of-needs.png**
+
+* The true destiny of and millennial opportunity for consumer capitalism is to travel up the pyramid, to generate ever more of its profits from the satisfaction of the full range of “higher needs” that currently lie outside the realm of industrialization and commodification.
+* Capitalists and companies are seemingly—at least semi-consciously—aware of their failure to engage with many of the elements at the top of the pyramid, among them friendship, belonging, meaningfulness, and a sense of agency and autonomy. And the evidence for this lies in a rather surprising place, in one of the key institutions for driving the sales of capitalism’s products forward: advertising.
+
+**The Promises of Advertising**
+
+* When advertising began in a significant way in the early nineteenth century, it was a relatively straightforward business. It showed you a product, told you what it did, where you could get it, and what it cost.
+* Then, in 1960s America, a remarkable new way of advertising emerged, led by such luminaries of Madison Avenue as William Bernbach, David Ogilvy, and Mary Wells Lawrence. In their work for brands like Esso, Avis, and Life Cereal, adverts ceased to be in a narrow sense about the things they were selling. The focus of an ad might ostensibly be on a car, but our attention was also being directed at the harmonious, handsome couple holding hands beside it. It might on the surface be an advert about soap, but the true emphasis was on the state of calm that accompanied the ablutions.
+* Patek Philippe is one of the giants of the global watchmaking industry. Since 1996, they have been running a very distinctive series of adverts featuring parents and children.
+* In one example, a father and son are together in a motorboat, a scene that tenderly evokes filial and paternal loyalty and love. The son is listening carefully while his kindly dad tells him about aspects of seafaring. We can imagine that the boy will grow up confident and independent, yet also respectful and warm. He’ll be keen to follow in his father’s footsteps and emulate his best sides. The father has put a lot of work into the relationship (one senses they’ve been out on the water a number of times** and now the love is being properly paid back.
+* The advertisement understands our deepest hopes around our children. It is moving because what it depicts is so hard to find in real life. We are often brought to tears not so much by what is horrible as by what is beautiful but out of reach.
+* Father – son relationships tend to be highly ambivalent. Despite a lot of effort, there can be extensive feelings of neglect, rebellion, and, on both sides, bitterness. Capitalism doesn’t allow dads to be too present. There may not be so many chances to talk. But in the world of Patek Philippe, we glimpse a psychological paradise.
+* The real crisis of capitalism is that product development lags so far behind the best insights of advertising.
+* Since the 1960s, advertising has worked out just how much we need help with the true challenges of life. It has fathomed how deeply we want to have better careers, stronger relationships, greater confidence. In most adverts, the pain and the hope of our lives have been superbly identified, but the products are almost comically at odds with the problems at hand.
+* To trace the future shape of capitalism, we have only to think of all our needs that currently lie outside commerce. We need help in forming cohesive, interesting, benevolent communities.
+* Our higher needs are not trivial or minor, insignificant things we could easily survive without. They are, in many ways, central to our lives. We have simply accepted, without adequate protest, that there is nothing business can do to address them, when in fact, being able to structure businesses around these needs would be the commercial equivalent of the discovery of steam power or the invention of the electric light bulb.
+* In the ideal future for consumer capitalism, our materialism would be refined, our work would be rendered more meaningful, and our profits more honorable.
+* Advertising has at least done us the great service of hinting at the future shape of the economy; it already trades in all the right ingredients. The challenge now is to narrow the gap between the fantasies being offered and what we truly spend our lives doing and our money buying.
+
+**Artistic Sympathy**
+
+* There is one important move we can make that might start to reduce some of the sting of inequality. For this, we need to begin by asking what might sound like an offensively obvious question: Why is financial inequality a problem?
+* There are two very different answers. One kind of harm is material: not being able to get a decent house, quality health care, a proper education, and a hopeful future for one’s children.
+* But there is also a psychological reason why inequality proves so problematic: because poverty is intricately bound up with humiliation. The punishment of poverty is not limited to money, but extends to the suffering that attends a lack of status: a constant low-level sense that who one is and what one does are of no interest to a world that is punitively unequal in its distribution of honor as well as cash.
+* Poverty not only induces financial harm but damages mental health as well.
+* A sketch of a solution to the gap between income and respect lies in a slightly unexpected place: a small painting hanging in a top-floor gallery at London’s Wallace Collection called The Lacemaker, by a little-known Dutch artist, Caspar Netscher, who painted it in 1662.
+* The artist has caught the woman making lace at a moment of intense concentration on a difficult task.
+* Were the artist, Caspar Netscher, to be working today, his portrait would have been equivalent to making a short movie about phone factory workers or fruit pickers. It would have been evident to all the painting’s viewers that the lacemaker was someone who ordinarily received no respect or prestige at all.
+* And yet Netscher directed an extraordinary amount of what one might call artistic sympathy toward his sitter. Through his eyes and artistry, she is no longer a nobody. She has grown into an individual, full of her own thoughts, sensitive, serious, devoted—entirely deserving of tenderness and consideration. The artist has transformed how we might look at a lacemaker.
+* Netscher isn’t lecturing us about respecting the low-paid; we hear this often enough and the lesson rarely sinks in. He’s not trying to use guilt, which is rarely an effective tactic. He’s helping us, in a representative instance, to actually feel respect for his worker rather than just know it might be her due.
+* His picture isn’t nagging, grim, or forbidding, it’s an appealing and pleasurable mechanism for teaching us a very unfamiliar but critically important supra-political emotion.
+* If lots of people saw the lacemaker in the way the artist did, took the lesson properly to heart, and applied it widely and imaginatively at every moment of their lives, it is not an exaggeration to say that the psychological burden of poverty would substantially be lifted.
 
 
 ### V. Culture
