@@ -769,7 +769,30 @@ Self Esteem = ————————————
 * And yet Netscher directed an extraordinary amount of what one might call artistic sympathy toward his sitter. Through his eyes and artistry, she is no longer a nobody. She has grown into an individual, full of her own thoughts, sensitive, serious, devoted—entirely deserving of tenderness and consideration. The artist has transformed how we might look at a lacemaker.
 * Netscher isn’t lecturing us about respecting the low-paid; we hear this often enough and the lesson rarely sinks in. He’s not trying to use guilt, which is rarely an effective tactic. He’s helping us, in a representative instance, to actually feel respect for his worker rather than just know it might be her due.
 * His picture isn’t nagging, grim, or forbidding, it’s an appealing and pleasurable mechanism for teaching us a very unfamiliar but critically important supra-political emotion.
+
+![](https://raw.githubusercontent.com/azer/notebook/master/paintings/the-lacemaker.png**
+
 * If lots of people saw the lacemaker in the way the artist did, took the lesson properly to heart, and applied it widely and imaginatively at every moment of their lives, it is not an exaggeration to say that the psychological burden of poverty would substantially be lifted.
 
-
 ### V. Culture
+
+* We may not be used to conceiving of ourselves in these terms, but the labels Romantic and Classical, so often alluded to up to this point, usefully bring into focus some of the central themes of our lives and help us to gain a clearer picture of the underlying structure of our enthusiasms and concerns.
+
+**Intuition vs. Analysis**
+
+* Romantics are especially aware of all that lies outside rational explanation, all that cannot neatly be summarized in words.
+* The impulse to categorize and to master intellectually is for Romantics a distinct form of vanity, like trying to draw up a list in a hurricane.
+* We should more often be guided by our instincts and the voice of nature within us.
+* We should respect and not tinker with emotions, especially as they relate to love and the spiritual varieties of experience.
+* We need to fall silent—more frequently than we do—and simply listen.
+* Sometimes the best way to honor the ineffable is through unclear language and obscure modes of expression.
+* Classicists like order.
+* They reach for their notebooks during emotional tempests.
+* Reason is the sole tool we have available to defend ourselves against primeval chaos.
+* Classicists know a lot about feelings and intuitions. They have had plenty, often very powerful ones. They just don’t respect them. The last thing they are now inclined to do with an emotion is surrender to it.
+* They have committed too many follies to think that following their hearts might be an idea. They know that not all the mysteries can be explained, but they are committed to giving it a shot. They don’t think that love breaks if you examine it too carefully. They favor clear modes of expression (even about rare and evanescent emotions, like reflecting on the Centaurus A galaxy or looking into a partner’s eyes) and a crisp, minimal language that an intelligent twelve-year-old could understand.
+
+**Spontaneity vs. Education**
+
+* Romantics don’t like schools. The best kind of education comes from within. The most important capacities are in us from the start.
+*
