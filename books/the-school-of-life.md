@@ -372,11 +372,371 @@ Self Esteem = ————————————
 | Patronizing | "I'm stupid" | "There are lots of kinds of intelligence. Mine is fine." |
 | Morose | "I have to fix you" | "I'll do my best, but I'm not ultimately responsible for your mindset - and this doesn't have to impact on my self-esteem" |
 | Overbearing | "I deserve this" | "I'm not intimidated by you" |
-| Distracted, preoccupied | "Attention-seeking "Notice me" | "You're busy, I'm busy, that's ok" | 
+| Distracted, preoccupied | "Attention-seeking "Notice me" | "You're busy, I'm busy, that's ok** |
+
+* The crux is whether we can move from interpreting behavior as a sign of meanness to viewing it as a symptom of pain and anxiety.
+* We will have learned to love when our default response to unfortunate moments is not to feel aggrieved but to wonder what damaged aspects of a partner’s rocky past have been engaged.
+* Annoying characteristics almost always have their roots in childhood, long before our arrival. They are, for the most part, strategies that were developed for coping with stresses that could not correctly be processed by an immature mind.
+* An overcritical, demanding parent might have made them feel as if being disorganized and untidy was a necessary rebellion, a crucial assertion of independence against a threatening demand for compliance. A watchfulness around social status might have been the outcome of a succession of bankruptcies in a father’s business during adolescence. An avoidant personality might have resulted from an early unbearable disappointment.
+* We are ready for relationships not when we have encountered perfection, but when we have grown willing to give flaws the charitable interpretations they deserve.
+* A charitable mindset doesn’t make it lovely to be confronted by the other’s troubles. But it strengthens our capacity to stick with them, because we see that their failings don’t make them unworthy of love, rather all the more urgently in need of it.
+
+**The Longing For Reassurance**
+
+* There are sweet moments, early on in relationships, when one person can’t quite work up the courage to let another know just how much they like them.
+* Our culture has a lot of sympathy for this awkward and intensely vulnerable stage of love.
+* However, the assumption is that the terror of rejection will be limited in scope and focused on one particular stage of a relationship: its beginning. Once a partner is finally accepted and the union gets under way, the assumption is that the fear must come to an end.
+* But one of the odder features of relationships is that, in truth, the fear of rejection never ends. It continues, even in quite sane people, on a daily basis, with frequently difficult consequences—chiefly because we refuse to pay it sufficient attention and aren’t trained to spot its counter-intuitive symptoms in others. We haven’t found a winning way to keep admitting just how much reassurance we need.
+* The trigger to insecurity can be apparently minuscule. Perhaps the other has been away at work for unusual amounts of time; or they were pretty animated talking to a stranger at a party; or it’s been a while since sex took place. Perhaps they weren’t very warm to us when we walked into the kitchen. Or they’ve been rather silent for the last half an hour.
+* Instead of requesting reassurance endearingly and laying out our longing with charm, we have tendencies to mask our needs beneath some tricky behaviors guaranteed to frustrate our ultimate aims.
+* Within established relationships, when the fear of rejection is denied, two major symptoms tend to show up.
+* First, we may become distant—or what psychotherapists call “avoidant.” We want to get close to our partners but feel so anxious that we may be unwanted, we freeze them out: We say we’re busy; pretend our thoughts are elsewhere.
+* We could get involved with a third person, the ultimate defensive attempt to be distant—and often a perverse attempt to assert that we don’t require a love we feel too vulnerable to ask for.
+* We grow into avoidant patterns when, in childhood, attempts at closeness ended in degrees of rejection, humiliation, uncertainty, or shame that we were ill-equipped to deal with.
+* Or else we become controlling—or what psychotherapists calls “anxious.” We grow suspicious, frantic, and easily furious in the face of the ambiguous moments of love; catastrophe never feels too far away. A slightly distant mood must, we feel, be a harbinger of rejection; a somewhat non-reassuring moment is an almost certain prelude to the end.
+* Small children sometimes behave in stunningly unfair and shocking ways: They scream at the person who is looking after them, angrily push away a bowl of animal pasta, immediately discard something you have just fetched for them. But we rarely feel personally agitated or wounded by their behavior.
+* It’s very touching that we live in a world where we have learned to be so kind to children; it would be even nicer if we learned to be a little more generous toward the childlike parts of one another.
+
+**Love and Education**
+
+* To love someone is, according to Romantic philosophy, quite simply to love them as they are, without any wish to alter them.
+* When a partner finds you shy at parties, they don’t laugh; they are sweet and take your tongue-tied state as a sign of sincerity. They’re not embarrassed by your slightly unfashionable clothes because, for them, it’s about honesty and the strength to ignore public opinion. When you have a hangover, they don’t say it was your own fault for drinking too much; they rub your neck, bring you tea, and keep the curtains closed.
+* But there is another, more workable and mature philosophy of love available, one that’s traceable back to the ancient Greeks. This states that love is an admiration for the good sides, the perfections, of a person. The Greeks took the view that love is not an obscure emotion. Loving someone is not an odd chemical phenomenon indescribable in words. It just means being awed by another for all the sorts of things about them that truly are right and accomplished.
+* So, what do we do with what we perceive as their weaknesses, the problems and regrettable aspects? The Greek idea of love turns to a notion to which we desperately need to rehabilitate ourselves: education. For the Greeks, given the scale of our imperfections, part of what it means to deepen love is to want to teach—and to be ready to be taught. Two people should see a relationship as a constant opportunity to improve and be improved. When lovers teach each other uncomfortable truths, they are not abandoning the spirit of love. They are trying to do something very true to genuine love, which is to make their partners more worthy of admiration.
+* We should stop feeling guilty for simply wanting to change our partners and we should never resent our partners for simply wanting to change us.
+* The good teacher knows that timing is critical to successful instruction. We tend automatically to try to teach a lesson the moment the problem arises, rather than when it is most likely to be attended to (which might be several days later).
+* And so we typically end up addressing the most delicate and complex teaching tasks just at the point when we feel most scared and distressed and our student is most exhausted and nervous.
+* We should develop a cult of optimal timing in addressing tricky matters, passing down from generation to generation stories of how, after years of getting nowhere with impulse-driven frontal assaults,
+* Somewhere in the early years of the defensive person there will have been a sense of grave danger about being in the subordinate position, which would have inspired a flight into claims of hyper-competence.
+* It is the task of all parents to criticize their children and break bad news to them about their wishes and efforts. But there are rather different ways of going about this. The best form of pedagogy leaves the child at once aware of a need to improve and with a sense that they are liked despite their ignorance and flaws.
+* When teaching and learning fail, we enter the realm of nagging.
+* Nagging is, in essence, an attempt at transferring an idea for improvement from one mind to another that has given up hope. It has descended into an attempt to insist rather than invite, to coerce rather than charm.
+* Lamentably, it doesn’t work. Nagging breeds its evil twin, shirking. The other pretends to read the paper, goes upstairs and feels righteous. The shrillness of one’s tone gives them all the excuse they need to trust that we have nothing kind or true to tell them.
+* We nag because we feel that our possession of the truth lets us off having to convey it elegantly. It never does. The solution to nagging isn’t to give up trying to get others to do what we want. Rather, it is to recognize that persuasion always needs to be couched in terms that make intuitive sense to those we want to alter.
+* Rather than reading every grating lesson as an assault on our whole being, we should take it for what it is: an indication, however flawed, that someone can be bothered, even if they aren’t yet breaking the news perfectly.
+* The only fault is to reject the opportunity for education if it is offered, however clumsily. Love should be a nurturing attempt by two people to reach their full potential, never just a crucible in which to look for endorsement for the panoply of present failings.
 
 #### The Importance of Sex
+
+* To start the list, here are just some of the unpalatable truths that stir in our minds:
+  * it’s very rare to maintain sexual interest in only one person, however much one loves them, beyond a certain time;
+  * it’s entirely possible to love one’s partner and regularly want to have sex with strangers, frequently types who don’t align with our ordinary concerns;
+  * one can be a kind, respectable, and democratic person and at the same time want to inflict or receive very rough treatment;
+  * it’s highly normal to have fantasies about scenarios one would not wish to act out in reality and that might involve illegal, violent, hurtful, and unsanitary aspects;
+  * it may be easier to be excited by someone one dislikes or thinks nothing of than by someone one loves.
+* Proust’s argument is that defilement during sex isn’t what it seems. Ostensibly, it’s about violence, hatred, meanness, and a lack of respect. But for Proust, it symbolizes a longing to be properly oneself in the presence of another human being, and to be loved and accepted by them for one’s darkest sides rather than just for one’s politeness and good manners.
+* Sex in which two people can express their defiling urges is, for Proust, at heart an indication of a quest for complete acceptance. We know we can please others with our goodness, but (suggests Proust** what we really want is also to be endorsed for our more peculiar and dark impulses. The discipline involved in growing up into a good person seeks occasional alleviation, which is what sex can provide in those rare moments when two partners trust one another enough to reveal their otherwise strictly censored desires to dirty and insult.
+* Defilement therefore has meaning: It is a surprising way of trying to improve a relationship. It’s not an act of sabotage or a denial of love. It’s a deeply curious but, in its own way, very logical quest for closeness.
+
+**Affairs**
+
+* An affair is a love—or sexual—story between two people, one of whom (at least) is ostensibly committed to someone else.
+* Once an affair has been uncovered, we often ask—in the position of the betrayed, pained party—when it began. Pinpointing the precise moment promises to shed light on its motivations and on possible ways to prevent any further such calamities in the future.
+* This kind of detective work feels obvious, but it overlooks a complexity: The start of an affair should not be equated with the moment when two straying people meet.
+* The affair pre-dates, possibly by many years, the arrival of any actual lover.
+* It is common to ask when a cataclysmic event such as, for example, the French Revolution began. A traditional response is to point to the summer of 1789, when some of the deputies at the Estates General took an oath to remain in session until a constitution had been agreed on, or a few days later when a group of Parisians attacked and broke into the Bastille prison.
+* But a more sophisticated and instructive approach locates the beginning significantly earlier: with the bad harvests of the previous ten years; with the loss of royal prestige following military defeats in North America in the 1760s, or with the rise of a new philosophy in the middle of the century that stressed the idea of citizens’ rights.
+* At the time, these incidents didn’t seem particularly decisive; they didn’t immediately lead to major social change or reveal their solemn nature. But they slowly and powerfully put the country on course for the upheavals of 1789: They moved the country into a revolution-ready state.
+* Unending busy-ness, neglect, shaming, ownership, flirting, one too many arguments, lack of tenderness, erotic disengagement
+
+**How to Spot a Couple Who Might be Headed for an Affair**
+
+* Having arguments does not, in itself, say very much about the likelihood of a relationship disintegrating.
+* A number of qualities are required to ensure that a couple know how to argue well. There is, first and foremost, the need for each party to be able to pinpoint sources of discomfort in themselves early and accurately: to know how to recognize what they are unhappy about and what they need in order to flourish in the couple.
+* One might need to wait until some of the surface tension has dissipated; perhaps the next morning can do just as well. One needs a background confidence not to have to blurt out every objection in a panicked diatribe or shout a wounded feeling across the room when the other is themselves too upset to hear it. One needs to know how to formulate one’s complaints into a convincing, perhaps even humorously framed point that has a chance of winning over its target.
+* It matters in all this that one both feels attached to the partner and at the same time has an active impression that one could walk away from them were matters ever truly to escalate. Feeling that one has options, does not therefore have to cling, and deserves good treatment ensures that one’s voice can be measured and that the status quo will remain manageable.
+
+**Over-optimism about relationships**
+
+* Fragile couples, paradoxically, tend to be very hopeful about love. They associate happiness with conflict-free unions. They do not expect, once they have found the person they unwisely see as The One, ever to need to squabble, storm out of a room, or feel unhappy for the afternoon.
+* When trouble emerges, as it inevitably does, they do not greet it as a sign that love is progressing as it should but as alarming evidence that their relationship may be illegitimate and fundamentally flawed.
+
+**Being out of touch with pain**
+
+* Fragile couples tend not to be good detectives with regard to their own sufferings. They may be both unhappy and yet unsure as to the actual causes of their dissatisfactions. They know something is wrong in their union, but they can’t easily trace the catalyst.
+
+**Shame**
+
+* A shamed person has fundamental doubts about their right to exist: Somewhere in the past, they have been imbued with the impression that they do not matter very much, that their feelings should be ignored, that their happiness is not a priority, that their words do not count.
+* Once they are part of a couple, shamed people hurt like anyone else, but their capacity to turn their hurt into something another person can understand and be touched by is recklessly weak.
+* Shamed people will sulk rather than speak, hide rather than divulge, feel secretly wretched rather than candidly complain. It is frequently very late, far too late, by the time shamed people finally let their lover know more about the nature of their desperation.
+
+**Excessive Anxiety**
+
+* Complaining well requires an impression that not everything depends on the complaint being heard perfectly. Were the lesson to go wrong, were the other to prove intransigent, one could survive and take one's love elsewhere. Not everything is at stake in an argument. The other hasn't ruined one's life. One therefore doesn't need to scream, hector, insist or nag. One can deliver a complaint with some of the nonchalance of a calm teacher who wants listeners to learn but can bear it if they don't because information can always be conveyed tomorrow, or the next day.
+
+**Excessive Pride**
+
+* One has to feel quite grown up inside not to be offended by one’s own more childlike appetites for reassurance and comfort. It is an achievement to know how to be strong about one's vulnerability.
+
+**Hopelessness about dialog**
+
+* Fragile couples often come together with few positive childhood memories of conversations working out: Early role models may simply have screamed and then despaired of one another. They may never have witnessed disagreements eventually morphing into mutual understanding and sympathy.
+* None of these factors means there will automatically be an affair, but they are generators of emotional disconnection that contributes to an all important affair ready state.
+* It will be the result of identifiable long-term resentments that a couple, otherwise blessed and committed, lacked the inner resources and courage to investigate.
+
+**The Role of Sex in Affairs**
+
+* Why is sex so nice? One possible answer, which can sound a little odd, is: because we have advanced tendencies to hate ourselves and find ourselves unacceptable. And sex with a new person has an exceptional capacity to reduce feeling like that.
+* A long-term relationship can all too easily enforce a sense that we are neither very admirable nor worthy. Management of family life, of cleaning rotas, of finances, and of relations with friends and in-laws can contribute to an impression that one is fundamentally troublesome and undeserving of sustained notice. The mood around us is fractious and ungrateful. "Not you again** may be the implicit message one receives upon entering any room.
+* In the context of an affair, everything changes. We can be unlaced and carefree.
+* What we may be doing is slipping off another’s top or inviting them to release our trousers, but what all this means is that another human has -exceptionally- chosen to find us worthy.
+* The crucial, active element in an affair isn’t really the physical sex per se: it’s the sense of closeness, the warmth, the shared liking for which physical sex provides the occasion.
+
+**How to Reduce the Risk of Affairs**
+
+* The best way to stop their being tempted to sleep with someone else is not, therefore, to reduce their opportunities for contact; it is to leave them free to wander the world while ensuring that they feel heard by and are reconciled with their partners. It is emotional closeness, not curfews, that guarantees the integrity of couples.
+* To guide us in our restorative complaints, we might consider the following range of prompts:
+
+**I sometimes feel frustrated with you when:**
+
+* It provides us with an opportunity to do something very rare: level criticism without anger. And it’s a chance to hear criticism as more than an attack, to interpret it for what it may truly be: a desire to learn how to live together with less occasion for anger.
+
+**I’d love you to realize that you hurt me when …**
+
+* We’re carrying around wounds that we have found, understandably and inevitably, hard to articulate.
+* The problem is that when they fester, the currents of affection start to get blocked and soon we may find that we flinch when our partner tries to touch us.
+
+**One of the hardest things for you to understand about me is**
+
+* We end up lonely because there is something important about who we are that our partner appears not to grasp or, so we can conclude, does not even want to take on board. But this lack of interest is rarely malevolent; it is usually more the case that there hasn’t been a proper occasion for exploration.
+* The feeling that one person knows another is the constant enemy of long-term couples.
+* We are changing all the time, we’re no longer who we were last month, and we can struggle to explain our own evolutions and needs even to ourselves.
+
+**What I’d love you to appreciate about me is …**
+
+* We don’t want untrammeled praise, merely the odd moment when we can tell our partner what we feel is worthy of appreciation, maybe a little more appreciation than we have until now spontaneously received.
+
+**Where I’m unfulfilled in my life …**
+
+* The longing for an affair can arise from a sense that the world more generally has not heard us, that we have been abandoned with career anxieties, or lag behind our peers in terms of achievement and assets.
+* We should dare to spend less time banning our partners from having lunch with strangers or traveling alone, and more time ensuring that they feel understood for their flaws and confusions, and appreciated for their virtues.
+
 #### Dealing with Problems
 
+**Arguments**
+
+* An average couple will have between thirty and fifty significant arguments a year, “significant” meaning an encounter that departs sharply from civilized norms of dialog, would be uncomfortable to film and show friends, and might involve screaming, rolled eyes, histrionic accusations, slammed doors, and liberal uses of terms like “asshole” and “dickhead.”
+* The first is that our Romantic culture sentimentally implies that there might be a necessary connection between true passion and a fiery temper. It can seem as if fighting and hurling insults might be signs, not of immaturity and a woeful incapacity for self-control, but of an admirable intensity of desire and strength of commitment.
+* We argue badly and regularly principally because we lack an education in how to teach others who we are. Beneath the surface of almost every argument lies a forlorn attempt by two people to get the other to see, acknowledge, and respond to their emotional reality and sense of justice.
+* A bad argument is a failed endeavor to communicate, which perversely renders the underlying message we seek to convey ever less visible.
+* Some of the reason why we argue so much and so repetitively is that we aren’t guided to spot the similarities that run through our arguments; we do not have to hand an easy typology of squabbles that could be to domestic conflict what an encyclopedia of birds is to an ornithologist.
+
+**The Interminable Argument**
+
+* We keep arguing because we never manage to identify and address the key issue we’re actually cross about. Irritability is anger that lacks self-knowledge.
+* We may, furthermore, not have grown up with a sense that our dissatisfactions ever deserved expression. Our parents might have been too anxious, too vulnerable, or too bullying to allow much room for our early needs. We might have become masters in the art of not complaining and of accepting what we are given as the price of survival and of protection of those we loved. This doesn’t now spare us feelings of frustration. It simply makes us incapable of giving them a voice.
+
+**The Defensive Argument**
+
+* We often operate in romantic life under the mistaken impression—unconsciously imported from law courts and school debating traditions—that the person who is “right” or has the stronger case should, legitimately, “win” an argument. But this is fundamentally to misunderstand the point of relationships, which is not so much to defeat an opponent as to help each other evolve into the best versions of ourselves.
+* When we’re on the receiving end of a difficult insight into our failings, what makes us bristle and deny everything isn’t generally the accusation itself (we know our flaws all too well**; it’s the surrounding atmosphere.
+* We know the other is right, we just can’t bear to take their criticism on board, given how severely it has been delivered.
+* We start to deny everything because we are terrified: the light of truth is shining too brightly. The fear is that if we admit our failings, we will be crushed, shown up as worthless, required to attempt an arduous, miserable process of change without sympathy or claim on the affections of the other.
+* Plato once outlined an idea of what he called the “just lie.” If a crazed person comes to us and asks, “Where’s the ax?” we are entitled to lie and say we don’t know, because we understand that if we were to tell the truth they would probably use the tool to do something horrendous to us.
+* That is, we can reasonably tell a lie when our life is in danger. In the same way, our partner might not literally be searching for an ax when they make their accusation, but psychologically this is precisely how we might experience them—which makes it understandable if we say we simply don’t know what they are talking about.
+* People don’t change when they are gruffly told what’s wrong with them; they change when they feel sufficiently supported to undertake the change they—almost always—already know is due.
+
+**The Spoiling Argument**
+
+* There is a kind of argument that begins when one partner deliberately, and for no immediately obvious reason, attempts to spoil the good mood and high spirits of the other.
+
+**The Pathologizing Argument**
+
+* There are arguments in which one person gets so upset that they start to behave in ways that range far beyond the imagined norms of civilized conduct: They speak in a high-pitched voice, they exaggerate, they weep, they beg, their words become almost incoherent, they pull their own hair, they bite their own hand, they roll on the floor.
+* There’s a moment when the calm one may turn and say, “Since you are mad, there’s no point in talking to you.” The awareness—in the raging lover’s mind—that, as they rant and flail, they are ineluctably throwing away all possibility of being properly attended to or understood feeds their ever-mounting sense of panic: They become yet more demented and exaggerated, further undermining their credibility in the discussion.
+* Hearing their condition diagnosed as insane by the calm one serves to reinforce a suspicion that perhaps they really are mad, which in turn weakens their capacity not to be so. They lose confidence that there might be any reasonable aspect to their distress that could, theoretically, be explained in a clear way if only they could stop crying.
+* On the other side of the equation, the person who remains calm is automatically cast, by their own imperturbable nature and subtle skills at public relations, as decent and reasonable.
+* But we should bear in mind that it is at least in theory entirely possible to be cruel, dismissive, stubborn, harsh, and wrong, and keep one’s voice utterly steady. Just as one can, equally well, be red-nosed, whimpering, and incoherent, and have a point.
+* We need to keep hold of a heroically generous attitude: Rage and histrionics can be the symptoms of a desperation that sets in when a hugely important intimate truth is being blatantly ignored or denied, with the uncontrolled person being neither evil nor monstrous.
+* We can stay calm with almost everyone in our lives. If we lose our temper with our partners, it is likely because we are so invested in them and our joint futures. We shouldn’t invariably hold it against someone that they behave in a stricken way; it isn’t (probably) a sign that they are mad or horrible. Rather, as we should have the grace to recall, it is just that they love and depend on us very much.
+
+**The Absentee Argument**
+
+* There are so many ways in which the world wounds us. At work, our manager repeatedly humiliates and belittles us. We hear of a party to which we were not invited. A better-looking, wealthier person snubs us at a conference. We develop a skill that turns out not to be much in demand in the world; some people were with at college setup a hugely successful business.
+* Our hurt, humiliation, and disappointments accumulate—but almost always, we cannot possibly complain about them to anyone. Our managers would sack us if we told them how we felt. Our acquaintances would be horrified by the depth of our insecurities.
+* No one gives a damn about an admirable company that has hurt our feelings through its success. There is no way to take out our distress on geopolitics or economic history or the existential paradox that we are required to make decisions about our lives before we could possibly know what they will entail.
+* We cannot rave at the cosmos or at the accidents of political power. We need, most of the time, simply to politely swallow our hurt and move on.
+* But there is one exception to this rule: We can rant and moan at a person who is more reliably kind to us than anyone else, a person whom we love more than any other, a blessed being who is waiting for us at home at the end of every new grueling day...
+* Unfortunately, we don’t always tell our partner that we are causing problems because we are sad about things that have nothing to do with them; we just create arguments to alleviate our distress.
+* We are mean to them because our boss didn’t care, the economy wasn’t available for a chat, and there was no God to implore. We reroute all the humiliation and rage that no one else had time for on to the shoulders of the one person who most cares about well-being.
+* We tell them that if only they were more supportive, were less intrusive, made more money, were less materialistic, were more imaginative or less naive, less fussy or more demanding, more dynamic or more relaxed, sexier or less obsessed with sex, more intelligent or less wrapped up in the world of books, more adventurous or more settled, then we could be happy. Our life would be soothed and our errors redeemed. It is, as we imply and occasionally even tell them, *all their fault*.
+* This is, of course, horrible and largely untrue. But enfolded within our denunciations and absurd criticisms is a strangely loving homage. Behind our accusations is an inarticulate yet large compliment. We complain unfairly as a tribute to the extent of our love and the position the partner has taken in our lives.
+* We pick a fight with them over nothing much, but what we are in effect saying is: *Save me, redeem me, make sense of my pain,, love me even though I have failed.**
+* The fact that we are blaming our partner in ridiculous ways is a heavily disguised but authentic mark of the trust we have in them.
+* We must be civilized and grown up with everyone else, but with one person on the planet, we can at points be maddeningly irrational, utterly demanding, and horribly cross, not because they deserve it, but because so much has gone wrong, we are so tired, and they are the one person who promises to understand and forgive us. No wonder we love them.
+
+**The Argument of Normality**
+
+* Being in a relationship, even a very good one, requires us constantly to defend our preferences and points of view against the possibility of a partner's objections.
+* In a pure sense, what is “normal” shouldn’t matter very much at all. What is widespread in our community is often wrong and what is currently considered odd might actually be quite wise.
+* But however much we know this intellectually, we are profoundly social creatures; millions of years of evolution have shaped our brains so as naturally to give a great deal of weight to the opinions of those around us.
+* When it comes to personal life, we have no sound idea of what is normal, because we have no easy access to the intimate truths of others. We don’t know what a normal amount of sex really is, or how normal it is to cry, sleep in a different bed, or dislike a partner’s best friend. There are no reliable polls or witnesses.
+* We are the beneficiaries of some extremely rare eventualities and it is the height of ingratitude to claim to be a friend of the normal when most of what is good in our lives is the result of awesomely minuscule odds.
+
+**The Parental-Resemblance Argument**
+
+* In one side of our brains, we are aware of a range of negative qualities we observed in our parents that we sense are intermittently hinted at in our own personalities. And we are terrified.
+* At moments of weakness, we find ourselves replaying just the same sarcastic or petty, vain or angry attitudes we once felt sure we would never want to emulate.
+
+**The Argument from Excessive Logic**
+
+* It seems odd at first to imagine that we might get angry, even maddened, by a partner because they are, in the course of a discussion, proving to be too reasonable and too logical.
+* An excessively logical approach to fears discounts their origins and concentrates instead on why we shouldn’t have them, which is maddening when we are in pain. It’s not that we actually want our partner to stop being reasonable; we want them to apply their intelligence to the task of sensitive reassurance. We want them to enter into the weirder bits of our own experience by remembering their own.
+
+**The No-Sex Argument**
+
+* The absence of sex matters so much because sex itself is the supreme conciliator and salve of all conflict, ill feeling, loneliness, and lack of interest. It is almost impossible to make love and be sad, indifferent, or bitter.
+
+**Pessimism**
+
+* For many of us, love starts rapidly, often at first sight: with an overwhelming impression of the other’s loveliness.
+* This phenomenon—the crush—goes to the heart of the modern understanding of love. It could seem like a small incident, a minor planet in the constellation of love, but it is in fact the underlying secret central sun around which our notions of the Romantic revolve.
+* A crush represents in pure and perfect form the essential dynamics of Romanticism: the explosive interaction of limited knowledge, outward obstacles to further discovery and boundless hope.
+* We wouldn’t be able to develop crushes if we weren’t so good at allowing a few details about someone to suggest the whole of them. From a few cues only, perhaps a distant look in the eyes, a forthright brow or a generous wit, we rapidly start to anticipate an intense connection and stretches of happiness, buoyed by profound mutual sympathy and understanding.
+* What prevents us from loosening our grip on love is simply a lack of knowledge.
+* The cure for unrequited love is, in structure, therefore very simple. We must get to know them better. The more we learn about them, the less they will ever look like the solution to our uneasy lives.
+* When we spot apparent perfection, we tend to blame our spectacular bad luck for the mediocrity of our lives, without realizing that we are mistaking an asymmetry of knowledge for an asymmetry of quality: We are failing to see that our partner, home, and job are not especially awful, but rather that we know them especially well.
+* Romantic culture takes no interest in the myriad challenges that fall within the realm of the “domestic”; a term that captures all the practicalities of living together, extending across a range of small but vital issues, including who one should visit at the weekend, when to take out the trash, who should clean the stove, and how often to have friends over for dinner.
+* From the Romantic point of view, these things cannot be serious or worth the attention of intelligent people. Relationships are made or broken over grand, dramatic matters: fidelity and betrayal, the courage to face society on one’s own terms, or the tragedy of being ground down by the demands of convention. The day-to-day minutiae of the domestic sphere seem entirely unimpressive and humiliatingly insignificant by comparison.
+* When a problem has high prestige, we are ready to expend energy and time trying to resolve it.
+* This has often happened around large scientific questions. It was entirely understood that mapping the human genome would be enormously difficult, as is the puzzle of artificial intelligence. This respect leads to an unexpected but crucial consequence. We don’t panic around the challenges, because we understand the difficulty of what we are attempting to do. We are a lot calmer around prestigious problems.
+* It’s problems that feel trivial or silly but nevertheless take up large sections of our lives that drive us to heightened states of agitation.
+* Such agitation is precisely what the Romantic neglect of domestic life has unwittingly encouraged.
+* Its legacy is overhasty conversations about the temperature of the bedroom and curt remarks about which news program to watch: matters that can, over many years, contribute to a critical erosion of our capacities to love.
+* At certain points in history, artists have attempted to correct the distribution of prestige.
+* In the seventeenth century, the Dutch painter Pieter de Hooch specialized in portraying high-status, interesting-looking people engaged in domestic chores. He wanted to show the relevance of such activities to having a good life and to convey that these were not in any way degrading or unworthy tasks.
+* Domestic preoccupation isn’t really a sign of the death of love.
+* It’s what awaits us when love has succeeded.
+* We will only be reconciled to the reality of love when we can accept without rancor the genuine dignity of the ironing board.
+* The idea of happy coupledom taps into a fundamental picture of comfort, deep security, wordless communication, and our needs being effortlessly understood that comes from early childhood.
+* The love we received from a parent can’t ever be a workable model for our later, adult, experience of love. The reason is fundamental: We were a baby then, we are an adult now—a dichotomy with several key ramifications.
+* Our parents were intensely focused on caring for us, but they knew and wholly accepted that we wouldn’t engage with their needs.
+* Our responsibility was blissfully simple: All we had to do to please them was to exist.
+* We are sorrowful not because we have landed up with the wrong person but because we have, sadly, been forced to grow up.
+* Love begins with a hope of—at last—being able to tell someone else everything about who we are and what we feel. The relief of honesty is at the heart of the feeling of being in love.
+* Keeping secrets can seem like a betrayal of the relationship. At the same time, the complete truth eventually appears to place the union in mortal danger.
+* The lover who does not tolerate secrets, who in the name of “being honest” divulges information so wounding it cannot be forgotten, is no friend of love. Just as no parent should ever tell a child the whole truth, so we should accept the ongoing need to edit our full reality.
+* Wiser societies would be careful never to stigmatize the act of compromise. It is painful enough to have to do it; it is even more painful to have to hate oneself for having done so.
+
+**A Modest Argument for Marriage**
+
+* The essence of marriage is to tie our hands, to frustrate our wills, to put high and costly obstacles in the way of splitting up, and sometimes to force two unhappy people to stay in each other’s company for longer than either of them would wish. Why do we do this?
+
+**One: Impulse is Dangerous**
+
+* Marriage is a giant inhibitor of impulse set up by our conscience to keep our libidinous, naive, desiring selves in check. What we are essentially buying into by submitting to its dictates is the insight that we are (as individuals** likely to make very poor choices under the sway of strong short-term impulses.
+* To marry is to recognize that we require structure to insulate us from our urges. It is to lock ourselves up willingly, because we acknowledge the benefits of the long-term: the wisdom of the morning after the storm.
+* It is a very unusual marriage in which the couple don’t spend a notable amount of time fantasizing that they aren’t in fact married.
+
+**Two: We Grow and Develop Gradually**
+
+* At their best, relationships involve us in attempts to develop, mature, and become “whole.” We often get drawn to people precisely because they promise to edge us in the right direction.
+* It can take years of supportive interest, many tearful moments of anxiety, much frustration, until genuine progress can be made.
+
+**Three: Investment Requires Security**
+
+* Many of the most worthwhile projects require immense sacrifices from both parties, and it’s in the nature of such sacrifices that we’re most likely to make them for people who are also making them for us.
+* Marriage sets up the conditions in which we can take valuable decisions about what to do with our lives that would be too risky outside its guarantees.
+* What we are correctly now focused on is the psychological point of making it hard to throw in the towel. It turns out that we benefit greatly (though at a price** from having to stick with certain commitments, because some of our key needs have a long-term structure.
+* The point of marriage is to be usefully unpleasant—at least at crucial times. Together we embrace a set of limitations on one kind of freedom, the freedom to run away, so as to protect and strengthen another kind, the shared ability to mature and create something of lasting value, the pains of which are aligned to our better selves.
+
 ### IV. Work
+
+**The Dangers Of The Good Child**
+
+* The good child isn’t good because, by a quirk of nature, they simply have no inclination to be anything else. They are good because they have been granted no other option, because the more transgressive part of what they are cannot be tolerated. Their goodness springs from necessity rather than choice.
+* The good child has been deprived of one of the central ingredients of a properly privileged upbringing: the experience of other people witnessing and surviving their mischief.
+* Grown up, the good child typically has particular problems around sex. They might once have been praised for their purity. Sex, in its necessary extremes and ecstasies, lies at the opposite end of the spectrum.
+* At work, the good adult also faces problems. As a child, it was enough to follow the rules, never to make trouble and to avoid provoking the merest frustration.
+* Almost everything interesting, worth doing or important will meet with a degree of opposition.
+* Every noble ambition has to skirt disaster and ignominy.
+* Being properly mature involves a frank, unfrightened relationship with one’s own darkness, complexity, and ambition. It involves accepting that not everything that makes us happy will please others or be honored as especially “nice,” but it can be important to explore and hold on to it nevertheless.
+* The desire to be good is one of the loveliest things in the world, but in order to have a genuinely good life, we may sometimes need to be (by the standards of the good child) fruitfully and bravely bad.
+* In well-meaning attempts to boost our confidence ahead of challenging moments, we are often encouraged to pay attention to our strengths: our intelligence, our competence, our experience.
+* But this can, curiously, have awkward consequences. There’s a type of underconfidence that arises specifically when we grow too attached to our own dignity and become anxious around situations that seem in some way to threaten it. We hold back from challenges in which there is any risk of ending up looking ridiculous, but these of course comprise many of the most interesting options.
+* In a warm tone, he reminds us that everyone, however important and learned they might be, is a fool. No one is spared, not even the author. However well schooled he himself was, Erasmus remained—he insists—as much of a nitwit as anyone else: his judgment is faulty, his passions get the better of him, he is prey to superstition and irrational fear, he is shy whenever he has to meet new people, he drops things at elegant dinners. This is deeply cheering, for it means that our own repeated idiocies do not have to exclude us from the best company.
+* Looking like a prick, making blunders, and doing bizarre things in the night don’t render us unfit for society; they just make us a bit more like the greatest scholar of the Northern European Renaissance.
+* The works of Bruegel and Erasmus propose that the way to greater confidence isn’t to reassure ourselves of our own dignity; it’s to live at peace with the inevitable nature of our ridiculousness. We are idiots now, we have been idiots in the past, and we will be idiots again in the future—and that is OK. There aren’t any other available options for human beings.
+
+**Impostor Syndrome**
+
+* Faced with hurdles, we often leave the possibility of success to others, because we don’t seem to ourselves to be anything like the sorts of people who win.
+* When we approach the idea of acquiring responsibility or prestige, we quickly become convinced that we are “impostors,” like an actor in the role of a pilot, wearing the uniform and delivering authoritative cabin announcements while being incapable of starting the engines.
+* The root cause of impostor syndrome is an unhelpful picture of what people at the top of society are really like.
+* We feel like impostors not because we are uniquely flawed, but because we can’t imagine how equally flawed the elite must necessarily also be underneath their polished surfaces.
+* Impostor syndrome has its roots far back in childhood—specifically in the powerful sense children have that their parents are really very different from them.
+* This childhood experience dovetails with a basic feature of the human condition. We know ourselves from the inside, but others only from the outside.
+* The solution to the impostor syndrome lies in making a leap of faith and trusting that others’ minds work basically in much the same way as our own. Everyone is probably as anxious, uncertain, and wayward as we are.
+* In eighteenth-century England, an admiral of the fleet would have looked deeply impressive to outsiders (meaning more or less everyone), with his splendid uniform (cockaded hat, abundant gold** and hundreds of subordinates to do his bidding. But to a young earl or marquess who had moved in the same social circles all his life, the admiral would appear in a very different light.
+* Through acquaintance, the aristocrat would have reached a wise awareness that being an admiral was not an elevated position reserved for gods; it was the sort of thing Sticky could do.
+* The other traditional release from underconfidence of this type came from the opposite end of the social spectrum: being a servant. “No man is a hero to his valet,” remarked the sixteenth-century essayist Montaigne – a lack of respect that may at points prove deeply encouraging, given how much our awe can sap our will to rival or match our heroes. Great public figures aren’t ever so impressive to those who look after them,
+* Automatically grasp the limitations of the authority of the elite. Fortunately, we don’t have to be either of them to liberate ourselves from inhibiting degrees of respect for the powerful; imagination will serve just as well.
+
+**Fame**
+
+* Fame seems to offer very significant benefits. The fantasy unfolds like this: when you are famous, wherever you go, your good reputation will precede you.
+* People will think well of you, because your merits have been impressively explained in advance.
+* You will receive warm smiles from admiring strangers. You won’t need to make your own case laboriously on each occasion.
+* When you are famous, you will be safe from rejection. You won’t have to win over every new person. Fame means that other people will be flattered and delighted even if you are only slightly interested in them.
+* They will be amazed to see you in the flesh. They’ll ask to take a photo with you. They’ll sometimes laugh nervously with excitement. Furthermore, no one will be able to afford to upset you.
+* When you’re not pleased with something, it will become a big problem for others. If you say your hotel room isn’t up to scratch, the management will panic. Your complaints will be taken very seriously. Your happiness will become the focus of everyone’s efforts. You will make or break other people’s reputations. You’ll be boss.
+* The desire for fame has its roots in the experience of neglect and injury. No one would want to be famous who hadn’t also, somewhere in the past, been made to feel extremely insignificant. We sense the need for a great deal of admiring attention when we have been painfully overexposed to deprivation.
+* Perhaps our parents were hard to impress. They never noticed us much, as they were so busy with other things, focusing on other famous people, unable to have or express kind feelings, or just working too hard.
+* There were no bedtime stories and our school reports weren’t the subject of praise and admiration. That’s why we dream that one day the world will pay attention.
+* What is common to all dreams of fame is that being known to strangers will often be the solution to a hurt. It presents itself as the answer to a deep need to be appreciated and treated decently by other people.
+* One wants to be famous out of a desire for kindness. But the world isn’t generally kind to the famous for very long. The reason is basic: the success of any one person involves humiliation for lots of others.
+* To sum up, fame really just means that someone gets noticed a great deal, not that they are more intensely understood, appreciated, or loved.
+* The wise person knows that their products require attention. But they make a clear distinction between the purely practical needs of marketing and advocacy and the intimate desire to be liked and treated with justice and kindness by people they don’t know.
+* A healthy society will give up on the understandable but erroneous belief that fame might guarantee that truly valuable goal: the kindness of strangers.
+
+**Specialization**
+
+* The big economic reason why we can’t explore our potential as we might is that it is hugely more productive for us not to do so. In The Wealth of Nations (1776), the Scottish economist and philosopher Adam Smith first explained how what he termed the “division of labor” was at the heart of the increased productivity of capitalism. Smith zeroed in on the dazzling efficiency that could be achieved in pin manufacturing, if everyone focused on one narrow task (and stopped, as it were, exploring their Whitman-esque “multitudes”): One man draws out the wire, another straights it, a third cuts it, a fourth points it, a fifth grinds it at the top for receiving the head; to make the head requires two or three distinct operations; to put it on is a peculiar business; to whiten the pins is another; it is even a trade by itself to put them into the paper; and the important business of making a pin is, in this manner, divided into about eighteen distinct operations, all performed by distinct hands. I have seen a small manufactory where they could make upwards of forty-eight thousand pins in a day. But if they had all wrought separately and independently, and without any of them having been educated to this peculiar business, they could have made perhaps not one pin in a day.
+* Adam Smith was astonishingly prescient. Doing one job, preferably for most of one’s life, makes perfect economic sense.
+* Marx agreed entirely with Smith’s analysis: specialization had indeed transformed the world and possessed a revolutionary power to enrich individuals and nations. But where he differed from Smith was in his assessment of how desirable this development might be.
+* In a pointed dig at Smith in The German Ideology (1846), Marx wrote: In communist society … nobody has one exclusive sphere of activity but each can become accomplished in any branch he wishes … thus it is possible for me to do one thing today and another tomorrow, to hunt in the morning, to fish in the afternoon, rear cattle in the evening, criticize after dinner … without ever becoming a hunter, fisherman, shepherd or critic.
+* Part of the reason why the job we do, as well as the jobs we don’t get to do, matters so much is that our occupation decisively shapes who we are.
+* The primary school teacher treats even the middle-aged a little as if they were in need of careful shepherding; the psychoanalyst has a studied way of listening and seeming not to judge while exuding a pensive, reflective air; the politician lapses into speeches at intimate dinner parties.
+* Every occupation weakens or reinforces aspects of our nature.
+* There are jobs that keep us constantly tethered to the immediate moment (ER nurse, news editor); others that focus our attention on the outlying fringes of the time horizon (futurist, urban planner, reforester).
+* Certain jobs daily sharpen our suspicions of our fellow humans, suggesting that the real agenda must always be far from what is overtly being said (journalist, antiques dealer); others intersect with people at the candid, intimate moments of their lives (anesthetist, hairdresser, funeral director).
+* In some jobs, it is clear what you have to do to move forward and how promotion occurs (government employee, lawyer, surgeon), a dynamic that lends calm and steadiness to the soul, and diminishes tendencies to plot and maneuver; in others (television producer, politician**, the rules are muddied and seem bound up with accidents of friendship and fortuitous alliances, encouraging tendencies to anxiety, distrust, and shiftiness.
+* By giving a large part of one’s life over to a specific occupation, one necessarily has to perform an injustice to other areas of latent potential.
+* Whatever enlargements it offers our personalities, work also possesses a powerful capacity to trammel our spirits.
+* Compared to the play of childhood, we’re all leading fatally restricted lives. There is no easy cure. As Adam Smith argued, the causes don’t lie in some personal error we’re making. It’s a limitation forced upon us by the greater logic of a competitive market economy.
+* But we can allow ourselves to mourn that there will always be large aspects of our character that won’t be satisfied. We’re not being silly or ungrateful. We’re simply registering the clash between the demands of the employment market and the free, wide-ranging potential of every human life.
+* There’s a touch of sadness to this insight. But it is also a reminder that this sense of being unfulfilled will accompany us in whatever job we choose: We can’t overcome it by switching jobs. No one job can ever be enough.
+* Yet, as with work, specialization brings advantages: It means we can focus, bring up children in stable environments, and learn the disciplines of compromise. In love and work, life requires us to be specialists even though we are by nature equally suited for wide-ranging exploration.
+* Whatever we do, parts of our potential will have to go undeveloped and have to die without ever having had the chance to come to full maturity—for the sake of the benefits of focus and specialization.
+* Nowadays, fortunately, we’ve loosened old highly restrictive definitions of what a “real” man or a “real” woman might be like, but there remain comparably strict social taboos hemming in the idea of what a “real” artist is allowed to get up to.
+* The philanthropist has been imagined as a person who makes a lot of money in the brutish world of commerce, with all the normal expectations of maximizing returns, squeezing wages, and focusing on obvious opportunities, and then makes a clean break. In their spare hours, they can devote their wealth to projects that are profoundly non-commercial: The patient collection of Roman coins, Islamic vases, or modern sculptures. But philanthropists know that if they ever took an art-loving attitude to their businesses these might suffer economic collapse. Instead of making big things happen in the real world, they would become mere artists who make little interesting things in the sheltered, subsidized world of the gallery.
+
+**Consumer Society**
+
+* The one way to generate wealth, argued Mandeville, was to ensure high demand for absurd and unnecessary things. Of course, no one needed embroidered handbags, silk-lined slippers, or ice creams, but it was a blessing that they could be prompted by fashion to want them, for on the back of demand for such trifles workshops could be built, apprentices trained, and hospitals funded.
+* Mandeville shocked his audience with the starkness of the choice he placed before them. A nation could either be very high-minded, spiritually elevated, intellectually refined, and dirt poor, or a slave to luxury and idle consumption, and very rich.
+* In his essay “Of Luxury” (1752), the philosopher David Hume repeated Mandeville’s defense of an economy built on making and selling unnecessary things: “In a nation, where there is no demand for superfluities, men sink into indolence, lose all enjoyment of life, and are useless to the public, which cannot maintain or support its fleets and armies.”
+* One of the most spirited and impassioned voices was that of Switzerland’s greatest philosopher, Jean-Jacques Rousseau. Shocked by the impact of the consumer revolution on the manners and atmosphere of his native Geneva, he called for a return to a simpler, older way of life, of the sort he had experienced in Alpine villages or read about in travelers’ accounts of the native tribes of North America.
+* In the remote corners of Appenzell or the vast forests of Missouri, there was—blessedly—no concern for fashion and no one-upmanship around hair extensions. Rousseau recommended closing Geneva’s borders and imposing crippling taxes on luxury goods so that people’s energies could be redirected toward non-material values.
+* However, even if Rousseau disagreed with Hume and Mandeville, he did not seek to deny the basic premise behind their analyses: it truly appeared to be a choice between decadent consumption and wealth on the one hand, and virtuous restraint and poverty on the other. It was simply that Rousseau—unusually—preferred virtue to wealth.
+* The parameters of this debate have continued to dominate economic thinking ever since. We re-encounter them in ideological arguments between capitalists and communists and free marketers and environmentalists. But for most of us, the debate is no longer pertinent.
+* We simply accept that we will live in consumer economies with some very unfortunate side effects to them (crass advertising, unhealthy foodstuffs, products that are disconnected from any reasonable assessment of our needs, excessive waste … ) in exchange for economic growth and high employment. We have chosen wealth over virtue.
+* The one question rarely asked is whether there might be a way to ameliorate the dispiriting choice, to draw on the best aspects of consumerism on the one hand and high-mindedness on the other without suffering their worst consequences: moral decadence and profound poverty. Might it be possible for a society to develop that allows for consumer spending (and therefore provides employment and welfare) yet of a kind directed at something other than “vanities” and “superfluities”? Might we shop for something other than nonsense? In other words, might we have wealth and (a degree of** virtue?
+* In his The Wealth of Nations, Smith seems at points willing to concede to key aspects of Mandeville’s argument: Consumer societies do help the poor by providing employment based around satisfying what are often rather suboptimal purchases.
+* Smith was as ready as other Anglophone economists to mock the triviality of some consumer choices, while admiring their consequences.
+* All those embroidered lace handkerchiefs, jeweled snuff boxes, and miniature temples made of cream for dessert were frivolous, he conceded, but they encouraged trade, created employment, and generated immense wealth, and could be firmly defended on this score alone.
+* However, Smith offered some fascinating hopes for the future. He pointed out that consumption didn’t invariably have to involve the trading of frivolous things.
+* He understood that humans have many “higher” needs that require a lot of labor, intelligence, and work to fulfill, but that lie outside capitalist enterprise as conceived by “realists” like Hume or Mandeville: among them, our need for education, for self-understanding, for beautiful cities, and for rewarding social lives.
+* The ultimate goal of capitalism was to tackle “happiness” in all its complexities, psychological as opposed to merely material.
+* The reform of capitalism hinges on an odd-sounding but critical task: the conception of an economy focused around higher needs.
+
+**Higher Needs, A Pyramid, And Capitalism**
+
+* The idea that capitalism can give us what we need has always been central to its defense.
+* More efficiently than any other system, capitalism has, in theory, been able to identify what we’re lacking and deliver it to us with unparalleled efficiency. Capitalism is the most skilled machine we have ever yet constructed for satisfying human needs.
+* Yet, despite its evident successes, consumer capitalism cannot in truth realistically be credited with having fulfilled a mission of accurately satisfying our needs, because of one evident failing: We aren’t happy.
+* Abraham Maslow’s Pyramid of Needs.
+
 
 ### V. Culture
