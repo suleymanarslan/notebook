@@ -7,7 +7,7 @@ his physical advantages.
 It was a moment of shame. I wanted to get up and walk to him but Nova holded my arm. I didn't want to get in trouble for educating a dumb young man. It wasn't worth it.
 The old man gave up talking and picked up his phone. His heart was beating so hard that I could see how his shirt was expanding and shrinking with every breath. 
 
-He kept looking at his phone and sliding the screen gently until he got off the train. The young man also got back to his screen, started listing loud rap music. By the time
+He kept looking at his phone and sliding the screen gently until he got off the train. The young man also got back to his screen, started listening loud rap music. By the time
 we got off the train, he was already in a good mood.
 
 After the argument, the first thing both young and old man did was to pick up their phones, not necessarily calling anybody, but just for distracting themselves from that
