@@ -64,8 +64,6 @@ Berlin, büyük bir muamma.
 [ses kaydı](https://www.youtube.com/watch?v=qVX785ELgYU)
 
 ```
-demokratik seçim denilen ilkel kirliliğe artık bir son versek de, kayda değer konulara yer açılsa.
-
 mesela doğurganlık, yaratıcılık, komisyonculuk,
 arabesk rap, reggae, şiir ve ganja
 tren garları ve adliye sarayları
@@ -76,12 +74,13 @@ zaman, israf ve yokluk
 definecilerle kazı yapan arkeolog
 bi otomobilin bagajında iran'dan özbekistan'a giden afgan
 bi kola şişesinde jakarta'dan istanbul'a gelen papağan
-oto lastikçileri ve teknocular
+Tendorloin'da eşyaları rehin alınan otostopçular
 yemenden kayıkla somaliye kaçarak canını kurtaran ithalatçı
 sırf daha serin bir yaz geçirmek adına
-          orta afrikadan dersim dağlarına gelen turna
+sırf daha fazla filizin tadına bakmak adına
+orta afrikadan dersim dağlarına gelen turna.
 
-açgözlülük ve alçak gönüllülük
+tevekkül, adem ve istikamet,
 karlı bir gün gölhisarda mola veren dolmuş
 camdan karlı dağları izleyen yolcular
 haplanıp işe giden kafası bozuk berber çırağı
