@@ -1,19 +1,4 @@
-# poems
-
-Index of Contents:
-
-* [English](#english)
-  * [ambulance](#ambulance)
-  * [your shoes](#your-shoes)
-
-* [Turkish](#turkish)
-  * [berlin](#berlin)
-  * [arılar uçar üzerinde](#arılar-uçar-üzerinde)
-  * [doğubeyazıt](#doğubeyazıt)
-  * [otogardan hesap sorulmaz](#otogardan-hesap-sorulmaz)
-  * [kayda değer konular](#kayda-değer-konular)
-
-## english
+# english
 
 #### ambulance
 
