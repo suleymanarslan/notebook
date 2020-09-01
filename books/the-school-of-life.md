@@ -830,4 +830,19 @@ Self Esteem = ————————————
 * The Romantic is dismayed by compromise. They are drawn to either wholehearted endorsament or total rejection. 
 * Ideally, partners should love everything about each other. A political party should be admirable at every turn. A philanthropist should draw no personal benefit from acts of charity. They feel the attraction of the lost cause. It is very important for the Romantic to feel they are right; winning is, by comparison, not such an urgent matter.
 * The Classical person takes the view that very few things, and no people, are either wholly good or entirely bad. They assume that there is likely to be some worth in opposing ideas and something to be learned from both sides. It is Classical to think that a decent person might in many areas hold views you find deeply unpalatable.
+* For a long time now, perhaps since around 1750, Romantic attitudes have been dominant in the Western imagination. The prevailing approach to children, relationships, politics, and culture has all been colored more by a romantic than by a cllassical spirit.
+* Both Romantic and Classical orientations have important truths to impart. Neither is wholly right or wrong. They need to be balanced. And none of us are in any case ever simplu one or the other.
+* But because a good life requires a judicious balance of both positions, at this point in history it might be the Classical attitude whose distinctive claims and wisdom we need to listen to most intently. It is a mode of approaching life that is ripe for rediscovery.
+
+* Children have two advantages: They don’t know what they’re supposed to like and they don’t understand money, so price is never a guide to value for them. They have to rely instead on their own delight (or lack of it) in the intrinsic merits of the things they’re presented with, and this can take them in astonishing (and sometimes maddening) directions.
+* There are two ways to get richer: One is to make more money and the second is to discover that more of the things we could love are already to hand (thanks to the miracles of the Industrial Revolution). We are, astonishingly, already a good deal richer than we’re encouraged to think we are.
+* Dutch countryside is filled with merits: It’s quiet and solemn; it encourages tranquil contemplation; it’s an antidote to stress and forced cheerfulness. These are things we might really need to help us cope with our overloaded and often inauthentic lives.
+* We should develop the sort of confidence that emerges from understanding a basic fact of human psychology: that we’re all very prepared to accept the less than perfect, if only we can be guided to appreciate it with skill, confidence, and charm.
+* Zen philosophers developed the view that pots, cups, and bowls that had become damaged shouldn’t simply be neglected or thrown away. They should continue to attract our respect and attention and be repaired with enormous care, this process symbolizing a reconciliation with the flaws and accidents of time intended to reinforce the underlying themes of Zen.
+* The word given to this tradition of ceramic repair is kintsugi (kin meaning “golden,” tsugi “joinery,” so literally “to join with gold”).
+* In Zen aesthetics, the broken pieces of an accidentally smashed pot should be carefully picked up, reassembled, and then glued together with lacquer inflected with a very expensive gold powder. There should be no attempt to disguise the damage; rather, the point is to render the fault lines beautiful and strong.
+
+![](https://github.com/azer/notebook/blob/master/zen/kintsugi-bowl.png?raw=true)
+
+* The beauty of resilience: a kintsugi bowl.
 
