@@ -105,6 +105,8 @@
 
 ## Franz Kafka
 
+> A book must be the axe for the frozen sea inside us.
+
 > What is love? After all, it is quite simple. Love is everything which enhances, widens, and enriches our life. In its heights and in its depths. Love has as few problems as a motor-car. The only problems are the driver, the passengers, and the road.
 
 > Just be quiet and patient. Let evil and unpleasantness pass quietly over you. Do not try to avoid them. On the contrary, observe them carefully. Let active understanding take the place of reflex irritation, and you will grow out of your trouble. Men can achieve greatness only by surmounting their own littleness.
