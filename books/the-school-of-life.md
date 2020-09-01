@@ -737,7 +737,7 @@ Self Esteem = ————————————
 * More efficiently than any other system, capitalism has, in theory, been able to identify what we’re lacking and deliver it to us with unparalleled efficiency. Capitalism is the most skilled machine we have ever yet constructed for satisfying human needs.
 * Yet, despite its evident successes, consumer capitalism cannot in truth realistically be credited with having fulfilled a mission of accurately satisfying our needs, because of one evident failing: We aren’t happy.
 
-![](https://raw.githubusercontent.com/azer/notebook/master/health/maslows-hierarchy-of-needs.png**
+![](https://raw.githubusercontent.com/azer/notebook/master/health/maslows-hierarchy-of-needs.png)
 
 * The true destiny of and millennial opportunity for consumer capitalism is to travel up the pyramid, to generate ever more of its profits from the satisfaction of the full range of “higher needs” that currently lie outside the realm of industrialization and commodification.
 * Capitalists and companies are seemingly—at least semi-consciously—aware of their failure to engage with many of the elements at the top of the pyramid, among them friendship, belonging, meaningfulness, and a sense of agency and autonomy. And the evidence for this lies in a rather surprising place, in one of the key institutions for driving the sales of capitalism’s products forward: advertising.
@@ -795,4 +795,39 @@ Self Esteem = ————————————
 **Spontaneity vs. Education**
 
 * Romantics don’t like schools. The best kind of education comes from within. The most important capacities are in us from the start.
-*
+* We don’t need to learn how to love, how to be kind, how to die … Formal learning kills every topic of study. We need to learn to listen to the voice inside us, which will provide us with all we need.
+* There is no greater exemplar of spontaneity than children, and Romantics look upon them with particular tenderness and respect. They are not beasts to be tamed, but gods to be heard. We knew, back then, what mattered. It was school that corrupted us and made us lose our way, which is why it is from the mouths of the very young that we hear truths and sensibilities that the most so-called intelligent adults will have forgotten. To the romantic, it will always be a child who points out that the emperor is wearing no clothes.
+* Those of a Classical temperament don’t necessarily respect the education system as it stands—there is so much that could be improved—but the abstract idea of education seems essential and the bedrock of civilization.
+* We didn’t forget how to live; we just never knew, as no one is ever born knowing. Children aren’t any more noble than adults, they just have a particularly hard time containing themselves. The purpose of education is to pass down one or two painfully won insights so that not every generation needs to repeat the same desperate errors.
+
+**Honesty vs. Politeness**
+
+* There is too much hypocrisy already, say the Romantics. We are drowning in our lies and in our compromises. We must do everything to strip away the secrecy our society imposes on us. Authenticity is the highest form of morality. Politeness is a lid that we place upon our real selves to supress the truths that could free us.
+* For the Classical person, politeness is the lid we generously place on our inner madness to stop hurting those we care for. 
+* Not being ourselves is the kindest thing we can do to someone we claim to love. To give others an uncensored view of our emotions, with their minute-by-minute vagaries and compulsions, is sheer laziness or cruelty. We cannot possibly be good and entirely honest, nor should we try. Strategic inauthenticity is the mark of a kindly soul.
+
+**Idealism vs. Realism
+
+* The Romantic is excited by how things might ideally be and judges what currently exists in the world by the standard of a better imagined alternative.
+* Most of the time, the current state of society arouses intense disappointment and anger as they consider the injustices, prevarications, compromises, and timidity all around.
+* By contrast, the Classical person pays special attention to what can go wrong. They are very concerned to mitigate the downside. They are aware that most things could be a lot worse.
+* They feel we have deeply dangerous impulses, lusts, and drives and take bad behavior for granted when it manifests itself. They simply feel this is what humans are prone to. High ideals make them nervous.
+
+**Earnestness vs. Irony**
+
+* Romantics don’t believe in how things are. Their attention is fixed on how they should be. They therefore resist the deflationary call of ironic humor, which seems defeatist. They are earnest in their search for a better future.
+* The Classical conviction is not that the world is a cheerful place, far from it; but rather that a cheerful mood is a good starting point for living in a radically imperfect and deeply unsatisfactory realm where the priority is to not give up, despair and kill oneself. 
+* Ironic humor is a standard recourse for them, because it emerges from the constant collision between how one would want things to be and how it seems they in fact are. They are proponents of gallows humor.
+
+**The Rare vs. The Everyday**
+
+* The Romantic rebels against the ordinary. They are keen on the exotic and the rare. They like things that the mass of the population won't yet know about.
+* The fact that something is popular will always be a mark against it. They don’t much like routine, especially in domestic life, either. They are anxious about higher things being put under pressure to become “useful” or commercial. They want heroism, excitement and an end to boredom.
+* The Classical personality welcomes routine as a defense against chaos. They would very much like good things to be popular. They don’t necessarily think that what is presently popular is good, but they see popularity as, in principle, a mark of virtue. They are familiar enough with extremes to welcome things that are a little boring. They can see the charm of doing the laundry.
+
+**Purity vs. Ambivalence**
+
+* The Romantic is dismayed by compromise. They are drawn to either wholehearted endorsament or total rejection. 
+* Ideally, partners should love everything about each other. A political party should be admirable at every turn. A philanthropist should draw no personal benefit from acts of charity. They feel the attraction of the lost cause. It is very important for the Romantic to feel they are right; winning is, by comparison, not such an urgent matter.
+* The Classical person takes the view that very few things, and no people, are either wholly good or entirely bad. They assume that there is likely to be some worth in opposing ideas and something to be learned from both sides. It is Classical to think that a decent person might in many areas hold views you find deeply unpalatable.
+
