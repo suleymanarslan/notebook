@@ -1,6 +1,6 @@
 # Wisdom
 
-* Source: [The School of Life](../books/the-school-of-life.md) book.*
+*Source: [The School of Life](../books/the-school-of-life.md) book.*
 
 Wisdom can be said to comprise twelve ingredients;
 
