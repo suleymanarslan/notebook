@@ -1,8 +1,7 @@
-# kayda değer konular
+# kayda değer konular ([ses kaydı](https://www.youtube.com/watch?v=qVX785ELgYU))
 
-[ses kaydı](https://www.youtube.com/watch?v=qVX785ELgYU)
+2017
 
-```
 mesela doğurganlık, yaratıcılık, komisyonculuk,
 arabesk rap, reggae, şiir ve ganja
 tren garları ve adliye sarayları
@@ -39,4 +38,4 @@ hiçkimsenin güvenmediği astronotlar
 akvaryum kokusu
 ve aniden yapılan saçma sapan yolculuklarla
 tütmesi gereken ocağı arayanlar.
-```
+
