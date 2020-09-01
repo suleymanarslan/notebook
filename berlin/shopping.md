@@ -1,3 +1,11 @@
+# Shopping
+
+## Online Marketplaces
+
+* Ebay Kleinanzeigen
+* Sell Your Stuff Berlin
+* Wiggle.com
+
 ## Flea Markets
 
 * [Mauerpark](https://goo.gl/6wioq7): Open Sundays. One of the biggest and got a lot of furniture at the western side of the market. Should be close to your home. Got my dining table and chairs from here._
