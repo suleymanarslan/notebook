@@ -51,4 +51,50 @@
 * To every member, except the abbot, was assigned some special work in the caretaking of the monastery,
 * Such services formed a part of the Zen discipline and every least action must be done absolutely perfectly. Thus many a weighty discussion ensued while weeding the garden, paring a turnip, or serving tea. The whole ideal of Teaism is a result of this Zen conception of greatness in the smallest incidents of life. Taoism furnished the basis for aesthetic ideals, Zennism made them practical.
 
+## IV. The Tea-Room
+
+* The tea-room is unimpressive in appearance. It is smaller than the smallest of Japanese houses, while the materials used in its construction are intended to give the suggestion of refined poverty. Yet we must remember that all this is the result of profound artistic forethought, and that the details have been worked out with care perhaps even greater than that expended on the building of the richest palaces and temples.
+* The tea-room is made for the tea master, not the tea-master for the tea-room.
+* The idea that everyone should have a house of his own is based on an ancient custom of the Japanese race, Shinto superstition ordaining that every dwelling should be evacuated on the death of its chief occupant. Perhaps there may have been some unrealized sanitary reason for this practice. Another early custom was that a newly built house should be provided for each couple that married.
+* Zennism, with the Buddhist theory of evanescence and its demands for the mastery of spirit over matter, recognized the house only as a temporary refuge for the body.
+* That the tea-room should be built to suit some individual taste is an enforcement of the principle of vitality in art.
+* Art, to be fully appreciated, must be true to contemporaneous life. It is not that we should ignore the claims of posterity, but that we should seek to enjoy the present more.
+* It is not that we should disregard the creations of the past, but that we should try to assimilate them into our consciousness.
+* One cannot listen to different pieces of music at the same time, a real comprehension of the beautiful being possible only through concentration upon some central motive.
+* True beauty could be discovered only by one who mentally completed the incomplete.
+* The virility of life and art lay in its possibilities for growth.
+* In the tea-room it is left for each guest in imagination to complete the total effect in relation to himself.
+* Since Zennism has become the prevailing mode of thought, the art of the extreme Orient has purposefully avoided the symmetrical as expressing not only completion, but repetition.
+* Uniformity of design was considered fatal to the freshness of imagination.
+* In the tea-room the fear of repetition is a constant presence.
+* The various objects for the decoration of a room should be so selected that no colour or design shall be repeated. If you have a living flower, a painting of flowers is not allowable. If you are using a round kettle, the water pitcher should be angular. A cup with a black glaze should not be associated with a tea-caddy of black lacquer. In placing a vase of an incense burner on the tokonoma, care should be taken not to put it in the exact centre, lest it divide the space into equal halves. The pillar of the tokonoma should be of a different kind of wood from the other pillars, in order to break any suggestion of monotony in the room.
+
+## V. Art Appreciation
+
+* At the magic touch of the beautiful the secret chords of our being are awakened, we vibrate and thrill in response to its call. Mind speaks to mind. We listen to the unspoken, we gaze upon the unseen. The master calls forth notes we know not of. Memories long forgotten all come back to us with a new significance. Hopes stifled by fear, yearnings that we dare not recognise, stand forth in new glory. Our mind is the canvas on which the artists lay their colour; their pigments are our emotions; their chiaroscuro the light of joy, the shadow of sadness. The masterpiece is of ourselves, as we are of the masterpiece.
+* In order to understand a masterpiece, you must lay yourself low before it and await with bated breath its least utterance.
+* An eminent Sung critic once made a charming confession. Said he: "In my young days I praised the master whose pictures I liked, but as my judgement matured I praised myself for liking what the masters had chosen to have me like."
+* Chikamatsu, our Japanese Shakespeare, has laid down as one of the first principles of dramatic composition the importance of taking the audience into the confidence of the author.
+* Several of his pupils submitted plays for his approval, but only one of the pieces appealed to him. It was a play somewhat resembling the Comedy of Errors, in which twin brethren suffer through mistaken identity. "This," said Chikamatsu, "has the proper spirit of the drama, for it takes the audience into consideration. The public is permitted to know more than the actors. It knows where the mistake lies, and pities the poor figures on the board who innocently rush to their fate."
+* We must remember, however, that art is of value only to the extent that it speaks to us. It might be a universal language if we ourselves were universal in our sympathies. Our finite nature, the power of tradition and conventionality, as well as our hereditary instincts, restrict the scope of our capacity for artistic enjoyment. Our very individuality establishes in one sense a limit to our understanding; and our aesthetic personality seeks its own affinities in the creations of the past.
+* It is true that with cultivation our sense of art appreciation broadens, and we become able to enjoy many hitherto unrecognised expressions of beauty. But, after all, we see only our own image in the universe,--our particular idiosyncracies dictate the mode of our perceptions.
+* As a Chinese critic complained many centuries ago, "People criticise a picture by their ear."
+* A collector is anxious to acquire specimens to illustrate a period or a school, and forgets that a single masterpiece can teach us more than any number of the mediocre products of a given period or school. We classify too much and enjoy too little.
+
+## VI. Flowers
+
+* It has been said that a man at ten is an animal, at twenty a lunatic, at thirty a failure, at forty a fraud, and at fifty a criminal.
+* Perhaps he becomes a criminal because he has never ceased to be an animal. Nothing is real to us but hunger, nothing sacred except our own desires.
+
+## VII. Tea-Masters
+
+* In religion the Future is behind us. In art the present is the eternal.
+* The tea-masters held that real appreciation of art is only possible to those who make of it a living influence. Thus they sought to regulate their daily life by the high standard of refinement which obtained in the tea-room.
+* Great as has been the influence of the tea-masters in the field of art, it is as nothing compared to that which they have exerted on the conduct of life.
+* Not only in the usages of polite society, but also in the arrangement of all our domestic details, do we feel the presence of the tea-masters. Many of our delicate dishes, as well as our way of serving food, are their inventions. They have taught us to dress only in garments of sober colors. They have instructed us in the proper spirit in which to approach flowers.
+* They have given emphasis to our natural love of simplicity, and shown us the beauty of humility. In fact, through their teachings tea has entered the life of the people.
+* Those of us who know not the secret of properly regulating our own existence on this tumultuous sea of foolish troubles which we call life are constantly in a state of misery while vainly trying to appear happy and contented.
+* He only who has lived with the beautiful can die beautifully.
+
+
 
