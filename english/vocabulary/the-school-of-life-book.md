@@ -4,67 +4,93 @@ This page lists all the words that I looked up from the dictionary while reading
 
 | Word | Definition | Turkish |
 | ---- | ---------- | ------- |
+| aberration | | |
+| ablution | | |
 |  | | |
+| abrupt | | |
 |  | | |
+| affection | | |
 |  | | |
 | agony | | |
 |  | | |
+| alleviate | | |
+| allude | | |
+|  | | |
+| ambivalent | | |
 | ambivalance | | |
+| amelionate | | |
 |  | | |
 | articulate | | |
 | asphyxioted | | |
+| attenuate | | |
+|  | | |
 |  | | |
 |  | | |
 | bear to | | |
 | befall | | |
+| belittle | | |
+|  | | |
 | benevolent | | |
 |  | | |
 | berate | | |
 |  | | |
 | beset | | |
 |  | | |
-|  | | |
+| blunt | | |
 | blurt out | | |
 |  | | |
+|  | | |
+| bristle | | |
+|  | | |
+|  | | |
 | burden | | |
 |  | | |
 |  | | |
 |  | | |
-| burden | | |
 |  | | |
-|  | | |
+| cathartic | | |
 |  | | |
 | cede | | |
-|  | | |
-|  | | |
+| chisele d| | |
+| clingy | | |
 |  | | |
 | coerce | | |
 |  | | |
 | cognizant | | |
-|  | | |
+| compromise | | |
 | compulsion | | |
-|  | | |
+| concede | | |
 | contemplate | | |
 | contemporary | | |
-|  | | |
+| conundrum | | |
+| coureageous | | |
+| curt | | |
 | decisive | | |
 |  | | |
 | degenracy | | |
 |  | | |
 |  | | |
+| demented | | |
+|  | | |
+| denunciation | | |
+|  | | |
+|  | | |
 | denigrate | | |
 |  | | |
 |  | | |
-|  | | |
+| depict | | |
 | deprive | | |
+| deranged | | |
 | derangement | | |
 | despiriting | | |
 | despise | | |
-|  | | |
+| devote | | |
 | disdain | | |
 |  | | |
 |  | | |
 | dismaying | | |
+| dispiriting | | |
+| dissent | | |
 |  | | |
 |  | | |
 | divulge | | |
@@ -79,7 +105,10 @@ This page lists all the words that I looked up from the dictionary while reading
 |  | | |
 | eke out | | |
 |  | | |
+| endear | 
+| entail | | |
 |  | | |
+| epochal | | |
 | erode | | |
 |  | | |
 |  | | |
@@ -90,25 +119,35 @@ This page lists all the words that I looked up from the dictionary while reading
 | entail | | |
 |  | | |
 | exalt | | |
-|  | | |
+| extrapolote | | |
 | exuberant | | |
-|  | | |
+| evoke | | |
 |  | | |
 | facet | | |
 |  | | |
 |  | | |
+| fathom | | |
+|  | | |
 | fierce | | |
 | fiery | | |
-|  | | |
-|  | | |
+| filial | | |
+| flinch | | |
 | flutter | | |
+|  | | |
+| forlorn | | |
+|  | | |
+|  | | |
 | futility | | |
 |  | | |
 |  | | |
 |  | | |
 | gradiation | | |
 |  | | |
+| grandiose | | |
+| gruffly | | |
+| grueling | | |
 |  | | |
+| haughty | | |
 |  | | |
 | heed | | |
 |  | | |
@@ -117,9 +156,15 @@ This page lists all the words that I looked up from the dictionary while reading
 |  | | |
 | hither to | | |
 |  | | |
+| ingratitude | | |
+| interminable | | |
+| impart | | |
+| impede | | |
 |  | | |
-|  | | |
+| imperturbable | | |
 | impervious | | |
+|  | | |
+| impregnable | | |
 |  | | |
 | incline(d) to | | |
 | incohoate | | |
@@ -128,7 +173,11 @@ This page lists all the words that I looked up from the dictionary while reading
 |  | | |
 | indulge | | |
 |  | | |
+| ineluctably | | |
+|  | | |
 | intuit | | |
+|  | | |
+| invective | | |
 |  | | |
 |  | | |
 | implausible | | |
@@ -156,6 +205,8 @@ This page lists all the words that I looked up from the dictionary while reading
 |  | | |
 | lurk | | |
 |  | | |
+| malevolent | | |
+|  | | |
 |  | | |
 | mendacity | | |
 |  | | |
@@ -163,7 +214,9 @@ This page lists all the words that I looked up from the dictionary while reading
 |  | | |
 | miniscule | | |
 |  | | |
+| minutive | | |
 |  | | |
+| misdemenor | | |
 |  | | |
 | nagging | | |
 |  | | |
@@ -175,10 +228,10 @@ This page lists all the words that I looked up from the dictionary while reading
 |  | | |
 | obedience | | |
 |  | | |
-|  | | |
+| ostensibly | | |
 | overarching | | |
-|  | | |
-|  | | |
+| overhasty | | |
+| overt | | |
 |  | | |
 |  | | |
 | pace | | |
@@ -193,7 +246,7 @@ This page lists all the words that I looked up from the dictionary while reading
 |  | | |
 |  | | |
 | plea | | |
-|  | | |
+| premise | | |
 | primordial | | |
 |  | | |
 |  | | |
@@ -208,7 +261,7 @@ This page lists all the words that I looked up from the dictionary while reading
 |  | | |
 |  | | |
 | reciprocity | | |
-|  | | |
+| reconcile | | |
 | relentless | | |
 |  | | |
 |  | | |
@@ -224,12 +277,12 @@ This page lists all the words that I looked up from the dictionary while reading
 | repulsive | | |
 |  | | |
 | resolutely | | |
-|  | | |
+| ripe | | |
 | reverie | | |
 | robust | | |
 |  | | |
 |  | | |
-|  | | |
+| scorn | | |
 | searing | | |
 |  | | |
 | sentiment | | |
@@ -237,18 +290,24 @@ This page lists all the words that I looked up from the dictionary while reading
 | sentimentally | | |
 |  | | |
 |  | | |
+| shatter | | |
+|  | | |
 | shirking | | |
+| solemn | | |
+| sorrow | | |
 |  | | |
 | spare | | |
 |  | | |
 | spectacle | | |
 |  | | |
-|  | | |
+| sphere | | |
 |  | | |
 | sting | | |
 |  | | |
-| stub | | |
+| stricken | | |
 |  | | |
+| stub | | |
+| stymied | | |
 |  | | |
 | sublime | | |
 |  | | |
@@ -259,7 +318,7 @@ This page lists all the words that I looked up from the dictionary while reading
 |  | | |
 | sulk | | |
 |  | | |
-|  | | |
+| superfluities | | |
 |  | | |
 | swadled | | |
 |  | | |
@@ -288,13 +347,17 @@ This page lists all the words that I looked up from the dictionary while reading
 | tumultous | | |
 |  | | |
 | unbearable | | |
+| unpalatable | | |
+|  | | |
+| unrequited | | |
+| unsatched | | |
 | unwind | | |
 |  | | |
 |  | | |
 | wretched | | |
 |  | | |
 |  | | |
-|  | | |
-| viciousness | | |
+| vanity | | |
+| vicious | | |
 |  | | |
 
