@@ -2,7 +2,7 @@
 
 This page lists all the words that I looked up from the dictionary while reading the book "School of Life".
 
-| Word | Definition | Turkish |
+| Word | Definition | Türkçe |
 | ---- | ---------- | ------- |
 | aberration | a departure from what is normal, usual, or expected, typically one that is unwelcome. | sapma |
 | ablution | the act of washing oneself | yıkanmak |
@@ -16,17 +16,17 @@ This page lists all the words that I looked up from the dictionary while reading
 | articulate | having or showing the ability to speak fluently and coherently. | ifade |
 | asphyxiote | kill (someone) by depriving them of air. | boğmak |
 | attenuate | reduce the force, effect, or value of. | zayıflatmak |
-| bear to | | |
-| befall | | |
-| belittle | | |
-| benevolent | | |
-| beguiling | | |
-| berate | | |
-| beset | | |
-| blunt | | |
-| blurt out | | |
-| bristle | | |
-| burden | | |
+| bear to | endure | katlanmak |
+| befall | (of something bad) happen to someone. | başına gelmek |
+| belittle | make (someone or something) seem unimportant. | küçümsemek |
+| benevolent | well meaning and kindly. | hayırsever |
+| beguiling | charming or enchanting, often in a deceptive way. | aldatıcı |
+| berate | scold or criticize (someone) angrily. | azarlamak |
+| beset | trouble or threaten persistently | kuşatmak, rahat vermemek |
+| blunt | make or become less sharp. | köreltmek |
+| blurt out | |  patlak vermek|
+| bristle |  | |
+| burden | load | yük |
 | cathartic | | |
 | cede | | |
 | chisele d| | |
