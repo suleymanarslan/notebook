@@ -32,6 +32,8 @@ This page lists all the words that I looked up from the dictionary while reading
 |  | | |
 | benevolent | | |
 |  | | |
+| bequiling | | |
+|  | | |
 | berate | | |
 |  | | |
 | beset | | |
@@ -95,6 +97,8 @@ This page lists all the words that I looked up from the dictionary while reading
 |  | | |
 | divulge | | |
 |  | | |
+| dusk | | |
+|  | | |
 | ebb | | |
 |  | | |
 | eccentric | | |
@@ -122,7 +126,7 @@ This page lists all the words that I looked up from the dictionary while reading
 | extrapolote | | |
 | exuberant | | |
 | evoke | | |
-|  | | |
+| facade | | |
 | facet | | |
 |  | | |
 |  | | |
@@ -174,7 +178,8 @@ This page lists all the words that I looked up from the dictionary while reading
 | indulge | | |
 |  | | |
 | ineluctably | | |
-|  | | |
+| inept | | |
+| infantil | | |
 | intuit | | |
 |  | | |
 | invective | | |
@@ -279,6 +284,8 @@ This page lists all the words that I looked up from the dictionary while reading
 | resolutely | | |
 | ripe | | |
 | reverie | | |
+| revolve | | |
+|  | | |
 | robust | | |
 |  | | |
 |  | | |
@@ -330,7 +337,7 @@ This page lists all the words that I looked up from the dictionary while reading
 | tender | | |
 |  | | |
 | tentetive | | |
-|  | | |
+| tetchy | | |
 | torment | | |
 |  | | |
 |  | | |
@@ -353,7 +360,7 @@ This page lists all the words that I looked up from the dictionary while reading
 | unsatched | | |
 | unwind | | |
 |  | | |
-|  | | |
+| warily | | |
 | wretched | | |
 |  | | |
 |  | | |
