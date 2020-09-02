@@ -4,19 +4,18 @@ This page lists all the words that I looked up from the dictionary while reading
 
 | Word | Definition | Turkish |
 | ---- | ---------- | ------- |
-| aberration | | |
-| ablution | | |
-| abrupt | | |
-| affection | | |
-| agony | | |
-| alleviate | | |
-| allude | | |
-| ambivalent | | |
-| ambivalance | | |
-| amelionate | | |
-| articulate | | |
-| asphyxioted | | |
-| attenuate | | |
+| aberration | a departure from what is normal, usual, or expected, typically one that is unwelcome. | sapma |
+| ablution | the act of washing oneself | yıkanmak |
+| abrupt | sudden and unexpected. | ani |
+| affection | a gentle feeling of fondness or liking. | şefkat |
+| agony | extreme physical or mental suffering. | ızdırap |
+| alleviate | make (suffering, deficiency, or a problem) less severe. | hafifletmek |
+| allude | suggest or call attention to indirectly; hint at. | ima etmek |
+| ambivalent | having mixed feelings or contradictory ideas about something or someone. | kararsız |
+| ameliorate | make (something bad or unsatisfactory) better. | düzeltmek |
+| articulate | having or showing the ability to speak fluently and coherently. | ifade |
+| asphyxiote | kill (someone) by depriving them of air. | boğmak |
+| attenuate | reduce the force, effect, or value of. | zayıflatmak |
 | bear to | | |
 | befall | | |
 | belittle | | |
