@@ -1,6 +1,6 @@
 # Strengths
 
-I got following results from Strengths Finder test by [Gallup](https://gallup.com) in August 2018.
+I got following results from Strengths Finder test by [Gallup](https://gallup.com) in August 2018. In September 2020, I took the same test and [got slightly different results](./strengths-finder-results.pdf).
 
 ## Main Strengths
 
