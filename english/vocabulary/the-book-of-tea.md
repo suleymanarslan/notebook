@@ -5,59 +5,59 @@
 
 | English | Definition | Türkçe |
 | ------- | ---------- | ------ |
-| Behold | | |
-| Conscience | | Vicdan |
-| vanity | | gösteriş |
+| angular |  | açısal |
+| awe |  | saygıyla karışık korku |
+| behold | | |
+| borne |  | taşınan |
+| ceased to be |  | olmaktan çıkmak |
+| communion |  | cemaat |
+| congregate |  | bir araya gelmek |
+| conscience | | Vicdan |
+| conserve |  | |
+| contemplate |  | düşünmek, tasarlamak, niyet etmek |
+| contended |  | mennun |
+| dualism |  | ikilik |
+| epheremal |  | geçici |
+| evanescence |  | kaybolma |
+| expended |  | |
+| forethought |  | sağduyu |
+| garment |  | giysi |
+| gaze upon |  | bakmak |
+| glaze |  | parlatıcı |
+| humility |  | tevazu |
+| hut |  | kulübe |
+| immense |  | engin |
+| impart |  | vermek |
+| intact |  | bozulmamış |
+| lacquer |  | cila |
+| limb |  | uzuv |
 | marvelous |  | |
-| virility |  | |
+| mellowness |  | yumuşaklık |
 | mundane |  | |
 | potent |  | |
-| conserve |  | |
-| forethought |  | sağduyu |
 | profound |  | derin |
-| limb |  | uzuv |
-| contemplate |  | düşünmek, tasarlamak, niyet etmek |
-| expended |  | |
-| borne |  | taşınan |
 | profusely |  | bolca |
-| intact |  | bozulmamış |
-| contended |  | mennun |
-| vainly |  | boşuna |
-| congregate |  | bir araya gelmek |
-| serenity |  | huzur |
-| ceased to be |  | olmaktan çıkmak |
-| mellowness |  | yumuşaklık |
-| sober color |  | ölçülü renk |
-| epheremal |  | geçici |
-| sanitary |  | sıhhi |
-| impart |  | vermek |
-| utterance |  | ifade |
-| hut |  | kulübe |
-| awe |  | saygıyla karışık korku |
-| evanescence |  | kaybolma |
-| vista |  | manzara |
-| vitality |  | canlılık |
-| immense |  | engin |
-| dualism |  | ikilik |
-| garment |  | giysi |
-| trinity |  | üçlü |
-| virility |  | güç, erkeklik |
-| tumultuous |  | çalkantılı |
-| angular |  | açısal |
-| water pitcher |  | sürahi |
-| glaze |  | parlatıcı |
-| tea caddy |  | çay kutusu |
-| humility |  | tevazu |
-| lacquer |  | cila |
-| wrenched |  | bükülmüş |
-| vulgarity |  | kalabalık |
-| sanctuary |  | barınak |
-| vexations |  | sıkıntılar |
 | respite |  | mühlet |
-| gaze upon |  | bakmak |
+| sanctuary |  | barınak |
+| sanitary |  | sıhhi |
+| serenity |  | huzur |
+| sober color |  | ölçülü renk |
 | stand forth |  | öne çıkmak |
 | stifle |  | bastırmak |
+| tea caddy |  | çay kutusu |
+| trinity |  | üçlü |
+| tumultuous |  | çalkantılı |
+| utterance |  | ifade |
+| vainly |  | boşuna |
+| vanity | | gösteriş |
+| vexations |  | sıkıntılar |
+| virility |  | güç, erkeklik |
+| virility |  | |
+| vista |  | manzara |
+| vitality |  | canlılık |
+| vulgarity |  | kalabalık |
+| water pitcher |  | sürahi |
+| wrenched |  | bükülmüş |
 | yearnings |  | özlemler |
-| communion |  | cemaat |
 | concession |  | taviz |
 | cultivate |  | yetiştirmek |
