@@ -1,6 +1,7 @@
 # The School of Life Book Vocabulary
 
-This page lists all the words that I looked up from the dictionary while reading the book "School of Life".
+* Background confidence
+* Inner obstacle
 
 | Word | Definition | Türkçe |
 | ---- | ---------- | ------- |
