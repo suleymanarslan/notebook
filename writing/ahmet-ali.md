@@ -1,5 +1,7 @@
 # Ahmet Ali
 
+*Oct 03, 2013*
+
 Karşılaştığım onca tuhaf olayın hiçbir şey olmamış gibi hayatına devam eden insanların arasından süratle geçip gitmesi normal mi, yoksa Anadolu insanına has bir kabiliyet olabilir mi?
 
 Dünya, absürdlüklerle dolu, tuhaf bir yer.
