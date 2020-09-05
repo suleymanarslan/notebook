@@ -22,6 +22,7 @@
 | /     | Search                     |
 | cd    | Change directory           |
 | 1l    | unzip selected file        |
+| oc    | sort files by date (desc)  |
 
 ## Reload config
 
