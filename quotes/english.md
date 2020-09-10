@@ -7,14 +7,19 @@
   * [Mahatma Gandi](#mahatma-gandhi)
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
-  
-  
+
+> Man will become better when you show him what he is like.
+―  Chekhov
+
+> Know yourself.
+―  Socrates
+
 > People are not disturbed by things, but by the views they take of them.
 ―  Epictetus
-  
+
 > Strength is not born from strength. Strength can be born only from weakness. So be glad of your weaknesses now, they are the beginnings of your strength.
-―  Claire Weekes 
-  
+―  Claire Weekes
+
 > In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.
 ― Ralph Waldo Emerson, Self-Reliance
 
