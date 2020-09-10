@@ -19,21 +19,21 @@
 | attenuate | reduce the force, effect, or value of. | zayıflatmak |
 | bear to | endure | katlanmak |
 | befall | (of something bad) happen to someone. | başına gelmek |
+| beguiling | charming or enchanting, often in a deceptive way. | aldatıcı |
 | belittle | make (someone or something) seem unimportant. | küçümsemek |
 | benevolent | well meaning and kindly. | hayırsever |
-| beguiling | charming or enchanting, often in a deceptive way. | aldatıcı |
 | berate | scold or criticize (someone) angrily. | azarlamak |
 | beset | trouble or threaten persistently | kuşatmak, rahat vermemek |
 | blunt | make or become less sharp. | köreltmek |
 | blurt out | |  patlak vermek|
-| bristle |  | |
+| bristle | to react in an angry or offended manner | kıllanmak |
 | burden | load | yük |
-| cathartic | | |
-| cede | | |
-| chisele d| | |
-| clingy | | |
-| coerce | | |
-| cognizant | | |
+| cathartic | inducing catharsis  | arınmayı teşvik eden |
+| cede | to give up | vazgeçmek, devretmek |
+| chiseled |  | keskin, yontulmuş |
+| clingy | | yapışkan, sarılan |
+| coerce | to pressure, to intimidate | zorlamak, mecbur etmek, baskı yapmak |
+| cognizant | fully informed | bilgili |
 | compromise | | |
 | compulsion | | |
 | concede | | |
