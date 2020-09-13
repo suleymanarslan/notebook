@@ -1,0 +1,10 @@
+# Inner Voice
+
+* The origin of the judge is an internalization of the voices of people who were once outside us. We absorb the tones of contempt and indifference or charity and warmth that we will have heard across our formative years.
+* Sometimes a voice is positive and benign, encouraging us to run those final few yards. But frequently the inner voice is not very nice at all. It is defeatist and punitive, panic-ridden and humiliating. It doesn’t represent anything like our best insights or most mature capacities.
+* A good internal voice is a genuinely decent judge: someone who can separate good from bad but who will always be merciful, fair, accurate in understanding what’s going on, and interested in helping us deal with our problems. It’s not that we should stop judging ourselves; rather that we should learn to be better judges of ourselves.
+* Part of improving how we judge our lives involves learning—in a conscious, deliberate way—to speak to ourselves in a new and different tone, which means exposing ourselves to better voices. We need to hear constructive, kindly voices often enough and around tricky enough issues that they come to feel like normal and natural responses, so that, eventually, they become our own thoughts.
+* We need to become better friends to ourselves. The idea sounds odd, initially, because we naturally imagine a friend as someone else, not as a part of our own mind. But there is value in the concept because of the extent to which we know how to treat our own friends with a sympathy and imagination that we don’t apply to ourselves.
+* The good friend is compassionate. When we fail, as we will, they are understanding and generous around our mishaps. Our folly doesn’t exclude us from the circle of their love.
+* People don’t just sometimes fail. Everyone fails, as a rule; it’s just we seldom know the details.
+* The hopefulness lies in the fact that we already possess the relevant skills of friendship, it’s just that we haven’t as yet directed them to the person who probably needs them most: ourselves.
