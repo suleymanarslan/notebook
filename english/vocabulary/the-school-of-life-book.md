@@ -34,17 +34,17 @@
 | clingy | | yapışkan, sarılan |
 | coerce | to pressure, to intimidate | zorlamak, mecbur etmek, baskı yapmak |
 | cognizant | fully informed | bilgili |
-| compromise | | |
-| compulsion | | |
-| concede | | |
-| contemplate | | |
-| contemporary | | |
-| conundrum | | |
-| coureageous | | |
-| curt | | |
-| decisive | | |
-| degenracy | | |
-| demented | | |
+| compromise | to arrive at a settlement making concessions | uzlaşma |
+| compulsion | the state of being compelled | mecburiyet |
+| concede | to acknowledge | kabul etmek |
+| contemplate | to look at attentively, thoughfully | düşünmek, tasarlamak |
+| contemporary | of about the same age | çağdaş, günümüze ait |
+| conundrum | a difficult problem, a dilemma | muamma |
+| courageous | brave | cesur |
+| curt | rudely brief or abrupt | kaba ve kısa |
+| decisive | settling a matter | belirleyici |
+| degeneracy | the process of degeneration | yozlaşma |
+| demented | insane, mad | deli, çılgın |
 | denunciation | | |
 | denigrate | | |
 | depict | | |
