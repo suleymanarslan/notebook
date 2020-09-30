@@ -4,7 +4,8 @@
 
 * Cocolo Ramen: Good ramen. They got a big restaurant in Kreuzberg, a small one in Mitte.
 * Yumcha Heroes: Good dimsum. Recommended; shangai, shomai.
-* Agora Restaurant: Good Turkish food and calm environment, near Heinrich-Heine-Strasse station.
+* Mercan Restaurant: Turkish home food, near Görlitzer Bahnhof. 
+* Agora Restaurant: Turkish food and calm environment, near Heinrich-Heine-Strasse station.
 
 ## Sandwich / Fast food
 
