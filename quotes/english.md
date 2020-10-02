@@ -172,3 +172,7 @@ From [The Little Prince](https://en.wikipedia.org/wiki/The_Little_Prince)
 ## Omar Khayyám
 
 > Drink wine. This is life eternal. This is all that youth will give you. It is the season for wine, roses and drunken friends. Be happy for this moment. This moment is your life.
+
+## Steve Jobs
+
+> People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
