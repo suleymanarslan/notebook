@@ -8,6 +8,9 @@
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
 
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+― Aristotle
+
 > Man will become better when you show him what he is like.
 ―  Chekhov
 
