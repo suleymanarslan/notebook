@@ -16,6 +16,5 @@
 | Mental "time travel" into past and future | Remaining in the present moment |
 | Depleting activities | Nourishing activities |
 | Sympathetic nervous system dominance (fight, flight, freeze) | Parasympathetic nervous system dominance (rest and digest) |
-| Triggered by the discrepancy-based monitor |
-|
+| Triggered by the discrepancy-based monitor ||
 | "Must, have to, ought to, should..." | |
