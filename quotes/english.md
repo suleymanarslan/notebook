@@ -7,6 +7,12 @@
   * [Mahatma Gandi](#mahatma-gandhi)
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
+  
+> We can say either that we make progress little by little, or that we do not even expect to make progress.
+― Shunryu Suzuki 
+  
+> Until you make the unconscious conscious, it will direct your life and you will call it fate.
+―  C.G. Jung
 
 > We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 ― Aristotle
