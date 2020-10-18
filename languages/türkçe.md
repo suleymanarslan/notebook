@@ -28,6 +28,7 @@
 * **Mütefekkir** Düşünen insan, düşünür, fikir adamı
 * **Rabıta** Bağlayan şey, bağ
 * **Ümmi** Okuyup yazması olmayan
+* **Tebliğ** Bildiri, bildirmek
 * **Tefekkür** Düşünme, düşünüş
 * **Tefrit** Herhangi bir konuda geride kalma, yeterli ölçüde olmama durumu, ifrat karşıtı
 * **Telakki** 1. Anlayış 2. Kabul etme, sayma.
