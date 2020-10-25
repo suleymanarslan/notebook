@@ -5,19 +5,19 @@
 
 | Word | Türkçe |
 | -- | -- |
-| Hollowness | |
-| Bewildered | |
-| Disillusionment | |
-| Interregnum | |
-| Morbid | |
-| Exacerbate | |
+| bewildered | şaşkın |
+| brooding | kara kara düşünmek |
+| cognizant | bilgili, haberdar |
+| combustible | yanıcı |
+| complacency | gönül rahatlığı, memnuniyet |
+| corrosive | aşındırıcı |
 | cri de cœur | cry of heart, yakarış |
-| intransigent | |
-| corrosive | |
-| brooding | |
-| combustible | |
-| complacency | |
-| perpetual | |
+| debilitating | zayıflatıcı |
+| disillusionment | hayal kırıklığı |
+| exacerbate | şiddetlendirmek |
+| hollowness | boşluk |
+| interregnum | ara |
+| intransigent | uzlaşmaz, inat |
+| morbid | hastalıklı |
 | passé | geçmiş |
-| cognizant | |
-| debilitating | |
+| perpetual | sürekli, daimi |
