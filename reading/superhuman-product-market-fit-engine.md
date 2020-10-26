@@ -1,6 +1,6 @@
 # How Superhuman Built an Engine to Find Product/Market Fit
 
-Author: Rahul Vohra
+Author: Rahul Vohra ([Source](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/))
 
 ## Article
 
