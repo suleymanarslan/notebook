@@ -4,6 +4,7 @@
 
 ## Sözler
 
+```
 Ey Zahit Şaraba Eyle İhtiram
 İnsan Ol Cihanda Bu Dünya Fani
 Ehline Helaldir, Na Ehle Haram
@@ -23,3 +24,4 @@ Sen Münkirsin Sana Haramdır Bade
 Bekle Ki İçesin Öbür Dünyada
 Bahs Açma Harabi Bundan Ziyade
 Çünkü Bilmez Haram İle Helali
+```
