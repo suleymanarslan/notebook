@@ -4,6 +4,7 @@ Sivas / Divriği - Mursal Köyü
 
 ## Sözler
 
+```
 Ötme bülbül ötme şen değil bağım
 yâr senin elinden de ben yana yana
 tükendi fitilim eridi yağım
@@ -24,3 +25,4 @@ kırk yıl dağda gezdim geyiklerinen
 yâr senin elinden de ben yana yana
 ya dost ya dost ya dost
 deryadan bölünmüş de sellere döndüm
+```
