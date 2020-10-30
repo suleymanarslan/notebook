@@ -4,6 +4,7 @@
 
 ## Sözler
 
+```
 sen çamlı dağlardan ağaran şafak
 sen duru göllerin nilüferisin
 sen engin ovada sararan başak
@@ -28,3 +29,4 @@ sen bensin gel gör ki ben sen değilim
 sen benim düşüncem ruhum ve dilim
 sen benim gözlerim ayağım elim
 emin ol sen bana benden berisin
+```
