@@ -1,5 +1,11 @@
 ## Türkçe
 
+> Çok cevap veren değil, çok soru soran bilgelik yolundadır.
+— Yılmaz Erdoğan
+
+> Tamamınızı sevin, eksiğinizi kovalayın.
+— Yılmaz Erdoğan
+
 > Hepimiz kendi masallarımızın kurbanıyız.
 — Saatleri Ayarlama Enstitüsü, Ahmet Hamdi Tanpınar
 
