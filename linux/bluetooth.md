@@ -6,6 +6,12 @@ Open up `bluetoothctl` to scan and pair with bluetooth devices.
 $ bluetooth
 ```
 
+List devices:
+
+```
+$ devices
+```
+
 ## Commands
 
 ### power
