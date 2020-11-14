@@ -15,7 +15,7 @@ devices
 To run single command, pass `--`:
 
 ```
-$ bluetoothctl -- devices
+$ bluetoothctl -- info # lists connected devices
 ```
 
 ## Commands
