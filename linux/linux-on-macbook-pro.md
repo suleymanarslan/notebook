@@ -119,3 +119,17 @@ ExecStart=/bin/sh -c "modprobe -r brcmfmac && modprobe brcmfmac && sleep 1 && sy
 [Install]
 WantedBy=suspend.target
 ```
+
+## Camera
+
+
+* Extract firmware file as described in Firmware extraction.
+* Install dependencies: `sudo pacman -S linux-headers git kmod`
+* Clone driver's code: `git clone https://github.com/patjak/bcwc_pcie.git`
+* Step into cloned dir: `cd bcwc_pcie`
+* Build kernel module: `make`
+* Install kernel module: `sudo make install`
+* Run depmod for kernel to be able to find and load it: `sudo depmod`
+* Load kernel module: `sudo modprobe facetimehd`
+* Try it with the application of choice. mpv for example: `sudo pacman -S mpv && mpv tv://`
+
