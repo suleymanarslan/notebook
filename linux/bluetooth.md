@@ -3,7 +3,7 @@
 Open up `bluetoothctl` to scan and pair with bluetooth devices.
 
 ```
-$ bluetooth
+$ bluetoothctl
 ```
 
 List devices:
@@ -66,3 +66,13 @@ Copy the bluetooth address from `scan` output and run:
 ```
 pair 01:02:03:04:05:06
 ```
+
+### connect
+
+Establish connection between two devices:
+
+```
+connect 01:02:03:04:05:06
+```
+
+Run `trust` if necessary.
