@@ -9,7 +9,13 @@ $ bluetoothctl
 List devices:
 
 ```
-$ devices
+devices
+```
+
+To run single command, pass `--`:
+
+```
+$ bluetoothctl -- devices
 ```
 
 ## Commands
