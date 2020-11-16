@@ -11,3 +11,9 @@ $ expac "%n %m" -l'\n' -Q $(pacman -Qq) | sort -rhk 2 | less
 ```bash
 $ pacman -Slq | grep 
 ```
+
+## Downgrade 
+
+```bash
+$ pacman -U /var/cache/pacman/pkg/package-old_version.pkg.tar.type
+```
