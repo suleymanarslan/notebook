@@ -3,7 +3,7 @@
 Debugging:
 
 ```
-pkill -USR2 emacs 
+pkill -USR2 emacs
 ```
 
 ## `eval-expression`
@@ -26,3 +26,7 @@ Shortcut: C-h f
 
 Shortcut: `M-:`
 
+
+## `kill-matching-lines`
+
+Delete the lines matching given regex.
