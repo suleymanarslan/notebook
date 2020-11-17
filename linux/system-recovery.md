@@ -16,6 +16,12 @@ Compare it with installed kernel;
 pacman -Q linux
 ```
 
+Verify `/boot` is mounted correctly;
+
+```
+findmnt -T /boot
+```
+
 Make sure correct partition and a valid kernel img path is specified in the boot entry. I use Refind, so it'll be at ` /boot/refind_linux.conf`;
 
 ```
