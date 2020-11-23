@@ -7,3 +7,4 @@
 * [**Süleyman Aslan**](https://www.instagram.com/suleymanguitars) - Kartal / İstanbul: 0216 353 07 76
 * [**Şevki Usta**](https://www.instagram.com/sevki.usta/) - Beyoğlu / İstanbul
 * [**Remzi Ulutaş**](https://www.youtube.com/watch?v=QkklppqJ-po) - Oftersheim / Almanya: +490 620 259 2080
+* [**Yavuz Doğan**]() - Burdur
