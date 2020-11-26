@@ -1,5 +1,7 @@
 # The School of Life Book Vocabulary
 
+* Small signals of reassurance and affirmation
+* Unconscious assumption
 * Background confidence
 * Inner obstacle
 
