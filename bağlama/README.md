@@ -1,6 +1,8 @@
 # Bağlama
 
-Sahip olduğum kısa bağlamada kullanılan ağaçlar:
+![](./self-portrait.jpg)
+
+Fotoğraftaki bağlamam, [Yavuz Doğan](imalat-ustaları.md) tarafından Burdur'da yapıldı. Kullanılan ağaçlar:
 
 * Tekne: dut
 * Göğüs: ladin
