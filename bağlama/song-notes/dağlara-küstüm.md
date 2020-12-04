@@ -6,5 +6,5 @@
 | la | mi | do | re | si | do | la |
 | v  | v  |  ^ |  v |  ^ | v  | ^  |
 | la | re | si | do | la | si | sol |
-|   |   |   |   |   |   |   |
-| la | mi | do | re | si | do | la |
+|  v | v  | ^  | v  | ^  |  v |   |
+| sol | do | si | si | la | la |  |
