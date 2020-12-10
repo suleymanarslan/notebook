@@ -2,55 +2,57 @@
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
-- [awk](#awk)
-- [convert](#convert)
-- [chroot](#chroot)
-- [column](#column)
-- [date](#date)
-- [df](#df)
-- [dialog](#dialog)
-- [du](#du)
-- [expac](#expac)
-- [fc-list](#fc-list)
-- [fd](#fd)
-- [file](#file)
-- [find](#find)
-- [ffmpeg](#ffmpeg)
-- [grep](#grep)
-- [htop](#htop)
-- [hwclock](#hwclock)
-- [iotop](#iotop)
-- [ip](#ip)
-- [ncdu](#ncdu)
-- [nethogs](#nethogs)
-- [netstat](#netstat)
-- [nl](#nl)
-- [mount](#mount)
-- [pidof](#pidof)
-- [pkill](#pkill)
-- [powertop](#powertop)
-- [printf](#printf)
-- [ps](#ps)
-- [rsync](#rsync)
-- [sd](#sd)
-- [sed](#sed)
-- [setxkbmap](#setxkbmap)
-- [sort](#sort)
-- [uniq](#uniq)
-- [tac](#tac)
-- [tail](#tail)
-- [tee](#tee)
-- [timedatectl](#timedatectl)
-- [tree](#tree)
-- [xargs](#xargs)
-- [xdpyinfo](#xdpyinfo)
-- [xdotool](#xdotool)
-- [xev](#xev)
-- [xprop](#xprop)
-- [ufw](#ufw)
-- [yes](#yes)
-- [youtube-dl](#youtube-dl)
-
+    - [awk](#awk)
+    - [bandwhich](#bandwhich)
+    - [bottom](#bottom)
+    - [convert](#convert)
+    - [chroot](#chroot)
+    - [column](#column)
+    - [date](#date)
+    - [df](#df)
+    - [dialog](#dialog)
+    - [du](#du)
+    - [expac](#expac)
+    - [fc-list](#fc-list)
+    - [fd](#fd)
+    - [file](#file)
+    - [find](#find)
+    - [ffmpeg](#ffmpeg)
+    - [grep](#grep)
+    - [htop](#htop)
+    - [hwclock](#hwclock)
+    - [iotop](#iotop)
+    - [ip](#ip)
+    - [ncdu](#ncdu)
+    - [nethogs](#nethogs)
+    - [netstat](#netstat)
+    - [nl](#nl)
+    - [mount](#mount)
+    - [pidof](#pidof)
+    - [pkill](#pkill)
+    - [powertop](#powertop)
+    - [printf](#printf)
+    - [ps](#ps)
+    - [ripgrep](#ripgrep)
+    - [rsync](#rsync)
+    - [sd](#sd)
+    - [sed](#sed)
+    - [setxkbmap](#setxkbmap)
+    - [sort](#sort)
+    - [uniq](#uniq)
+    - [tac](#tac)
+    - [tail](#tail)
+    - [tee](#tee)
+    - [timedatectl](#timedatectl)
+    - [tree](#tree)
+    - [xargs](#xargs)
+    - [xdpyinfo](#xdpyinfo)
+    - [xdotool](#xdotool)
+    - [xev](#xev)
+    - [xprop](#xprop)
+    - [ufw](#ufw)
+    - [yes](#yes)
+    - [youtube-dl](#youtube-dl)
 <!-- markdown-toc end -->
 
 
@@ -87,6 +89,14 @@ Remove empty lines:
 ```bash
 $ awk 'NF'
 ```
+
+## bandwhich
+
+Network utilization tool: [link](https://github.com/imsnif/bandwhich)
+
+## bottom
+
+graphical system / process monitor. [link](github.com/ClementTsang/bottom)
 
 ## convert
 
@@ -448,6 +458,38 @@ Find out total memory usage of a command;
 
 ```bash
 $ ps -C surfer --no-headers -o pmem | xargs | sed -e 's/ /+/g' | bc
+```
+
+## ripgrep
+
+Recursive regex search tool. Simple search:
+
+```bash
+$ rg fixme
+```
+
+Filter out lines starting with `hey:`:
+
+```bash
+$ foobar | rg '^hey:'
+```
+
+Find words starting with `fast`:
+
+```bash
+$ rg 'fast\w+' README.md
+```
+
+Search only `toml` files:
+
+```bash
+$ rg clap -g '*.toml'
+```
+
+Search anything but `toml` files:
+
+```bash
+$ rg clap -g '!*.toml'
 ```
 
 ## rsync
