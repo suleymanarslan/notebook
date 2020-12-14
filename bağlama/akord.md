@@ -15,7 +15,7 @@ Alt teller:
 
 Orta teller:
 
-* 3. büyük boşluklu perdeden ses al (ekranda çıkan harf ve oktavı not alarak)
+* 3. büyük boşluklu perde & alt telden ses al (ekranda çıkan harf ve oktavı not alarak)
 * Orta telleri alınan seslere uyarla (şu anda C4)
 
 Üst teller:
