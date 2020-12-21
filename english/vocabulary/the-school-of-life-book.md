@@ -4,6 +4,11 @@
 * Unconscious assumption
 * Background confidence
 * Inner obstacle
+* Surface selves
+* Deeper selves
+* Purpose-free calm
+* Excessive demands of immediate
+* Primordial anxiety
 
 | Word | Definition | Türkçe |
 | ---- | ---------- | ------- |
