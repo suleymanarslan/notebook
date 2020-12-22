@@ -159,7 +159,7 @@ tending to cause harm.
 persuade (someone) not to take a particular course of action.
 ```
 
-#### ease 
+#### ease
 
 ```
 noun
@@ -322,7 +322,7 @@ allow oneself to enjoy the pleasure of.
 synonyms:	wallow in, give oneself up to, give way to, yield to, abandon oneself to, give free rein to; More
 ```
 
-#### insidious 
+#### insidious
 
 Proceeding in a gradual, subtle way, but with harmful effects.
 
@@ -481,6 +481,16 @@ an inclination or natural tendency to behave in a particular way.
 
 bitter indignation at having been treated unfairly.
 
+#### resonate
+
+```
+verb
+ 1. produce or be filled with a deep, full, reverberating sound.
+    "the sound of the siren resonated across the harbor"
+ 2. produce electrical or mechanical resonance.
+    "the crystal resonates at 16 MHz"
+```
+
 #### revere
 
 ```
@@ -520,7 +530,7 @@ likely or liable to be influenced or harmed by a particular thing.
 a state or feeling of excited or anxious uncertainty about what may happen.
 ```
 
-#### stick out 
+#### stick out
 
 ```
 be extremely noticeable.

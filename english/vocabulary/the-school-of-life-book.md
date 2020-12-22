@@ -9,6 +9,12 @@
 * Purpose-free calm
 * Excessive demands of immediate
 * Primordial anxiety
+* Domestic management
+* Terror of rejection
+* Impulse driven frontal assaults
+* Subordinate position
+* Surface tension
+* Alarming evidence
 
 | Word | Definition | Türkçe |
 | ---- | ---------- | ------- |
