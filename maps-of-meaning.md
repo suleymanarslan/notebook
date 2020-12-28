@@ -14,5 +14,6 @@
 * If you think of territory as a domain where the fundamental presuppositions of each citizen are matched by the behavior of their co-citizens, people have reason to **defend** their territory.
 * There might be more than one form of truth. **Pragmatic truth** is deeper than scientific truth.
 * Pragmatic truth is the truths that enable you to act in a manner that best, improves the probability -rougly speaking- of your existence and your reproduction maximally.
+* **Chaos** is the place you end up when what you're doing and the world stop matching.
 
 ##
