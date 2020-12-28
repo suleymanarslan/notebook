@@ -15,5 +15,6 @@
 * There might be more than one form of truth. **Pragmatic truth** is deeper than scientific truth.
 * Pragmatic truth is the truths that enable you to act in a manner that best, improves the probability -rougly speaking- of your existence and your reproduction maximally.
 * **Chaos** is the place you end up when what you're doing and the world stop matching.
+* Great dramas are more than real. They are hyperreal.
 
 ##
