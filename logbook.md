@@ -22,6 +22,18 @@
 
 ## 2020
 
+#### November 21
+
+Visited my parents in Turkey for a week.
+
+#### September 17
+
+We had a 5 days trip to Ortisei / Italy. 
+
+#### July 31
+
+Got promoted to CTO position at HiPeople.
+
 #### June 12
 
 I took a 3 days long walking trip to country side. 
@@ -29,6 +41,10 @@ I took a 3 days long walking trip to country side.
 #### February 3
 
 I joined a new startup called HiPeople in Berlin.
+
+#### January 31
+
+Last day at Contentful. 
 
 ## 2019
 
