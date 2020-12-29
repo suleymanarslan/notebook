@@ -17,5 +17,7 @@
 * In most cultures, **music** plays a central role to **identity formation**. As we age, we'll find out that our favorite music that you listened to between the ages of 16 and 20. It defines a generation. Highly likely, in our tribal past, when you were inculcated into tribal culture, it was with dance, masks and music, all at same time. You were invited to take your place in the drama.
 * Is the drama real? **Great dramas** are more than real. They are **hyperreal**; they provide guidelines about how to act. They're abstract, perhaps even generic; applicapable to broad range of situations.
 * **Chaos** is the place you end up when what you're doing and the world stop matching.
+* According to [Paglia](https://en.wikipedia.org/wiki/Camille_Paglia); **articulate knowledge** is embedded in inarticulate knowledge. **Inarticulate knowledge** is domain of art and literature.
+* [Jung](https://en.wikipedia.org/wiki/Carl_Jung) believed that there was this domain we had mastered, and there was domain outside, which you can think of as **unexplored territory**. We try to figure out how to deal with the unexplored territory with our **creative imagination**. We're producing dramas that we could act out that would help us deal with what we still hadn't mastered.
 
 ##
