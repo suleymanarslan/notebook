@@ -25,6 +25,6 @@
 * Real **self-consciousness** is the knowledge of our borders. Not only in space, but in the time.
 * **Chaos** is what you experience when your story falls apart; that's a descent to the underworld. We live in order and chaos. **Order** is where when you do what you think you should do, what you want to have have happen, happens; that's order, explored territory. Chaos is when you do what you're supposed to do to get what you want and it doesn't happen.
 * Next thing is straightforward; **individual** exists in **culture** and culture is embedded in **nature**.
-* Culture is tyrannical because we have to shape yourself, involuntarily even to get along with other people. We sacrifice a lot of ourselves in that endeavor. We have to average ourselves out in order to live together. Some societies are more tyrannical than others, but there is always a tyrannical element.
+* **Culture** is **tyrannical** because we have to shape yourself, involuntarily even to get along with other people. We sacrifice a lot of ourselves in that endeavor. We have to average ourselves out in order to live together. Some societies are more tyrannical than others, but there is always a tyrannical element.
 
 ##
