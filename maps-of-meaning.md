@@ -14,7 +14,8 @@
 * If you think of territory as a domain where the fundamental presuppositions of each citizen are matched by the behavior of their co-citizens, people have reason to **defend** their territory.
 * There might be more than one form of truth. **Pragmatic truth** is deeper than scientific truth.
 * Pragmatic truth is the truths that enable you to act in a manner that best, improves the probability -rougly speaking- of your existence and your reproduction maximally.
+* In most cultures, **music** plays a central role to **identity formation**. As we age, we'll find out that our favorite music that you listened to between the ages of 16 and 20. It defines a generation. Highly likely, in our tribal past, when you were inculcated into tribal culture, it was with dance, masks and music, all at same time. You were invited to take your place in the drama.
+* Is the drama real? **Great dramas** are more than real. They are **hyperreal**; they provide guidelines about how to act. They're abstract, perhaps even generic; applicapable to broad range of situations.
 * **Chaos** is the place you end up when what you're doing and the world stop matching.
-* Great dramas are more than real. They are hyperreal.
 
 ##
