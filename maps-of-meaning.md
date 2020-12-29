@@ -22,5 +22,6 @@
 * [Paglia](https://en.wikipedia.org/wiki/Camille_Paglia)'s idea was that without understanding that **surround**, we're too atomized. We're not part of our **historical tradition**, we haven't incorporated the **spirit of our ancestors** who built all this. We're just here now; we don't know how to maintain our culture and serve it.
 * People ask what the **meaning of life** is. It seems to me that, meaning is proportionate to the **adoption of responsibility**.
 * Noone argues with their **pain**. So we could say, the ultimate reality is pain.
+* Real **self-consciousness** is the knowledge of our borders. Not only in space, but in the time.
 
 ##
