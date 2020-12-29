@@ -19,5 +19,7 @@
 * **Chaos** is the place you end up when what you're doing and the world stop matching.
 * According to [Paglia](https://en.wikipedia.org/wiki/Camille_Paglia); **articulate knowledge** is embedded in inarticulate knowledge. **Inarticulate knowledge** is domain of art and literature.
 * [Jung](https://en.wikipedia.org/wiki/Carl_Jung) believed that there was this domain we had mastered, and there was domain outside, which you can think of as **unexplored territory**. We try to figure out how to deal with the unexplored territory with our **creative imagination**. We're producing dramas that we could act out that would help us deal with what we still hadn't mastered.
+* [Paglia](https://en.wikipedia.org/wiki/Camille_Paglia)'s idea was that without understanding that **surround**, we're too atomized. We're not part of our **historical tradition**, we haven't incorporated the **spirit of our ancestors** who built all this. We're just here now; we don't know how to maintain our culture and serve it.
+* People ask what the meaning of life is. It seems to me that, meaning is proportionate to the adoption of responsibility.
 
 ##
