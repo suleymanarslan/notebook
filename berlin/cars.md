@@ -1,8 +1,8 @@
 # Cars
 
+* Hauptuntersuchung = General Inspection
 
-
-## Health Check
+## Inspection Centers
 
 * [DEKRA](https://www.dekra.de) = 100€
 * TUV = 75€
