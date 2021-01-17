@@ -23,6 +23,11 @@
 
 ## 2021
 
+#### January 17
+
+Kupkuru bir ağacın dalıyım yapayalnız
+Uzaklarda bir yerlerde bir şeyler kök salıyor 
+
 ## 2020
 
 #### November 21
