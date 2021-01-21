@@ -265,6 +265,13 @@ causing distress or depression.
 
 pleasure, especially when gained from the satisfaction of a desire.
 
+#### haywire
+
+```
+adjective
+erratic; out of control.
+```
+
 #### ignite
 
 ```
