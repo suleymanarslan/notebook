@@ -17,6 +17,8 @@
 
 ## Websites:
 
+* [Spotify Design](https://spotify.design/)
+* [State of Design](https://www.abstract.design/state-of-design)
 * [Tobias Ahlin](https://tobiasahlin.com/)
 * [margin](https://margin.love/#/)
 * [base-api](https://www.base-api.io/)
