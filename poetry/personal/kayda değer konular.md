@@ -1,5 +1,6 @@
 # kayda değer konular ([ses kaydı](https://www.youtube.com/watch?v=qVX785ELgYU))
 
+```
 2017
 
 mesela doğurganlık, yaratıcılık, komisyonculuk,
@@ -38,4 +39,4 @@ hiçkimsenin güvenmediği astronotlar
 akvaryum kokusu
 ve aniden yapılan saçma sapan yolculuklarla
 tütmesi gereken ocağı arayanlar.
-
+```
