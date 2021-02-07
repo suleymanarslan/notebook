@@ -1,5 +1,6 @@
 # hakikat, anneannemin elini yıkadığı sabundur
 
+```
 2014
 
 arılar uçar üzerinde
@@ -30,3 +31,4 @@ fırnaz’da kesilmeyen zeytin ağacıdır…
 hakikat, isyancı bi ortadoğu nehridir;
 gözüpek, fakat ağaçlara kıyamayan
 karaburun rüzgarıdır.
+```
