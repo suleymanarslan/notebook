@@ -4,7 +4,7 @@
 onbeşinci yaşıma girdiğim sabah
 bir provokasyonun başlangıcıydı.
 
-çelimsiz vücudumdan fışkıran inanç
+yürümekle meşhur vücudumdan fışkıran inanç
 korkumu bastıran berrak heyecan, heyecandan
 yağmuru taşıyan paltoyu taşımaya mecburdu.
 
