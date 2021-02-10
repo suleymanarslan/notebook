@@ -4,7 +4,7 @@
 
 Due to a failed upgrade or a bad boot entry, wrong kernel version could cause boot failure. In this case, follow these steps;
 
-Check the current kernel: 
+Check the current kernel:
 
 ```
 uname -r
@@ -32,7 +32,7 @@ Using recovery disk, enter into the system and run upgrade again;
 
 ```
 $ mount /dev/sdaX /mnt
-$ chroot /mnt
+$ arch-chroot /mnt
 $ pacman -Syu
 ```
 
